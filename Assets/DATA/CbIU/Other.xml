@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Who the hell are you?" />
+  	<Line ID="1" Text="Someone who’s got wind of your little hacking scheme." />
+  	<Line ID="2" Text="Someone who decided to let you talk a bit before grabbing your sorry ass." />
+  	<Line ID="3" Text="Who I am is not important. I know that you hacked Ashley’s account. Explain, now." />
+  	<Line ID="4" Text="Oh? Could it be that I was discovered? How fascinating. Well, tell me about yourself. You deserve a little bit of my time." />
+	<Line ID="5" Text="Are you not listening? I give you the first and only chance to cooperate, and you’d better believe you need it." />
+	<Line ID="6" Text="Great… another nutjob." />
+	<Line ID="7" Text="But I am cooperating, officer. It’s just that I love learning about people. I like to know their hopes and dreams… before I crush them." />
+	<Line ID="8" Text="Nutjob, you say? Do I contradict your definition of normal? Could you share it with me? I’d like to know more… before I destroy you." />
+	<Line ID="9" Text="I think you’re under a wrong impression here. We got you by the balls. You will be imprisoned before the day runs out." />
+	<Line ID="10" Text="What bad movie did you run away from? Well, doesn’t matter… I’m sure they can put you somewhere you’ll never escape." />
+	<Line ID="11" Text="Oh, no, you will never find me. This chat is just a little extra I allowed to happen. My physical location is out of your reach. You, on the other hand…[pause] are vulnerable. Naked. I will enjoy destroying your life… just like I enjoyed destroying the life of little Ashley." />
+	<Line ID="12" Text="But why? What did she do to you to warrant such a twisted attack?" />
+	<Line ID="13" Text="Care to explain your reasons for that, by the way?" />
+	<Line ID="14" Text="Ah, so you’re one of those people who like things explained, aren't you? You need a reason for everything that happens? Sorry to disappoint, but you won’t find it here. Why, you ask? Because I could." />
+	<Line ID="15" Text="Would you like me to? Do you feel more comfortable when things are explained and make sense? Sorry to disappoint, but this won’t be the case here.[pause] Why did I do it, you ask? Because I could." />
+	<Line ID="16" Text="So you don’t even know her? Never met her?" />
+	<Line ID="17" Text="Sounds like you’re desperately trying to prove something to yourself." />
+	<Line ID="18" Text="Spare me your pretentious drivel. It’s clear you have a petty and stupid reason hidden somewhere deep inside. Freaks like you always have." />
+	<Line ID="19" Text="I don’t need it. Her existence was enough. Her stupid, happy-go-lucky existence in this stupid, happy-go-lucky virtual world… world people built themselves but have no control over.[pause] But I, I have control. I bend your reality to my will. I manipulate your very thoughts. I turn Ash’s dreams into ash.[pause] You gave me this power when you started to live in that world. Is it wrong to use it?" />
+	<Line ID="20" Text="I do nothing of the sort! Her existence is all the proof you need. Her stupid, happy-go-lucky existence in this stupid, happy-go-lucky virtual world… world people built themselves but have no control over.[pause] But I, I have control. I bend your reality to my will. I manipulate your very thoughts. I turn Ash’s dreams into ash.[pause] You gave me this power when you started to live in that world. Is it wrong to use it?" />
+	<Line ID="21" Text="I have nothing of the sort! Her existence was reason enough. Her stupid, happy-go-lucky existence in this stupid, happy-go-lucky virtual world… world people built themselves but have no control over.[pause] But I, I have control. I bend your reality to my will. I manipulate your very thoughts. I turn Ash’s dreams into ash.[pause] You gave me this power when you started to live in that world. Is it wrong to use it?" />
+	<Line ID="22" Text="Do you really have to ask this question? With power comes responsibility… but you’ve failed in that department spectacularly." />
+	<Line ID="23" Text="You’re delusional… and dangerous. A skillful hacker with the mindset of a teenage internet troll. I’m glad this incident will be your last." />
+	<Line ID="24" Text="And here we have our petty reason in all its petty glory. I think I’ve heard enough." />
+	<Line ID="25" Text="No, there was no failure. On the contrary, it was the beginning of a long success. My next target will be you; you’ve earned it fair and square, congratulations![pause] Be ready. Be warned. Fear me." />
+	<Line ID="26" Text="No, my friend, it won’t. I’m just getting started. My next target will be you; you’ve earned it fair and square, congratulations![pause] Be ready. Be warned. Fear me." />
+	<Line ID="27" Text="No, you’re just starting to hear from me. My next target will be you; you’ve earned it fair and square, congratulations![pause] Be ready. Be warned. Fear me." />
+	<Line ID="28" Text="Yeah, yeah. My colleague will be dropping by soon; he will escort you somewhere you belong. That will be all." />
+	<Line ID="29" Text="Whatever… I can see this was a total waste of time. Enjoy your freedom; you have about 2 hours left of it." />
+	
+	<Line ID="40" Text="" />
+	<Line ID="41" Text="(Ask Ashley) And what’s behind these doors?" />
+	<Line ID="42" Text="Clothes. Piles upon piles of them, more than I could possibly wear. Whenever I had free time and some spare money, I’d go shopping.[pause] I wonder why I thought that I actually need so many." />
+	<Line ID="43" Text="Yeah, you and everybody else." />
+	<Line ID="44" Text="I blame capitalism." />
+	<Line ID="45" Text="Well, now you’ve realized it. It wasn’t all in vain." />
+	<Line ID="46" Text="Thanks… still, it was my own choice. It seems unfair to blame anything or anybody else except myself." />
+	<Line ID="47" Text="Thanks… but it seems unfair to blame anything or anybody else except myself." />
+	<Line ID="48" Text="Yeah, I wish I could look at it this way." />
+	<Line ID="49" Text="" />
+	<Line ID="50" Text="(Say to Ashley) Nice tree." />
+	<Line ID="51" Text="(Say to Ashley) Don’t plain bookshelves cut it anymore in this day and age?" />
+	<Line ID="52" Text="Thanks. I might have gone overboard with the decor, though… These bright colors, this tree, this line of photos on the walls – sometimes it feels like they’re all screaming at me.[pause] I wonder if I just wanted to convince myself what a creative and expressive person I am." />
+	<Line ID="53" Text="It seemed like an interesting idea at the time. But yeah, I probably went overboard with the decor… These bright colors, this tree, this line of photos on the walls – sometimes it feels like they’re all screaming at me.[pause] I wonder if I just wanted to convince myself what a creative and expressive person I am." />
+	<Line ID="54" Text="" />
+	<Line ID="55" Text="(Ask Ashley) You play the guitar too?" />
+	<Line ID="56" Text="The guitar and piano, though “play” is much too strong of a word. We got it as a prop for the show, and we had to store it somewhere, but then I thought, as I long as I keep them, I might as well fool around a bit.[pause] It’s silly, really. Every kid wants to play the guitar… and I’m not even a kid anymore." />
+	<Line ID="57" Text="You don’t have to be ashamed of every single thing in your apartment, you know." />
+	<Line ID="58" Text="Yeah, well… if you’re in a mood to question your choices, I won’t stop you." />
+	<Line ID="59" Text="Yeah, sorry. I guess I simply can’t stop questioning everything around me.[pause] Was it real and valid? Or was it just my blissful ignorance that made it look this way?" />
+	<Line ID="60" Text="Sorry… I don’t want to impose on you with my problems any more than I already did. But it’s hard to stop looking around and thinking.[pause] Was any of this real and valid? Or was it just my blissful ignorance that made it look this way?" />
+	<Line ID="61" Text="(Move on)" />
+	<Line ID="62" Text="(Move on)" />
+	<Line ID="63" Text="(Move on)" />
+	<Line ID="64" Text="(Move on)" />
+  </List>
+</Text>

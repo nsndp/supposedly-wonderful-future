@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Root Path="Interface/UI">
+		<Phrase Type="0" Path="Quicksave/Text" Text="Игра сохранена" />
+		<Phrase Type="0" Path="Hint/TextM" Text="Меню (Esc)" />
+		<Phrase Type="0" Path="Hint/TextR" Text="Возврат (Esc / правый клик)" />
+	</Root>
+	<Root Path="Interface/Menu">
+		<Phrase Type="0" Path="Loading" Text="Загрузка..." />
+		<Phrase Type="0" Path="Pause/Options/Option1" Text="Продолжить" />
+		<Phrase Type="0" Path="Pause/Options/Option2" Text="Сохранить" />
+		<Phrase Type="0" Path="Pause/Options/Option3" Text="Загрузить" />
+		<Phrase Type="0" Path="Pause/Options/Option4" Text="Настройки" />
+		<Phrase Type="0" Path="Pause/Options/Option5" Text="Главное меню" />
+		<Phrase Type="0" Path="Pause/Options/Option6" Text="Выйти" />
+		<Phrase Type="0" Path="Pause/ExitConfirm/Text" Text="Несохраненный прогресс будет потерян." />
+		<Phrase Type="0" Path="Pause/ExitConfirm/Text1" Text="Выйти в главное меню?" />
+		<Phrase Type="0" Path="Pause/ExitConfirm/Text2" Text="Закрыть приложение?" />
+		<Phrase Type="0" Path="Pause/ExitConfirm/Yes" Text="Да" />
+		<Phrase Type="0" Path="Pause/ExitConfirm/No" Text="Нет" />
+	</Root>
+	<Root Path="Interface/Menu/SaveLoad" Width="700">
+		<Phrase Type="0" Path="List/Auto" Text="А. Автосохранение" />
+		<Phrase Type="0" Path="List/Quick" Text="Б. Быстрое сохранение" />
+		<Phrase Type="0" Path="NoDetails" Text="Пустой слот" />
+		<Phrase Type="0" Path="Details/Demo" Text="Главы 2-5 не включены в демо-версию" />
+		<Phrase Type="0" Path="Buttons/Save" Text="Сохранить" Scale="0.9" Shift="20" />
+		<Phrase Type="0" Path="Buttons/Load" Text="Загрузить" Scale="0.9" Shift="10" />
+		<Phrase Type="0" Path="Buttons/Rewind" Text="Перемотка" Scale="0.9" Shift="25" />
+		<Phrase Type="0" Path="Buttons/Delete" Text="Удалить" Scale="0.9" Shift="25" />
+		<Phrase Type="0" Path="Buttons/Back" Text="Назад" Scale="0.9" Shift="10" />
+		<Phrase Type="0" Path="PopupOverwrite/Text" Text="Перезаписать существующий файл?" />
+		<Phrase Type="0" Path="PopupOverwrite/Yes" Text="Да" />
+		<Phrase Type="0" Path="PopupOverwrite/No" Text="Нет" />
+		<Phrase Type="0" Path="PopupDelete/Text" Text="Файл будет удален с диска. Продолжить?" />
+		<Phrase Type="0" Path="PopupDelete/Yes" Text="Да" />
+		<Phrase Type="0" Path="PopupDelete/No" Text="Нет" />
+		<Phrase Type="0" Path="PopupInput/Text" Text="Используйте клавиатуру,&#xA;чтобы изменить название файла." />
+		<Phrase Type="0" Path="PopupInput/Confirm" Text="ОК" />
+		<Phrase Type="0" Path="PopupInput/Cancel" Text="Отмена" />
+		<Phrase Type="0" Path="PopupRewind/Text" Text="Выберите точку для загрузки.&#xA;Сохранение останется нетронутым." />
+		<Phrase Type="0" Path="PopupRewind/Confirm" Text="ОК" />
+		<Phrase Type="0" Path="PopupRewind/Cancel" Text="Отмена" />
+		<Phrase Type="1" Path="SaveLoad.pageSTR" Text="Страница [X]" />
+		<Phrase Type="1" Path="SaveLoad.autoSTR" Text="Автосохранение" />
+		<Phrase Type="1" Path="SaveLoad.quickSTR" Text="Быстрое сохранение" />
+		<Phrase Type="1" Path="SaveLoad.defSTR" Text="Новый" />
+		<Phrase Type="1" Path="SaveLoad.chapterSTR.0" Text="Пролог" />
+		<Phrase Type="1" Path="SaveLoad.chapterSTR.1" Text="Глава [X]" />
+		<Phrase Type="1" Path="SaveLoad.locationSTR.0" Text="Офис 2018" />
+		<Phrase Type="1" Path="SaveLoad.locationSTR.1" Text="Слабо освещённый дом" />
+		<Phrase Type="1" Path="SaveLoad.locationSTR.2" Text="Квартира Эшли" />
+		<Phrase Type="1" Path="SaveLoad.locationSTR.3" Text="Подземные лаборатории" />
+		<Phrase Type="1" Path="SaveLoad.locationSTR.4" Text="Уголок воспоминаний" />
+		<Phrase Type="1" Path="SaveLoad.locationSTR.5" Text="Офис гендиректора" />
+		<Phrase Type="1" Path="SaveLoad.locationSTR.6" Text="Штаб-квартира LIFE+" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.0" Text="День 1 - Офис" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.1" Text="День 1 - Дом" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.2" Text="День 1 - Штаб LIFE+" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.3" Text="День 2 - ПпРК" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.4" Text="День 2 - Штаб LIFE+" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.5" Text="День 3 - Поездка на лифте" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.6" Text="День 3 - Штаб LIFE+" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.7" Text="День 4 - Воспоминания" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.8" Text="День 4 - Штаб LIFE+" />
+		<Phrase Type="1" Path="SaveLoad.rewindCP.9" Text="День 5 - Офис директора" />
+	</Root>
+	<Root Path="Interface/Menu/Settings">
+		<Phrase Type="0" Path="Labels1/ResolutionLabel" Text="Разрешение" />
+		<Phrase Type="0" Path="Labels1/DisplayLabel" Text="Полный экран" />
+		<Phrase Type="0" Path="Labels1/MusicLabel" Text="Громкость музыки" />
+		<Phrase Type="0" Path="Labels1/SoundLabel" Text="Громкость звуков" />
+		<Phrase Type="0" Path="Labels1/VideoLabel" Text="Разрешение видео" />
+		<Phrase Type="0" Path="Labels2/LayoutLabel" Text="Размещение диалогов" />
+		<Phrase Type="0" Path="Labels2/FontSizeLabel" Text="Размер шрифта" />
+		<Phrase Type="0" Path="Labels2/AnimationLabel" Text="Анимация текста" />
+		<Phrase Type="0" Path="Labels2/EffectLabel" Text="Эффекты текста" />
+		<Phrase Type="0" Path="Labels2/OverlayLabel" Text="Прозрачность фона" />
+		<Phrase Type="0" Path="Buttons/Save" Text="Сохранить" Shift="-20" />
+		<Phrase Type="0" Path="Buttons/Reset" Text="Сброс" />
+		<Phrase Type="0" Path="Buttons/Back" Text="Назад" />
+		<Phrase Type="0" Path="SaveConfirm" Text="Успешно сохранено." />
+		<Phrase Type="0" Path="PopupResolution/Yes" Text="Да" />
+		<Phrase Type="0" Path="PopupResolution/No" Text="Нет" />
+		<Phrase Type="0" Path="PopupBack" Text="Закрыть без сохранения?" />
+		<Phrase Type="0" Path="PopupBack/Yes" Text="Да" />
+		<Phrase Type="0" Path="PopupBack/No" Text="Нет" />
+		<Phrase Type="0" Path="PopupReset" Text="Восстановить настройки по умолчанию?" />
+		<Phrase Type="0" Path="PopupReset/Yes" Text="Да" />
+		<Phrase Type="0" Path="PopupReset/No" Text="Нет" />
+		<Phrase Type="1" Path="Settings.strDM.0" Text="Нет" />
+		<Phrase Type="1" Path="Settings.strDM.1" Text="Да" />
+		<Phrase Type="1" Path="Settings.strVid.0" Text="Низкое (360p)" />
+		<Phrase Type="1" Path="Settings.strVid.1" Text="Стандарт (720p)" />
+		<Phrase Type="1" Path="Settings.strL.0" Text="Классическое" />
+		<Phrase Type="1" Path="Settings.strL.1" Text="Широкое" />
+		<Phrase Type="1" Path="Settings.strL.2" Text="Боковое" />
+		<Phrase Type="1" Path="Settings.strA.0" Text="Отключено" />
+		<Phrase Type="1" Path="Settings.strA.1" Text="Только ответы" />
+		<Phrase Type="1" Path="Settings.strA.2" Text="Включено" />
+		<Phrase Type="1" Path="Settings.strE.0" Text="Нет" />
+		<Phrase Type="1" Path="Settings.strE.1" Text="Тень" />
+		<Phrase Type="1" Path="Settings.strE.2" Text="Контур" />
+		<Phrase Type="1" Path="Settings.strE.3" Text="Тень и контур" />
+		<Phrase Type="1" Path="Settings.resConfirm" Text="Оставить новое разрешение? [X] сек" />
+		<Phrase Type="1" Path="Settings.descrips.0" Text="Разрешение и режим экрана&#xA;можно изменить только в главном меню." />
+		<Phrase Type="1" Path="Settings.descrips.1" Text="Разрешение и режим экрана&#xA;можно изменить только в главном меню." />
+		<Phrase Type="1" Path="Settings.descrips.4" Text="Регулирует качество проигрываемого видео (главы 3 и 4).&#xA;Попробуйте &quot;Низкое&quot; при проблемах с производительностью." />
+		<Phrase Type="1" Path="Settings.descrips.5" Text="Регулирует относительный размер внутриигрового текста&#xA;(1 - самый маленький, 8 - самый большой)." />
+		<Phrase Type="1" Path="Settings.descrips.6" Text="Изменяет схему размещения текстовых окон. Попробуйте&#xA;&quot;Боковое&quot; для коротких строк или &quot;Широкое&quot; для простора." />
+		<Phrase Type="1" Path="Settings.descrips.7" Text="Регулирует способ и скорость появления&#xA;основного текста и/или вариантов ответа." />
+		<Phrase Type="1" Path="Settings.descrips.8" Text="Добавляет визуальные эффекты для повышения читаемости,&#xA;но может сказаться на производительности." />
+		<Phrase Type="1" Path="Settings.descrips.9" Text="Регулирует прозрачность черного фона вокруг текста.&#xA;Снизьте для дополнительного улучшения читаемости." />
+	</Root>
+	<Root Path="Interface/UI">
+		<Phrase Type="1" Path="UIControl.TitleSTR1.0" Text="ПРОЛОГ" />
+		<Phrase Type="1" Path="UIControl.TitleSTR1.1" Text="ГЛАВА 1" />
+		<Phrase Type="1" Path="UIControl.TitleSTR1.2" Text="ГЛАВА 2" />
+		<Phrase Type="1" Path="UIControl.TitleSTR1.3" Text="ГЛАВА 3" />
+		<Phrase Type="1" Path="UIControl.TitleSTR1.4" Text="ГЛАВА 4" />
+		<Phrase Type="1" Path="UIControl.TitleSTR1.5" Text="ГЛАВА 5" />
+		<Phrase Type="1" Path="UIControl.TitleSTR2.0" Text="Маловероятный посетитель" />
+		<Phrase Type="1" Path="UIControl.TitleSTR2.1" Text="Слабо освещённый дом" />
+		<Phrase Type="1" Path="UIControl.TitleSTR2.2" Text="ПпРК" />
+		<Phrase Type="1" Path="UIControl.TitleSTR2.3" Text="Эксперимент в лифте" />
+		<Phrase Type="1" Path="UIControl.TitleSTR2.4" Text="1440 минут" />
+		<Phrase Type="1" Path="UIControl.TitleSTR2.5" Text="Черная дыра" />
+	</Root>
+</Text>

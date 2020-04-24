@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+	<Line ID="0" Text="Once again you ride a car, but this time the world outside is thankfully solid and unchanging. You notice that all driving is automated, and that the engine’s roar you heard last time is actually almost inaudible.[pause] The LIFE+ employee from yesterday is keeping you company at the front seat, polite as ever but still immune to probing questions.[pause] After twenty minutes of smooth sailing through the sea of metropolis, you exit the vehicle, enter a nearby building, and take the stairs towards your destination." />
+    <Line ID="1" Text="The apartment in question is small but bright and well-kept. Two men are standing nearby – must be the helpers Jackie promised. The girl whose problem you’re supposed to solve is not in sight, but there is another room, through the archway.[pause] Determined to make it a day of proper briefings, you decide to have a chat with both of the men before proceeding to do anything else." />
+	<Line ID="4" Text="The next ten minutes pass in silence, as you watch Shawn utilize his full working speed. His face is getting more and more concentrated until he finally decides to say something aloud." />
+  </List>
+</Text>

@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: a9f3c9bd1e3f2ba479660181b646ac78
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Trim
+    100004: Ceiling
+    100006: Trim2
+    100008: Ceiling2
+    100010: Handle
+    100012: Highlight
+    100014: HighlightA
+    100016: HighlightB
+    100018: ExteriorA
+    100020: ExteriorB1
+    100022: ExteriorB2
+    100024: Exterior1
+    100026: Exterior2
+    100028: Elevator
+    100030: ElevatorExterior
+    100032: DoorL
+    100034: DoorR
+    100036: LightBlocker
+    400000: //RootNode
+    400002: Trim
+    400004: Ceiling
+    400006: Trim2
+    400008: Ceiling2
+    400010: Handle
+    400012: Highlight
+    400014: HighlightA
+    400016: HighlightB
+    400018: ExteriorA
+    400020: ExteriorB1
+    400022: ExteriorB2
+    400024: Exterior1
+    400026: Exterior2
+    400028: Elevator
+    400030: ElevatorExterior
+    400032: DoorL
+    400034: DoorR
+    400036: LightBlocker
+    2300000: Trim
+    2300002: Trim2
+    2300004: Ceiling
+    2300006: Handle
+    2300008: Highlight
+    2300010: HighlightA
+    2300012: HighlightB
+    2300014: ExteriorB2
+    2300016: Exterior2
+    2300018: ElevatorExterior
+    2300020: DoorL
+    2300022: DoorR
+    2300024: //RootNode
+    2300026: LightBlocker
+    3300000: Trim
+    3300002: Trim2
+    3300004: Ceiling
+    3300006: Handle
+    3300008: Highlight
+    3300010: HighlightA
+    3300012: HighlightB
+    3300014: ExteriorB2
+    3300016: Exterior2
+    3300018: ElevatorExterior
+    3300020: DoorL
+    3300022: DoorR
+    3300024: //RootNode
+    3300026: LightBlocker
+    4300000: Elevator
+    4300002: Trim
+    4300004: Ceiling
+    4300006: Trim2
+    4300008: Ceiling2
+    4300010: Handle
+    4300012: Highlight
+    4300014: HighlightB
+    4300016: HighlightA
+    4300018: ExteriorB2
+    4300020: ExteriorB1
+    4300022: ExteriorA
+    4300024: Exterior2
+    4300026: Exterior1
+    4300028: ElevatorExterior
+    4300030: DoorR
+    4300032: DoorL
+    4300034: LightBlocker
+    9500000: //RootNode
+    13700000: //RootNode
+    13700002: Ceiling
+    13700004: Ceiling2
+    13700006: ExteriorA
+    13700008: ExteriorB1
+    13700010: Exterior1
+    13700012: Elevator
+    13700014: Highlight
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

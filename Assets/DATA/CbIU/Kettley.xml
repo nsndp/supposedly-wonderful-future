@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Name’s Kettley. You’re the LIFE+ boy, I assume?" />
+  	<Line ID="1" Text="You assume correct. What have we got here?" />
+  	<Line ID="2" Text="I’m not exactly their boy…" />
+  	<Line ID="3" Text="It is dangerous to assume anything in our line of work, pardner." />
+  	<Line ID="4" Text="No, that would be the other guy. I’m Santa Claus." />
+	<Line ID="5" Text="Sure you are. At least for today. But hey, don’t let the conversation drag on my account." />
+	<Line ID="6" Text="Okay… what are we looking at here?" />
+	<Line ID="7" Text="What line of work?" />
+	<Line ID="8" Text="Detective work, of course. Crimes, investigations, mysteries!" />
+	<Line ID="9" Text="The line of work where people dress like that, apparently." />
+	<Line ID="10" Text="Sorry, just wanted it to sound like a spy movie." />
+	<Line ID="11" Text="Then why did you call me “pardner,” like you’re a cowboy or something?" />
+	<Line ID="12" Text="Then why did you call me “pardner,” like it’s some kind of Western?" />
+	<Line ID="13" Text="Because there is a chaos of references in my head and I have no idea what I'm saying or doing?" />
+	<Line ID="14" Text="I think it’s just a dialect thing. It doesn’t imply anything else." />
+	<Line ID="15" Text="That was a joke, you know." />
+	<Line ID="16" Text="Figured as much." />
+	<Line ID="17" Text="Well, ain’t that fascinating. Cut the history lesson short, will ya?" />
+	<Line ID="18" Text="Of course I know. I just decided not to give you pleasure by acknowledging it." />
+	<Line ID="19" Text="About time you showed up, Mister Claus." />
+	<Line ID="20" Text="That was a joke, you know." />
+	<Line ID="21" Text="I go where I am needed, and I am needed where I go." />
+	<Line ID="22" Text="Don’t flatter yourself." />
+	<Line ID="23" Text="Ouch. Okay, what are we looking at here?" />
+	<Line ID="24" Text="Well, I’m supposed to work together on this case with you and that kid over there, because obviously you need an international committee when somebody’s feelings get hurt.[pause] The “victim” is sitting in the next room, but I’ve got a migraine just by talking to her, so if you want to do all the chatting, be my guest." />
+	
+	<Line ID="30" Text="Back already?" />
+	<Line ID="31" Text="I was hoping for a more detailed description of the crime." />
+	<Line ID="32" Text="And I assume you’re just going to stand here, right?" />
+	<Line ID="33" Text="Who’s the other guy?" />
+	<Line ID="34" Text="Did you know that the girl didn’t really think about suicide? It was just her way of attracting attention." />
+	<Line ID="35" Text="Did you know that one of the suspects is a penguin?" />
+	<Line ID="36" Text="Let’s discuss some non-case-related things." />
+	<Line ID="37" Text="Let’s use a search warrant." />
+	<Line ID="38" Text="Let’s do some more house-searching." />
+	<Line ID="39" Text="I’m ready to name the culprit and close this case." />
+	<Line ID="40" Text="Howdy pardner, what’s a-brewin?" />
+	<Line ID="41" Text="I will return." />
+	<Line ID="42" Text="I’ll probably return." />
+	
+	<Line ID="46" Text="I can hardly wait." />
+	<Line ID="47" Text="Oh please, we talked a moment ago, nothing’s changed." />
+	<Line ID="48" Text="Not much to tell. The girl goes online one day to find all kind of fancy stuff posted under her name.[pause] Then her boss calls and says she’s fired – corporate culture and all that bullshit.[pause] Then she goes all self-pity, blogs about suicidal thoughts, gets noticed, and we find ourselves here." />
+	<Line ID="49" Text="What about the suspects?" />
+	<Line ID="50" Text="Some kind of internet friends. Apparently, one of them had a crush on her, but she just told him to shove off, and right before this thing happened too.[pause] I say you identify this lover and we have our culprit, as simple as that. But you’ll need the other kid to do that; I’m no good with your techy toys." />
+	<Line ID="51" Text="Got nothing better to do at the moment." />
+	<Line ID="52" Text="I bet your boss won’t be happy if you stand your way through the whole thing." />
+	<Line ID="53" Text="Screw my boss. He hasn’t paid me for the last month yet." />
+	<Line ID="54" Text="Labor strikes are next door." />
+	<Line ID="55" Text="All right, smart ass, you win. When you need something real to happen, ask me. I can grab my car, visit one of your suspects and search their place upside down.[pause] You just tell me what’s to look for. If it’s there, I will find it." />
+	<Line ID="56" Text="Cool. Can we just search everyone for everything and be on our way?" />
+	<Line ID="57" Text="What about the arrest?" />
+	<Line ID="58" Text="I wish we could. But I have a limit of two warrants here. Two places to search. Then you fancy kids are on your own in this room." />
+	<Line ID="59" Text="Oh, I can do the honors all right. Tell me who to grab, and then we can all go home. You can choose at random, for all I care. I have real cases to worry about." />
+	<Line ID="60" Text="Another hired help. Says he’s a hacker of some sort. But don’t ask me, ask him. You screen junkies are all the same to me." />
+	<Line ID="61" Text="Yeah, what else is new? I said from the start this whole “case” was a waste of time." />
+	<Line ID="62" Text="You didn’t exactly say that." />
+	<Line ID="63" Text="Didn’t I? I must’ve assumed it was too obvious to state." />
+	
+	<Line ID="70" Text="Oh, don’t tell me we’re best pals now. I have pals like you on every other case, unable to stay silent for more than a minute." />
+	<Line ID="71" Text="Did I mention how I love all this talking?" />
+	<Line ID="72" Text="Do you work for the police?" />
+	<Line ID="73" Text="So, how’s the crime rate these days?" />
+	<Line ID="74" Text="I’m from the past, you know." />
+	<Line ID="75" Text="What’s up with the Mr. Detective attire?" />
+	<Line ID="76" Text="Ever heard of the grumpy cat?" />
+	<Line ID="77" Text="Let’s get back to business. " />
+	<Line ID="78" Text="Some fancy business we have here." />
+	<Line ID="79" Text="Isn’t it obvious?" />
+	<Line ID="80" Text="Well, maybe you’re a private investigator or something." />
+	<Line ID="81" Text="Yeah, maybe I also don’t need money to survive. No, in this place, you either work for the government or you work for corporations.[pause] And considering that I work for the government but still ended up here, you always work for corporations." />
+	<Line ID="82" Text="I’m scraping by." />
+	<Line ID="83" Text="Must be boring to be a crime investigator in a trouble-free world." />
+	<Line ID="84" Text="Must be cool to be a policeman in a police state." />
+	<Line ID="85" Text="Oh, there are troubles all right. Just the stupid kind. With all the illusions of comfort around, people forget what a heavy stone can do to your head." />
+	<Line ID="86" Text="Police state? Don’t make me laugh. Those bureaucrats have no idea how to maintain a regular state; illusion of order is all they’re good for.[pause] People are so into illusions, they forget what a heavy stone can do to your head." />
+	<Line ID="87" Text="I bet some still try to remind them from time to time." />
+	<Line ID="88" Text="Some do. Then I sweep down, grab their asses, throw them in prison and get some food on the table." />
+	<Line ID="89" Text="I bet prisons are also not what they’re used to be." />
+	<Line ID="90" Text="Oh, don’t remind me. It’s like a sect these days, not a prison. They’ll make a serial killer dance around a Christmas tree there." />
+	<Line ID="91" Text="Sounds terrifying." />
+	<Line ID="92" Text="You don’t support rehabilitation?" />
+	<Line ID="93" Text="Because it is." />
+	<Line ID="94" Text="Oh, I support rehabilitation, I don’t support mind control. Why don’t they just invent a fancy techy gizmo and upload a new personality into his head?[pause] I say, if a guy’s crazy, leave him be in a cell. At least he’ll be himself." />
+	<Line ID="95" Text="They say I’m stuck in the past too. Beats solving imaginary crimes, if you ask me." />
+	<Line ID="96" Text="No, I mean I’m literally from the past. I jumped 30 years forward using a time machine yesterday." />
+	<Line ID="97" Text="Yeah, and I had a dinner with the King of England." />
+	<Line ID="98" Text="Oh, how was it?" />
+	<Line ID="99" Text="Damn, someone always has it better." />
+	<Line ID="100" Text="Unappetizing." />
+	<Line ID="101" Text="Deal with it." />
+	<Line ID="102" Text="Sounds like my type of cat." />
+	<Line ID="103" Text="You bet. I think you’re her reincarnation." />
+	<Line ID="104" Text="Is she dead then? Too bad I wasn’t there. I could use a dead cat case instead of this circus." />
+	<Line ID="105" Text="You’re a real charmer." />
+	<Line ID="106" Text="I don’t think her passing was related to any crimes." />
+	<Line ID="107" Text="Thanks." />
+	<Line ID="108" Text="Well, I don’t think our current pastime is related to any crimes, but that doesn’t seem to stop you." />
+	<Line ID="109" Text="It’s practical. People see the coat and the hat, they immediately assume who I am. Saves producing the badge." />
+	
+	<Line ID="120" Text="Wasn’t it a badger?" />
+	<Line ID="121" Text="No, the badger is the suspect’s pet. The suspect herself is a penguin." />
+	<Line ID="122" Text="Ah, okay. Why, you wanna arrest her?" />
+	<Line ID="123" Text="What if I do?" />
+	<Line ID="124" Text="Then you’re out of luck. Animal rights movements will be all over my ass if I make this kind of move." />
+	<Line ID="125" Text="But she’s not really a penguin, is she? She just pretends to be one." />
+	<Line ID="126" Text="Does this mean I can disregard the law and do whatever the hell I want as long as I pretend to be a penguin?" />
+	<Line ID="127" Text="If we can’t arrest her, why include her in a list of suspects at all?" />
+	<Line ID="128" Text="This investigation unit seriously lacks coordination." />
+	<Line ID="129" Text="Aren’t you even a little bit confused about her being a penguin?" />
+	<Line ID="130" Text="Are you guys all messing with me? Three grown-up people in the room and none of you are bothered that we have a penguin suspect?" />
+	<Line ID="131" Text="Fine, change of topic." />
+	<Line ID="132" Text="Tell that to animal rights movements." />
+	<Line ID="133" Text="You can certainly try." />
+	<Line ID="134" Text="You think Shawny boy asked me about that before compiling the list?" />
+	<Line ID="135" Text="Yeah, whatever." />
+	<Line ID="136" Text="No, not really." />
+	<Line ID="137" Text="Look, pal, I can only guarantee you sanity as long as it’s coming from me. If you want sanity from everyone else around here, I recommend forming more realistic expectations." />
+	<Line ID="138" Text="No topic would be preferable." />
+	
+	<Line ID="145" Text="Is the circus over yet?" />
+	<Line ID="146" Text="It’s not a circus. It’s Cyberbullying Investigation Unit." />
+	<Line ID="147" Text="Beats me. I just need to ask more questions." />
+	<Line ID="148" Text="Not even close. There’s still so much to talk about!" />
+	<Line ID="149" Text="No surprise here." />
+	<Line ID="150" Text="Yeah, you’re doing it on purpose, I get it already." />
+	<Line ID="151" Text="Oh, right. What’s next, Jaywalking Rapid Response Team?" />
+	<Line ID="152" Text="And how does one rapidly response to jaywalking? " />
+	<Line ID="153" Text="Hey, that’s a good idea. Maybe they can reassign you permanently." />
+	<Line ID="154" Text="I don’t think the three of us are going rapid any time soon." />
+	<Line ID="155" Text="Agreed." />
+	<Line ID="156" Text="Dunno. By beating the crap out of everyone who looks like they might attempt to jaywalk?" />
+	<Line ID="157" Text="Oh maybe we can create a real case right here. Get your ass kicked, for example." />
+	<Line ID="158" Text="That’s just your solution to everything. " />
+	<Line ID="159" Text="Guilty." />
+	
+	<Line ID="170" Text="Really? I was sure you guys can solve everything just by staring at screens." />
+	<Line ID="171" Text="You sure? No need to do it just to occupy me. I don’t mind standing around." />
+	<Line ID="172" Text="Pay a visit to suspect A for me, please." />
+	<Line ID="173" Text="Pay a visit to suspect B for me, please." />
+	<Line ID="174" Text="Pay a visit to suspect C for me, please." />
+	<Line ID="175" Text="Pay a visit to suspect D for me, please." />
+	<Line ID="176" Text="Actually, let’s wait with that for now." />
+	<Line ID="177" Text="Works for me." />
+	<Line ID="178" Text="All right. What am I looking for?" />
+	<Line ID="179" Text="Anything suspicious." />
+	<Line ID="180" Text="Vague… but I worked with less. Will be back shortly." />
+	<Line ID="181" Text="All right. Guard this spot for me, will ya?" />
+	<Line ID="182" Text="No can do. We ran out of the search warrants." />
+	<Line ID="183" Text="Damn. How am I supposed to identify the culprit now?" />
+	<Line ID="184" Text="Are you sure you can’t keep visiting them, eh, unofficially?" />
+	<Line ID="185" Text="Just pick somebody on random. You’re making it sound too hard." />
+	<Line ID="186" Text="Yeah, I’m sure. Standing here and avoiding any troubles with my boss is a win-win situation for me." />
+		
+	<Line ID="190" Text="…and I’m back." />
+	<Line ID="191" Text="So?" />
+	<Line ID="192" Text="Well, the guy started to get all cocky, so I pushed his face into the floor, tied his hands and then searched the place. Might have broken a thing or two in the process." />
+	<Line ID="193" Text="Who cares about faces and things… did you find anything suspicious?" />
+	<Line ID="194" Text="Nice brainwork, mister investigator." />
+	<Line ID="195" Text="With this particular guy, I doubt anyone could blame you." />
+	<Line ID="196" Text="No. But I found a lot of porn." />
+	<Line ID="197" Text="Thanks. I also found a lot of porn." />
+	<Line ID="198" Text="I also found a lot of porn." />
+	<Line ID="199" Text="You mean, printed? Like, magazines?" />
+	<Line ID="200" Text="Yep. All neatly lined up and ordered, taking a good chunk of the bookshelf. The guy must be a collector." />
+	<Line ID="201" Text="Did you ask him about it?" />
+	<Line ID="202" Text="I don’t think porn would be of any help here." />
+	<Line ID="203" Text="Didn’t have to – the guy started to make excuses the moment he heard me rummaging through it.[pause] Was a bit muffled, though, with his face in the floor and everything… or maybe I just didn’t bother to listen. Something about “underappreciated form of art.”" />
+	<Line ID="204" Text="That does sound like him." />
+	<Line ID="205" Text="Oh, great. What’s next in line to become art, toilet paper?" />
+	<Line ID="206" Text="Good thing we never had a conversation." />
+	<Line ID="207" Text="Probably not, or else it would’ve been stacked up on his bookshelf too." />
+	<Line ID="208" Text="Are you sure? Can’t you just say he’s guilty because he has a lot of porn and call it a day?" />
+	<Line ID="209" Text="Come on, mister detective, that’s a wishful thinking and you know it." />
+	<Line ID="210" Text="Um… I’m pretty sure that’s not how it works." />
+	<Line ID="211" Text="Hey, what’s wrong with a guy collecting porn? Don’t get on high moral ground now." />
+	<Line ID="212" Text="Damn pity." />
+	<Line ID="213" Text="Well, that’s a damn pity." />
+	<Line ID="214" Text="Who said anything about high moral ground? It’s just that his porn was discovered, not mine." />
+	
+	<Line ID="215" Text="Well, that was a pleasant surprise. Maybe today is not a complete waste of time after all." />
+	<Line ID="216" Text="Why, what happened?" />
+	<Line ID="217" Text="Nothing much. Just had a nice conversation with that funny inventor guy from an old movie." />
+	<Line ID="218" Text="That wasn’t the inventor guy. That was a woman dressed like the inventor guy." />
+	<Line ID="219" Text="What could the two of you possibly talk about?" />
+	<Line ID="220" Text="What about the search?" />
+	<Line ID="221" Text="Of course I know that. But the likeness was pretty impressive." />
+	<Line ID="222" Text="What could the two of us possibly talk about? But you keep doing it anyway." />
+	<Line ID="223" Text="Oh, in the end, I decided not to intrude." />
+	<Line ID="224" Text="What?" />
+	<Line ID="225" Text="I mean, sometimes I start to feel guilty about wreaking havoc on nice people’s apartments. Very rarely, but I guess it’s one of those days." />
+	<Line ID="226" Text="You had one job, Kettley." />
+	<Line ID="227" Text="Well, you’re pretty useless… but I guess that’s nothing new." />
+	<Line ID="228" Text="Never thought you have a soft spot for cosplayers." />
+	<Line ID="229" Text="Relax, I’m messing with you. Of course I never feel guilty about it, and I did the search. But if you want something compromising, you’ll have to look elsewhere.[pause] Pretty much every single object in her apartment is dedicated to that strange hobby of hers. Clothes, makeup – you name the trash, she’s got it. But nothing connected to our girl or her show. Nothing I could connect simply by looking, anyway." />
+	<Line ID="230" Text="So there’s nothing we can use?" />
+	<Line ID="231" Text="Afraid not. But hey, that doesn’t mean we can’t arrest her, right? If you want to, just say the word." />
+	
+	<Line ID="232" Text="Well, I turned the place upside down all right." />
+	<Line ID="233" Text="You didn’t have to, you know. You could’ve just looked around." />
+	<Line ID="234" Text="Did the suspect give you any trouble?" />
+	<Line ID="235" Text="And? Find anything worth mentioning?" />
+	<Line ID="236" Text="Of course I had to. “Looking around” is for party invitations. Search warrants are for searching." />
+	<Line ID="237" Text="No, he was just sitting there with a sad defeated look on his face, “I’m guilty” written all over it." />
+	<Line ID="238" Text="Guilty of what, exactly?" />
+	<Line ID="239" Text="It was probably your desire to go home that wrote this." />
+	<Line ID="240" Text="Guilty of something, at least." />
+	<Line ID="241" Text="Eh, maybe." />
+	<Line ID="242" Text="Chicks. Posters of chicks on the wall." />
+	<Line ID="243" Text="What chicks?" />
+	<Line ID="244" Text="Celebrities, probably. Movie stars, fashion models, that kind of stuff. Looked too good to be ordinary chicks.[pause] A cozy set up, all in all, but recent; it was obvious the guy did some redecoration not long ago. So I checked the drawers and found a pile of pictures of our girl. Some were torn apart but taped back together." />
+	<Line ID="245" Text="Are you telling me he had Ashley’s photos hanging on the wall? But then decided to take them off?" />
+	<Line ID="246" Text="Just because he has a pile of Ashley’s pictures doesn’t mean he had them hanging on the wall." />
+	<Line ID="247" Text="And tore a few apart in the process. He admitted it all when I pressed him." />
+	<Line ID="248" Text="True, but it was a decent guess, so I pressed him a bit, and he confirmed it. He also admitted tearing a few of them into pieces." />
+	<Line ID="249" Text="All right…" />
+	<Line ID="250" Text="So? Want me to go back and arrest him?" />
+	<Line ID="251" Text="No, that still doesn’t prove anything." />
+	<Line ID="252" Text="Let me talk with him about it first." />
+	<Line ID="253" Text="Yeah, we might as well just do it." />
+	<Line ID="254" Text="Fine… just tell me if you change your mind." />
+	<Line ID="255" Text="Well, you know where to find me. I’m not planning to move around." />
+	<Line ID="256" Text="Now you’re talking. I’ll be right back." />
+	
+	<Line ID="257" Text="…and I’m back." />
+	<Line ID="258" Text="How was it?" />
+	<Line ID="259" Text="Fishy. The girl was nice, polite and helpful. She’s definitely hiding something." />
+	<Line ID="260" Text="Eh… or maybe she’s just a nice person?" />
+	<Line ID="261" Text="Did you find out what?" />
+	<Line ID="262" Text="Nice to a guy who’s turning her furniture upside down? No, there must something else going on." />
+	<Line ID="263" Text="Hard to say. Her place is ordinary, but her desk is a mess, full of hand-written notes lying around; pretty old-school. I didn’t know which ones are relevant, so I took it all with me." />
+	<Line ID="264" Text="You confiscated her notes?" />
+	<Line ID="265" Text="What? You just cleared out her desk and brought everything here?" />
+	<Line ID="266" Text="Yep." />
+	<Line ID="267" Text="Pretty much." />
+	<Line ID="268" Text="Are you even allowed to do that?" />
+	<Line ID="269" Text="What am I supposed to do with them?" />
+	<Line ID="270" Text="Thanks, I guess." />
+	<Line ID="271" Text="Eh, probably? I think the warrant covers that. Didn’t bother to check, though." />
+	<Line ID="272" Text="How do I know? Read them, or give them to Shawny boy. He enjoys sifting through this stuff." />
+	<Line ID="273" Text="You’re welcome." />
+	
+	<Line ID="290" Text="About time. Who’s the lucky guy?" />
+	<Line ID="291" Text="Arrest suspect A for me, please." />
+	<Line ID="292" Text="Arrest suspect B for me, please." />
+	<Line ID="293" Text="Arrest suspect C for me, please." />
+	<Line ID="294" Text="Arrest suspect D for me, please." />
+	<Line ID="295" Text="On second thought, we need more investigating." />
+	<Line ID="296" Text="You got it." />
+	<Line ID="297" Text="Figures." />
+	<Line ID="299" Text="…and it’s done." />
+	<Line ID="300" Text="Any complications?" />
+	<Line ID="301" Text="Nothing I couldn’t handle. He tried to resist, but I quickly stopped that, so he decided to be all arrogant and derisive instead." />
+	<Line ID="302" Text="I imagine that didn’t bother you either." />
+	<Line ID="303" Text="I’m sure his attitude won’t last." />
+	<Line ID="304" Text="Exactly. I’m just glad my part here is done." />
+	<Line ID="305" Text="Whatever you say. My part here is done." />
+	<Line ID="306" Text="Eh, not really. She made her eyes bulge and called me a Libyan nationalist, but otherwise was pretty harmless." />
+	<Line ID="307" Text="At least she’s funny… but I did what I had to." />
+	<Line ID="308" Text="Still sticking to her stupid games? I’m sure that won’t last." />
+	<Line ID="309" Text="Whatever you say. My part here is done." />
+	<Line ID="310" Text="Nope. He surrendered himself to the cruel fate… at least that’s the kind of nonsense he was mumbling as I grabbed him." />
+	<Line ID="311" Text="Poor guy… but I did what I had to." />
+	<Line ID="312" Text="If he wants pity, he won’t find it." />
+	<Line ID="313" Text="Well, his mumbling is somebody else’s concern now." />
+	<Line ID="314" Text="Whatever you say. My part here is done." />
+	<Line ID="315" Text="Agreed. Our part here is done." />
+	<Line ID="316" Text="None. She gave me a disapproving look and then proceeded to be all cooperative and helpful. Probably thinks she can still talk her way out of it." />
+	<Line ID="317" Text="She won’t." />
+	<Line ID="318" Text="I think that’s just the way she is." />
+	<Line ID="319" Text="Well, that’s really none of our concern." />
+	<Line ID="320" Text="Whatever you say. My part here is done." />
+	<Line ID="321" Text="Agreed. Our part here is done." />
+	<Line ID="322" Text="Thanks, Kettley." />
+	<Line ID="323" Text="Something to be excited about, at least." />
+	<Line ID="324" Text="You’re welcome." />
+	<Line ID="325" Text="Exactly." />
+	
+	<Line ID="330" Text="You people sound way too excited." />
+	<Line ID="331" Text="You will be too – once I say that we have identified out target." />
+	<Line ID="332" Text="Did you hear the whole thing then? Can I count on you to do the apprehension?" />
+	<Line ID="333" Text="That does sound appealing. Who’s the lucky guy?" />
+	<Line ID="334" Text="Somebody who really needs to be locked up." />
+	<Line ID="335" Text="A nutcase who messes with people just for the heck of it." />
+	<Line ID="336" Text="Just tell me where to go." />
+	<Line ID="337" Text="Sounds like my type of customer. Just tell me where to go." />
+	<Line ID="338" Text="Not the whole thing, but sure. Just tell me where to go." />
+	<Line ID="339" Text="Shawn will give you the address and show the culprit’s profile." />
+	<Line ID="340" Text="Got it." />
+	<Line ID="341" Text="Just keep it civilized, all right? No sense being rough just because we can." />
+	<Line ID="342" Text="Oh, and while you’re there, feel free to kick his butt. Nobody’s gonna regret it." />
+	<Line ID="343" Text="That’s what they always tell me – without much result. I’ll be right back." />
+	<Line ID="344" Text="Well, ain’t it a pleasant surprise to hear you talking my language. I’ll be right back." />
+	<Line ID="346" Text="…and it’s done." />
+	<Line ID="347" Text="How did it go?" />
+	<Line ID="348" Text="Pretty smooth. I don’t think he was expecting me. Got a little paralyzed from surprise… tends to happen sometimes." />
+	<Line ID="349" Text="That’s good. Thanks, Kettley." />
+	<Line ID="350" Text="You’re welcome." />
+		
+	<Line ID="360" Text="Is there more talking to do? I thought we wrapped this up." />
+	<Line ID="361" Text="Oh, my dear Kettley, you have no idea what kind of devilish crime we’ve just solved." />
+	<Line ID="362" Text="Nah, we’re pretty much done here. Just wanted to say goodbye and stuff. I’d explain what’s really happened, but you’re probably not interested." />
+	<Line ID="363" Text="Just hold on a little longer, I need to check something else first." />
+	<Line ID="364" Text="Enlighten me. I’ll risk it." />
+	<Line ID="365" Text="Well, this guy you wrangled up – he is anything but a common bully. He’s a top-class hacker, and he knew exactly where to strike to make it hurt. He even impersonated dozens of people at once, all to put Ashley into disarray. He’s like a malicious stage magician, setting up illusions to convince you you’re out of your mind. You’d like it if it wasn’t so online-centric." />
+	<Line ID="366" Text="Nah, I’d rather leave evil masterminds to guys like you. My forte is simple domestic violence." />
+	<Line ID="367" Text="Well, I guess it’s time to go. Thanks for your help, Kettley." />
+	<Line ID="368" Text="Well, I’d better go. Take care, old-timer." />
+	<Line ID="369" Text="No problem. And, listen, if your corporate bosses assign you a real case sometime… well, you probably know where to find me. I can give you a hand." />
+	<Line ID="370" Text="I will. And, listen, if your corporate bosses assign you a real case sometime… well, you probably know where to find me. I can give you a hand." />
+	<Line ID="371" Text="Wow. Thanks, Kettley." />
+	<Line ID="372" Text="Wait, does that mean you actually enjoyed working with me?" />
+	<Line ID="373" Text="Yeah, sure." />
+	<Line ID="374" Text="Eh, could’ve been worse. At least you got to the bottom of it, and that’s the thing I can respect, regardless of the case." />
+		
+	<Line ID="380" Text="Is there more talking to do? I thought we wrapped this up." />
+	<Line ID="381" Text="Aren’t you a little bit interested in what’s happened? The motive, the reasoning behind it all?" />
+	<Line ID="382" Text="Nah, we’re pretty much done here. Just wanted to say goodbye and stuff." />
+	<Line ID="383" Text="I’ll be back in a moment." />
+	<Line ID="384" Text="Nope." />
+	<Line ID="385" Text="Figures. Well, I’m out of here." />
+	<Line ID="386" Text="Now that’s a wise decision. I’ll do the same, if you don’t mind." />
+	<Line ID="387" Text="Ah, come on!" />
+	<Line ID="388" Text="Look, you made the choice, right? That’s all there was to it. Bring in a big corporate guy so he can point a finger at somebody, then call it a job well done." />
+	<Line ID="389" Text="So you do care." />
+	<Line ID="390" Text="What’s wrong with that?" />
+	<Line ID="391" Text="I don’t like it too, but…" />
+	<Line ID="392" Text="That’s not caring – that’s stating the facts. You did what was expected. I did what was expected. Now let’s just carry on with our lives." />
+	<Line ID="393" Text="I didn’t say it’s wrong – I just stated the facts. You did what was expected. I did what was expected. Now let’s just carry on with our lives." />
+	<Line ID="394" Text="You don’t have to like it. You don’t need to get emotionally attached at all. You did what was expected. I did what was expected. Now let’s just carry on with our lives." />
+	<Line ID="395" Text="Yeah… that’s a pretty good advice." />
+	<Line ID="396" Text="I plan to do just that." />
+	<Line ID="397" Text="If you say so. Now let’s get out of here already." />
+	<Line ID="398" Text="And so do I. Now let’s get out of here already." />
+	<Line ID="399" Text="No need. I’m all right with simply going home." />
+	<Line ID="400" Text="Still, thanks for your help, Kettley." />
+	<Line ID="401" Text="I had a feeling you’d say that." />
+	<Line ID="402" Text="No problem." />
+	<Line ID="403" Text="See, you’ve started to pick up obvious things. Maybe you have a shot at being a detective." />
+	<Line ID="404" Text="Right, I’ll pretend this was a compliment. Take care, old-timer." />
+	<Line ID="405" Text="I will." />
+  </List>
+</Text>

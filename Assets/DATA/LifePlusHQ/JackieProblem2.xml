@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Good morning, Michael. How was your night?" />
+	<Line ID="1" Text="All right, I guess… all things considered." />
+	<Line ID="2" Text="Better than my day." />
+	<Line ID="3" Text="How could it be? Sleeping was hardly realistic." />
+	<Line ID="4" Text="Well, I hope the good tendency continues today. Ready for the next problem?" />
+	<Line ID="5" Text="Well, if it is of any consolation, today’s job shouldn’t be so emotionally taxing… at least that’s what I expect." />
+	<Line ID="6" Text="Does it mean I get a proper briefing this time?" />
+	<Line ID="7" Text="Actually, I myself just wanted to say a few words. But you get two helpers on the scene today, so any questions you might have will definitely be answered.[clear]Right now, in an apartment not so far from here, there is a young woman who lost her job because of a very unpleasant incident online. She took it bad… bad enough to start having suicidal thoughts.[pause] That incident wouldn’t have happened if it wasn’t for a certain manipulative bully. Your task will be to figure out who that bully was." />
+	<Line ID="8" Text="What kind of incident?" />
+	<Line ID="9" Text="Having thoughts? Did she call a hotline or something?" />
+	<Line ID="10" Text="Does she even want your help? She didn’t ask for it – she just blogged about her thoughts." />
+	<Line ID="11" Text="Tell me more about this monitoring system." />
+	<Line ID="12" Text="How am I supposed to do it?" />
+	<Line ID="13" Text="I see. Is it time to start?" />
+	<Line ID="14" Text="Impersonation. Somebody managed to really damage her relationships with others by pretending to be her online. Our tech specialist will fill you in on why and how exactly that happened." />
+	<Line ID="15" Text="No, but she blogged about it, and we search for this kind of things." />
+	<Line ID="16" Text="You search for suicide-related posts?" />
+	<Line ID="17" Text="Yes. We have an automated system that takes all recent public messages, from blogs or otherwise, and analyzes them for keywords, phrasing, speech patterns to determine whether the author might be in any kind of danger, including the danger from heavy depression and suicidal thoughts.[pause] Then it sends us notifications, and we react. Send someone to help." />
+	<Line ID="18" Text="That’s pretty cool." />
+	<Line ID="19" Text="Sounds kinda creepy." />
+	<Line ID="20" Text="What a nice piece of mass surveillance." />
+	<Line ID="21" Text="Thank you. I certainly feel that this is a good use of our resources." />
+	<Line ID="22" Text="Why? We don’t violate people’s privacy, or any other right.[pause] The data is already public, posted by its creators for everyone to see – we just sift through it with a specialized algorithm. It’s no different from a search engine, really." />
+	<Line ID="23" Text="Do you attach a negative connotation to these words? Because we don’t violate people’s privacy or any other rights, you know.[pause] The data is already public, posted by its creators for everyone to see – we just sift through it with a specialized algorithm. It’s no different from a search engine, really." />
+	<Line ID="24" Text="Well, she didn’t drive us away when we showed up on her doorstep either. I think it’s safe to assume that she wouldn’t mind if we try, at the very least." />
+	<Line ID="25" Text="If you’re interested, sure." />
+	<Line ID="26" Text="What about people who don’t leave suicide notes? Or those who leave them but on a simple piece of paper?" />
+	<Line ID="27" Text="What if it’s already too late? Some might do it immediately after leaving a post. Some might even queue their message to post after it is done." />
+	<Line ID="28" Text="Don’t you worry about false alerts? Arriving just to find someone fooling around?" />
+	<Line ID="29" Text="Do you even have enough computational power? The amount of new data appearing online every single second was staggering even back in my time." />
+	<Line ID="30" Text="Sounds like a job for the government or a non-profit. Why would a corporation do something like this?" />
+	<Line ID="31" Text="Okay, I get the picture." />
+	<Line ID="32" Text="Them we can’t help, unfortunately. But a lot of them do, and many choose to be public about it. When you are talking to everyone yet nobody in particular… there’s a strange comfort in that." />
+	<Line ID="33" Text="Yes, that’s possible, and that happens from time to time. Still, we have to always hope for the best and send someone as quickly as we can." />
+	<Line ID="34" Text="It’s still worth it. These are people’s lives we are talking about. If it means some resources get wasted along the way, so be it." />
+	<Line ID="35" Text="We do, that’s what makes it all possible. We’ve been able to wrestle with sheer volume of stuff in this world for quite some time, and that alone led to a number of wonderful things." />
+	<Line ID="36" Text="Well, we are the best-equipped group for the job… which also makes us responsible to see it through, I think." />
+	<Line ID="37" Text="It’d be interesting to hear your thoughts on the topic after you finish with the problem. After all, cases like this are the main way to see how effective or ineffective this system is." />
+	<Line ID="38" Text="Make a little investigation." />
+	<Line ID="39" Text="Playing detective? I like it." />
+	<Line ID="40" Text="Won’t you rather get a professional investigator for that?" />
+	<Line ID="41" Text="Another job I am not qualified to do, then." />
+	<Line ID="42" Text="Well, as long as you take it seriously, feel free to enjoy it.[pause] The guys on the scene will take care of technical stuff; you’ll just have to use your rational thinking and your better judgment." />
+	<Line ID="43" Text="Don’t worry, the guys on the scene are qualified to take care of occupation-specific stuff; in fact, one of them is a professional investigator.[pause] You’ll just have to use your rational thinking and your better judgment to tie it all together." />
+	<Line ID="44" Text="Don’t worry, the guys on the scene will take care of occupation-specific stuff; you’ll just have to use your rational thinking and your better judgment.[pause] I did say that every problem will be perfectly solvable by a man of your skills, and I stand by that." />
+	<Line ID="45" Text="Yeah, everything is ready on our end. Let’s go, I’ll take you downstairs. Your ride is waiting." />
+	
+	<Line ID="60" Text="Welcome back. Sounds like you’ve managed to solve the case." />
+	<Line ID="61" Text="I don’t know… I’m not sure if I’ve made the right choice." />
+	<Line ID="62" Text="Yes, I did. I work better when I’m the one playing mind games, not when they are played on me." />
+	<Line ID="63" Text="If you say so. Not sure I really care for the whole thing." />
+	<Line ID="64" Text="Well, I agree with Shawn – you did everything one could expect in this situation." />
+	<Line ID="65" Text="That’s an interesting comparison with yesterday’s problem. I’m glad you’ve been feeling more comfortable today." />
+	<Line ID="66" Text="Yeah, that’s fine. You are not required to get excited about every single situation we throw at you." />
+	<Line ID="67" Text="Welcome back. Sounds like there was more to this story than we initially thought, wasn’t it?" />
+	
+	<Line ID="70" Text="But, naturally, you had no idea about that." />
+	<Line ID="71" Text="But, naturally, you had no idea it’d turn out like this." />
+	<Line ID="72" Text="Have you been watching my every step through cameras again?" />
+	<Line ID="73" Text="What happens with the culprit?" />
+	<Line ID="74" Text="What happens with the hacker?" />
+	<Line ID="75" Text="And what about Ashley?" />
+	<Line ID="76" Text="So, does this ends the second problem?" />
+	<Line ID="77" Text="So, does this ends the second problem? Are you satisfied with my work?" />
+	
+	<Line ID="80" Text="Please, you seriously overestimate my powers. I might have prepared a few surprises in other problems, but I can’t pull this stuff out of a hat.[pause] Hacking is indeed a rare occurrence nowadays, let alone impersonation of dozens of different people at once. I was just as surprised as others when it turned into a high-profile hacking case." />
+	<Line ID="81" Text="Well, I wasn’t. It looked like you guys just ignored a viable explanation, and then it came back to bite you." />
+	<Line ID="82" Text="Still, you had your own hacker on the scene to track the guy down, and you also had a brute that can apprehend dangerous people. Sounds too convenient." />
+	<Line ID="83" Text="But that’s exactly why your involvement was so important, right? Free from the same logical fallacy, you looked more closely in the right place, and it worked." />
+	<Line ID="84" Text="That’s called “being on the safe side.” And of course I’d want you to remain on the safe side; you’re the center of the company’s most important project right now." />
+	<Line ID="85" Text="No, but Shawn and Kettley told me enough to get the picture." />
+	<Line ID="86" Text="Kettley as well?" />
+	<Line ID="87" Text="Of course. Personally, I think Kettley’s involvement was much more important. You can probably guess why." />
+	<Line ID="88" Text="Oh, right. Your “outsider’s perspective” thing." />
+	<Line ID="89" Text="I’d rather not." />
+	<Line ID="90" Text="Exactly." />
+	<Line ID="91" Text="I’m sure you already did, though." />
+	<Line ID="92" Text="I suppose everyone’s got their quirks." />
+	<Line ID="93" Text="Sounds like a confirmation bias to me." />
+	<Line ID="94" Text="I must say though, it’s admirable that you’re not only okay with different opinions but actually want them." />
+	<Line ID="95" Text="Yeah, I suppose so." />
+	<Line ID="96" Text="Maybe it is. But what can I do? I’m just a human, and humans are way too good with patterns." />
+	<Line ID="97" Text="Thank you. That is exactly how I try to approach it." />
+	
+	<Line ID="99" Text="We’ll try to talk her into confession, but otherwise… nothing. I trust your judgment completely, but we can’t take any serious legal action yet, as there’s no hard evidence.[pause] I guess we’ll need to use more resources and try to rectify it, but that comes later. This week, our project is a clear priority." />
+	<Line ID="100" Text="We’ll try to talk him into confession, but otherwise… nothing. I trust your judgment completely, but we can’t take any serious legal action yet, as there’s no hard evidence.[pause] I guess we’ll need to use more resources and try to rectify it, but that comes later. This week, our project is a clear priority." />
+	<Line ID="101" Text="He gets a fair trial and a good lawyer. The charges are serious and, if he is proven guilty, involve several years in prison." />
+	<Line ID="102" Text="Scary." />
+	<Line ID="103" Text="Serves him right." />
+	<Line ID="104" Text="I think a mental institution might be more appropriate." />
+	<Line ID="105" Text="Well, he deliberately tried to destroy another person’s mental and financial well-being; there’s no going around that. Would you play it differently?" />
+	<Line ID="106" Text="I mean, there was no lasting damage in the end." />
+	<Line ID="107" Text="It’s still just the internet. You shouldn’t take it so seriously." />
+	<Line ID="108" Text="No, not at all. When a person talks this way, something definitely needs to be done." />
+	<Line ID="109" Text="I think a mental institution might be more appropriate." />
+	<Line ID="110" Text="I’m really in no position to decide that." />
+	<Line ID="111" Text="It doesn’t matter. A murder attempt is still a murder attempt, even if a victim survives." />
+	<Line ID="112" Text="It’s never “just the internet.” It’s been playing a far too important role for too long to be treated as a separate part of our lives anymore.[pause] That was kinda the point of the entire problem… at least I thought this way." />
+	<Line ID="113" Text="Yeah, that’s one way to put it." />
+	<Line ID="114" Text="I like how careful you are in your judgments. That’s a good habit." />
+	<Line ID="115" Text="I mean, he deliberately tried to destroy another person’s mental and financial well-being; there’s no going around that. Do you agree that’s how we should play it?" />
+	<Line ID="116" Text="For sure. When a person talks this way, something definitely needs to be done." />
+	<Line ID="117" Text="I assume there’s no chance of capital punishment?" />
+	<Line ID="118" Text="You assume correct, even if it was something much more serious. Every person is a product of their environment… we can’t just kill off the malfunctioned parts.[pause] But I’m pushing the scope of our conversation here, sorry." />
+	<Line ID="119" Text="Oh, they provide pretty good mental help there nowadays. Every serious lawbreaker has something broken inside them and can benefit from a bit of healing." />
+	<Line ID="120" Text="Yeah, Kettley mentioned that prisons aren’t what they’re used to be." />
+	<Line ID="121" Text="That sounds like a wise way to handle it… theoretically." />
+	<Line ID="122" Text="Provided that the healing is adequate, of course." />
+	<Line ID="123" Text="Must be very convenient to spread conformity under the banner of “healing.”" />
+	<Line ID="124" Text="I’d say that a good thing." />
+	<Line ID="125" Text="It’s not without problems, of course, but it’s a good step forward compared to the “lock up and forget” policies of the old." />
+	<Line ID="126" Text="Our doctors and scientists are trying their best. It’s a delicate area, of course, and it’s not without problems, but it’s been getting steadily better for quite some time now." />
+	<Line ID="127" Text="It’s not as intrusive as it might sound, believe me. They try to convince convicts in the benefits of healing, sure, but they never shove it down their throats." />
+	
+	<Line ID="130" Text="We will continue to provide her help, just like Shawn said, even if she didn’t really have suicidal thoughts." />
+	<Line ID="131" Text="Actually, I think she did… she just never acknowledged it to herself." />
+	<Line ID="132" Text="But it turned out to be a false alarm. Why still spend resources?" />
+	<Line ID="133" Text="And you’re okay with it? She basically manipulated you by making it look more drastic than it was." />
+	<Line ID="134" Text="Really? And what makes you say that?" />
+	<Line ID="135" Text="She seemed so calm in her defeated state… like she admitted for a fact that she’s a failure and there's nothing to be done about it. I’m no expert, but it looks like a fitting condition to suddenly wave your hand and say goodbye to everything." />
+	<Line ID="136" Text="I see… well, that makes our involvement even more important. And thank you… for being such an attentive and empathic observer. Seriously." />
+	<Line ID="137" Text="Because it’s better than stopping halfway through. Suicidal thoughts or not, she was shaken pretty badly by the incident. And mental disturbances don’t disappear the moment their cause is removed." />
+	<Line ID="138" Text="I wouldn’t call it “manipulation”… taking advantage, perhaps. But like I said to you this morning, it’s still worth it. These are people’s lives we are talking about.[pause] Besides, with this turning into a hacking case, I don’t think anyone can complain it was in vain." />
+	<Line ID="139" Text="I wouldn’t call it “manipulation”… taking advantage, perhaps. But it’s still worth it. These are people’s lives we are talking about.[pause] Besides, with this turning into a hacking case, I don’t think anyone can complain it was in vain." />
+	<Line ID="140" Text="I wouldn’t call it “manipulation”… taking advantage, perhaps. But like I said to you this morning, it’s still worth it. These are people’s lives we are talking about." />
+	<Line ID="141" Text="I wouldn’t call it “manipulation”… taking advantage, perhaps. But it’s still worth it. These are people’s lives we are talking about." />
+
+	<Line ID="150" Text="Yes! And I thank you for your work today. However you might feel about it, I honestly think it works, and I’m grateful that you agreed to our offer and made this project a reality.[pause] I do have a last question, though." />
+	<Line ID="151" Text="Yes! And I thank you for everything you did today. However you might feel about it, I honestly think it works, and I’m grateful that you agreed to our offer and made this project a reality.[pause] I do have a last question, though." />
+	<Line ID="152" Text="Shoot." />
+	<Line ID="153" Text="Well, if it's the last one…" />
+	<Line ID="154" Text="You’ve learned that we monitor everything people write online, trying to help those in need, even if they don’t ask to. You’ve seen the biggest corporation in the world launch a full-out investigation because a young girl wrote a sad blog post.[pause] Do you think it’s… right? Should we pay so much attention to people’s psychological conditions?[pause] Can we build a better and happier society this way? Or are we just wasting precious time and resources on insignificant emotions?" />
+	<Line ID="155" Text="There are no insignificant emotions. Every tear is a waterfall." />
+	<Line ID="156" Text="That’s not something that can have a clear-cut answer, I’m afraid. Helping is good. Telling people how they should feel is bad. The border is blurry." />
+	<Line ID="157" Text="I believe you are. Modern society is over-pampered, even back in my time. You should allow people to sort their own stuff out. That’s what life is all about." />
+	<Line ID="158" Text="That’s exactly how I feel as well. Thank you for saying it…[pause] and with this, I think it’s time to wrap up for today. Let’s try to relax for the rest of the evening, and we’ll carry on tomorrow. Have a good night." />
+	<Line ID="159" Text="Yeah, I suppose you’re right; finding balance is the trickiest part. Thanks for your input…[pause] and with this, I think it’s time to wrap up for today. Let’s try to relax for the rest of the evening, and we’ll carry on tomorrow. Have a good night." />
+	<Line ID="160" Text="I see…" />
+	<Line ID="161" Text="You don’t agree?" />
+	<Line ID="162" Text="No. But I don’t have all the answers myself, of course. And I also believe that having conflicted opinions may be more beneficial. So thanks for your input…[pause] and with this, I think it’s time to wrap up for today. Let’s try to relax for the rest of the evening, and we’ll carry on tomorrow. Have a good night." />
+  </List>
+</Text>

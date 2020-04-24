@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Root Path="Room/AccessPoint">
+		<Phrase Type="3" Path="Text0" Text="Дотроньтесь до экрана" Scale="0.88" Shift="-0.0006" />
+		<Phrase Type="3" Path="Text1" Text="Проверка отпечатков..." Scale="0.9" />
+		<Phrase Type="3" Path="Text2" Text="Загрузка настроек..." Scale="0.9" Shift="0.01494" />
+		<Phrase Type="31" Path="Text3" Text="ДОБРО&#xA;ПОЖАЛОВАТЬ" Scale="0.75" Shift="0.0858" />
+	</Root>
+	<Root Path="Room/Screens/News1">
+		<Phrase Type="0" Path="Header/Headline/Text" Text="Ежедневный экскурс" />
+		<Phrase Type="0" Path="Address/Control/Text1" Text="Профиль" />
+		<Phrase Type="0" Path="Address/Control/Text2" Text="Настройки" />
+		<Phrase Type="0" Path="Address/Control/Text3" Text="Защита данных" />
+		<Phrase Type="0" Path="Address/Control/Text4" Text="Отзыв" />
+		<Phrase Type="0" Path="Address/Control/Text5" Text="Условия" />
+		<Phrase Type="0" Path="Address/Control/Text6" Text="О нас" />
+	</Root>
+	<Root Path="Room/Screens">
+		<Phrase Type="1" Path="NewsControl.storyType.0" Text="СТАТЬЯ ДНЯ" />
+		<Phrase Type="1" Path="NewsControl.storyType.1" Text="МНЕНИЕ" />
+	</Root>
+</Text>

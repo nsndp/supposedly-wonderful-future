@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+    <Line ID="1" Text="It’s 2048, and bookshelves are used for… books again? This is madness." />
+	<Line ID="2" Text="Historic recurrence is a ruthless thing indeed." />
+	<Line ID="3" Text="How can anyone still use this? You can’t even change the font size." />
+	<Line ID="4" Text="Is it the pleasant smell of paper? The aesthetic beauty of a finely printed cover? The tactile feeling and the soothing sound of turning pages? Tell me your secret, books." />
+	<Line ID="5" Text="Admit it: no juicy text file in the world beats holding one of these beauties in your hands." />
+	<Line ID="6" Text="These tree-killing, space-consuming, dust-gathering constructs just refuse to die." />
+	<Line ID="7" Text="Should I assume that Sam and I were wrong, and educated people were using bookshelves for books all along? No, the implications are too much to bear." />
+	<Line ID="8" Text="A properly filled bookshelf." />
+  </List>
+</Text>

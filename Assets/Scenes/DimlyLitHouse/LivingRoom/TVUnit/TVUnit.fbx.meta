@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 81e9c464e3d7aa745b8de5c1e5c53b83
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Books
+    100002: Handles
+    100004: TVUnit
+    100006: //RootNode
+    100008: TVUnit_V2
+    100010: Vases
+    100012: VasesLowPoly
+    100014: VasesLowPolyInside
+    100016: Additional
+    100018: BooksSimple
+    100020: VasesNoInsides
+    100022: VasesNoInsides_LowPoly
+    100024: TV
+    100026: TVFlare
+    100028: HighlightTV
+    100030: HighlightTV_001
+    400000: Books
+    400002: Handles
+    400004: TVUnit
+    400006: //RootNode
+    400008: TVUnit_V2
+    400010: Vases
+    400012: VasesLowPoly
+    400014: VasesLowPolyInside
+    400016: Additional
+    400018: BooksSimple
+    400020: VasesNoInsides
+    400022: VasesNoInsides_LowPoly
+    400024: TV
+    400026: TVFlare
+    400028: HighlightTV
+    400030: HighlightTV_001
+    2300000: Books
+    2300002: Handles
+    2300004: TVUnit
+    2300006: TVUnit_V2
+    2300008: Vases
+    2300010: VasesLowPoly
+    2300012: VasesLowPolyInside
+    2300014: //RootNode
+    2300016: BooksSimple
+    2300018: VasesNoInsides
+    2300020: VasesNoInsides_LowPoly
+    2300022: TV
+    2300024: TVFlare
+    2300026: HighlightTV
+    2300028: HighlightTV_001
+    3300000: Books
+    3300002: Handles
+    3300004: TVUnit
+    3300006: TVUnit_V2
+    3300008: Vases
+    3300010: VasesLowPoly
+    3300012: VasesLowPolyInside
+    3300014: //RootNode
+    3300016: BooksSimple
+    3300018: VasesNoInsides
+    3300020: VasesNoInsides_LowPoly
+    3300022: TV
+    3300024: TVFlare
+    3300026: HighlightTV
+    3300028: HighlightTV_001
+    4300000: VasesLowPolyInside
+    4300002: TVUnit_V2
+    4300004: TVUnit
+    4300006: Handles
+    4300008: Books
+    4300010: Vases
+    4300012: VasesLowPoly
+    4300014: BooksSimple
+    4300016: VasesNoInsides_LowPoly
+    4300018: VasesNoInsides
+    4300020: TV
+    4300022: TVFlare
+    4300024: HighlightTV
+    4300026: HighlightTV_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

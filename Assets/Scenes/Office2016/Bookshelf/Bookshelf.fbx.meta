@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: d9c4a3c2d86115044ab867d1717c08e3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Drawer
+    100004: Printer
+    100006: Dartboard
+    100008: Dart
+    100010: PlantPine
+    100012: PlantSpikes
+    100014: MasterDart
+    100016: Additional
+    100018: Vase
+    100020: Mouse
+    100022: Highlight
+    100024: HighlightDartboard
+    100026: HighlightDartboardA
+    100028: HighlightDartboardB
+    400000: //RootNode
+    400002: Drawer
+    400004: Printer
+    400006: Dartboard
+    400008: Dart
+    400010: PlantPine
+    400012: PlantSpikes
+    400014: MasterDart
+    400016: Additional
+    400018: Vase
+    400020: Mouse
+    400022: Highlight
+    400024: HighlightDartboard
+    400026: HighlightDartboardA
+    400028: HighlightDartboardB
+    2300000: //RootNode
+    2300002: Drawer
+    2300004: Printer
+    2300006: Dartboard
+    2300008: Dart
+    2300010: PlantPine
+    2300012: PlantSpikes
+    2300014: MasterDart
+    2300016: Additional
+    2300018: Vase
+    2300020: Mouse
+    2300022: Highlight
+    2300024: HighlightDartboard
+    2300026: HighlightDartboardA
+    2300028: HighlightDartboardB
+    3300000: //RootNode
+    3300002: Drawer
+    3300004: Printer
+    3300006: Dartboard
+    3300008: Dart
+    3300010: PlantPine
+    3300012: PlantSpikes
+    3300014: MasterDart
+    3300016: Additional
+    3300018: Vase
+    3300020: Mouse
+    3300022: Highlight
+    3300024: HighlightDartboard
+    3300026: HighlightDartboardA
+    3300028: HighlightDartboardB
+    4300000: Bookshelf
+    4300002: Printer
+    4300004: Drawer
+    4300006: Dartboard
+    4300008: Dart
+    4300010: PlantPine
+    4300012: PlantSpikes
+    4300014: MasterDart
+    4300016: Additional
+    4300018: Vase
+    4300020: Mouse
+    4300022: HighlightDartboard
+    4300024: Highlight
+    4300026: HighlightDartboardB
+    4300028: HighlightDartboardA
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

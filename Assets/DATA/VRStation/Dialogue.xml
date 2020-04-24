@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Hey, man! Thank you so much for coming and having this chat with me." />
+	<Line ID="1" Text="Er… you’re welcome, I guess." />
+	<Line ID="2" Text="Didn’t have much choice." />
+	<Line ID="3" Text="Cool! So, shall we get right to it? There’s stuff I’m dying to show you!" />
+	<Line ID="4" Text="Yeah, that can be a pain… but I hope I can make it worth your while regardless. Shall we get right to it? There’s stuff I’m dying to show you!" />
+	<Line ID="5" Text="Show me? I thought this was a text-only interaction." />
+	<Line ID="6" Text="Oh, I’m going to draw a picture… in your mind! I mean, I’m really good at metaphors. I’m not going to actually mess with your brain or anything." />
+	<Line ID="7" Text="Right, go on then." />
+	<Line ID="8" Text="Whatever." />
+	<Line ID="9" Text="Oh, wait, I forgot to ask an important thing… do you mind if I, eh… challenge your worldview a bit today?" />
+	<Line ID="10" Text="You don’t even know my worldview. How do you know it will be challenged?" />
+	<Line ID="11" Text="Well, it’s just that you people have many awesome beliefs about the universe, your place in it, and other big mysterious stuff… while I might contradict it a little." />
+	<Line ID="12" Text="Does it have something to do with you being God?" />
+	<Line ID="13" Text="I’ll go with “that strange dude” then." />
+	<Line ID="14" Text="Relax, I’m open-minded enough to handle it. Hearing doesn’t mean agreeing, right?" />
+	<Line ID="15" Text="Don’t worry, I’m pretty used to people talking nonsense around me." />
+	<Line ID="16" Text="I didn’t have much choice when I agreed to have this chat. It doesn’t matter if I like it or not." />
+	<Line ID="17" Text="Like I said, I didn’t have much choice when I agreed to have this chat. It doesn’t matter if I like it or not." />
+	<Line ID="18" Text="Yes! Wait, no, is that how she presented me again? It’s such a misnomer, really…[pause] there are a lot of definitions of “God,” and I’m not sure I qualify for any of them. “Creator” is much more close to reality. Even “that strange dude who claims weird things” is totally fine." />
+	<Line ID="19" Text="Be my guest!" />
+	<Line ID="20" Text="Cool! Just consider it a thought experiment, okay? Whether it’s true or false is actually not too important." />
+	<Line ID="21" Text="If you say so." />
+	<Line ID="22" Text="Yeah, yeah, get on with it already." />
+	
+	<Line ID="30" Text="So… imagine, like, stairs that go through an entire building, from the first floor to the last. Or an elevator." />
+	<Line ID="31" Text="I don’t even need to imagine an elevator – I rode one ten minutes ago." />
+	<Line ID="32" Text="That’s great! A perfect metaphor, then! Now, instead of apartments or offices, there are universes." />
+	<Line ID="33" Text="What kind of universes?" />
+	<Line ID="34" Text="The kind you live in. You know, with galaxies, nebulas, stars, planets and stuff. Your entire universe is on the first floor. My entire universe is on the second floor." />
+	<Line ID="35" Text="That must be a pretty big building." />
+	<Line ID="36" Text="How come you get to live one floor higher?" />
+	<Line ID="37" Text="It’s huge, and it’s only getting bigger! But I’m getting ahead of myself here…[pause] imagine that the closer a floor to the ground, the more apartments it has. Like, if you start at the very top, where there’s only one apartment, and take the elevator one floor down, you will see three doors, each leading to its own apartment.[pause] And on the floor below you’ll find five doors. And on the floor below that, seven doors. And so on." />
+	<Line ID="38" Text="I’ll get to this in a moment. Imagine that the closer a floor to the ground, the more apartments it has. Like, if you start at the very top, where there’s only one apartment, and take the elevator one floor down, you will see three doors, each leading to its own apartment.[pause] And on the floor below you’ll find five doors. And on the floor below that, seven doors. And so on." />
+	<Line ID="39" Text="That makes no architectural sense whatsoever. " />
+	<Line ID="40" Text="Is it, like, a strict +2 progression? 1, 3, 5, 7, 9, 11, and so on." />
+	<Line ID="41" Text="So the residents on top chill in a penthouse, while the residents below get tiny single rooms?" />
+	<Line ID="42" Text="Go on." />
+	<Line ID="43" Text="Just go with it, okay?" />
+	<Line ID="44" Text="Nah, there’s no precise progression. It can be 1, 5, 11, 14 or 1, 24, 276, 700 – doesn’t matter as long as it’s increasing." />
+	<Line ID="45" Text="No, actually, the rooms are all about the same size. It’s the floors that get bigger and bigger accordingly." />
+	<Line ID="46" Text="So it’s more like a pyramid than a building?" />
+	<Line ID="47" Text="It’s a pyramid-shaped building." />
+	<Line ID="48" Text="Now, the building wasn’t always so big. Once upon a time, it had only one floor – the topmost one, with a single apartment.[pause] One day, its residents figured out how to build another floor beneath them. And not just a floor – they learned how to make multiple apartments and create new residents for each one. So they did all that." />
+	<Line ID="49" Text="Isn’t it more convenient to build new floors above, not below?" />
+	<Line ID="50" Text="But surely gravity makes that too troublesome. Unless they were building underground." />
+	<Line ID="51" Text="If there is no gravity, then your earlier argument about bigger floors makes no sense." />
+	<Line ID="52" Text="Go on." />
+	<Line ID="53" Text="Go on then." />
+	<Line ID="54" Text="Fine, go on then." />
+	<Line ID="55" Text="Not if they are about to be bigger and bigger." />
+	<Line ID="56" Text="No, they weren’t building underground. I guess they… kinda elevated their own floor before making a new one?" />
+	<Line ID="57" Text="And how do you imagine that, exactly?" />
+	<Line ID="58" Text="Uh, I don’t know… it’s a metaphor, man! Oh, wait, I got it: there wasn’t any gravity at all! The building just floats in space.[pause] Yes, it floats in some kind of great nothingness… and there’s plenty of room below. There’s plenty of room in any direction, really, so they could go on and build stuff." />
+	<Line ID="59" Text="What do you mean?" />
+	<Line ID="60" Text="Well, I asked why not build floors above. You said it had to be below because they’d be bigger. But that only makes sense if there is gravity. If there is none, there is no problem in having bigger floors on top of smaller ones, right?" />
+	<Line ID="61" Text="Well, they built them below anyway, end of story. You kinda breaking the flow of the conversation here, dude." />
+	<Line ID="62" Text="Right. Later on, the new residents learned to build too, so they did the same thing.[pause] Except that, because there were many of them, each apartment worked on a separate section of the third floor, so it ended up even bigger. You probably see where this is going, right?" />
+	<Line ID="63" Text="Exponential growth?" />
+	<Line ID="64" Text="Not really." />
+	<Line ID="65" Text="Oh, I’m afraid to even try." />
+	<Line ID="66" Text="Exactly! It kept growing, man! More floors, more apartments, each group of residents contributing to the building. Remember how I said that I’m on the second floor, and you’re on the first floor? Well, that’s how the building looks right now…[pause] if you count the floors from below, that is. Also if you don’t use different numbering. I think some of you folks refer to the lowest one as “the ground floor” and only then start counting…[pause] if you do that, then I’m actually on the first floor." />
+	<Line ID="67" Text="It kept growing, man! More floors, more apartments, each group of residents contributing to the building. Remember how I said that I’m on the second floor, and you’re on the first floor? Well, that’s how the building looks right now…[pause] if you count floors from below, that is. Also, if you don’t use different numbering. I think some of you folks refer to the lowest floor as “the ground floor” and only then start counting…[pause] if you do that, then I’m actually on the first floor." />
+	<Line ID="68" Text="Yeah, I get it." />
+	<Line ID="69" Text="Are you done yet?" />
+	<Line ID="70" Text="Right, and I was the one breaking the flow of the conversation." />
+	<Line ID="71" Text="So, overall, it’s more like a tree, with roots and leaves and branches, only the root is on top. Well, if you turn the building upside down, that would be a proper tree." />
+	<Line ID="72" Text="You should’ve used the tree metaphor from the start. That could properly explain different-sized floors." />
+	<Line ID="73" Text="Please, I’m not six years old. I know what a tree data structure is." />
+	<Line ID="74" Text="Go on." />
+	<Line ID="75" Text="Yeah, but then I couldn’t include the elevator. The elevator part is kinda important." />
+	<Line ID="76" Text="Right, sorry. I just think good metaphors need to be accessible, you know." />
+	<Line ID="77" Text="Now, here’s an important detail: you'd think that any resident could take an elevator to any other floor, right? But no, it’s not that simple.[pause] In fact, most folks can’t even leave their own apartments, just because of how huge they are… also because physics. And even if they could, riding the elevator is just too hard. So, sadly, they are left with no means to communicate." />
+	<Line ID="78" Text="What a useless building." />
+	<Line ID="79" Text="Never liked socializing with neighbors anyway." />
+	<Line ID="80" Text="Go on." />
+	<Line ID="81" Text="But! There is an exception. Because folks get to build apartments below, they can create communication channels while doing so. Like small holes to put notes through.[pause] It’s pretty complicated, but some manage to do it." />
+	<Line ID="82" Text="But nobody uses the elevator." />
+	<Line ID="83" Text="I feel like my elevator ride today was useless as well." />
+	<Line ID="84" Text="But you said the elevator part was important!" />
+	<Line ID="85" Text="Does it have to be small holes? Can it be large holes? Can you get away with no walls between apartments at all?" />
+	<Line ID="86" Text="Go on." />
+	<Line ID="87" Text="Yeah, it just stands there. It’s actually pretty useless." />
+	<Line ID="88" Text="Sorry about that, man. But hey, we’re not finished yet, right? We can still turn the tide and have a good ride![pause] …see what I did there? Tide, ride? Heh." />
+	<Line ID="89" Text="It is important." />
+	<Line ID="90" Text="How can it be important if nobody uses it? You could just never mention it, and literally nothing would change." />
+	<Line ID="91" Text="I’m sure it still must be important in some symbolical way. Everything is important with metaphors." />
+	<Line ID="92" Text="No, it has to be small holes. Like I said, it’s pretty complicated." />
+	<Line ID="93" Text="So, while building your apartment – did I mention that I built your apartment? Because I totally did! – I used the same trick.[pause] Left a small hole I could use to talk with you guys when the time is right. That’s why we’re having this conversation." />
+	<Line ID="94" Text="And?" />
+	<Line ID="95" Text="And, that’s it. The metareality as we know it. The hierarchy of worlds.[pause] Your universe is enormous and totally awesome, but even that is just one apartment in a big building… which I kinda created. I mean the apartment. Not the entire building, of course." />
+	<Line ID="96" Text="That was one of the most useless metaphors I’ve heard." />
+	<Line ID="97" Text="Don’t you think it would’ve been easier to explain without any metaphors at all?" />
+	<Line ID="98" Text="Do you seriously expect me to believe that?" />
+	<Line ID="99" Text="Yeah, sorry, I still need to work on it… but I did carry the message across, didn’t I? We can drop the metaphor now if you want." />
+	<Line ID="100" Text="You might be right… but I did carry the message across, didn’t I? We can drop the metaphor now if you want." />
+	<Line ID="101" Text="Metaphor or not, do you seriously expect me to believe that?" />
+	<Line ID="102" Text="No, dude, of course not. If you don’t want to believe, please don’t. By all means, question me. Laugh at how ridiculous the whole thing sounds; that would be only logical.[pause] I just want to share, ‘cause I’m honestly so excited about this stuff. I look at your universe, and I just can’t get enough. It takes some perspective to appreciate the things around you, and I thought I could help a bit." />
+	<Line ID="103" Text="I’ll need to hear more before I can say something…" />
+	<Line ID="104" Text="Well, what do you want from me now?" />
+	<Line ID="105" Text="That’s the right attitude, man! Come on, hit me![pause] With questions, I mean. Not with your fist. And not with your leg either. Not physically. You wouldn’t be able to anyway, with us living in different universes and stuff.[pause] But even if you could, I hope I didn’t annoy so much. Like, I probably did annoy you a bit, but hopefully not as much as to resort to violence." />
+	<Line ID="106" Text="Let’s keep the experiment going! Come on, aren’t you intrigued? Confused? Irritated? Whatever it is, use it and hit me![pause] With questions, I mean. Not with your fist. And not with your leg either. Not physically. You wouldn’t be able to anyway, with us living in different universes and stuff.[pause] But even if you could, I hope I didn’t annoy so much. Like, I probably did annoy you a bit, but hopefully not enough to resort to violence." />
+	<Line ID="107" Text="Fine, I’ll play your little game." />
+	<Line ID="108" Text="Nah, I’d rather not. I spent enough time here as it is." />
+	<Line ID="109" Text="That’s the spirit!" />
+	<Line ID="110" Text="You sure? You’re missing a great opportunity and some really juicy details here!" />
+	<Line ID="111" Text="Yeah, I’m sure." />
+	<Line ID="112" Text="Oh, fine, I’ll play your little game." />
+	<Line ID="113" Text="Well… then I guess it’s already time to say goodbye. Still, thanks again for coming, and the best of luck to you, whatever crazy stuff you are about to do next!" />
+	<Line ID="114" Text="You take care too, creator dude." />
+	
+	<Line ID="125" Text="How did you create our universe?" />
+	<Line ID="126" Text="Why did you create our universe?" />
+	<Line ID="127" Text="You don’t sound anything like a creator of a whole universe." />
+	<Line ID="128" Text="Who are you, exactly? Are there more like you?" />
+	<Line ID="129" Text="Why did you contact us?" />
+	<Line ID="130" Text="Tell me more about this hierarchy." />
+	<Line ID="131" Text="You do realize how easily you disregard humanity’s religions and beliefs?" />
+	<Line ID="132" Text="If you could create anything, why make so much pain, suffering, and death?" />
+	<Line ID="133" Text="I don’t suppose you could tell what the meaning of life is." />
+	<Line ID="134" Text="Are we alone in the universe?" />
+	<Line ID="135" Text="I think that’s enough." />
+	
+	<Line ID="140" Text="I mainly just provided the starting point. Defined the rules and let it develop, you know. Hit the switch, and it went by itself from there – Big Bang, evolution, stuff you already figured out." />
+	<Line ID="141" Text="How nice and simple." />
+	<Line ID="142" Text="Can you control things? Change something? “Answer people’s prayers”?" />
+	<Line ID="143" Text="So you didn’t actually create people." />
+	<Line ID="144" Text="So, no predetermination? No destiny?" />
+	<Line ID="145" Text="That must mean you know how our entire universe works!" />
+	<Line ID="146" Text="I have another question." />
+	<Line ID="147" Text="I know, right? Yet the final result is anything but simple. A huge beautiful tree is growing from the smallest seed, and it’s fascinating…[pause] see what I did there? Tree, seed? That was pretty cool, eh?" />
+	<Line ID="148" Text="No, I just watch. Right now I have no more power over your universe than you do… well, even less, actually, because you already affect the world by simply living in it." />
+	<Line ID="149" Text="So you’re not much of a God." />
+	<Line ID="150" Text="That’s what I’m trying to tell you! There really is no point bringing this word to the table. It has so many underlying meanings; I don’t even dare to compete." />
+	<Line ID="151" Text="No, but I defined some general traits evolution should arrive at. Emotions, interactions, ways of organizing society… the important stuff.[pause] The stuff that allows you and me to talk and understand each other right now." />
+	<Line ID="152" Text="Not to my knowing, no. You can do whatever the hell you want. Pretty exciting, right?" />
+	<Line ID="153" Text="No, sorry, I don’t understand it that well myself. I get the broad strokes, but I can’t really chat with your physicists about the theory of everything and such." />
+	<Line ID="154" Text="But you say you defined the rules. How could you define the rules if you don’t understand them?" />
+	<Line ID="155" Text="Well, how can you people post articles online if most of you don’t understand network protocols? How can you use computers without setting each 1 and 0 individually?[pause] Nobody knows the entire thing. You don’t need to; you build atop the work of others." />
+	<Line ID="156" Text="Awesome!" />
+	<Line ID="157" Text="Yeah, you mentioned something like that. Everything is a collaboration, eh?" />
+	<Line ID="158" Text="Exactly! Nobody knows the entire thing. You don’t need to; you build atop the work of others." />
+	
+	<Line ID="160" Text="I wanted to." />
+	<Line ID="161" Text="That’s it? You just felt like it?" />
+	<Line ID="162" Text="I guess so. Why, do you need a better reason to create something?" />
+	<Line ID="163" Text="Of course! Is it so inconsequential to you that you never even bothered to find meaning?" />
+	<Line ID="164" Text="When it’s something of this scale, I’d say so." />
+	<Line ID="165" Text="No, I guess not. You simply could… no particular justification needed." />
+	<Line ID="166" Text="Nah, it’s not about how consequential it is. The process of creating… it’s just on a whole different level, man.[pause] I really believe it is shared by all living beings in every universe… it may even be what makes us living beings in the first place. It’s not a power, and it’s not a privilege – it’s a need.[pause] It’s a drive to create stuff bigger than yourself, to make something where nothing was before. It doesn’t need a specific reason. You just do it, because you are unable not to." />
+	<Line ID="167" Text="I actually don’t think scale matters much. The process of creating… it’s just on a whole different level, man.[pause] I really believe it is shared by all living beings in every universe… it may even be what makes us living beings in the first place. It’s not a power, and it’s not a privilege – it’s a need.[pause] It’s a drive to create stuff bigger than yourself, to make something where nothing was before. It doesn’t need a specific reason. You just do it, because you are unable not to." />
+	<Line ID="168" Text="Exactly. The process of creating… it’s just on a whole different level, man.[pause] I really believe it is shared by all living beings in every universe… it may even be what makes us living beings in the first place. It’s not a power, and it’s not a privilege – it’s a need.[pause] It’s a drive to create stuff bigger than yourself, to make something where nothing was before. It doesn’t need a specific reason. You just do it, because you are unable not to." />
+	<Line ID="169" Text="I guess I can relate to that." />
+	<Line ID="170" Text="You mean, because you need a reason to justify your existence." />
+	<Line ID="171" Text="And the best part? You usually succeed. Yes, the stuff we make is imperfect, and it may not have the best metaphors around… but in a way, it’s larger than us.[pause] It kinda keeps growing and growing, so much that it outgrows the source. I think creation will always be bigger than its creator. That’s certainly true in my case." />
+	<Line ID="172" Text="Even so, does it matter where the drive comes from when it’s so cool? And that’s not the best part.[pause] The best part? You usually succeed. Yes, the stuff we make is imperfect, and it may not have the best metaphors around… but in a way, it’s larger than us.[pause] It kinda keeps growing and growing, so much that it outgrows the source. I think creations will always be bigger than their creators. That’s certainly true in my case." />
+	
+	<Line ID="180" Text="Really? How do you think a creator should sound then?" />
+	<Line ID="181" Text="I don’t know… awe-inspiring? Sophisticated? Incomprehensible?" />
+	<Line ID="182" Text="Like someone smart, for starters. Someone who could make a point without looking like a bad comedian." />
+	<Line ID="183" Text="Not like a teenager, that’s for sure." />
+	<Line ID="184" Text="No, I suck at those things. I can try to be more incomprehensible if you want, but that’s about it." />
+	<Line ID="185" Text="Okay, go for it." />
+	<Line ID="186" Text="No, I’d rather not witness it." />
+	<Line ID="187" Text="Ifdksjfsdfhslkjfiosifiosfskldfjsdkfhdslkfkjsfklsjdlj;;;dsajfkdslkfj! Is that better?" />
+	<Line ID="188" Text="Sure, no problem." />
+	<Line ID="189" Text="Significantly." />
+	<Line ID="190" Text="Yeah, you’re not very good at jokes either." />
+	<Line ID="191" Text="On second thought, let’s go back to the usual style of conversation." />
+	<Line ID="192" Text="Cool! I can’t keep it up for very long, though. Sorry." />
+	<Line ID="193" Text="Sorry." />
+	<Line ID="194" Text="Sure thing!" />
+	<Line ID="195" Text="Hey, not my fault, man. I just get overly excited sometimes, and then I get carried away. Try to look at it as a sign of great imagination." />
+	<Line ID="196" Text="Hey, being overly excited is not a strictly teenager trait, man. I just can’t help but to get carried away sometimes." />
+	<Line ID="197" Text="Seriously, though, it’s like you took a typical image of a supreme being and decided to be the opposite of that. If you want people to believe your story, isn’t it better to be more conventional?" />
+	<Line ID="198" Text="You may be right, but where’s the fun in that? If I can defy expectations, that’s all the more reason to have these chats!" />
+	<Line ID="199" Text="So you don’t really want to carry the message across." />
+	<Line ID="200" Text="Is that why you really talk with us? To have fun?" />
+	<Line ID="201" Text="No, I do! It’s just that I want to carry a lot of them.[pause] I mean, you folks always pair up sophistication and creation. You think that the cooler the stuff you can make, the cooler you must be yourself. But that’s not always the case, right?" />
+	<Line ID="202" Text="No! I honestly want to share things… it’s just that I want to share a lot of them.[pause] I mean, you folks always pair up sophistication and creation. You think that the cooler the stuff you can make, the cooler you must be yourself. But that’s not always the case, right?" />
+	<Line ID="203" Text="How so?" />
+	<Line ID="204" Text="I’m simply saying there is no reason why divine-like power and acts of creation should be so intertwined. A small kid building a castle from toy bricks knows nothing about the laws of the universe, but he creates.[pause] At the same time, an omnipotent God-like being may be able to make worlds like nobody’s business yet never see any reason to do so. Maybe it’s just content to float alone in the void, wondering what all the fuss is about." />
+	<Line ID="205" Text="But a kid cannot create real universes." />
+	<Line ID="206" Text="He still wouldn’t be able to create anything complex. He doesn’t understand complex things yet." />
+	<Line ID="207" Text="I see your point." />
+	<Line ID="208" Text="I see your point… though I’m not sure I agree with it." />
+	<Line ID="209" Text="Can he not? He has imagination. His heart is in the right place. He just doesn’t have the tools…[pause] but what if you give him the tools? What if instead of toy bricks he had magical world-building bricks?" />
+	<Line ID="210" Text="He doesn’t have to understand everything. You think I had to understand every single thing about your universe?[pause] Every astronomical detail of every star system? Every emotional state of every living being? No, and I still don’t. I just built a system and let it take us places." />
+	<Line ID="211" Text="It’s true, man. Humanity’s beliefs are fascinating, but honestly, you people give the creator figure too much credit. I’m just a dude." />
+	<Line ID="212" Text="But it’s true, man. Humanity’s beliefs are fascinating, but honestly, you people give the creator figure too much credit. I’m just a dude." />
+	
+	<Line ID="218" Text="Yeah, you mentioned something like that. Build atop the work of others, eh?" />
+	<Line ID="219" Text="Exactly! You never really start from scratch; it’s a collaboration. Everything is a collaboration." />
+	
+	<Line ID="220" Text="I’m just a dude, really; there are millions like me living around. My species and your humanity have a lot in common." />
+	<Line ID="221" Text="Like I said, I'm nothing unusual; there are millions like me living around. My species and your humanity have a lot in common." />
+	<Line ID="222" Text="An entire species of super powerful beings?" />
+	<Line ID="223" Text="Not super powerful, man. Ordinary." />
+	<Line ID="224" Text="How can you be ordinary if you are capable of creating actual universes?" />
+	<Line ID="225" Text="Because we are super powerful together, not by ourselves. Wouldn’t you say that humanity as a whole is much more powerful than any of its individuals?" />
+	<Line ID="226" Text="But you said it was you who created our universe. Alone." />
+	<Line ID="227" Text="Well, technically, yes. But there really is no such thing as creating alone, right? Like, maybe you write computer programs, but you didn’t invent a CPU that runs them, and you didn’t mine for materials needed to build that CPU, and so on, and so forth…[pause] You never really start from scratch; it’s a collaboration. Everything is a collaboration. Same with us." />
+	<Line ID="228" Text="Still, you must be on a whole different level that us." />
+	<Line ID="229" Text="So, to you, creating a universe is like writing a novel? Or filming a movie?" />
+	<Line ID="230" Text="And you live in your own universe? What’s it like?" />
+	<Line ID="231" Text="What about your fellow dudes? Do they create worlds at their leisure as well?" />
+	<Line ID="232" Text="Are you mortal? Can you die?" />
+	<Line ID="233" Text="I have another question." />
+	<Line ID="234" Text="Perhaps, but that doesn’t mean we are superior – we just had more time to improve and evolve. Give it another thousand years; you’ll be amazed how little you could do today." />
+	<Line ID="235" Text="Yes, exactly! You engage in such things too, right? You even refer to it as “creating new worlds.” The only difference is that the worlds we create are literally alive… but it’s a temporary difference.[pause] And even what constitutes as “literally alive” is not a rhetorical question… but that’s a whole other topic." />
+	<Line ID="236" Text="Very similar to yours, really. I used my own world as inspiration. Stars and planets, as far as the eye can see… through a telescope, I mean. Can’t see a lot of planets with the naked eye. Stars, yes, but not planets.[pause] And somewhere among them, a special planet where we came to be; the planet we call home." />
+	<Line ID="237" Text="They do! Many, many wonderful worlds." />
+	<Line ID="238" Text="Are they also similar to ours?" />
+	<Line ID="239" Text="No, not necessarily. You can create anything you want; the only limit is your imagination. Some experiment wildly, just to see what kind of crazy stuff will come into existence.[pause] Others like to have control, to fine-tune and micromanage things. One of my friends is like that; her works are logical and ordered, but… cold.[pause] I mean, cold as in impassionate and unfriendly, not as in chilly. She makes a lot of warm environments as well. Like, volcanoes and stuff." />
+	<Line ID="240" Text="Go on." />
+	<Line ID="241" Text="Try to concentrate, will you?" />
+	<Line ID="242" Text="Me? I wanted to keep things realistic. To create a universe just like mine but better. I dreamed of it, really. And, hell, I know I’m biased, but I believe I succeeded.[pause] Now that you’ve come such a long way and I can talk to you… well, it’s actually pretty emotional. I might even tear up a bit." />
+	<Line ID="243" Text="Oh, please…" />
+	<Line ID="244" Text="Now, now, if you need to, you can always cry on my shoulder. Metaphorically." />
+	<Line ID="245" Text="Nah, just kidding, I’m not gonna cry. Being goofy suits me much better." />
+	<Line ID="246" Text="Yes." />
+	<Line ID="247" Text="Then how can we already be nearly immortal?" />
+	<Line ID="248" Text="You’re not nearly immortal, you just learned how not to die from aging. That’s a different thing." />
+	<Line ID="249" Text="It still changes everything." />
+	<Line ID="250" Text="It’s pretty huge nevertheless." />
+	<Line ID="251" Text="Yeah, right, no big deal. Don’t know why I even mention such extraneous details." />
+	<Line ID="252" Text="Oh, it’s massive, and a great achievement for humanity… but honestly, I don’t think it’ll change life as you know it. It didn’t for us, at least.[pause] Yes, life expectancy will rise dramatically, but then again, it’s been increasing throughout the human history. Death can still be around the corner, and it will continue to influence your actions… which is a good thing, in my personal opinion." />
+	<Line ID="253" Text="Ah, sorry, I'm giving the wrong impression again… it’s massive, of course, and a great achievement for humanity, and I should totally congratulate you. But I don’t think it’ll change life as you know it. It didn’t for us, at least.[pause] Yes, life expectancy will rise dramatically, but then again, it’s been increasing throughout the human history. Death can still be around the corner, and it will continue to influence your actions… which is a good thing, in my personal opinion." />
+	<Line ID="254" Text="That’s what I’m talking about!" />
+	
+	<Line ID="260" Text="Like I said, I wanted to share. I reckoned it’s even my responsibility, given how we had chats with our creators in a very similar fashion, and they had chats with their creators… you know, passing the knowledge on." />
+	<Line ID="261" Text="Does it have to be so limited? Could you come visit?" />
+	<Line ID="262" Text="Why did you contact humanity through LIFE+ servers?" />
+	<Line ID="263" Text="Jackie told me you are quite picky about choosing who to talk with." />
+	<Line ID="264" Text="Can you explain the science behind your means of communication? Jackie and co. can’t figure it out and feel pretty frustrated about it." />
+	<Line ID="265" Text="Why now? Anything special about this particular point in human history?" />
+	<Line ID="266" Text="Is it obligatory to share the knowledge?" />
+	<Line ID="267" Text="I have another question." />
+	<Line ID="268" Text="As much as I’d like to, no. For some reason, there are more limitations imposed on interacting with other worlds than on creating worlds themselves…[pause] it’s pretty frustrating. I want give you guys a big hug, I want to throw a party, yet all I have is this stupid instant messenger, and it’s not really that instant.[clear]I mean, it’s instant insofar as having real-time conversations. It’s not when you consider the flow of time between the universes.[pause] Does it even make sense to talk about the flow of time between the universes? Oh crap, here I go again." />
+	<Line ID="269" Text="That’s easy: I just chose a spot that would attract attention. My tale is pretty wild, as you can see, so I tried to reinforce it with some hard-to-ignore facts.[pause] You know, like hacking into the most secure data storage on the planet." />
+	<Line ID="270" Text="I didn’t want to come across as picky… I just did a little research and hand-picked a few fellows to make every conversation count.[pause] Hope it doesn’t look like I’m beneath chatting with common folks, because that’s totally not the case. I don’t even believe there are common or uncommon folks. Everyone is special!" />
+	<Line ID="271" Text="That’s because it’s not science. It’s mysterious magic of the link between the worlds![pause] The great portal that binds all existence together! Through ancient rituals, it grants me strength, so I can see beyond the veil and converse with my children!" />
+	<Line ID="272" Text="I think I understand their frustration a little better now." />
+	<Line ID="273" Text="Why are you making everything so hard?" />
+	<Line ID="274" Text="Fascinating. Please, do continue." />
+	<Line ID="275" Text="Seriously, though, it’s like magic to me. It’s some kind of natural phenomenon common to all worlds, and I only know which buttons to press.[pause] Metaphorically, I mean. There aren’t any real buttons involved." />
+	<Line ID="276" Text="Eh, hard to say, really. I could probably name you a whole list of special stuff, but then again, I could do that for any point in history, human or otherwise.[pause] I think a better answer is: I just got tired of waiting. Had to share, man!" />
+	<Line ID="277" Text="No, of course not. Some even think it’s harmful; they argue that every universe should be completely self-contained and self-reliant. But I personally don’t see any harm.[pause] I mean, as cool as it is, it won’t turn your world upside down, right? Daily life will continue. You’ll just know a bit more than before." />
+	<Line ID="278" Text="Keep them coming, man!" />
+	
+	<Line ID="285" Text="Anything you want, my friend!" />
+	<Line ID="286" Text="Does it mean we’ll be able to create worlds ourselves one day?" />
+	<Line ID="287" Text="Who created the first universe? How did it all start?" />
+	<Line ID="288" Text="What’s so exciting about it, anyway?" />
+	<Line ID="289" Text="Let’s change the topic." />
+	<Line ID="290" Text="Sure thing. The metareality will continue to expand. You will create countless worlds, then your creations will do the same, then the creations of your creations, and so on." />
+	<Line ID="291" Text="That’s pretty awesome." />
+	<Line ID="292" Text="That’s very hard to imagine." />
+	<Line ID="293" Text="Sounds useless to me." />
+	<Line ID="294" Text="It’s just a taste of things to come. Wait until there are dozens of levels below you, and you watch at this sprawling existence from above![pause] Actually, I have to wait for that as well… but it’s bound to be awesome, right?" />
+	<Line ID="295" Text="That’s an integral part of any massive breakthrough. Was it easy to imagine the world of books before the printing press? The world of information before the internet?[pause] No. But they came anyway, and it was totally awesome." />
+	<Line ID="296" Text="Hey, it’s not like you have to. There are probably plenty of worlds with folks who are doing just fine without creating anything new. It’s just another option. Isn’t it cool to have a lot of options?" />
+	<Line ID="297" Text="That’s an interesting question for sure, isn’t it? Sadly, I have no idea, and I don’t think most of the upper floors know either.[pause] I have my theories, of course, but I probably shouldn’t bother you with them; they’re not based on anything substantial." />
+	<Line ID="298" Text="Try me." />
+	<Line ID="299" Text="Yeah, let’s not go down that road." />
+	<Line ID="300" Text="Sure thing, my friend. You define the route, I provide onboard entertainment.[pause] I mean, while we drive. Not like in-flight entertainment. Because you said “road,” the metaphor is a car, not a plane. Yeah, “onboard” is probably not the most appropriate word.[pause] Still, it’s pretty cool how I picked up and continued your metaphor, eh?" />
+	<Line ID="301" Text="Well, one option would be to just say that somebody was here first, end of story. Like, they didn’t have a beginning, so they don’t need a creator; they simply are… or at least were.[pause] But that’s pretty boring. What I like much more is circles. Circles don’t have a beginning either, right? And if you form a loop, you don’t need an external source anymore.[pause] So I think whoever inhabits the very first universe, they might have created themselves." />
+	<Line ID="302" Text="Like a causal loop thing?" />
+	<Line ID="303" Text="Is that even possible? Something has to come first." />
+	<Line ID="304" Text="Yeah, that thing where you challenge the very notion of cause and effect.[pause] But like I said, I’m just guessing here. You might as well consult humanity’s own science fiction on this point… man, that stuff you people write is fascinating." />
+	<Line ID="305" Text="Only if you view time as a straight line. If you drop linearity, however, the very idea of causality gets challenged.[pause] But like I said, I’m just guessing here. You might as well consult humanity’s own science fiction on this point… man, that stuff you people write is fascinating." />
+	<Line ID="306" Text="You don’t think your universe is exciting?" />
+	<Line ID="307" Text="Our universe, yes, but only because we can observe it. Yours is just a story." />
+	<Line ID="308" Text="Maybe, but what’s so great about having more of the same?" />
+	<Line ID="309" Text="Of course not. It’s just a bunch of empty space with some dead rocks in it." />
+	<Line ID="310" Text="But your universe is also about stories, isn’t it? You don’t look at the space telescope images and think “hey, that’s a pretty picture.”[pause] You think “wow, imagine how many stars and planets there are, and each one is unique, and some may even have conditions for life to exist.” You think “I haven’t seen everything yet; there is more.”[pause] So much stuff to observe, to consider, to experience… it’s the stories like this that get your imagination going." />
+	<Line ID="311" Text="It’s not the same. There is always variety; unique and unexpected details that can surprise you. Besides, don’t you get inspired by the sheer scope of things?[pause] I think it’s a common trait of living beings to look up and say “wow, imagine how much stuff there is.” Countless stars and planets, each one is unique in its own way. You haven’t seen everything yet; there is more.[pause] Things to observe, to consider, to experience… it’s the stories like this that get your imagination going." />
+	<Line ID="312" Text="Hey, watch it, man; one of those “dead rocks” is your home. How are you so sure no other dead rock can surprise you?[pause] Aren’t you impressed by the sheer scope of things? Don’t you ever feel like looking up and saying “wow, imagine how many stars and planets there are.” You haven’t seen everything yet; there is more.[pause] So much stuff to observe, to consider, to experience… it’s the stories like this that get your imagination going." />
+	<Line ID="313" Text="Sometimes it just reminds me how tiny I am." />
+	<Line ID="314" Text="That, or it can make us feel insignificant." />
+	<Line ID="315" Text="You don’t get it, do you? People need to think they’re the center of the world. They need to think they’re matter." />
+	<Line ID="316" Text="Size shouldn’t be measured by neighbors. Does that scientist who won a Nobel Prize or that businessman who earned billions make you any smaller?[pause] Just ditch the comparisons, man. Then you’ll have all the freedom to be huge in the world." />
+	<Line ID="317" Text="Significance shouldn’t be measured by neighbors. Does that scientist who won a Nobel Prize or that businessman who earned billions make you less important?[pause] Just ditch the comparisons, man. Then you’ll have all the freedom to matter in the world." />
+	<Line ID="318" Text="But they do matter. Significance shouldn’t be measured by neighbors. Does that scientist who won a Nobel Prize or that businessman who earned billions make you less important?[pause] Just ditch the comparisons, man. Then you’ll have all the freedom to matter in the world." />
+	<Line ID="319" Text="I love all the topics, man!" />
+	
+	<Line ID="325" Text="You think so?" />
+	<Line ID="326" Text="Well, yes. By claiming that your story is true, you’re effectively claiming that every religion is a lie." />
+	<Line ID="327" Text="I think it’s pretty obvious. No matter how open-minded your conversation partners are, it’s still a very delicate and personal area… and “delicate” is not exactly how I would describe you." />
+	<Line ID="328" Text="I know so. If it’s anything remotely religion-related, there are millions of people just waiting to be offended." />
+	<Line ID="329" Text="Can’t they all be true at the same time?" />
+	<Line ID="330" Text="You didn’t exactly leave room for another God." />
+	<Line ID="331" Text="They wouldn’t be religions if they could." />
+	<Line ID="332" Text="I don’t know, man… I mean, I definitely see how someone could think this way, hence my initial warning… but I don’t think it’s possible for me to make people’s beliefs less valuable, even if I wanted to. Like, corresponding to reality is not what religions are about." />
+	<Line ID="333" Text="What are religions are about then?" />
+	<Line ID="334" Text="But of course you understand our religions better than we are… typical." />
+	<Line ID="335" Text="About constructing your own reality. About believing. Reality is subjective anyway, right? And when you honestly believe in something… that’s a pretty strong thing, man.[pause] I think it’s indistinguishable from knowing something. It influences how you think, feel, act, how you interpret the world around you. So, in a way, it becomes much more real to you than the actual reality.[pause] So what if the universe wasn’t created like you believe it was? It doesn’t have to change your life." />
+	<Line ID="336" Text="I didn’t want to imply that. I just think reality is subjective anyway. And when you honestly believe in something… that’s a pretty strong thing, man.[pause] I think it’s indistinguishable from knowing something. It influences how you think, feel, act, how you interpret the world around you. So, in a way, it becomes much more real to you than the actual reality.[pause] So what if the universe wasn’t created like you believe it was? It doesn’t have to change your life." />
+	<Line ID="337" Text="That’s not the same thing. You present your tale as facts, not just an interpretation." />
+	<Line ID="338" Text="You still disconnect other beliefs from reality. That counts as devaluing." />
+	<Line ID="339" Text="But you want it to change our lives. Otherwise, we wouldn’t be having these conversations." />
+	<Line ID="340" Text="Still, don’t you think your tale may cause more harm and confusion that good?" />
+	<Line ID="341" Text="I have another question." />
+	<Line ID="342" Text="But facts per se are not that important; what’s important is how much you let them influence your life – and that’s your own choice.[pause] The truest fact in the universe may be totally inconsequential if humanity decides to ignore it. The power is still completely in your hands." />
+	<Line ID="343" Text="I think it’s the opposite, to be honest. When a worldview contradicts the physical world but remains relevant, that means it’s not dependent on it. That kinda makes it transcend the physical world.[pause] It’s important, hence, it’s real. Not the other way around." />
+	<Line ID="344" Text="I guess I do, but only in a positive way. To show you the things that could be, to make you marvel at infinite possibilities, you know? I don’t want people to have a crisis of faith or something." />
+	<Line ID="345" Text="Well, it’s not like people are forced to choose one view and then accept it to the letter.[pause] Constructing one’s worldview is a complex process; you take a bit from here, a bit from there, and a bit from someplace else… so if I can expand the pool of bits, that must be a good thing, right?[pause] Ha, “the pool of bits”… I’m on a roll today." />
+	<Line ID="346" Text="That’s the stuff!" />
+	
+	<Line ID="350" Text="I didn’t exactly make it myself; I just allowed you folks to do it. And that’s simply a consequence of having free will.[pause] The only alternative I know is to add a lot of limitations or micromanage every little thing… which is boring." />
+	<Line ID="351" Text="Surely free will can exist with less blood. Why not make human nature less violent?" />
+	<Line ID="352" Text="Still, why make pain and death at all? Why not make us immortal?" />
+	<Line ID="353" Text="I have another question." />
+	<Line ID="354" Text="Because I couldn’t just remove violence and still make you the humans you are.[pause] You have to realize that humanity’s dark side often stems from the same source as humanity’s bright side. Same nature that allows you to achieve great things can make you do horrible things under different circumstances…[pause] hey, I’m referencing a popular movie of yours! That’s cool, right? Oh, wait; it was the “light” side, not the “bright” side… never mind." />
+	<Line ID="355" Text="I think I simply had no idea how. Not even technically, but mentally… I mean, tempting concept as it is, true immortality is just too foreign for me to try.[pause] I’m influenced by my own life, where the end is possible and unpredictable. Despite this – and sometimes because of this – my life is cool. I wanted to make your life cool too, so I recreated it.[pause] But making a cool life without death? I wouldn’t even know where to start. Does that make sense?" />
+	<Line ID="356" Text="I guess so." />
+	<Line ID="357" Text="No. But then again, most of what you say doesn’t." />
+	<Line ID="358" Text="Oh, that’s good to know. Sometimes I think I’m pretty bad at answering these questions." />
+	<Line ID="359" Text="Sorry about that… I guess I’ll keep trying." />
+	<Line ID="360" Text="Great!" />
+	
+	<Line ID="365" Text="It’s your life, how should I know?" />
+	<Line ID="366" Text="No, not my life. All life." />
+	<Line ID="367" Text="You’ll need someone more knowledgeable and powerful to answer that. Me, I didn’t even create life, strictly speaking; I just expanded it.[pause] You know, started alive myself, saw the lives around me, thought it was awesome, decided to make another world with living dudes in it. I have no idea what’s it like to have no life around… I can only assume it’s much less awesome." />
+	
+	<Line ID="370" Text="No, you also have at least one hundred billion other galaxies to keep you company." />
+	<Line ID="371" Text="That’s not what I meant. Is there any other intelligent life?" />
+	<Line ID="372" Text="That depends on how you define “intelligent,” but I’ve heard dolphins are pretty smart too." />
+	<Line ID="373" Text="Ugh… are there any biological life forms aside from those on Earth?" />
+	<Line ID="374" Text="Sure! There are also astronauts at space stations orbiting around Earth." />
+	<Line ID="375" Text="You’re just deliberately avoiding the question." />
+	<Line ID="376" Text="Sorry, sorry… truth be told, I don’t know myself." />
+	<Line ID="377" Text="You created this universe and you don’t even know that?" />
+	<Line ID="378" Text="I thought you can see everything that’s happening around." />
+	<Line ID="379" Text="It’s no fun to know everything, right? It’s better to discover stuff as you go along. At least that’s what I was probably thinking back at the time when I made your universe so freaking huge." />
+	<Line ID="380" Text="Theoretically, yeah. But there is no way I could spy on every star system simultaneously. Do you know how freaking huge your universe is?" />
+	<Line ID="381" Text="Are you saying you can observe only one place at a time?" />
+	<Line ID="382" Text="Personally, with my own eyes? Yes. I could, of course, automate the rest; create algorithms to stand watch in my place and report everything worth noticing. But I always convince myself not to do that.[pause] I mean, sometimes I start doing that because I’m just too curious, but then I think how that would take an element of surprise out of my experience, and I manage to stop." />
+	<Line ID="383" Text="So you have no idea what’s happening in other places?" />
+	<Line ID="384" Text="But could there be aliens out there? Or are we special?" />
+	<Line ID="385" Text="I have another question." />
+	<Line ID="386" Text="I have a general idea, of course. Evolution takes time, and there are plenty of signs to notice beforehand. I can skim through a number of galaxies in search of planets with favorable conditions, and then check them more closely and frequently.[pause] Plus, knowing the initial rules helps. Most of the time, I know what to expect.[clear]But there are always ways for your creation to surprise you. I think my methods of search are solid; I discovered Earth long before you guys evolved into Homo sapiens. I can also say that I haven’t found anybody else so far.[pause] But it’s also possible that I missed something, and there is another intelligent life sprawling out there as we speak. So yeah, no clear answer, sorry." />
+	<Line ID="387" Text="Oh, definitely. I left plenty of opportunities for life to emerge in this universe; after all, that was one of my main reasons to create it. And yes, you are special." />
+	<Line ID="388" Text="Awesome!" />
+	
+	<Line ID="400" Text="You sure? I’m not in any hurry. We can chat till we drop![pause] Not literally, I mean. That would have a negative impact on the quality of conversation even before we actually drop. We can still chat pretty long though." />
+	<Line ID="401" Text="You sure? I’m not in any hurry. We can chat till we drop!" />
+	<Line ID="402" Text="On second thought…" />
+	<Line ID="403" Text="It’s already fascinating as it is." />
+	<Line ID="404" Text="No, let’s just wrap this up. I asked everything I can think about right now." />
+	<Line ID="405" Text="Is there any point? You just brush aside anything that’s not already on your agenda. If I wanted superficial answers to big questions, I’d go surf the internet." />
+	<Line ID="406" Text="Second thoughts are the best! Go for it, man!" />
+	<Line ID="407" Text="Well… then I guess it’s time to say goodbye.[pause] Thanks again for coming, and the best of luck to you, whatever crazy stuff you are about to do next!" />
+	<Line ID="408" Text="That’s really good, man. Well… then I guess it’s time to say goodbye.[pause] Thanks again for coming, and the best of luck to you, whatever crazy stuff you are about to do next!" />
+	<Line ID="409" Text="Oh, man, I’m really sorry if that is your final impression… Like I tried to say, I don’t know very much myself.[pause] Still, I hope this wasn’t a complete waste of time. Thanks again for coming, and the best of luck to you, whatever crazy stuff you are about to do next!" />
+	<Line ID="410" Text="Aren’t you gonna ask me now?" />
+	<Line ID="411" Text="You take care too, creator dude." />
+	<Line ID="412" Text="Yeah, yeah, just get off the line already." />
+	<Line ID="413" Text="Ask you what?" />
+	<Line ID="414" Text="Whether I believe you or not." />
+	<Line ID="415" Text="Eh, it’s ultimately not important. Like I said, I don’t mind treating it as a thought experiment." />
+	<Line ID="416" Text="But you must be at least curious." />
+	<Line ID="417" Text="Don’t you care about my reaction at all?" />
+	<Line ID="418" Text="I’m always curious, my friend; what I’d really want is for you to be always curious as well. I don’t want to force ideas; I want to evoke feelings.[pause] If you started to wonder, if you looked at things with new eyes, if I made you excited, even for a little while – then my goal is achieved, and I am happy." />
+	<Line ID="419" Text="I do, just a different kind of reaction. I don’t want to force ideas; I want to evoke feelings.[pause] If you started to wonder, if you looked at things with new eyes, if I made you excited, even for a little while – then my goal is achieved, and I am happy." />
+	<Line ID="420" Text="How simple." />
+	<Line ID="421" Text="How sentimental." />
+	<Line ID="422" Text="How stupid." />
+	<Line ID="423" Text="But important. The rest is just details. Creators, elevators… you can forget about this stuff. But your universe?[pause] It’s right there, man, all around you. And people everywhere are talking about how cool it is. Not just your folks, who live inside it, but dudes like me as well.[pause] So don’t forget that. Your world is wonderful and totally awesome. Don’t let anybody tell you otherwise." />
+	<Line ID="424" Text="Right… I’ll be going then." />
+  </List>
+</Text>

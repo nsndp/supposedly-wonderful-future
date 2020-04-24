@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="(At the center of the kitchen you find a middle-aged tired-looking woman sitting on a small stool. She seems to be lost in thought and doesn’t notice you.)" />
+    <Line ID="1" Text="Hello, madam. Um, I’m sorry to suddenly appear here like that, I’m not quite sure how it’s happened." />
+    <Line ID="2" Text="Oh, that’s all right, you can never be sure in this place." />
+	<Line ID="85" Text="Hello? Anybody home? Who are you?" />
+	<Line ID="86" Text="Oh, hello. Don’t mind me, I’m nobody." />
+    <Line ID="3" Text="Do you live here?" />
+    <Line ID="4" Text="I think so. Do you need something?" />
+    <Line ID="5" Text="Is there an exit around? I’d like to leave." />
+    <Line ID="6" Text="Could you unlock the front door, please? I’d like to leave." />
+    <Line ID="7" Text="Uh… no, I’m pretty sure the door is locked." />
+    <Line ID="8" Text="Sorry for a strange question, but is this… the future? I mean, what year is it?" />
+    <Line ID="9" Text="Time is still, you say…?" />
+    <Line ID="10" Text="Are you familiar with a woman called Jackie? Me being here appears to be her idea of a joke." />
+    <Line ID="11" Text="Well, I’ll leave you to your thoughts." />
+    <Line ID="12" Text="Oh, you can leave through the front door in the hall anytime you want." />
+    <Line ID="13" Text="Feel free to, it’s unlocked. I left the door open because I’m waiting for someone." />
+    <Line ID="14" Text="Nonsense, I know I left it open. I’m not out of my mind yet." />
+    <Line ID="15" Text="Well, that’s a relief…" />
+    <Line ID="16" Text="Is there something else I can help you with?" />
+    <Line ID="17" Text="No, seriously, it’s closed. Check it yourself if you don’t believe me." />
+    <Line ID="18" Text="I can’t check it, I’m waiting for someone. But I can assure you, it is open. Now, is there something else I can help you with?" />
+    <Line ID="19" Text="What year? Oh, I always forget these things… but it can’t be the future. How can it be the future when time is still?" />
+    <Line ID="20" Text="Time is still. Nothing happens. Nothing good, but nothing bad either. And that’s the way I like it." />
+    <Line ID="21" Text="Never heard of her. We don’t get many visitors lately." />
+    <Line ID="22" Text="Excuse me, have you seen a man around here?" />
+    <Line ID="23" Text="No, why?" />
+    <Line ID="24" Text="What do you mean?" />
+    <Line ID="25" Text="Other than me, you mean?" />
+    <Line ID="26" Text="It’s just that I’m waiting for someone. A man from the agency. They promised someone will come to help, so I just sit here and wait." />
+    <Line ID="27" Text="Yes. You see, I’m waiting for someone. A man from the agency. They promised someone will come to help, so I just sit here and wait." />
+    <Line ID="28" Text="To help with what? Do you need something?" />
+    <Line ID="29" Text="No… nothing, really. Never mind, sorry to bother you." />
+    <Line ID="30" Text="No, no more men around, sorry." />
+    <Line ID="31" Text="No, that’s all right, sorry to bother you." />
+    <Line ID="33" Text="Do you need something else?" />
+    <Line ID="34" Text="I'll leave you to your thoughts." />
+    
+    <Line ID="35" Text="I met your daughter. She asked me to give you something." />
+    <Line ID="36" Text="I met your daughter, and in a stunning turn of events found myself to be her errand boy. She made you a gift." />
+    <Line ID="37" Text="What? No, wait, I… what?" />
+    <Line ID="38" Text="She is your daughter, right?" />
+    <Line ID="39" Text="She? Oh, no… I mean, yes… I mean…" />
+    <Line ID="40" Text="You don’t know whether she is your daughter or not?" />
+    <Line ID="41" Text="No." />
+    <Line ID="42" Text="Is there something wrong with her?" />
+    <Line ID="43" Text="No, not with her. There is something wrong with this whole place. But I seem to be forgetting what. Yes, everything is so unclear…" />
+    <Line ID="44" Text="Okay, now you’re getting legitimately creepy." />
+    <Line ID="45" Text="I’m sure proper illumination will cheer the place up." />
+    <Line ID="46" Text="“Unclear” is an understatement. Your house is so dark I can barely see my own hands." />
+    <Line ID="47" Text="Oh, sorry. It's just that they said someone’s gonna help, so I’m sitting here and waiting. Not much else to do." />
+    <Line ID="48" Text="Oh, sorry. I’m such a terrible housekeeper. It's just that they said someone’s gonna help, so I’m sitting here and waiting. Not much else to do." />
+    <Line ID="49" Text="So will you take the gift or not?" />
+    <Line ID="50" Text="What gift?" />
+    <Line ID="51" Text="Here, see? It’s a cake. Your daughter worked hard to make it." />
+    <Line ID="52" Text="The same gift I mentioned a moment ago; the gift your daughter made. Here." />
+    <Line ID="53" Text="(You hold out the girl's creation. The woman stares at it for a moment, then reluctantly takes the box.[pause] She looks inside with a pained expression, a mixture of fear and disgust on her face, as if her mischievous girl could hide a cockroach there. Something tells you she’s not going to enjoy her cake very much.)" />
+    <Line ID="54" Text="What do you think?" />
+    <Line ID="55" Text="(The woman suddenly starts fighting with tears) I… don’t know… it’s very… colorful…" />
+    <Line ID="56" Text="Well, I… I’ll leave you be." />
+    
+    <Line ID="57" Text="I've got something else for you." />
+    <Line ID="58" Text="What?" />
+    <Line ID="59" Text="Your daughter asked me to give you another gift. It’s a little more… um… imaginative this time." />
+    <Line ID="60" Text="Your little girl has quite an imagination, lady. Here’s an authentic doctor’s kit designed specifically for you." />
+    <Line ID="61" Text="Another present from your little one. She said you can stitch your troubles with these tools and then top it up with magical pills or something." />
+    <Line ID="62" Text="(You give the girl’s second work to her mother. The woman absentmindedly reaches out, but then her gaze falls upon the contents of the box, and her hand freezes in midair.[pause] She jerks, as if the gift slapped her across the face, and then suddenly lets out a howl.)[clear]Why are you doing this to me?! STOP! STOP, I BEG YOU!" />
+    <Line ID="65" Text="Calm down, lady, I’m not doing anything to you. I’m just passing along stuff made by your daughter." />
+    <Line ID="66" Text="Whoa, relax, it’s just a kids’ craft! Gee, I think I get why your daughter is so worried about you." />
+    <Line ID="67" Text="SHE’S NOT MY DAUGHTER! SHE’S MY MOTHER!" />
+    <Line ID="68" Text="Excuse me? Is there something I don’t understand, or are you just messing with me?" />
+    <Line ID="69" Text="What? She’s a little girl and you’re a grown-up woman. How can she be your mother?" />
+    <Line ID="70" Text="Really? How crazier can you get? She’s 10 years old tops." />
+    <Line ID="71" Text="Just look at her! Get a closer look! She’s no little girl! She’s an abomination!" />
+    <Line ID="72" Text="All right, calm down, I’ll do as you say. It’s hard enough without you wailing and yelling…" />
+    <Line ID="73" Text="You are insane, and I need to get out of here, fast. Maybe your daughter can still help." />
+    <Line ID="74" Text="Fine, I’ll humor you! But this madness is seriously getting on my nerves." />
+    
+    <Line ID="75" Text="Was it you who turned the TV on?" />
+    <Line ID="76" Text="The TV? Oh, yes… I mean, it's programmed to switch on at a certain time. I used to watch this show, but recently it's been only static. Or maybe it's just me…" />
+    <Line ID="77" Text="Yeah, maybe." />
+    	
+	<Line ID="90" Text="What?" />
+    <Line ID="91" Text="Lady, you’ve got some explaining to do. Why is your daughter covered with wrinkles? Is she not well?" />
+    <Line ID="92" Text="Is she really your mother? What happened to her?" />
+    <Line ID="93" Text="She’s not my daughter, she’s my mother, I already told you. But yes, she is seriously ill. A late stage of Alzheimer’s disease." />
+    <Line ID="94" Text="She is seriously ill. A late stage of Alzheimer’s disease." />
+    <Line ID="95" Text="Okay, even if I believe it for a moment… how can Alzheimer’s disease convince someone she is a little girl?" />
+    <Line ID="96" Text="Alzheimer's? Isn’t she a bit too stable and… convincing for Alzheimer's?" />
+    <Line ID="97" Text="That’s because it wasn’t just Alzheimer's. We tried a surgery.[pause] They can heal all kinds of terminal illnesses these days. Well, not Alzheimer’s yet, not officially. Still in a testing stage, but it’s open for public, if you’re willing to risk it.[pause] They said there’s 90% chance of success. That’s as good as certain, right?" />
+    <Line ID="98" Text="Well, strictly speaking, it's not. It just means 90% chance of success." />
+    <Line ID="99" Text="And I assume the surgery failed?" />
+    <Line ID="100" Text="What kind of crazy surgery was that to have such side effects?" />
+    <Line ID="101" Text="And before the surgery? She wasn’t a “little girl” before?" />
+    <Line ID="102" Text="But why stop talking with her altogether? She may be delusional, but she’s still your mother." />
+    <Line ID="103" Text="Why would you hate kids?" />
+    <Line ID="104" Text="So what are you going to do now?" />
+    <Line ID="105" Text="I need to think. I’ll be back." />
+    <Line ID="106" Text="I know… the doctors talked a lot about that. But how can you worry about statistics when your mother fades away in front of you?" />
+    <Line ID="107" Text="Y-yes… it is beyond repair. The doctors don’t know what went wrong and can’t do anything about it." />
+    <Line ID="108" Text="Brain surgery. And they are not side effects, they are results of failure. What can you do with a lab rat when the experiment goes wrong? Throw it away." />
+	<Line ID="109" Text="No, she was just… fading. Not recognizing me. Forgetting things. Forgetting how to talk. Drifting away." />
+    <Line ID="110" Text="Well, then it was even worse, right? I mean, at least she's all cheerful and innocent now." />
+    <Line ID="111" Text="No, it’s more horrible than ever. She’s delusional, and she acts like a kid. I hate kids." />
+    <Line ID="112" Text="No, I simply can’t talk with her, it’s a mockery. She’s a kid, and I hate kids." />
+    <Line ID="113" Text="Because they are a burden. They scream and shout and poop and pee and get sick all the time. They destroy your health and damage your psyche. They bleed their parents and then throw them away." />
+    <Line ID="114" Text="Wow, I’m feeling repulsed right now despite all your troubles." />
+    <Line ID="115" Text="Isn’t that a bit too much? You were a kid once too." />
+    <Line ID="116" Text="Finally, somebody says out loud what everyone is thinking." />
+    <Line ID="117" Text="You don’t understand. The only reason why we raise kids is because we need to have someone replace us after death and keep human race alive. But we’re practically immortal now. We won’t have to worry about kids much longer." />
+    <Line ID="118" Text="Oh no, I’m different. I never abandoned my mother. The only reason why we raise kids is because we need to have someone replace us after death and keep the human race alive. But we’re practically immortal now. We won’t have to worry about kids much longer." />
+    <Line ID="119" Text="The only reason why we raise kids is because we need to have someone replace us after death and keep the human race alive. But we’re practically immortal now. We won’t have to worry about kids much longer." />
+    <Line ID="120" Text="Nothing, I’ll just sit. They said the man from the agency can help me, but there is nothing left to do. If he comes, I’ll recommend him to sit down too." />
+    <Line ID="121" Text="What?" />
+	<Line ID="122" Text="I found a strange pill in the living room, alongside a booklet about euthanasia. Do you know anything about it?" />
+	<Line ID="123" Text="Euthanasia? I tried to get us a euthanasia pill, even to sneak one, but the doctors wouldn’t let me. They have dozens of chemicals that can kill you peacefully, but they’re very good at controlling who gets them.[pause] The agency said they can get me one, though; their man will have a pill. I wonder how it got there." />
+	<Line ID="124" Text="You tried to get one? You mean you want to euthanize your mother?" />
+	<Line ID="125" Text="I thought that might be the way. But I’ll never be able to do it. How can you feed death to your own mother and then watch as she falls asleep forever?[pause] Impossible. I’d rather sit here paralyzed till I fall asleep forever. Yes, that would be much better." />
+	<Line ID="126" Text="You don’t have to do it yourself. Theoretically, what if I give your mother the pill?" />
+	<Line ID="127" Text="No, of course not! It doesn’t matter who gives it to her, it’s just wrong!" />
+	<Line ID="128" Text="But you have to decide something!" />
+	<Line ID="129" Text="No, no, no, never, I can’t decide, I won’t decide. I will just sit here till it all works out by itself. Yes, it all works out in the end somehow." />
+	<Line ID="130" Text="You can’t just sit. You’ll both die if you just sit! That would be the worst way!" />
+	<Line ID="131" Text="Stupid woman… don’t you realize this has to end, one way or another?" />
+	<Line ID="132" Text="But why? Bad things happen when you try to do something. Nothing wrong will happen if I sit here." />
+	<Line ID="133" Text="But why? Things end only when something happens. As long as I sit here, nothing should happen at all." />
+	<Line ID="134" Text="Look, just… hear me out, okay? I know it’s hard, and you’re not even fully aware of your surroundings, but we need to talk it through." />
+	<Line ID="135" Text="Now listen up, lady, and listen closely, because I’m about to get enough of this." />
+	<Line ID="136" Text="Now listen up, lady, and listen closely… ugh, you won’t be convinced until we wallow in self-pity together, will you?" />
+	<Line ID="137" Text="Dammit, I can’t make such a decision for you! This is your family, your problem, your life!" />
+	<Line ID="138" Text="Carry on, then. I need some time anyway." />
+	<Line ID="139" Text="I need some time." />
+	<Line ID="140" Text="What?" />
+	<Line ID="141" Text="Don’t yell at me, please! They said the man from the agency will help… they said the man from the agency will help…" />
+	<Line ID="142" Text="…yes?" />
+	<Line ID="143" Text="You gonna get up from this chair, walk into your mother’s room, then talk and play together to her heart’s content. You need to suck it up, you hear me?" />
+	<Line ID="144" Text="I’m gonna convince your mother to take the pill. But after that, I want you to stop drifting out and return to life. You need to suck it up, you hear me?" />
+	<Line ID="145" Text="Ah, never mind, keep sitting." />
+	<Line ID="146" Text="All right." />
+	<Line ID="147" Text="Can I just sit here? I just want to sit here, want to s…" />
+	<Line ID="148" Text="And don’t give me this “sitting” bullshit, I’m tired of it! You think you have it hard? A lot of people have it hard!" />
+	<Line ID="149" Text="I… no… wait…" />
+	<Line ID="150" Text="Human mind is fragile. You can get crazy and delusional in a million of ways. Sometimes it looks like a nightmare coming true. But stopping and dying simply isn’t the way!" />
+	<Line ID="151" Text="Everybody has to die. Everybody has a mother. Many people have to watch their mothers die in sad, horrible, twisted ways. But dying alongside simply isn’t the way!" />
+	<Line ID="152" Text="No… no! Stop! Don’t talk to me like that!" />
+	<Line ID="153" Text="No, it’s you who need to sto…" />
+	<Line ID="154" Text="SHUT UP! Don’t talk to me! What do you suggest, to swallow all the dirt around and ask for more? To keep functioning like a goddamn robot when the world crashes around you?[pause] You suck it up yourself, mister! Get away from me, now!" />
+	<Line ID="155" Text="SHUT UP! Don’t talk to me! What do you suggest, to swallow all the dirt around and ask for more? To keep functioning like a goddamn robot when the world crashes around you?[pause] You suck it up yourself, mister! Get away from me, now![clear]And don’t you dare to approach my mother with that disgusting pill, you hear me?!" />
+	<Line ID="156" Text="…yes?" />
+	<Line ID="157" Text="I think you should go there and play along. Pretend like she’s your daughter now." />
+	<Line ID="158" Text="I think we should give your mother the pill. I can do it myself. It’s better this way." />
+	<Line ID="159" Text="Ah, never mind, keep sitting." />
+	<Line ID="160" Text="But I can’t. She thinks she’s a kid. I hate kids!" />
+	<Line ID="161" Text="She’s not a kid, she’s your mother. And she needs you, now more than ever. Isn’t it what being family is all about? To help each other no matter what?" />
+	<Line ID="162" Text="But… no, please… it’s too hard…" />
+	<Line ID="163" Text="It is hard. It is horribly, unbelievably hard. I think it will be a torture, and I can’t even fathom how you feel. But it’s a torture you need to endure together. Like a family." />
+	<Line ID="164" Text="Please… oh, I beg you, please…" />
+	<Line ID="165" Text="She would have been proud of you. A daughter that never abandoned her until the very end. Nobody could wish for a better daughter." />
+	<Line ID="166" Text="I… oh my God, I… I’ll try…" />
+	<Line ID="167" Text="Thank you. Now, just be careful. One step at a time." />
+	<Line ID="168" Text="But no, she’s still alive… right?" />
+	<Line ID="169" Text="She is suffering, I can see that. Shaking, coughing badly. Whatever’s keeping her cheerful as a little girl won’t last long; the disease will prevail. But you don’t have to go through that suffering. I think you both suffered enough already." />
+	<Line ID="170" Text="But it’s a suicide… I’m afraid…" />
+	<Line ID="171" Text="Don’t be. Suicide is just a choice. We make choices all the time. That’s all we can hope to do in this world: to keep changing something for the best. What’s wrong with one good final change?" />
+	<Line ID="172" Text="But she didn’t decide it… I would impose it on her…" />
+	<Line ID="173" Text="She can’t decide; she doesn’t know what’s happening. But you’re a family, and you can help her to make this choice. Isn’t it what being family is all about? To help each other no matter what?" />
+	<Line ID="174" Text="Oh… oh God, please forgive me… will you do that?" />
+	<Line ID="175" Text="I will. Trust me, I want to help." />
+	<Line ID="176" Text="Thank you…" />
+	
+	<Line ID="180" Text="Y-yes?" />
+	<Line ID="181" Text="It's done. She’s in a better place now." />
+	<Line ID="182" Text="I gave your mother the pill." />
+	<Line ID="183" Text="Was it… peaceful?" />
+	<Line ID="184" Text="As peaceful as it gets. I doubt she could have passed away so peacefully if you waited till the very end." />
+	<Line ID="185" Text="Who knows? But I bet it was better than lingering here." />
+	<Line ID="186" Text="Stupid kids… keep ruining my life even when I’m so old." />
+	<Line ID="187" Text="You know, I don’t think kids are that bad." />
+	<Line ID="188" Text="I feel like you deserve it." />
+	<Line ID="189" Text="Yeah, well… try not to sit here all the time now." />
+	<Line ID="190" Text="Whatever. I just want to leave this place already." />
+	<Line ID="191" Text="No, you’re wrong. They are a drain. A side effect of dying. We just need to stop dying completely to remove this side effect. Just a little more. Just a little more." />
+	<Line ID="192" Text="I don’t. Then again, I don’t feel much of anything anymore." />
+	<Line ID="193" Text="I will. Thank you." />
+	<Line ID="194" Text="Yes, that’s understandable. Goodbye." />
+  </List>
+</Text>

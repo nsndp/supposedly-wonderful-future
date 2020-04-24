@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Hello?" />
+  	<Line ID="1" Text="Greetings. Anne, I presume?" />
+  	<Line ID="2" Text="Hello, potential offender." />
+  	<Line ID="3" Text="Yes. And you are..?" />
+	<Line ID="4" Text="What…?" />
+  	<Line ID="5" Text="My name is Michael. I’m investigating the incident with Ashley." />
+	<Line ID="6" Text="I’m a representative from LIFE+. I trust you know why I contacted you." />
+	<Line ID="7" Text="Oh, right, I had a message about it. Thank you so much for taking this seriously. Ashley deserves all the help she can get. I’ll do my absolute best to help as well." />
+	<Line ID="8" Text="I hope you mean what you say. That’ll make my job much easier." />
+	<Line ID="9" Text="Any genuine assistance is appreciated. Just bear in mind that you are on our list of suspects." />
+	<Line ID="10" Text="There’ll be no need for that. You’re a suspect, not a witness." />
+	<Line ID="11" Text="Absolutely. I want to uncover the truth as much as you do." />
+	<Line ID="12" Text="I… I understand. Nevertheless, I want to uncover the truth as much as you do." />
+	
+	<Line ID="13" Text="Yes? Is there anything else I can do to help?" />
+	<Line ID="14" Text="Do you know why you are under suspicion?" />
+	<Line ID="15" Text="Tell me about your relationship with Ashley." />
+	<Line ID="16" Text="What is your role in the team?" />
+	<Line ID="17" Text="What do you think about the incident?" />
+	<Line ID="18" Text="I think you’re guilty, and I can tell you why." />
+	<Line ID="19" Text="That’s enough for the moment." />
+	
+	<Line ID="25" Text="Yes. I knew the password to Ashley’s account and could be the author of that horrible post. That’s true for others as well.[pause] The girl is so quick to trust people, sometimes it creates unnecessary problems." />
+	<Line ID="26" Text="Was there any particular reason why you knew her password? Why so many people knew?" />
+	<Line ID="27" Text="Unnecessary problems indeed…" />
+	<Line ID="28" Text="Reason? The fact that we’re working on the same project was enough reason for Ashley.[pause] She’s so eager to make it successful, she tried her hand at virtually every aspect of the show, and always developed some tricks and shortcuts for others to use in her stead.[pause] But she also never cared about security and never bothered to explore safe alternatives, like collaboration software and stuff… so whenever someone came to take the torch, she’d just tell them to go on and use her account." />
+	<Line ID="29" Text="Just please don’t brand her clueless or gullible because of that. Computers are all around us, but that doesn’t mean we all know how to properly use them.[pause] And like I said, she barely even considered that someone might take advantage of that." />
+	
+	<Line ID="30" Text="She’s like a sister to me." />
+	<Line ID="31" Text="Have you known each other for long?" />
+	<Line ID="32" Text="Do you feel protective of Ashley?" />
+	<Line ID="33" Text="How far would you go to protect her?" />
+	<Line ID="34" Text="She must be very lucky to have such a close friend." />
+	<Line ID="35" Text="What about other team members?" />
+	<Line ID="36" Text="I didn’t ask if you have anything against them. I just asked about your relationship." />
+	<Line ID="37" Text="What if there was a conflict between Ashley and another member of the team?" />
+	<Line ID="38" Text="All right, another question." />
+	<Line ID="39" Text="Yes, we’ve been friends since our childhood, actually." />
+	<Line ID="40" Text="Of course. It’s your duty to protect your little sister, right?" />
+	<Line ID="41" Text="As far as it takes." />
+	<Line ID="42" Text="How interesting." />
+	<Line ID="43" Text="Why? Wait, you don’t mean I faked her resignation because…[pause] this is ridiculous! What kind of protection is that? It was the opposite of protection!" />
+	<Line ID="44" Text="It might have looked like protection at first. A girl is getting hurt, and it’s a toxic environment, but she’s so caught up in work, she’ll never quit on her own… so someone has to help her. Just saying." />
+	<Line ID="45" Text="Relax, lady. If I want to accuse you, I’ll do it loud and clear." />
+	<Line ID="46" Text="I didn’t really mean anything. You drew your own conclusions. And that’s also interesting." />
+	<Line ID="47" Text="Even if it was true, I’d never impose my opinion on her in such a horrible way. I would talk, suggest, try to convince… but never make decisions for her." />
+	<Line ID="48" Text="Even when it creates unnecessary problems?" />
+	<Line ID="49" Text="Yes. I didn’t force her to stop sharing her account, did I?" />
+	<Line ID="50" Text="All right, sorry." />
+	<Line ID="51" Text="Well, of course I drew this conclusion, I’m a suspect here! It was hanging in the air." />
+	<Line ID="52" Text="Well, that’s up to her to decide… but I value our friendship greatly, and I try my best." />
+	<Line ID="53" Text="I… don’t really interact with most of them that much. But we’re a friendly team. I have nothing against them." />
+	<Line ID="54" Text="I apologize, that was a bad choice of words." />
+	<Line ID="55" Text="That’s a very hypothetical question." />
+	<Line ID="56" Text="Then give me a hypothetical answer." />
+	<Line ID="57" Text="Is it? I was under the impression that something like that happened just recently, at your last meet-up." />
+	<Line ID="58" Text="I’d side with Ashley, of course; she’s still much more important to me than others.[pause] But I respect our work, and I’d never let the team fall apart because of my loyalties. After all, a well-working team makes Ashley happy as well." />
+	<Line ID="59" Text="That’s right, but you said “what if,” and I…" />
+	<Line ID="60" Text="All right, answer however you like." />
+	<Line ID="61" Text="Just answer the question." />
+	<Line ID="62" Text="I sided with Ashley, of course. That guy had no right to impose on her so suddenly and insistently. It was harassment, plain and simple." />
+	<Line ID="63" Text="Yes?" />
+	
+	<Line ID="70" Text="I mostly work with the set. Decorations, lights, this kind of things.[pause] Ashley was so into this show, I initially joined just to keep her company. But I think I eventually came to appreciate it on its own." />
+	<Line ID="71" Text="What is Ashley’s role in the team?" />
+	<Line ID="72" Text="Pretty much everything else." />
+	<Line ID="73" Text="What about the rest?" />
+	<Line ID="74" Text="Then why do you have five more people working on the show?" />
+	<Line ID="75" Text="No, I mean, of course others are doing essential work as well.[pause] But Ashley is so dedicated and relentless, so ready to take anything head-on, you can’t help but feel she’s our main and only reason of success… even if it’s not entirely true." />
+	<Line ID="76" Text="It’s horrible, every single part of it. The impostor, the haters, her boss – I’m not sure who I’m mad at more. And it deteriorated so quickly, it feels like a bad dream.[pause] Do you have any leads? Please, she needs to wake up from it, and you are her best hope now." />
+	<Line ID="77" Text="What about you? You said you want to help. Prove it." />
+	<Line ID="78" Text="Did you talk to Daniel?" />
+	<Line ID="79" Text="Why? You think he did it?" />
+	<Line ID="80" Text="I did. He insists he has nothing to do with it." />
+	<Line ID="81" Text="I did. He plays dumb and denies any connection with the incident." />
+	<Line ID="82" Text="I wouldn’t believe everything he says if I were you. He’s capable of it, at the very least. Maybe on impulse, without realizing full consequences of his actions, but capable.[pause] Besides, his rude attempt to court Ashley is just too recent to be a simple coincidence… but I imagine you already thought of that." />
+	<Line ID="83" Text="I wouldn’t let him off the hook that easily if I were you. He’s capable of it, at the very least. Maybe on impulse, without realizing full consequences of his actions, but capable.[pause] Besides, his rude attempt to court Ashley is just too recent to be a simple coincidence… but I imagine you already thought of that." />
+	<Line ID="84" Text="I think he’s capable of it, at the very least. Maybe on impulse, without realizing full consequences of his actions, but capable.[pause] Besides, his rude attempt to court Ashley is just too recent to be a simple coincidence… but I imagine you already thought of that." />
+	
+	<Line ID="90" Text="What?" />
+	<Line ID="91" Text="I’m not saying you wanted to hurt her. You wanted to protect her. From overworking, from hanging out with wrong people, from being harassed… the episode with Daniel was probably the last straw. Arguing with Ashley was pointless, but if you could took the matter into your own hands…" />
+	<Line ID="92" Text="Well, I think it’s pretty obvious. Typical, even. A girl who works with untrustworthy characters, check. An overbearing friend who always worries about her, check. A well-intentioned scheme gone terribly wrong, check." />
+	<Line ID="93" Text="Hold that thought, I need to check something else first." />
+	<Line ID="94" Text="Very well…" />
+	<Line ID="95" Text="No, that’s not right. You can invent a motive for each of us, but that doesn’t make it right." />
+	<Line ID="96" Text="But it all fits. You never liked the other members of the team. You felt that Ashley deserves better; you always feel that. You wanted to give her a fresh start, even if it meant making her a bit upset first. You just underestimated how upset she’d be." />
+	<Line ID="97" Text="I’m not inventing anything, and we’re not talking about others, we’re talking about you. Your motive is solid. That’s enough for me." />
+	<Line ID="98" Text="Or maybe it wasn’t protection; maybe you’re just jealous. Jealous that Ashley is having a good time with someone who is not you. Maybe, after all these years of being best friends, you perceive her more as your possession than a real person. That happens." />
+	<Line ID="99" Text="Or maybe it wasn’t well-intentioned; maybe you’re just jealous. Jealous that Ashley is having a good time with someone who is not you. Maybe, after all these years of being best friends, you perceive her more as your possession than a real person. That happens." />
+	<Line ID="100" Text="Why… why are you doing this? Are you so completely out of clues that you’re grasping at anything remotely feasible?[pause] Or do you want to quickly close the case and go home? Do you even care about Ashley’s problems, or is it just a task to you, a box to tick?[pause] You corporate bureaucrats are so disconnected from ordinary people… Ashley deserves someone better to handle this. Please don’t call again; it’s clear that you can’t help us." />
+	<Line ID="101" Text="Don’t worry, I won’t." />
+	
+	<Line ID="105" Text="Yes? Can I help you with something else? I tried to cooperate with your colleague as much as possible, but he still left looking a bit disappointed." />
+	<Line ID="106" Text="We’ve found an interesting thing in your notes." />
+	<Line ID="107" Text="What thing?" />
+	<Line ID="108" Text="A list of rival shows’ contacts." />
+	<Line ID="109" Text="Oh, that… that is something I’m not proud of." />
+	<Line ID="110" Text="So you did want Ashley to leave the show." />
+	<Line ID="111" Text="I didn’t want it, but I considered the possibility. I respect this team, I really do, but Ashley is so important to me, I always feel like she deserves better. That business with Daniel didn’t help either.[pause] So I decided to do some research in advance; find an alternative where Ashley still could do what she loves but be surrounded by less dysfunctional people. Just in case, just to be on the safe side." />
+	<Line ID="112" Text="And?" />
+	<Line ID="113" Text="Only, whenever I brought myself to actually do it, I was starting to feel so guilty… like I’m not even giving them a chance, and I assume they’re failures even before they fail. So I would stop.[pause] But then Daniel would entertain us again with his egotistical behavior, so I would return to my research, but then feel guilty again, and so on… until this thing happened." />
+	<Line ID="114" Text="Is that why your browsing history is so strange?" />
+	<Line ID="115" Text="Why didn’t you throw the list away?" />
+	<Line ID="116" Text="What a neat and prepared explanation." />
+	<Line ID="117" Text="Enough about that." />
+	<Line ID="118" Text="Yes! You probably looked at it and thought that I deliberately tried to hide my search, but in truth, I was just torn about the issue." />
+	<Line ID="119" Text="To be honest, I didn’t want to touch it again. I was afraid to start thinking about it as some sort of retribution…[pause] I wanted to forget about it and concentrate on helping Ashley. So I just left it there, buried under the mess on my table." />
+	<Line ID="120" Text="Well, I did prepare it – once your colleague took my notes, and I realized what was among them. I’m just trying to be rational… holding to it, really." />
+	<Line ID="121" Text="Just please, if I could ask you one thing, don’t act solely on assumptions. I’m not trying to save myself; I’m trying to help Ashley.[pause] There must be something more clear and substantial about this case… there has to be." />
+  </List>
+</Text>

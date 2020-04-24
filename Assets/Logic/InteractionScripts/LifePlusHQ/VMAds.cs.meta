@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ebcc39bb272ad7643a1a47bf76d13b87
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - VMSandwich1: {fileID: 2100000, guid: 4e81395738a87414ca5857be0b66e548, type: 2}
+  - VMSandwich2: {fileID: 2100000, guid: 06c421f9fe30a1d49aa68f20a0387acc, type: 2}
+  - VMSandwich3: {fileID: 2100000, guid: 6cea963d93b1c7349a1d9d72b53cbbed, type: 2}
+  - VMSandwich4: {fileID: 2100000, guid: 502c59ef51662b444bd617a84a860535, type: 2}
+  - VMPizza1: {fileID: 2100000, guid: 3f4cca17ff48fd44db56d66123fd764c, type: 2}
+  - VMPizza2: {fileID: 2100000, guid: 76bf9b25dc84b9e4c808b2219757df15, type: 2}
+  - VMPizza3: {fileID: 2100000, guid: 6fd95c1d72b43434b8cde5964078780a, type: 2}
+  - VMCoffee1: {fileID: 2100000, guid: e05cd2b84f2295644a777d683648d339, type: 2}
+  - VMCoffee2: {fileID: 2100000, guid: f93262d740a637c46977aba674c6a6f2, type: 2}
+  - VMCoffee3: {fileID: 2100000, guid: a26f87295da58974cb2e5da962ff41f3, type: 2}
+  - VMCoffee4: {fileID: 2100000, guid: 92123c46c90c5db4b9aec7214763a522, type: 2}
+  - VMDessert1: {fileID: 2100000, guid: e2c5cabc0aea184408b385848e23d5ab, type: 2}
+  - VMDessert2: {fileID: 2100000, guid: 36a8d06f07970544c953f006f1e1c559, type: 2}
+  - VMDessert3: {fileID: 2100000, guid: 6fa0b22cb111ded448f9a8cfc03a15e4, type: 2}
+  - VMDessert4A: {fileID: 2100000, guid: da28f1f2d1bbfdd4698b4b523ff95008, type: 2}
+  - VMDessert4B: {fileID: 2100000, guid: 36d868d8d9a83cd4da36f83758c96079, type: 2}
+  - VMDessert5: {fileID: 2100000, guid: 32f32589e3c5ec34da83420072ae1d7e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

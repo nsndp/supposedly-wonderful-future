@@ -1,0 +1,5 @@
+floor textures from "Sleeping bed" unity asset
+(the one that's in the LIFE+ room)
+
+//the wood texture is nice too,
+//but not used anywhere in Singular, I think

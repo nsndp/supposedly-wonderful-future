@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Hello again, Michael. Are you satisfied with the accommodation?" />
+	<Line ID="1" Text="Completely. Your headquarters are pretty neat." />
+	<Line ID="2" Text="Yeah, I guess so. It’s functional." />
+	<Line ID="3" Text="It’s only for five days, right? I can tolerate as much." />
+	<Line ID="4" Text="It’s only for three more days, right? I can tolerate as much." />
+	<Line ID="5" Text="Good to hear." />
+	<Line ID="6" Text="I have a couple of questions." />
+	<Line ID="7" Text="So, can I just ask you whatever comes into my mind?" />
+	<Line ID="8" Text="Anyway, I’m just looking around." />
+	<Line ID="9" Text="Of course, I’ll be glad to answer. I feel bad about restricting your movements so much, to be honest… that’s the least I can do to compensate." />
+	<Line ID="10" Text="Of course. I feel bad about restricting your movements so much, to be honest… that’s the least I can do to compensate.[pause] We can chat for hours if you want. Or we can do it tomorrow, or the day after that, or do a little bit every night; the choice is yours." />
+	<Line ID="11" Text="Sure thing. If you need anything else, you know where to find me." />
+	<Line ID="12" Text="Hello again." />
+	<Line ID="13" Text="I’m just looking around." />
+	
+	<Line ID="15" Text="Hello again. Didn’t you want to change the scenery?" />
+	<Line ID="16" Text="I changed my mind instead. Hope it’s not much trouble." />
+	<Line ID="17" Text="I did, but then I realized that I’m bored and have nothing better to do." />
+	<Line ID="18" Text="Eh, turns out the new scenery is just as lousy as this one." />
+	<Line ID="19" Text="It’s no trouble at all." />
+	<Line ID="20" Text="That was my plan all along! …is what I would say if it was true, but it isn’t. I can tell you all kinds of other things that are true, though; just ask." />
+	<Line ID="21" Text="I feel your pain. Perhaps learning more about the future can alleviate your suffering?" />
+	
+	<Line ID="23" Text="Hey, Michael. What's up?" />
+	<Line ID="24" Text="Hey, Michael. Back with more questions?" />
+	<Line ID="25" Text="If you don’t mind." />
+	<Line ID="26" Text="Yes, please." />
+	<Line ID="27" Text="No, I’m just looking around." />
+	<Line ID="28" Text="Not in the slightest. In fact, I enjoy them." />
+	<Line ID="29" Text="Of course. Ask me anything you like." />
+	<Line ID="30" Text="Hey, Michael. Another night, eh?" />
+		
+	<Line ID="32" Text="Hey, Michael. Haven’t seen you around here at night before." />
+	<Line ID="33" Text="I was preoccupied with… all the other stuff." />
+	<Line ID="34" Text="I didn’t realize there was anything worthwhile to do." />
+	<Line ID="35" Text="Yeah, that’s completely understandable." />
+	<Line ID="36" Text="Well, that still might be true. The only allegedly interesting thing here is my persona. But if you want to talk about something, just say the word." />
+	<Line ID="37" Text="Of course. I feel bad about restricting your movements so much, to be honest… that’s the least I can do to compensate. We can chat for hours if you want." />
+	
+	<Line ID="40" Text="Oh… hello again." />
+	<Line ID="41" Text="Something on your mind?" />
+	<Line ID="42" Text="Not working today?" />
+	<Line ID="43" Text="No, not really, just having a break. I can afford to, since the project is almost over.[pause] Staring out of the window and letting my mind wander… it’s relaxing. Anyway, do you have any questions?" />
+	<Line ID="44" Text="I am, just not as much as before. The project is almost over, so I can afford to take breaks.[pause] Staring out of the window and letting my mind wander… it’s relaxing. Anyway, do you have any questions?" />
+	<Line ID="45" Text="Actually, no. I think I’ve heard everything I need." />
+	<Line ID="46" Text="I see… well, I hope my explanations were at least of some value.[pause] Shall we stare at the night city together, then? When your work involves talking as much as I do, silence feels all the more precious." />
+	<Line ID="47" Text="Good idea." />
+	<Line ID="48" Text="I’ll pass… but thanks for the offer." />
+	
+	<Line ID="50" Text="I’m just looking around." />
+	<Line ID="51" Text="That’s all I’ve got." />
+	<Line ID="52" Text="Sure thing. If you need anything else, you know where to find me." />
+	<Line ID="53" Text="Hello again." />
+		
+	<Line ID="55" Text="Where are we, geographically?" />
+	<Line ID="56" Text="Still on Earth." />
+	<Line ID="57" Text="Well, that’s a relief." />
+	<Line ID="58" Text="Oh, come on, you know what I mean." />
+	<Line ID="59" Text="Does it matter?" />
+	<Line ID="60" Text="Of course it does!" />
+	<Line ID="61" Text="I don’t know. You think it doesn’t?" />
+	<Line ID="62" Text="Do any of my questions matter? Just trying to understand this place. I was under the impression that’s exactly what you want me to do." />
+	<Line ID="63" Text="I’m sorry… I guess I’m still under the spell of my short visit to 2018, afraid of people projecting all kinds of stereotypes from a mere physical location. It’s Hong Kong." />
+	<Line ID="64" Text="Ni hao!" />
+	<Line ID="65" Text="Thought so." />
+	<Line ID="66" Text="Yeah, it’s fine as long as it’s just a harmless joke… sadly, some people never stop there.[pause] But it honestly doesn’t matter. We could have been in Singapore, Chicago, Jakarta, Stockholm, Moscow, or Mexico City just as easily.[pause] Pick any densely populated city, and you’ll get a melting pot of cultures and a bustling view of people from all around the world as they move across the globe." />
+	<Line ID="67" Text="Yeah, it’s nothing if not recognizable. We’re almost right on top of Victoria Peak.[pause] But it honestly doesn’t matter. We could have been in Singapore, Chicago, Jakarta, Stockholm, Moscow, or Mexico City just as easily.[pause] Pick any densely populated city, and you’ll get a melting pot of cultures and a bustling view of people from all around the world as they move across the globe." />
+	<Line ID="68" Text="It looks the same." />
+	<Line ID="69" Text="No, I mean it looks exactly the same." />
+	<Line ID="70" Text="And I assume everyone speaks English." />
+	<Line ID="71" Text="Isn’t it bad for privacy to have headquarters in the middle of a hot tourist spot?" />
+	<Line ID="72" Text="Got it." />
+	<Line ID="73" Text="Yeah, the Peak’s panorama didn’t change much." />
+	<Line ID="74" Text="Well, I’m not sure what else to say. I guess this area was already densely developed by late 2010s, so it didn’t see a lot of construction work since then.[pause] Some places had a much larger growth, like Shenzhen or Guangzhou nearby – you’ll find their skylines just as impressive and expansive if you go there.[pause] Still, Hong Kong remains one of the richest. Not that we take any particular pleasure in sitting atop of all this luxury, but, you know… business realities. Plus, you can’t argue with the view." />
+	<Line ID="75" Text="Of course. English is an official language here, along with Cantonese and Mandarin. Most of the locals are pretty much bilingual." />
+	<Line ID="76" Text="No, it’s actually pretty convenient. Hiding in plain sight, so to speak.[pause] Most people view our fancy building just as another local landmark. They might wonder what kind of things are going on inside for a moment or two, but then they are distracted by other, more interesting attractions." />
+	<Line ID="77" Text="Anything else on your mind?" />
+	
+	<Line ID="85" Text="This doesn’t look like the future." />
+	<Line ID="86" Text="It’s not about the looks." />
+	<Line ID="87" Text="What’s it about, then?" />
+	<Line ID="88" Text="No, really. It looks exactly the same as my time." />
+	<Line ID="89" Text="I think it’s more about intangible stuff. Views, agendas, ideas… shifts in our collective consciousness." />
+	<Line ID="90" Text="I’m sure there are enough small differences here and there; it’s just hard to notice them when we restrict you to a couple of small rooms.[pause] But showcasing environments is not the focus of our project. We’re after intangible stuff: views, agendas, ideas. Shifts in our collective consciousness." />
+	<Line ID="91" Text="Is that a fancy way of saying nothing’s changed?" />
+	<Line ID="92" Text="That’s an interesting way to look at things." />
+	<Line ID="93" Text="That doesn’t make much sense." />
+	<Line ID="94" Text="No, it’s a fancy way of saying that you can’t always see changes with the naked eye. But if the internet taught us anything, it’s that the most invisible changes are often the most profound ones.[pause] Science fiction of the past depicted us in flying cars and weird garments, building huge cities with flashy technology on every corner.[clear]But when the time came, we were wearing the same clothes, living in the same houses, and eating the same food, yet our way of interacting with reality – how we acquire information, learn, solve problems, cooperate with each other, share feelings – was fundamentally changed forever." />
+	<Line ID="95" Text="What I mean is, you can’t always see changes with the naked eye. But if the internet taught us anything, it’s that the most invisible changes are often the most profound ones.[pause] Science fiction of the past depicted us in flying cars and weird garments, building huge cities with flashy technology on every corner.[clear]But when the time came, we were wearing the same clothes, living in the same houses, and eating the same food, yet our way of interacting with reality – how we acquire information, learn, solve problems, cooperate with each other, share feelings – was fundamentally changed forever." />
+	<Line ID="96" Text="My point is, you can’t always see changes with the naked eye. But if the internet taught us anything, it’s that the most invisible changes are often the most profound ones.[pause] Science fiction of the past depicted us in flying cars and weird garments, building huge cities with flashy technology on every corner.[clear]But when the time came, we were wearing the same clothes, living in the same houses, and eating the same food, yet our way of interacting with reality – how we acquire information, learn, solve problems, cooperate with each other, share feelings – was fundamentally changed forever." />
+	<Line ID="97" Text="So what was fundamentally changed this time?" />
+	<Line ID="98" Text="I think you’re giving the internet too much credit." />
+	<Line ID="99" Text="Nice to see somebody looking past cat gifs." />
+	<Line ID="100" Text="Let’s change the topic for now." />
+	<Line ID="101" Text="Sure." />
+	<Line ID="102" Text="It’s a matter of opinion, of course. It’s never easy to tell what’s causing changes; many factors are always at play.[pause] But I honestly believe the internet’s role cannot be overstated. It allowed us to interact with people all across the planet and realize that we have so much in common.[pause] Without it, we’d never have the world like this: interconnected, united, equal." />
+	<Line ID="103" Text="You shouldn’t blame them; it’s really hard to look past cat gifs. I, for one, couldn’t take my eyes off the stuff." />
+	<Line ID="104" Text="This time is a great triumph for science.[pause] Speak with the scientists of your time – they’ll tell you about wonderful things they’re working on, but they’ll also remind you how slow the process can be.[pause] It takes years to advance research and discover something beneficial to society, let alone get a working solution and make it available for general public. Frequently, you can’t even concern yourself with practical applications – theory comes first.[clear]This leads to a certain distance between researchers and others. The former would cheer about a new discovery, but the latter would say: well, why should we care? How can Higgs boson or gravitational waves help me in life?[pause] They can’t; not immediately. You need to give science more time, and many people aren’t ready to do that. They’d rather place their faith in something else – religion, for example – and teach their kids that science is not so important.[clear]And when there is a perception that science is not so important, there are fewer bright minds pursuing careers in science, and fewer governments willing to allocate money for it.[pause] Research gets underhanded, underfunded, and slows down even more. This leads to more skepticism among common folk, and… well, you can see a vicious circle shaping up." />
+	<Line ID="105" Text="Go on." />
+	<Line ID="106" Text="Your point being…?" />
+	<Line ID="107" Text="In the mid-20s, the newly founded LIFE+ decided to change that.[pause] We poured resources into science – not government grants, but corporate revenue; a kind of money that rarely went into fundamental research. We gave them cutting-edge equipment and maximum freedom, along with the highest salaries we could afford.[pause] And it sorta worked. The cycle accelerated. Practical results were coming faster.[clear]But best of all, it managed to reverse the social dynamic. It’s hard to argue with the advances of the past 20 years, and the pace of delivery has satisfied all but the most demanding individuals.[pause] Theoretical scientist is one of the most prestigious professions in the world now. People believe in scientific solutions to their troubles, and have less need to seek relief in philosophy or spirituality." />
+	<Line ID="108" Text="So you basically threw money at the problem until it went away." />
+	<Line ID="109" Text="Poured resources, eh? What a grand gesture from a commercial organization." />
+	<Line ID="110" Text="So no space for religion anymore?" />
+	<Line ID="111" Text="What’s wrong with seeking relief in spirituality?" />
+	<Line ID="112" Text="I think there’s an important aspect missing from your story: private funding always comes with strings attached." />
+	<Line ID="113" Text="I get the picture." />
+	<Line ID="114" Text="You could say that. Then again, you can either throw money or time, right?[pause] And even when you throw money, you actually ask others to throw their time instead. So I just like to think we encouraged more people to follow paths helpful to humanity." />
+	<Line ID="115" Text="Well, who do you think have the sale rights to all their marvelous inventions now? It was very much about profit, I assure you. Just more long-term profit." />
+	<Line ID="116" Text="There is always space for religion; I just think people prefer to combine their strong points together now, instead of viewing them as alternatives.[pause] Science is science. Religion is religion. Both good. Both help, in their own ways." />
+	<Line ID="117" Text="Oh, I didn’t mean it this way. What I meant is that it’s much less customary to rely on religious explanations for every facet of your life. Of course, the opposite is equally true – science can never promise to explain the entire world.[pause] And that’s fine. We shouldn’t seek all answers from a singular source; we should explore different ways of thinking." />
+	<Line ID="118" Text="You think government funding doesn’t? Everyone has an agenda, Michael. But these agendas gradually became less short-sighted." />
+	<Line ID="119" Text="Just like that? Everyone just learned to resist the allure of quickly getting rich?" />
+	<Line ID="120" Text="Short-sighted or not, corporations are all about profit." />
+	<Line ID="121" Text="Still, corporate money proved to be more trouble. A pharmaceutical company would always invest into high-priced drugs, not better drugs." />
+	<Line ID="122" Text="I think it’s less about individual urges and more about how society works. Things you could do 40 years ago, you just can’t get away with anymore.[pause] You can still get filthy rich. But you can’t be such a dick about it." />
+	<Line ID="123" Text="That doesn’t mean they’re anti-people. You can make lives better and still earn money in the process. It’s possible to combine the best from these two seemingly incompatible worlds." />
+	<Line ID="124" Text="It won’t if drugs are not the only thing it sells. Maybe it sells other products that rely on people having healthy lives? Being big does mean you get more flexibility." />
+	<Line ID="125" Text="Do bear in mind that this is all just my perspective, though.[pause] I work with scientists, so that’s the part of the world I experience most. I’m sure different people have different views on what exactly defines our age." />
+	<Line ID="126" Text="You mentioned fundamental changes before… what changed this time?" />
+	
+	<Line ID="135" Text="Are you, like, a big boss around here? Or the only boss?" />
+	<Line ID="136" Text="No, neither; I’m just a high-ranking project manager. We have a load of executives working day and night within this very building, plus shareholders coming in for regular meetings." />
+	<Line ID="137" Text="Do these executives have names?" />
+	<Line ID="138" Text="Sure, but I don’t think I should bother you with them, since they are ultimately inconsequential to our business here. Most of the top brass have no idea about this project – that’s how under wraps it is – and those who do are way too busy with their own stuff.[pause] The only exception is our CEO Michael, who’s currently trying to clear up his schedule to join us for the final problem… wants a piece of the poignant finale for himself, no doubt." />
+	<Line ID="139" Text="What’s he like?" />
+	<Line ID="140" Text="Is that why you really brought me here? Because I have your CEO’s name?" />
+	<Line ID="141" Text="He’s a cool guy. Smart, funny, laid-back. I’m sure you’ll get along." />
+	<Line ID="142" Text="No, I’m sure we had dozens of other candidates with our CEO’s name. We chose you because you’re smart and handsome." />
+	<Line ID="143" Text="I was hoping you’d finally say that aloud." />
+	<Line ID="144" Text="Yeah, right." />
+	<Line ID="145" Text="We aim to please." />
+	<Line ID="146" Text="Sorry, I couldn’t resist." />
+	
+	<Line ID="150" Text="Why do you keep hanging around an elevator lobby? Don’t you have an office?" />
+	<Line ID="151" Text="I do. I just like it here more." />
+	<Line ID="152" Text="Any particular reason why?" />
+	<Line ID="153" Text="You don’t have the same view out of your office?" />
+	<Line ID="154" Text="Must be a big office, too, filled with expensive furniture. Such a waste of good space." />
+	<Line ID="155" Text="Okay, I get it." />
+	<Line ID="156" Text="Eh, hard to say. There was a time when I was flying around the world non-stop, working out of hotel lobbies.[pause] It’s not as romantic as it might sound, but I still liked it much better than returning to the same office every day, so maybe I’m trying to recreate the feeling. Or maybe I just like the view." />
+	<Line ID="157" Text="No, my place is further down the hallway; the windows overlook the opposite side. It’s still pretty much a postcard material, but nowhere near as iconic." />
+	<Line ID="158" Text="It’s not that big and expensive. It may be kinda elitist to have a whole floor only for execs and other select few, but it’s an exercise in privacy rather than luxury. Generally, we try to spend money on the stuff that matters." />
+	<Line ID="159" Text="Anything else on your mind?" />
+	
+	<Line ID="170" Text="About that conversation back at my office…" />
+	<Line ID="171" Text="If you want to remind me how embarrassing it was, don’t. I remember all too well." />
+	<Line ID="172" Text="Actually, it’s the opposite – I wanted to apologize. I was a bit of an ass during our first conversation." />
+	<Line ID="173" Text="Embarrassing? I thought you were as convincing and professional as it gets." />
+	<Line ID="174" Text="I thought you were as convincing and professional as it gets." />
+	<Line ID="175" Text="I liked it. You were cute." />
+	<Line ID="176" Text="I don’t think it was any more embarrassing that the rest of this project." />
+	<Line ID="177" Text="I kinda half-assumed it was an act. You know, to appear a bit vulnerable… make me more susceptible and sympathetic to your cause." />
+	<Line ID="178" Text="Oh, don’t worry about it. I didn’t exactly make a good first impression myself." />
+	<Line ID="179" Text="When I managed to get a hold of myself, maybe. But that beginning was a disaster.[pause] And over such a small stupid thing… I put so much faith in planning, I completely forgot how to improvise." />
+	<Line ID="180" Text="“Cute” is hardly a proper characteristic for an employee conducting crucial negotiations. I mean, sure, eventually I managed to get a hold of myself, but that beginning was a disaster.[pause] And over such a small stupid thing… I put so much faith in planning, I completely forgot how to improvise." />
+	<Line ID="181" Text="Oh, I beg to differ, that was on a different level. I mean, sure, eventually I managed to get a hold of myself, but that beginning was a disaster.[pause] And over such a small stupid thing… I put so much faith in planning, I completely forgot how to improvise." />
+	<Line ID="182" Text="Please, you’re giving me too much credit. I usually count on being earnest rather than calculating in my interactions with people, even when a big part of the company’s future is at stake… but that was not a good example.[pause] And over such a small stupid thing… I put so much faith in planning, I completely forgot how to improvise." />
+	<Line ID="183" Text="What was that small stupid thing, again?" />
+	<Line ID="184" Text="Well, I was supposed to appear in a specified location, follow a predetermined route to your office, and knock on your door at exactly 11:15.[pause] The first part was a success, but when I reached the area around your building, I saw different streets; our map was wrong for some reason.[pause] I knew that any little deviation meant higher chances of unexpected consequences, and with so much at stake, I started to panic. Still made it in time in the end, but it was pretty troublesome… and sweaty." />
+	<Line ID="185" Text="Sounds like something worth panicking about." />
+	<Line ID="186" Text="Did you start asking for directions?" />
+	<Line ID="187" Text="Serves you right for trying to predict every single detail." />
+	<Line ID="188" Text="In retrospect, it wasn’t. We planned for all kinds of contingencies, of course; what I call “unexpected consequences” was never a real danger.[pause] It was more about my own hang-ups – wanting to do it perfectly, you know, just to be on the safe side. As if the most complex and reliable calculations in the history of mankind were not good enough for me." />
+	<Line ID="189" Text="I did, and there was nothing wrong with that – it’s not like a ten-second conversation with a total stranger could affect anyone’s future. We planned for all kinds of contingencies; what I call “unexpected consequences” was never a real danger.[pause] But me and my own hang-ups… no, I wanted to do it perfectly, just to be on the safe side. As if the most complex and reliable calculations in the history of mankind were not good enough for me." />
+	<Line ID="190" Text="If by “you” you mean me and my own personal hang-ups, I agree. We had planned for all kinds of contingencies, of course; what I call “unexpected consequences” was never a real danger.[pause] But I wanted to do it perfectly, just to be on the safe side. As if the most complex and reliable calculations in the history of mankind were not good enough for me." />
+	<Line ID="191" Text="Do you know why your map was wrong?" />
+	<Line ID="192" Text="Why were you dressed so formally?" />
+	<Line ID="193" Text="You kept calling me “mister” back then. Now we’re on the first-name basis." />
+	<Line ID="194" Text="I noticed you were getting nervous during our walk, too." />
+	<Line ID="195" Text="Could have been anything, really. Back in the 10s, it was not uncommon for geodata to be imprecise or out of date, especially for smaller alleyways and backstreets.[pause] If it’s satellite imagery, it’s a subject to resolution limitations, and if it’s not, there wasn’t any proper way to double-check it. I vaguely remember someone mentioning all this during the planning phase, but I guess it got glossed over." />
+	<Line ID="196" Text="Because everyone is supposed to dress like that in 2018, of course. It’s amazing how mere 30 years can totally wreck your commonsense knowledge of contemporary fashion trends." />
+	<Line ID="197" Text="You’re being sarcastic." />
+	<Line ID="198" Text="How unfortunate." />
+	<Line ID="199" Text="Yes, I’m being sarcastic, Michael. It was a terrible idea to dress like that. I could’ve used one of my usual outfits, and nobody would’ve said a word.[pause] Instead, I forced myself to wear that… anti-splits thingie. It was NOT comfortable." />
+	<Line ID="200" Text="No kidding. It was a terrible idea to dress like that. I could’ve used one of my usual outfits, and nobody would’ve said a word.[pause] Instead, I forced myself to wear that… anti-splits thingie. It was NOT comfortable." />
+	<Line ID="201" Text="Are you saying nobody wears tight skirts around here?" />
+	<Line ID="202" Text="Why would you need to do splits?" />
+	<Line ID="203" Text="Maybe the size was too small." />
+	<Line ID="204" Text="Some do. But people do all kinds of crazy things, right?" />
+	<Line ID="205" Text="Oh, we all do splits routinely while we sit in front of the screens. It’s the latest trend in office ergonomics; supposed to be very good for your back.[pause] And… yeah, sorry, I’m getting all worked up and I should probably stop. Stupid skirts." />
+	<Line ID="206" Text="Doubtful. I’m just not used to it, and I refuse to get used. A personal quirk, I guess." />
+	<Line ID="207" Text="Do you dislike it? I thought the switch was appropriate, since we officially started to work together – you know, to celebrate the fact we’re not total strangers anymore.[pause] I sure enjoy having people in my life who are not total strangers." />
+	<Line ID="208" Text="Yeah, that was when I stopped being completely absorbed with the task and started to take proper notice of my surroundings.[pause] It was pretty uncanny to walk the streets of 2018. I’m glad we did, though. I… needed a reminder." />
+	<Line ID="209" Text="Of what?" />
+	<Line ID="210" Text="Of how I feel about the past, and how I feel about the present, and what is the difference." />
+	<Line ID="211" Text="How can a ten-minute walk do that?" />
+	<Line ID="212" Text="Is it about the triumph of science we discussed earlier?" />
+	<Line ID="213" Text="Wanna share the results?" />
+	<Line ID="214" Text="Oh, it wasn’t the walk itself, of course. The walk was just a trigger for my memories. And sure enough, as we made our way through the crowd, they started to resurface, clearer than ever." />
+	<Line ID="215" Text="No, this is a bit different; I can’t support it with hard facts. It’s something more subjective and personal." />
+	<Line ID="216" Text="Well, it feels like… people care about people today. There are fewer generalizations and less stereotyping. We learned to look at each other and see past the colors of the skin, or nationalities, or political views.[pause] We see human beings, and accept that they are every bit as complex as we are. Each of us is a mess of thoughts, ideas, plans, emotions, and that’s okay.[clear]I mean, the rational part of my brain says it’s just wishful thinking. It’s impossible for 9 billion of humans to just magically get rid of bias in 30 years, and it’s equally not right to view 7 billion from 2018 as one giant pool of prejudice.[pause] I criticize generalizations, yet I generalize myself – and as the famous saying goes, “all generalizations are false, including this one.”[clear]But it’s still important to me. It speaks to me on a deeper level, and reminds me: carry on, you’re moving in the right direction.[pause] It gives me an emotional boost when cerebral boosts are not enough… I simply feel that something is right here, something that wasn’t right back there. It probably sounds stupid." />
+	<Line ID="217" Text="It doesn’t. The most important things are frequently hard to put into words." />
+	<Line ID="218" Text="A bit. But hey, who am I to judge? I sound stupid all the time." />
+	<Line ID="219" Text="Whatever gets you through the night, I guess." />
+	<Line ID="220" Text="Thanks. But you – you don’t seem to have any problems with words. On the contrary, you say a lot of wonderful and wise things.[pause] It’s almost as if we lose something precious with each passing generation, not only acquire. A scary thought." />
+	<Line ID="221" Text="Oh, don’t be modest. You say a lot of wonderful and wise things.[pause] It’s almost as if we lose something precious with each passing generation, not only acquire. A scary thought." />
+	<Line ID="222" Text="I guess. But you – you don’t seem to have any problems with words. On the contrary, you say a lot of insightful things.[pause] It’s almost as if we lose something precious with each passing generation, not only acquire. A scary thought." />
+	<Line ID="223" Text="But you’re going to fix it with experiments like me, right?" />
+	<Line ID="224" Text="Nothing to do with generations. I’m just smart." />
+	<Line ID="225" Text="But an obvious one. “Newer” doesn’t mean “better.”" />
+	<Line ID="226" Text="I sure hope so." />
+	<Line ID="227" Text="And modest. But wait, I just told you not to be modest. You got me there." />
+	<Line ID="228" Text="See? Like a smart guy." />
+	<Line ID="229" Text="I’m also handsome and generous and polite and smell good… should I keep being not modest?" />
+	<Line ID="230" Text="Just don’t let it get to your head." />
+	<Line ID="231" Text="Nah, that’s probably enough for now." />
+	<Line ID="232" Text="And modest." />
+	<Line ID="233" Text="And handsome too." />
+	<Line ID="234" Text="And handsome too." />
+	<Line ID="235" Text="Yeah… kinda contradicts my convenient conclusions, eh? But I’m afraid I’m too stubborn to stop believing in them." />
+	
+	<Line ID="244" Text="So… time traveling." />
+	<Line ID="245" Text="Yep." />
+	<Line ID="246" Text="Pretty crazy, huh?" />
+	<Line ID="247" Text="I still can’t believe it’s 2048." />
+	<Line ID="248" Text="One day, you just woke up in a world where your scientists have figured it out." />
+	<Line ID="249" Text="Tell me about it." />
+	<Line ID="250" Text="Actually, I was hoping you could tell me about it… about this strange little project." />
+	<Line ID="251" Text="I think it should be the other way around." />
+	<Line ID="252" Text="I’ll be glad to." />
+	<Line ID="253" Text="I agree." />
+	<Line ID="254" Text="Did you really mean it back at my office? After we’re done with work, you want me to stay and live here?" />
+	<Line ID="255" Text="Absolutely. The choice is yours, of course. But the project makes more sense if you decide to stick around." />
+	<Line ID="256" Text="And you’re not going to stop there, are you? You intend to repeat the same thing with the other candidates." />
+	<Line ID="257" Text="Exactly. Like I said before, it’s a long-term project. You are the first, but not the last. Not even remotely the last, if all goes well." />
+	<Line ID="258" Text="Exactly. It’s a long-term project. You are the first, but not the last. Not even remotely the last, if all goes well." />
+	<Line ID="259" Text="But why? Of all the things you could do with a time machine in your hands, why this?" />
+	<Line ID="260" Text="That’s very easy to understand." />
+	<Line ID="261" Text="I’m not even sure I left L.A. This view could be a print-out plastered on the other side of the window, for all I know." />
+	<Line ID="262" Text="Well, it does look like one to me from time to time. I first set foot in this building, um… 15 years ago, probably? And it’s barely changed since then.[pause] But maybe it’s a good thing. You know, when stuff changes little by little, with us barely noticing it. I think it’s the only kind of change people are entirely comfortable with." />
+	<Line ID="263" Text="I know what you mean. It’s the kind with the least amount of collateral damage." />
+	<Line ID="264" Text="Yeah, and only because it tricks them into thinking there’s no change at all." />
+	<Line ID="265" Text="That was a joke, you know. No need to get all philosophical right from the start." />
+	<Line ID="266" Text="Yeah, sorry. Looking at cities’ skylines from high points makes me contemplative." />
+	<Line ID="267" Text="Did you… really mean it back at my office? After we’re done with the work, you want me stay and live here?" />
+	<Line ID="268" Text="Exactly." />
+	<Line ID="269" Text="Yeah, maybe. But, of course, the change is always there, whether we notice it or not." />
+	<Line ID="270" Text="Yet it’s not the kind of change you’re introducing to the world now. You bring me from the past, even though I’m supposed to be dead in 2048, and you intend to let me stay. Or was it all just a wild story to lure me in?" />
+	<Line ID="271" Text="Is that why you decided to roll with it? Because this project is one hell of a change. You bring me from the past, even though I’m supposed to be dead in 2048, and you intend to let me stay. Or was it all just a wild story to lure me in?" />
+	<Line ID="272" Text="Not, it was a completely true story to lure you in. On Friday, the choice will be yours, but we’d be glad if you decide to live here.[pause] And, like I said before, we don’t plan to stop with you. We want to give more people a chance to see this future." />
+	<Line ID="273" Text="Not, it was a completely true story to lure you in. On Friday, the choice will be yours, but we’d be glad if you decide to live here.[pause] And we don’t plan to stop with you. We want to give more people a chance to see this future." />
+	<Line ID="274" Text="But why? Of all the things you could do with a time machine in your hands, why this?" />
+	<Line ID="275" Text="Yep." />
+	<Line ID="276" Text="Then, you started to think how to use it." />
+	<Line ID="277" Text="Yep." />
+	<Line ID="278" Text="And of all possible applications, of all countless possibilities, you chose to bring me from the past. Someone who should’ve been dead by now." />
+	<Line ID="279" Text="Yep." />
+	<Line ID="280" Text="And you don’t plan to stop there. You’ll bring more people, and work with them like you do now with me, and then allow them to stay." />
+	<Line ID="281" Text="And you don’t plan to stop there, I assume. You’ll bring more people, and work with them like you do now with me, and then allow them to stay." />
+	<Line ID="282" Text="Yep." />
+	<Line ID="283" Text="Why?" />
+	<Line ID="290" Text="Well, it’s… the right thing to do. The most responsible thing. I mean, what’s so alluring about time traveling, anyway? Why would we want to use it?[pause] Because it gives us a chance to change something; something that can’t be changed any other way. But when you look at most of our troubles, there are plenty of alternative – and much safer – ways to solve them.[pause] The only thing we can’t solve differently is an occurred death.[clear]But it’s not just about tragedy – it’s also about debt. No matter what we do, we stand on the shoulders of older generations; any grand achievement of LIFE+ would be impossible without the centuries of hard work that led up to it.[pause] It’s people like you who spend their lives doing that work, yet none of you are now around to see it. It seems unavoidable, and therefore completely natural, but it’s so unfair.[pause] And if humanity can finally challenge this unfairness – well, why not?" />
+	<Line ID="291" Text="Sounds good… almost too good to be true." />
+	<Line ID="292" Text="That simple, eh? Playing God just like that?" />
+	<Line ID="293" Text="Well, as the old conventional wisdom goes, easier said than done. It will require a lot of hard work and steady planning to pull this off without accidentally introducing unfavorable changes.[pause] We’ll be like combat engineers in a field full of landmines, disarming one explosive after another, trying to move as careful as possible – but walking forward anyway, because each step makes our lives so much better." />
+	<Line ID="294" Text="It’s never as simple as it sounds – and believe me, we are nothing like God.[pause] We’re more like combat engineers in a field full of landmines, disarming one explosive after another, trying to move as careful as possible, but walking forward anyway, because each step makes our lives so much better." />
+	<Line ID="295" Text="How does this time-traveling business work, anyway?" />
+	<Line ID="296" Text="Why focus on the past? Why not jump further into the future?" />
+	<Line ID="297" Text="You have an answer for everything, don’t you?" />
+	<Line ID="298" Text="Do you think past generations even want this?" />
+	<Line ID="299" Text="So how many people know about this project?" />
+	<Line ID="300" Text="I am honestly unable to explain the technology itself… there’s only a handful of people in the world right now who fully understand it.[pause] I mean, I know these people, and they certainly tried to explain it to me, and I could probably try to relay it, but that would be messy and confusing, so I’d rather not. But I can describe how we plan the operations, if you’re interested." />
+	<Line ID="301" Text="Go on. That should be educational." />
+	<Line ID="302" Text="Eh, you might as well." />
+	<Line ID="303" Text="On second thought, let’s skip the boring details." />
+	<Line ID="304" Text="As you wish. It’s not that relevant to our work here. Or, rather, everything is relevant, but you have to stop somewhere, right?" />
+	<Line ID="305" Text="Well, the keyword is “preparing,” lots and lots of it. And the key instrument is raw computational power. The kind of power that can simulate pieces of reality.[pause] It may sound like another marvelous technological achievement, but it’s just a good old modeling. Recreate a bit of our world inside a program, define the rules with enough detail, and it will behave in a similar way, right?[clear]In your case, that bit was your office. We chose a morning when you were alone and uninterrupted, loaded every available data into our simulation software, and started to experiment with my arrival.[pause] In the end, it gave us a safe route: a way to carry out the mission without accidentally changing anything else in the past. That’s how I knew what to do – when to knock on your door, where to go when we leave, when to initiate a time jump.[clear]The same goes for bigger changes, like letting you disappear from the past and live here. Every potential alteration goes through a simulation first, which allows us to understand the consequences and keep the butterfly effect in check.[pause] It still doesn’t give us any guarantees, mind you, but it’s a huge asset in wrestling the sheer complexity of it all." />
+	<Line ID="306" Text="Too risky." />
+	<Line ID="307" Text="And the past is not?" />
+	<Line ID="308" Text="So is the past, but you say simulations take care of that." />
+	<Line ID="309" Text="Not if we take precautions. We don’t just introduce changes blindly – we run simulations; evaluate how proposed changes might play out.[pause] But these simulations can happen only because we have historical data. Humanity has already lived through it, so we know all the variables, except the ones we are trying to change.[clear]But the future – we don’t know a thing about the future yet. A simulation like this would be plain impossible.[pause] So no, unless we really want to test our luck and play with reality as if it was a sci-fi movie, the future is still off limits for us, sadly." />
+	<Line ID="310" Text="Yes, but these simulations can happen only because we have historical data. Humanity has already lived through it, so we know all the variables, except the ones we are trying to change.[clear]But the future – we don’t know a thing about the future yet. A simulation like this would be plain impossible.[pause] So no, unless we really want to test our luck and play with reality as if it was a sci-fi movie, the future is still off limits for us, sadly." />
+	<Line ID="311" Text="That’s probably not true, but I like to think so." />
+	<Line ID="312" Text="Well, you can never be sure – that’s why we intend to ask first. Everyone will be free to refuse our proposition, just like you were.[pause] No one will blame them for it, either; between the sketchy details and the required commitment to solve unknown problems, the choice is far from obvious." />
+	<Line ID="313" Text="For now, almost nobody, but we plan to gradually change that as we bring more and more successful candidates. Eventually, the whole program will go public." />
+	<Line ID="314" Text="Is it a good idea to go public? It might change the world as you know it." />
+	<Line ID="315" Text="Will LIFE+ be the only one who controls time traveling?" />
+	<Line ID="316" Text="It shouldn’t spiral out of control, as long as we play it safe. The important thing is to restrict access to the technology itself." />
+	<Line ID="317" Text="Absolutely, and only for the purposes of this project. Any further applications will be thoroughly assessed for risks, and any attempts to replicate the technology outside of LIFE+ will be prevented using the full extent of our power." />
+	<Line ID="318" Text="Scary." />
+	<Line ID="319" Text="Eh, sorry, that sounded more sinister than I intended…[pause] what I mean is, time traveling is crazy helpful, but it is also crazy dangerous, and if some random people start to use it, they might erase humanity out of existence or something, so we should use LIFE+ resources to keep it under tight control." />
+	<Line ID="320" Text="You think you have the right to do so?" />
+	<Line ID="321" Text="Still, why should LIFE+ be calling the shots?" />
+	<Line ID="322" Text="Will you even be able to?" />
+	<Line ID="323" Text="Will you even be able to keep it under control?" />
+	<Line ID="324" Text="Yeah… I guess I see your point." />
+	<Line ID="325" Text="I think we have an obligation to do so. Don’t you?" />
+	<Line ID="326" Text="An obligation to limit progress? No, not really." />
+	<Line ID="327" Text="Dunno. But when you prevent people from using something cool, they can get upset. Just saying." />
+	<Line ID="328" Text="Michael, this thing is more dangerous than atomic bomb. Do you think we should have free access to nuclear weapons as well? Does not selling enriched uranium at supermarkets counts as limiting progress?" />
+	<Line ID="329" Text="Michael, this thing is more dangerous than atomic bomb. Do you think we should have free access to nuclear weapons as well? Are you upset that you can’t buy enriched uranium at a local supermarket?" />
+	<Line ID="330" Text="Well, when you put it this way…" />
+	<Line ID="331" Text="Atomic bomb can’t fix your life’s mistakes, though." />
+	<Line ID="332" Text="You seem awfully passionate about this." />
+	<Line ID="333" Text="I think it’s a suitable analogy, at the very least." />
+	<Line ID="334" Text="It also can’t erase people without anyone noticing. The positive impact is greater, sure, but so is the negative one." />
+	<Line ID="335" Text="I’m just trying to stress how important it is. It might look very arrogant at a glance, but it’s the right choice. The only choice." />
+	<Line ID="336" Text="Oh, we’d love for the whole world to join us in calling the shots. Involve the UN, design proper regulations, put additional measures in place to remove any chance of abuse…[pause] but things like this may take years to happen. So in the meantime, it’ll be up to us to guarantee everyone's safety." />
+	<Line ID="337" Text="We’ll try our best. Ideally, things will take care of themselves: we’ll share our plans with the world, explain our reasoning, and the world will understand.[pause] Besides, small as it may be, our time machine contains some rare materials; it’s not something one could build in a garage." />
+	<Line ID="338" Text="Thank you. Maybe I’m not the best person to explain it, but we’re honestly trying to do the right thing. This is not about power – it’s about caution." />
+	
+	<Line ID="350" Text="Tell me about yourself." />
+	<Line ID="351" Text="Tell me more about yourself." />
+	<Line ID="352" Text="Shouldn’t you be tired of learning about me already?" />
+	<Line ID="353" Text="Why? I haven’t even started. It’s been business only so far." />
+	<Line ID="354" Text="Me? Tired of learning about you? Perish the thought!" />
+	<Line ID="355" Text="Even when I’m tired, I keep doing the same thing. It’s like mental masochism." />
+	<Line ID="356" Text="Well, that’s the best way to learn about a person, isn’t? To start doing something together, to work toward a common goal. But, eh… I’m probably making it harder than it should be, sorry. Just tell me what you want to know." />
+	<Line ID="357" Text="Okay, I’m not even sure if that was sarcastic or not… but hey, I’ll be glad to answer. Just tell me what you want to know." />
+	<Line ID="358" Text="Well, that’s relatable. I’m sure I can indulge. Tell me what you want to know." />
+	<Line ID="359" Text="Sure. What do you have in mind?" />
+	
+	<Line ID="360" Text="How old are you, again?" />
+	<Line ID="361" Text="Are you married?" />
+	<Line ID="362" Text="Tell me more about your past." />
+	<Line ID="363" Text="Do you have any hobbies?" />
+	<Line ID="364" Text="Do you like Jackie Chan?" />
+	<Line ID="365" Text="I learned enough for now, thanks." />
+	<Line ID="366" Text="No problem. Some other topic, perhaps?" />
+	
+	<Line ID="370" Text="I’m sixty one." />
+	<Line ID="371" Text="Damn. That’s a fine argument in favor of your renewal, standing right in front of me." />
+	<Line ID="372" Text="That’s… I’m not even sure how to react." />
+	<Line ID="373" Text="You’re not pulling my leg, are you?" />
+	<Line ID="374" Text="Thanks. Luckily, I was spared the dubious pleasure of acting as a poster girl for the project, despite being among the first hundred volunteers. There were more suitable candidates." />
+	<Line ID="375" Text="I thought the first group had 20 volunteers." />
+	<Line ID="376" Text="So you actually volunteered to test this renewal thing on yourself?" />
+	<Line ID="377" Text="First 100? That’s one hell of an employee benefit." />
+	<Line ID="378" Text="I recommend cautious excitement. I promised you a bright future, didn’t I?[pause] Well, my own youthfulness is the best proof I can offer. It that’s not enough to conclude that living in 2048 is really cool, I’m not sure what is." />
+	<Line ID="379" Text="What’s the point? You’re already here; the project no longer relies on me advertising the future.[pause] Besides, it’d be very unwomanlike to lie about my age and pretend to be older than I am. We girls tend to do the opposite." />
+	<Line ID="380" Text="Were you among the first ones to do the renewal?" />
+	<Line ID="381" Text="You had access to the procedure right from the start, I take it." />
+	<Line ID="382" Text="That’s right; I was with the second group. We did the procedure a couple of months later, after our experts spent some time monitoring the original twenty.[pause] You know, to ensure that everything was going as planned and nobody was dying an accidental gruesome death or something." />
+	<Line ID="383" Text="Well, to be precise, I was with the second group. The first group happened in late 2033 and consisted only of 20 people; we followed a couple of months later.[pause] You know, just enough time for our experts to ensure that everything was going as planned and nobody was dying an accidental gruesome death or something." />
+	<Line ID="384" Text="You could say that. I did the renewal in 2034, only a couple of months after the original twenty volunteers.[pause] You know, just enough time for our experts to ensure that everything was going as planned and nobody was dying an accidental gruesome death or something." />
+	<Line ID="385" Text="Yes, I did it in 2034, only a couple of months after the original twenty volunteers.[pause] You know, just enough time for our experts to ensure that everything was going as planned and nobody was dying an accidental gruesome death or something." />
+	<Line ID="386" Text="So that means you were… what, 46 or 47 when you did the renewal and stopped aging?" />
+	<Line ID="387" Text="Do you feel like 46?" />
+	<Line ID="388" Text="You seem very comfortable talking about your age." />
+	<Line ID="389" Text="I have a different question." />
+	<Line ID="390" Text="Yep, 46." />
+	<Line ID="391" Text="Even for 46, you look great." />
+	<Line ID="392" Text="I think the renewal can take a couple of years off as an added bonus, at least visually.[pause] Or maybe I was just very good-looking for a 46-years-old woman. Yeah, definitely the latter and nothing else." />
+	<Line ID="393" Text="I feel less than that! I’m full of energy, I don’t have any soreness or aches, my mind is as clear as ever. I feel like a lucky 46-year-old who is yet to experience real signs of aging.[pause] And make no mistake, aging was still supposed to come sooner or later, but wonders of science came to me first. I just cannot overstress how lucky I am to live in this day and age." />
+	<Line ID="394" Text="Well, unlike many women of the past, I certainly have an advantage here. It reminds me of good things, not bad things.[pause] Honestly, the number itself makes me happy. I could shout it from the rooftops every morning if I wasn’t so damn busy." />
+	<Line ID="369" Text="Sure." />
+	
+	<Line ID="395" Text="Nope. Never have been." />
+	<Line ID="396" Text="Married to work, then?" />
+	<Line ID="397" Text="Must be lonely." />
+	<Line ID="398" Text="I’m not sure we’re officially married, but I certainly tried to propose on multiple occasions." />
+	<Line ID="399" Text="Being a people person for the most diverse company in the world? No, frankly, it doesn’t feel lonely at all." />
+	<Line ID="400" Text="No soulmate? No special person? Not even a boyfriend?" />
+	<Line ID="401" Text="Not even a boyfriend. Well… there was a person I considered very close to one, I guess. But that was quite some time ago, and it didn’t end particularly well." />
+	<Line ID="402" Text="What happened?" />
+	<Line ID="403" Text="He shot himself in the head. No, I mean… he moved to Japan." />
+	<Line ID="404" Text="Eh… so which one was it?" />
+	<Line ID="405" Text="Both. He left a note saying “If anyone asks, tell them I moved to Japan.” Then he blew his brains out. I think it was a Dostoevsky reference." />
+	<Line ID="408" Text="What?" />
+	<Line ID="409" Text="Well, in “Crime and Punishment,” there was this character called Svidrigailov. He mentions several times throughout the book that moving to America can solve his problems.[pause] Near the end, he decides to really do it. So he goes outside and finds a house with some random guy standing beside it. Then he takes a revolver out of his pocket, puts it to his temple, approaches the guy and says: “If anyone asks, tell them I went to America.”[pause] Then he pulls the trigger." />
+	<Line ID="410" Text="So it’s a euphemism." />
+	<Line ID="411" Text="He killed himself to make a reference?" />
+	<Line ID="412" Text="You said Japan, not America." />
+	<Line ID="413" Text="But why?" />
+	<Line ID="414" Text="Kind of." />
+	<Line ID="415" Text="No… he decided to make a reference because he was about to kill himself anyway. At least I think so." />
+	<Line ID="416" Text="Well, we were already Americans – wouldn’t make much sense following the original to the letter. I think he chose something equally distant. Or maybe he just liked Japan." />
+	<Line ID="417" Text="I never really figured it out. He had his issues, but then again, who doesn’t?[pause] There weren’t any alarming signs, as far as I knew him – and I knew him better than most. I guess he was hiding it somewhere deep inside.[pause] The only certain thing I was left with is another reminder of how fragile we can be." />
+	<Line ID="418" Text="I’m sorry. I didn’t intend to wander into such a delicate and painful territory." />
+	<Line ID="419" Text="You seem awfully casual about it." />
+	<Line ID="420" Text="No, it’s all right. It sounds very tragic and dramatic, but I got over it." />
+	<Line ID="421" Text="I got over it." />
+	<Line ID="422" Text="Still, that must have been hard." />
+	<Line ID="423" Text="Just like that? You got over your best friend’s suicide?" />
+	<Line ID="424" Text="It was. I spent many nights lying on my bed, staring at one point on the ceiling, thinking and thinking and thinking – well, trying not to think at all, really, but failing miserably.[pause] It couldn’t be him, I was saying to myself. It’s not his fault. The world; it’s the world that killed him. All this coldness and prejudice and bigotry, it’s too much to bear.[pause] I’ll never forgive you, world, I was saying to myself; I’ll work hard to change you, to create some better place instead. God, that sounds so cliche now, it makes me cringe.[clear]In the end, I found solace in the fact that, sad as it may be, it was still his choice. He left this world on his own terms, and our story had an ending.[pause] And that’s not the worst kind of story, even when the ending is a sad one, right? The worst kind is a story without any ending at all.[pause] Like friends just drifting apart, or soulmates you lose over stupid things, or people you don’t talk with for years even when they are two clicks or taps away… I’ve had my share of those too." />
+	<Line ID="425" Text="Do you still think the world was to blame?" />
+	<Line ID="426" Text="No… of course not. But it defined me all the same." />
+	<Line ID="427" Text="Would it help if I mentioned the nights I spent staring at one particular point in the ceiling?" />
+	<Line ID="428" Text="I’m sorry, I didn’t mean it this way. I was just surprised with your detached delivery." />
+	<Line ID="429" Text="It would have made the story more believable, yes." />
+	<Line ID="430" Text="It’s all right, I understand. The reason I sound detached is because I don’t want people to place too much importance in this story.[pause] Yes, it was a painful and defining moment in my life, but it wasn’t the only moment. I’d hate to be viewed as that tragic girl who lost a soulmate when she was young and never felt true love even since…[pause] I’m way too lucky in every other aspect of my life to qualify for this description." />
+	<Line ID="431" Text="Well, sorry for omitting such a juicy part. I never said it was easy to get over it. But it’s been a long time, so I did. It’s not like life gives you any other choice in these matters." />
+	
+	<Line ID="440" Text="It’s not that exciting, really." />
+	<Line ID="441" Text="It doesn’t have to be." />
+	<Line ID="442" Text="Well, I’m kinda limited in my choice of fascinating conversation partners at the moment." />
+	<Line ID="443" Text="Yeah, you’re probably right. I was born in Indiana, but my family moved to Seattle when I was little. Went to school there, then to college…[pause] we weren’t rich, but we never had any financial problems either, so I was free to experiment with all types of jobs after that. I came to LIFE+ in 2024, and it became the first time I spent more than 5 years working in one place.[pause] And now it’s 23 years. I try not to think about it too much, though; the number itself makes me dizzy." />
+	<Line ID="444" Text="Touche. So I was born in Indiana, but my family moved to Seattle when I was little. Went to school there, then to college…[pause] we weren’t rich, but we never had any financial problems either, so I was free to experiment with all kind of jobs after that. I came to LIFE+ in 2024, and it became the first time I spent more than 5 years working in one place.[pause] And now it’s 23 years. I try not to think about it too much, though; the number itself makes me dizzy." />
+	<Line ID="445" Text="What did you study in college?" />
+	<Line ID="446" Text="You must have tried a lot of stuff between college and LIFE+." />
+	<Line ID="447" Text="Shouldn’t it feel boring to settle down for 20 years after so much job hopping?" />
+	<Line ID="448" Text="You’re right. That wasn’t exciting at all." />
+	<Line ID="449" Text="I have a different question." />
+	<Line ID="450" Text="Sure." />
+	<Line ID="451" Text="Architecture. I quickly realized that I like the interact-with-clients part more than the art part or the engineering part, though.[pause] Worked as an assistant at a local firm, had an internship at a big company in New York, and that’s about the size of my “aspiring architect” career." />
+	<Line ID="452" Text="I think it’s pretty normal for the 21st century. Most of this stuff was built around interacting with people, though I like to think my STEM knowledge grew decently over the years too.[pause] I worked in HR, PR, and sales. I’ve been a social worker, then a teacher, then a combination of both.[pause] I even volunteered as a nurse and a caregiver… though I must admit the obvious, that stuff really takes a toll on your psyche, even if it does wonders to your empathy." />
+	<Line ID="453" Text="Surprisingly enough, it’s the opposite – I feel like these 20 years were even more diverse. But LIFE+ is a unique company, and being so high on the corporate ladder certainly helps.[pause] I go through so many interesting projects on a yearly basis, it’s intoxicating, yet also humbling… if that even makes any sense." />
+	<Line ID="454" Text="Told you." />
+	
+	<Line ID="460" Text="Nah, nothing substantial; I’m pretty boring in this regard. Mostly I do random stuff so I can take my mind off work and restore mental energy." />
+	<Line ID="461" Text="Still, there must be some favorites." />
+	<Line ID="462" Text="They’re all pretty typical. A jog in a park. A good book, or a movie, or a video game – to lose myself in a different world for a bit.[pause] Traveling, if I have enough time. Also, I love rollercoasters." />
+	<Line ID="463" Text="You like running?" />
+	<Line ID="464" Text="That’s a good reason to get involved with books, movies, and videogames." />
+	<Line ID="465" Text="Got any favorite traveling spots?" />
+	<Line ID="466" Text="You love riding rollercoasters?" />
+	<Line ID="467" Text="Sounds nice, but let’s get back to work." />
+	<Line ID="468" Text="Recreationally, yes. I don’t have time or persistence to train properly. But I do rely on my runner’s high fix every once in a while." />
+	<Line ID="469" Text="Well, I recognize the importance of fictional stories in our lives. I think everyone does now. The entertainment industry has grown so huge, it’s impossible to deny it." />
+	<Line ID="470" Text="I love the old cities of Europe… they’re very different from the endless skyscrapers of the East.[pause] My all-time favorite is Rome; I’m just in awe how many cultural layers that city has. It’s literally history on top of older history on top of even older history." />
+	<Line ID="471" Text="With a passion. But don’t ask me why – I decided not to connect this passion with any dubious insights into my personality. I just love riding rollercoasters, and that’s all." />
+	<Line ID="472" Text="You’ve just described my life in one sentence." />
+	
+	<Line ID="475" Text="Yeah, he’s cool." />
+	<Line ID="476" Text="Were you named after Jackie Chan?" />
+	<Line ID="477" Text="I have no idea." />
+	<Line ID="478" Text="You never asked your folks?" />
+	<Line ID="479" Text="They said they just liked the name." />
+	<Line ID="480" Text="Oh, right." />
+	<Line ID="481" Text="Yeah." />
+	<Line ID="482" Text="So… do you like his earlier movies or later movies?" />
+	<Line ID="483" Text="Both kinds." />
+	<Line ID="484" Text="Favorite one?" />
+	<Line ID="485" Text="Who Am I?" />
+	<Line ID="486" Text="Mine too!" />
+	<Line ID="487" Text="You’re one hell of a woman." />
+	<Line ID="488" Text="Yeah, I ask myself that all the time." />
+	<Line ID="489" Text="Cool." />
+	<Line ID="490" Text="No, I mean, the movie title. You asked about my favorite Jackie Chan’s movie." />
+	<Line ID="491" Text="Oh, right. Of course." />
+	<Line ID="492" Text="Did I? Sorry, I haven’t noticed." />
+	<Line ID="493" Text="Yeah." />
+	<Line ID="494" Text="That’s all right." />
+	<Line ID="495" Text="I’m not annoying you, am I?" />
+	<Line ID="496" Text="Michael, it takes much more than this to annoy me." />
+	<Line ID="497" Text="For example, skirts." />
+	<Line ID="498" Text="Cool. I like composed women." />
+	<Line ID="499" Text="That’s good. Because I’d hate to annoy you like that." />
+	<Line ID="500" Text="Well, I guess I’ll keep trying." />
+	<Line ID="501" Text="Yeah, that." />
+	<Line ID="502" Text="I like composed women too. And men." />
+	<Line ID="503" Text="Right." />
+	<Line ID="504" Text="Yeah, you do that." />
+	
+	<Line ID="520" Text="Tell me about LIFE+." />
+	<Line ID="521" Text="Tell me more about LIFE+." />
+	<Line ID="522" Text="Do you have anything specific in mind?" />
+	<Line ID="525" Text="I’m interested in the history." />
+	<Line ID="526" Text="So I reckon you guys are pretty big." />
+	<Line ID="527" Text="Do you have any competitors?" />
+	<Line ID="528" Text="You say you employ the best minds on the planet." />
+	<Line ID="529" Text="Are you evil?" />
+	<Line ID="530" Text="Do you think you are entitled to all this power?" />
+	<Line ID="531" Text="I learned enough about your company for now, thanks." />
+	<Line ID="532" Text="Sure thing. Some other topic, perhaps?" />
+	
+	<Line ID="540" Text="Sure, I can give the basic background. LIFE+ was officially founded in 2023, so we are fairly young for a global corporation.[pause] That might give the wrong impression, however, as what happened 25 years ago was actually a merger of several big companies who decided to pool their resources together and start over under a new name." />
+	<Line ID="541" Text="Do I know these companies?" />
+	<Line ID="542" Text="How much resources are we talking about?" />
+	<Line ID="543" Text="Go on." />
+	<Line ID="544" Text="Possibly, but I’m afraid I don’t remember their names. One of them was an oil and gas giant who saw the rise of renewables and wanted to secure a place on the cutting edge.[pause] Another was a car manufacturer who had similar feelings about internal combustion engines. Then there were three tech companies and their engineers, ready to automate anything they see.[pause] Last but not least, scientists from a number of the world’s leading universities agreed to work with us right from the start. Some of them later became our full-time employees." />
+	<Line ID="545" Text="A huge amount. I think it was the largest M&amp;A deal in history, and it remains one to this day." />
+	<Line ID="546" Text="The idea was simple. There’s a world of big science, and then there’s a world of big money, and we aimed to bring them together.[pause] Businesses are interested in applied research, not basic research, even if the former stands on the shoulders of the latter. They want practical results and reliable return of investments, because they need to constantly generate profit.[clear]But what if a business was big and independent enough to just wait? What if we could fund fundamental science and expect nothing back because we already get enough money from other pursuits?[pause] What if we allow scientists to be scientists again, wondering about the nature of the universe instead of worrying about grants? Then, when their discoveries give rise to new applications years down the road, we could market it, and everyone would win." />
+	<Line ID="547" Text="I assume it worked." />
+	<Line ID="548" Text="It did. When LIFE+ biological division started, their endeavors could be best described as “satisfying idle curiosity.” Ten years later, they gave us the renewal.[pause] It became our grand success; a perfect proof that basic research, although unpredictable, can give results beyond your wildest dreams. And now we’re doing it all over again with this project." />
+	
+	<Line ID="550" Text="At this moment in time we are the biggest corporation in the world, yes." />
+	<Line ID="551" Text="What do you do?" />
+	<Line ID="552" Text="Software, hardware, consumer electronics. Telecommunications, IT infrastructure, data storage.[pause] Vehicle manufacturing, public transportation. Renewable energy. Private healthcare, medical equipment.[pause] Theoretical research in physics, mathematics, biology, chemistry, and social sciences. A bit of agriculture and food business.[pause] Oh, and time traveling. That one is recent." />
+	<Line ID="553" Text="An impressive list." />
+	<Line ID="554" Text="In short, pretty much everything." />
+	<Line ID="555" Text="I bet you enjoyed listing that." />
+	<Line ID="556" Text="Did you make it up as you went along?" />
+	<Line ID="557" Text="Thanks. It’s a little less impressive that I have to worry about all this stuff for 12 hours a day." />
+	<Line ID="558" Text="I wouldn’t go that far… but yeah, it’s a kind of stuff that used to be reserved for science fiction books. Now it’s a kind of stuff I worry about for 12 hours a day." />
+	<Line ID="559" Text="A bit. It’s more pleasant to idly enumerate this stuff than to worry about it for 12 hours a day… which is what I do usually." />
+	<Line ID="560" Text="You think I could? Those are not just idle accomplishments, you know. I worry about all this stuff for 12 hours a day." />
+	<Line ID="561" Text="Just 12?" />
+	<Line ID="562" Text="Why worry?" />
+	<Line ID="563" Text="Only you?" />
+	<Line ID="564" Text="Sometimes 16. Occasionally 20. Let’s not go down that road." />
+	<Line ID="565" Text="Because I care." />
+	<Line ID="566" Text="No… of course not. For every item on that list, there are thousands of hard-working people who turned it into the work of their life. It’s thanks to them I am able to give you such a long enumeration." />
+	<Line ID="567" Text="What brings you the biggest profit?" />
+	<Line ID="568" Text="Is it even viable for a business to do so many different things?" />
+	<Line ID="569" Text="Shouldn’t you be drowning in bureaucracy?" />
+	<Line ID="570" Text="Isn’t being big makes it impersonal? Don’t you employees feel like cogs?" />
+	<Line ID="571" Text="I have a different question." />
+	<Line ID="572" Text="Energy. We may use different sources than 40 years ago, but the world still runs on electricity. Transportation and IT-related business share the second place." />
+	<Line ID="573" Text="It certainly has advantages… if you’re up to the unique challenge of holding everything together.[pause] Any industry may hit hard times, but when you’re not solely dependent on it, you can compensate elsewhere, so you’re pretty much shielded from these fluctuations.[pause] Compare it to a singular business, where hard times might just mean shareholders eating you alive, and… well, it sure is nice to be flexible.[clear]Then again, it was never a question of do or don’t for LIFE+.[pause] Our whole philosophy is about taking revenue from the most profitable things and spending it on the most important things. For that, aiming wide is a given." />
+	<Line ID="574" Text="Miraculously enough, we haven’t drown yet. We take our inspiration from the internet and try to remain as flat as possible; LIFE+ is a network, not a hierarchy.[pause] Granted, at this size some rungs of the corporate ladder are inevitable, and we still have high-level managers like me. But creative freedom always comes first. So far, we’ve remained pretty productive and effective." />
+	<Line ID="575" Text="Well, all our teams are fairly independent, so they barely feel the size. Different industries rarely interact with each other, and when they do, it’s people like me who establish a connection.[pause] There are only a handful of those who deal with the sheer scale of it all on a daily basis." />
+	<Line ID="576" Text="Of course." />
+	
+	<Line ID="580" Text="Technically, all prominent companies compete in some way. On practice, however, we mostly stay away from each other’s areas of expertise." />
+	<Line ID="581" Text="What kind of areas are we talking about?" />
+	<Line ID="582" Text="So are you guys all monopolists or something?" />
+	<Line ID="583" Text="What about non-prominent companies?" />
+	<Line ID="584" Text="If you’re so good at buying, why not buy the big ones too?" />
+	<Line ID="585" Text="I have a different question." />
+	<Line ID="586" Text="Uh, let’s see… Panlight Group is a huge energy provider: they do solar power and fossil fuels, and they’re also the only ones who can properly handle nuclear energy; we follow them closely with wind and hydro.[pause] SGGI focus on education and entertainment. R&amp;D&amp;R are on par with us in theoretical research, but their most popular gig is robotics.[clear]Biotec was really big in medical technologies until we took a big chunk of it riding our renewal wave, but they still have agriculture and pharmaceuticals.[pause] SotoDrives split the transportation industry with us: we do public, they do personal. These are the companies you’re most likely to see in the news, anyway." />
+	<Line ID="587" Text="Yes and no. There’s usually a clear leader in a field, so not much point choosing between brands. If you want a good robot from any price range, you go to R&amp;D&amp;R, not LIFE+.[pause] That’s just reality, and we’re totally cool with it for the time being. However, if R&amp;D&amp;R get drops in quality, or lose the trust of customers, or make some other obvious mistake, we’ll step in.[pause] Chances are they won’t, but we are ready anyway, and spend just enough resources to be ready." />
+	<Line ID="588" Text="Sounds reasonable. And the customer seems to be in a winning position." />
+	<Line ID="589" Text="Sounds rather cunning. Like you’re just waiting for them to take a wrong step." />
+	<Line ID="590" Text="Exactly. We retain the semblance of free market’s competition, which positively affects quality and safety of the end product, but we also don’t waste precious resources butting our heads in the same field just so the customer can choose between really awesome and super awesome.[pause] I’m a layman in economics, but it sounds like the best of both worlds to me. And it’s all possible only because we are so big, and losing a market niche or two won’t lead to financial problems." />
+	<Line ID="591" Text="Maybe, but it’s more about protecting customers than about trying to steal their profits. A common worry about monopolists is that they can do whatever the hell they want without any concern for quality or safety of their products; here, it’s clearly not the case.[pause] At the same time, it’s not as wasteful as a full-blown competition, so we get to spend resources on something more important.[pause] And it’s all possible only because we are so big, and losing a market niche or two won’t lead to financial problems." />
+	<Line ID="592" Text="We tend to buy those." />
+	<Line ID="593" Text="How simple." />
+	<Line ID="594" Text="Just like that? I imagine not everyone can be bought for money." />
+	<Line ID="595" Text="It’s not as simple as it sounds, believe me. When I say “buy,” I don’t mean “waltz in and write a check with enough zeroes in it.” We come as equals, and we listen very carefully.[pause] Frequently, people are opposed to a deal for very typical reasons: they don’t want to sacrifice their freedom, or individuality, or working ethics, or some other warm and fuzzy feeling.[pause] When we say they can keep all that and barely notice any difference, their reluctance tend to disappear." />
+	<Line ID="596" Text="True, but money is not always the most important part of our offer. We come as equals, and we listen very carefully.[pause] Frequently, people are opposed to a deal for very typical reasons: they don’t want to sacrifice their freedom, or individuality, or working ethics, or some other warm and fuzzy feeling.[pause] When we say they can keep all that and barely notice any difference, their reluctance tend to disappear." />
+	<Line ID="597" Text="But how can you promise no difference? Surely you’d want them to integrate and follow new rules." />
+	<Line ID="598" Text="True, but we can be subtle about it if needed. For the first few months, newcomers are exceptions; corporate culture does not apply.[pause] Only then, little by little, we introduce them to our way of doing things, and frame it as voluntary improvements. When they agree, it feels like it was their idea all along." />
+	<Line ID="599" Text="Because they’re just as good at buying as we are? Besides, getting bigger is a challenge in and of itself.[pause] I don’t think we are ready to expand much right now; we even had to abandon a couple of potential acquisitions recently. Nobody wants the company to crumble under its own weight." />
+	<Line ID="600" Text="Of course." />
+	
+	<Line ID="605" Text="I imagine most of the companies say that." />
+	<Line ID="606" Text="But that alone makes it a lie, isn’t? The best are rare by definition. If somebody employs them, others don’t." />
+	<Line ID="607" Text="So you admit it is a sales pitch rather than a hard fact?" />
+	<Line ID="608" Text="How humble." />
+	<Line ID="609" Text="I think that depends on what counts as “the best.” If you change “the best” to “what we consider the best,” there is no contradiction, right?[pause] But I also think our idea of “the best” is the correct one." />
+	<Line ID="610" Text="I admit that everyone’s definition of “the best” is different. But I do think ours is the correct one." />
+	<Line ID="611" Text="Eh, not really. I do accept that everyone’s definition of “the best” is different. But I also think ours is the correct one." />
+	<Line ID="612" Text="So who counts as “the best” in your book?" />
+	<Line ID="613" Text="The best are those who see the bigger picture. Who always view problems and challenges within a proper context. Who know not only what they’re doing, but WHY they’re doing it." />
+	<Line ID="614" Text="That actually aligns with my own view 100%." />
+	<Line ID="615" Text="That’s still just one of many possible definitions." />
+	<Line ID="616" Text="That’s just a bunch of sentiments. It says nothing about the actual skills or how to identify them." />
+	<Line ID="617" Text="I’m not surprised. You were our first choice for this project, remember? We may be from different times, but we speak the same language." />
+	<Line ID="618" Text="True, but I like to think there’s enough hard evidence to support its superiority.[pause] A company succeeds thanks to its employees, right? If we succeed big, we must be doing something right." />
+	<Line ID="619" Text="Well, I like to think we’re pretty good at that too. But recruitment philosophies are equally important, and we have enough evidence to support ours.[pause] A company succeeds thanks to its employees, right? If we succeed big, we must be doing something right." />
+	<Line ID="620" Text="It’s a rare quality, though." />
+	<Line ID="621" Text="I imagine a lot of people satisfy those requirements." />
+	<Line ID="622" Text="Very rare, and it’s even rarer for a person to retain it on a day-to-day basis.[pause] When you work on something complex, you spend months on every aspect before combining results into something complete. As those months drag on, it’s very easy to get disconnected from the rest of the problem and start making poor decisions.[pause] There’s a thing called “the curse of knowledge,” and it’s a legit cognitive bias.[clear]Alternatively, as one Zen teacher said, “In the beginner’s mind there are many possibilities, but in the expert’s mind there are few.” Applying this philosophy to business is nothing new, but it still makes a ton of sense." />
+	<Line ID="623" Text="You’d be surprised how few, and how hard it is to retain these qualities on a day-to-day basis.[pause] When you work on something complex, you spend months on every aspect before combining results into something complete. As those months drag on, it’s very easy to get disconnected from the rest of the problem and start making poor decisions.[pause] There’s a thing called “the curse of knowledge”, and it’s a legit cognitive bias.[clear]Alternatively, as one Zen teacher said, “In the beginner’s mind there are many possibilities, but in the expert’s mind there are few.” Applying this philosophy to business is nothing new, but it still makes a ton of sense." />
+	<Line ID="624" Text="Sounds like you welcome dilettantes, not experts." />
+	<Line ID="625" Text="Is that where your “outsider’s perspective” comes from?" />
+	<Line ID="626" Text="So what’s your recruitment process like? Interviews, tests, negotiations?" />
+	<Line ID="627" Text="Do other corporations have similar views?" />
+	<Line ID="628" Text="I have a different question." />
+	<Line ID="629" Text="No, we welcome experts who remember how it feels to be a dilettante. We want people to take the best from both worlds. That’s the trickiest part." />
+	<Line ID="630" Text="In a way, yes. We always try to cultivate it – making different teams review each other’s work, promoting interdisciplinary research, this kind of thing. But your situation takes it to a whole different level." />
+	<Line ID="631" Text="Ideally, there is none. Fruits of labor will always tell more about a person that any conversation, so we keep track of those and then invite whoever impresses us.[pause] We also spend time beforehand to research their habits – how they prefer to work, what makes them excited, which qualities they want to see in colleagues – to make sure our invitation sounds as alluring as possible.[clear]Apart from that, we do a lot of internships and probation periods. In the end, the only way to see how good you are at work is to let you do this work." />
+	<Line ID="632" Text="No, their recruitment philosophies are all over the place.[pause] Some stick to the most measurable things, like years of experience and GPAs. Some believe they can evaluate skills reliably with tests and interviews, and try to perfect those.[pause] Some focus on personality and social qualities; clean online history is very important for them.[clear]Some just hire and fire until they get the right guys – embrace the imperfection of recruitment, if you will. Biotec tried that recently; had a ton of new hires in less than a year.[pause] Laid off quite a few people at the same time, though… had a fairly big decrease in approval ratings. Didn’t work out very well, I guess." />
+	<Line ID="633" Text="Of course." />
+	
+	<Line ID="635" Text="No, we’re complicated." />
+	<Line ID="636" Text="Care to elaborate on that?" />
+	<Line ID="637" Text="Yeah, I get the same vibe." />
+	<Line ID="638" Text="I’m not sure there is any point. Don’t you think this whole business is too complex to qualify as simply good or bad? If not, let’s keep solving problems and discussing stuff, and maybe we’ll get there." />
+	<Line ID="639" Text="That’s very good. That means I’m doing my job right and exposing you to the whole picture, despite our limitations in movement." />
+	
+	<Line ID="640" Text="Entitled? No, I don’t think anybody is entitled to anything in particular. I think we just happened to get it, and we need to use it as wisely as we can." />
+	<Line ID="641" Text="So more like “responsible” than “entitled.”" />
+	<Line ID="642" Text="A pretty standard response for someone in this position." />
+	<Line ID="643" Text="Yes, exactly. With great power comes great responsibility… I think Spider-Man said that." />
+	<Line ID="644" Text="Well, it’s a sincere response, though all I can offer you as proof are my actions, which hopefully speak a bit louder than my words.[pause] With great power comes great responsibility… I think Spider-Man said that." />
+	<Line ID="645" Text="Wasn’t it Uncle Ben?" />
+	<Line ID="646" Text="Technically, it was Stan Lee, the writer." />
+	<Line ID="647" Text="I imagine a lot of heroes said that, fictional or otherwise." />
+	<Line ID="648" Text="Eh… maybe? Sorry, my knowledge of superhero lore is pretty rubbish.[pause] I’m no hero, though. I’m an ordinary person just like anybody else, whether they work for LIFE+ or not, and that’s completely fine. In fact, I wouldn’t have it any other way." />
+	<Line ID="649" Text="Yeah, sorry, my knowledge of superhero lore is pretty rubbish.[pause] I’m no hero, though. I’m an ordinary person just like anybody else, whether they work for LIFE+ or not, and that’s completely fine. In fact, I wouldn’t have it any other way." />
+	<Line ID="650" Text="Yeah, you’re probably right. I’m no hero, though. I’m an ordinary person just like anybody else, whether they work for LIFE+ or not, and that’s completely fine. In fact, I wouldn’t have it any other way." />
+  </List>
+</Text>

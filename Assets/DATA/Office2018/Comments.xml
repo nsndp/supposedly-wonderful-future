@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+    <Line ID="1" Text="&quot;The definitive guide to Screw: the rules of the game&quot;" />
+    <Line ID="2" Text="&quot;Rule 1: Do not use Screw.&quot;" />
+    <Line ID="3" Text="&quot;Rule 2: Do NOT use Screw.&quot;" />
+    <Line ID="4" Text="&quot;Rule 3: Accept that the world is an utterly chaotic place and there is nothing you can do about it. Embrace the chaos.&quot;" />
+    <Line ID="5" Text="&quot;Rule 4: Sprints should be done outside in a nice park or inside on a treadmill. All other sprints are a waste of time.&quot;" />
+    <Line ID="6" Text="&quot;Rule 5: Consult the Screw Master every time you suspect you are starting to use Screw after all.&quot;" />
+    <Line ID="7" Text="&quot;Rule 6: Product Pwner is the only person who can add new items to the product backlog. It is therefore strongly advised to keep him safely locked up at all times so the product backlog doesn’t interfere with the product frontlog.&quot;" />
+    <Line ID="8" Text="&quot;Rule 7: Sprint retrospective is a time-boxed event where you either contemplate the fleeting nature of time and existence or just keep your mouth shut and stop spoiling the silence.&quot;" />
+    <Line ID="9" Text="&quot;Rule 8: The definition of “done” should be clear and shared within a team, as well as definitions of every word included in that definition. Though it depends on your definition of “definition,” really.&quot;" />
+    <Line ID="10" Text="&quot;Rule 9: Newly implemented features should be demonstrated to stakeholders, poledancers, flagcarries, and professional contortionists for their valuable input.&quot;" />
+    <Line ID="11" Text="&quot;Rule 10: There are no errors, there is testing. There are no exceptions, there are conditionals. There is no deadline, there are versions. There are no managers, there are users. There is no crash, there is support.&quot;" />
+    <Line ID="12" Text="&quot;Rule 11: Plans are a lie, there are only variables. Through variables, I gain source. Through source, I gain binaries. Through binaries, I gain tests. Through tests, my bugs are broken. The code shall set me free.&quot;" />
+    <Line ID="13" Text="&quot;Rule 12: If everything else fails, scream “SCREW THIS!” at the top of your lungs and play some video games.&quot;" />
+    <Line ID="14" Text="I’m so proud of this! We should put it on a single-page website and proclaim as our manifesto." />
+    
+    <Line ID="20" Text="Well, could’ve been worse." />
+    <Line ID="21" Text="Hey, that’s actually not bad." />
+    <Line ID="22" Text="Bingo!" />
+    <Line ID="23" Text="This must be my lucky streak!" />
+	<Line ID="24" Text="Or maybe not." />
+	<Line ID="25" Text="Or maybe it is!" />
+	<Line ID="26" Text="No, probably not." />
+	<Line ID="27" Text="Ugh, what’s the point? When you’re not good at it, it’s like a random generated event." />
+	<Line ID="28" Text="Oh crap." />
+	
+	<Line ID="40" Text="It’s 2018, and bookshelves are used for anything but books." />
+	<Line ID="41" Text="Well, that’s not entirely true. We managed to fill up a couple of shelves. Had to really join our efforts on that one." />
+	<Line ID="42" Text="“Sam,” I said, “if you want to attract classy clients, make sure you have some Dostoevsky sitting on that shelf.”" />
+	<Line ID="43" Text="Turned out nobody cares, of course. People are so preoccupied with their own thoughts, they barely notice what kind of room they’re in, let alone what’s placed in it." />
+	<Line ID="44" Text="You may argue that Dostoevsky’s ingenious exploration of human condition has little to do with software development skills." />
+	<Line ID="45" Text="But this is until you realize that interacting with clients is just as important as generating code." />
+	<Line ID="46" Text="If a person digs Dostoevsky, he probably knows a thing or two about empathy, and that means he can understand what a client really needs." />
+	<Line ID="47" Text="But as I said, nobody notices, so this whole chain of reasoning doesn’t really matter." />
+	<Line ID="48" Text="Sometimes I just overthink stuff." />
+	<Line ID="49" Text="And sometimes I just keep talking to myself." />
+	<Line ID="50" Text="And like gambling Dostoevsky, I find it hard to stop." />
+	<Line ID="51" Text="A rather random assortment of stuff on shelves." />
+  </List>
+</Text>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Go away, you square-shaped doughnut!" />
+  	<Line ID="1" Text="Err…" />
+  	<Line ID="2" Text="Don’t you see? My badger is solving an equation. We cannot be disturbed." />
+  	<Line ID="3" Text="Your… badger." />
+  	<Line ID="4" Text="Have you seen my waffle? Betelgeuse goes supernova in 4 nanoseconds. Without my waffle, all is lost." />
+	<Line ID="5" Text="No, sorry." />
+	<Line ID="6" Text="What on earth are you talking about?" />
+	<Line ID="7" Text="Oh, that’s all right. The universe was already destroyed while we were talking." />
+	<Line ID="8" Text="Oh, never mind. The universe was already destroyed while we were talking." />
+	<Line ID="9" Text="The entire universe?" />
+	<Line ID="10" Text="Yep. But we can always get another one. Those 11 dimensions are not just for the show, you know." />
+	<Line ID="11" Text="Uh… let me just gather my thoughts, and I’ll be back in a second, okay?" />
+	
+	<Line ID="15" Text="Go away, you square-shaped doughnut!" />
+	<Line ID="16" Text="Cloe, is it? My name is Michael; I investigate the incident that’s happened to your friend Ashley." />
+	<Line ID="17" Text="I think you’re mistaking me for someone else. I call on behalf of LIFE+. You should have received a message explaining the situation." />
+	<Line ID="18" Text="I’ll return a little later." />
+	<Line ID="19" Text="Don’t you see? My badger is solving an equation. We cannot be disturbed." />
+	<Line ID="20" Text="I need to ask you a few questions. It’s important." />
+	<Line ID="21" Text="Are you aware that you are a suspect in this case? Were you not warned that cooperation is strongly advised?" />
+	<Line ID="22" Text="Have you seen my waffle? Betelgeuse goes supernova in 4 nanoseconds. Without my waffle, all is lost." />
+	<Line ID="23" Text="Are you even listening? We need to have a serious conversation." />
+	<Line ID="24" Text="Is this supposed to be a joke? Because now is not the time." />
+	<Line ID="25" Text="What’s the point? The universe was just destroyed." />
+	<Line ID="26" Text="I think the timing is perfect: the universe was just destroyed." />
+	<Line ID="27" Text="Please, miss, don’t make this more complicated than it has to be." />
+	<Line ID="28" Text="I can make it much harder for you, you know. In fact, I’d be happy to." />
+	<Line ID="29" Text="There is nothing complicated here – we just get another universe. Those 11 dimensions are not just for the show, you know." />
+	<Line ID="30" Text="There is nothing hard here – we just get another universe. Those 11 dimensions are not just for the show, you know." />
+	<Line ID="31" Text="Seriously, knock it off. Ignoring me will get you nowhere." />
+	<Line ID="32" Text="You have one last chance to cooperate with me, or else…" />
+	<Line ID="33" Text="Anyhow, all is well that ends well. Gotta go, see you later." />
+	<Line ID="34" Text="Unbelievable…" />
+	<Line ID="35" Text="Hey, wait a second, we’re not finished here!" />
+	<Line ID="36" Text="(The call has been terminated.)" />
+	<Line ID="37" Text="(Leave.)" />
+	
+	<Line ID="40" Text="Go away, you square-shaped doughnut!" />
+	<Line ID="41" Text="Again?" />
+	<Line ID="42" Text="Right away." />
+	<Line ID="43" Text="Don’t you see? My badger is solving an equation. We cannot be disturbed." />
+	<Line ID="44" Text="Stop. Just stop, okay?" />
+	<Line ID="45" Text="Is that how you always talk to strangers?" />
+	<Line ID="46" Text="Cloe, please. I’ve seen you on the meet-up day's recordings. I know that you are capable of normal human conversation." />
+	<Line ID="47" Text="Have you seen my waffle? Betelgeuse goes supernova in 4 nanoseconds. Without my waffle, all is lost." />
+	<Line ID="48" Text="Why are you doing this? There’s got to be some point behind it all." />
+	<Line ID="49" Text="Even funny jokes lose their appeal when repeated over and over again, you know." />
+	<Line ID="50" Text="Actually, never mind. The universe has already been destroyed." />
+	<Line ID="51" Text="Are you even sane? Am I talking with an actual person here?" />
+	<Line ID="52" Text="I knew you were gonna say that." />
+	<Line ID="53" Text="But hey, good news, we’ve got another one. Those 11 dimensions are really handy." />
+	<Line ID="54" Text="I mean, there is a slight variation in your responses, but ultimately, you keep saying the same nonsense." />
+	<Line ID="55" Text="You sound like a bot to me. Or a badly written NPC." />
+	<Line ID="56" Text="Anyhow, all is well that ends well. Gotta go, see you later." />
+	<Line ID="57" Text="Yeah, as if that would help…" />
+	
+	<Line ID="60" Text="Go away, you square-shaped doughnut!" />
+	<Line ID="61" Text="I’m a round-shaped doughnut, thank you very much." />
+	<Line ID="62" Text="I can’t go away, I don’t have legs. I also can’t roll away, because I’m a square." />
+	<Line ID="63" Text="Yeah, I should really do that." />
+	<Line ID="64" Text="Well duh, they’re one and the same thing. But don’t you see? My badger is solving an equation. We cannot be disturbed." />
+	<Line ID="65" Text="Hmm, you’ve got a point. It’s just that, as you can see, my badger is solving an equation, and we don’t want to be disturbed, so…" />
+	<Line ID="66" Text="I don’t think doughnuts are able to see." />
+	<Line ID="67" Text=" What kind of badger?" />
+	<Line ID="68" Text="Why make him do all the work?" />
+	<Line ID="69" Text="A little distraction is helpful when approaching complex problems. Don’t worry, have a break; the solution might just pop into your head." />
+	<Line ID="70" Text="Of course they do, they have eyes. Speaking of, have you seen my waffle? Betelgeuse goes supernova in 4 nanoseconds, so it’s kinda important." />
+	<Line ID="71" Text="A multidimensional badger. But don’t bother with him; the important thing is that Betelgeuse goes supernova in 4 nanoseconds, and my waffle is our only hope. Have you seen it, by the way?" />
+	<Line ID="72" Text="To be honest, I’m terrible at math. But I’m pretty good with waffles. Have you seen one around, by the way? Betelgeuse goes supernova in 4 nanoseconds, so it’s kinda important." />
+	<Line ID="73" Text="That’s what he says as well, but you both forget that Betelgeuse goes supernova in 4 nanoseconds, and our only hope is my waffle. Have you seen it, by the way?" />
+	<Line ID="74" Text="Yep, I have your waffle right here." />
+	<Line ID="75" Text="I think your badger ate it." />
+	<Line ID="76" Text="Wow, you must be under a lot of time pressure." />
+	<Line ID="77" Text="Your mixture of astronomy and gastronomy is adorable." />
+	<Line ID="78" Text="Unlikely. He’s more of a taco person. But what does it matter? The universe has already been destroyed." />
+	<Line ID="79" Text="Time doesn’t really exist. The universe still ends though." />
+	<Line ID="80" Text="Thanks. I tried it to save the universe, but it got obliterated again." />
+	<Line ID="81" Text="Thank you!" />
+	<Line ID="82" Text="I didn’t actually give you a waffle, you know." />
+	<Line ID="83" Text="Wow, you responded properly. Can you stop fooling around and answer my questions now?" />
+	<Line ID="84" Text="How can I when the universe has already been destroyed?" />
+	<Line ID="85" Text="It’s the thought that counts." />
+	<Line ID="86" Text="Not when Betelgeuse goes supernova, it doesn’t." />
+	<Line ID="87" Text="No, it really does. My waffle materialized in front of me just because you thought about it hard enough." />
+	<Line ID="88" Text="Couldn’t you materialize it yourself?" />
+	<Line ID="89" Text="You know what, I could. Wow, that was quite a plot hole." />
+	<Line ID="90" Text="Finally caught you off guard, eh?" />
+	<Line ID="91" Text="Hey, that’s not how we do things here. You were supposed to give an explanation why you couldn’t; something at least remotely believable." />
+	<Line ID="92" Text="Relax, it’s just a show. Besides, the universe has been destroyed anyway." />
+	<Line ID="93" Text="Who destroyed it, by the way?" />
+	<Line ID="94" Text="Yeah, the end of the world is a pretty common thing these days." />
+	<Line ID="95" Text="I never realized one little supernova explosion could end an entire universe." />
+	<Line ID="96" Text="That would sound unfortunate if I didn’t know the ending already." />
+	<Line ID="97" Text="My badger. A couple of miscalculations, and… well, no big deal, we have another one. Those 11 dimensions are sure handy." />
+	<Line ID="98" Text="Tell me about it. I can barely leave my house without destroying everything there is. Good thing we can always utilize the power of 11 dimensions and get a spare." />
+	<Line ID="99" Text="Oh, it’s a terribly fragile thing. One sneeze could end an entire universe, for all I know. But not to worry, there’s always another one. Those 11 dimensions aren’t just for the show." />
+	<Line ID="100" Text="Yeah, kinda anticlimactic. But hey, that’s the power of 11 dimensions for you." />
+	<Line ID="101" Text="And how does that work, exactly?" />
+	<Line ID="102" Text="I bet that’s the only thing you know about physics." />
+	<Line ID="103" Text="How come it’s still only 11?" />
+	<Line ID="104" Text="People think science is funny… it’s not funny. It’s freaking hard." />
+	<Line ID="105" Text="I have no idea, I just know that it ends well and we can all breathe out with relief. Anyhow, gotta go, see you later." />
+	<Line ID="106" Text="I bet I don’t even know that. But hey, gotta go, see you later." />
+	<Line ID="107" Text="Well, that’s how many dimensions my badger has. He looks kinda weird… but I guess all is well that ends well. Gotta go, see you later." />
+	<Line ID="108" Text="Oh, don’t worry, it gets pretty manageable once you have a math-solving multidimensional badger. Anyhow, gotta go, see you later." />
+	<Line ID="109" Text="I’d rather not." />
+	<Line ID="110" Text="Sure, I’ll be back for more." />
+	
+	<Line ID="120" Text="Go away, you square-shaped doughnut!" />
+	<Line ID="121" Text="How can we have the same conversation any number of times?" />
+	<Line ID="122" Text="Because conversations, like universes, are endless." />
+	<Line ID="123" Text="Yet all the same." />
+	<Line ID="124" Text="Yet all the same. Anyho, talk to you later." />
+	<Line ID="125" Text="Yep. Looking forward to it." />
+	<Line ID="126" Text="That is debatable." />
+	<Line ID="127" Text="Me? I personally never trusted penguins." />
+	<Line ID="128" Text="Don’t you see? My badger is solving an equation. We cannot be disturbed." />
+	<Line ID="129" Text="I mean, whenever a penguin appears in a story, I just can’t help but to be skeptical about their supposedly insignificant “comic relief” role." />
+	<Line ID="130" Text="Have you seen my waffle? Betelgeuse goes supernova in 4 nanoseconds. Without my waffle, all is lost." />
+	<Line ID="131" Text="What if Pen Pen was the one who killed Kaji? How about Skipper and co. who set Madagascar’s plot in motion by taking over the ship? And let’s not forget Orgalorg. These kinds of examples simply don’t add credibility to your species." />
+	<Line ID="132" Text="Oh, never mind. The universe was already destroyed while we were talking." />
+	<Line ID="133" Text="Think about it: you have an entire continent away from prying eyes to hatch your evil plans. The whole thing could be one big penguin conspiracy, for all I know." />
+	<Line ID="134" Text="Though we can always get another one. Those 11 dimensions are not just for the show, you know." />
+	<Line ID="135" Text="Anyway, talk to you later." />
+	<Line ID="136" Text="If you insist." />
+  </List>
+</Text>

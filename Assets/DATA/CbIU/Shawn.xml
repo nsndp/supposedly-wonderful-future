@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Hello, friend! You must be Michael, our boss for the day." />
+  	<Line ID="1" Text="Seems like it." />
+  	<Line ID="2" Text="That I am." />
+  	<Line ID="3" Text="I’m not sure about the “boss” part." />
+  	<Line ID="4" Text="I’m Shawn, and I will be your assistant in all things online. Welcome to the Cyberbullying Investigation Unit!" />
+	<Line ID="5" Text="I am. Jackie was very specific about it, and I know better than to question that woman.[pause] I’m Shawn, and I will be your assistant in all things online. Welcome to the Cyberbullying Investigation Unit!" />
+	<Line ID="6" Text="Cyberbullying Investigation Unit? Really?" />
+	<Line ID="7" Text="Yeah, yeah… let’s just get to the point." />
+	<Line ID="8" Text="You mean when three fine gentlemen gather to unravel a great mystery in a gripping tale of conspiracy and deceit that is destined to become the talk of legends for generations to come?[pause] Can’t get any more real than that, my friend." />
+	<Line ID="9" Text="Well then, let’s get started." />
+	<Line ID="10" Text="Just get the gripping tale going already." />
+	<Line ID="11" Text="Splendid! So, the first thing you should probably do is to talk with the victim and hear her story. Her name is Ashley, and she will tell you everything about her occupations and how this nasty incident derailed each and every one of them; I wouldn’t want to play a messenger here.[pause] What I will do is to present you with a list of suspects: five persons, each related to Ashley, all evidence suggests that one of them is our culprit." />
+	<Line ID="12" Text="With pleasure! So, the first thing you should probably do is to talk with the victim and hear her story. Her name is Ashley, and she will tell you everything about her occupations and how this nasty incident derailed each and every one of them; I wouldn’t want to play a messenger here.[pause] What I will do is to present you with a list of suspects: five persons, each related to Ashley, all evidence suggests that one of them is our culprit." />
+	<Line ID="13" Text="Right." />
+	<Line ID="14" Text="I also used Ashley’s computer in the next room to set you up with a workstation; it should help to better understand the situation and conduct investigation.[pause] The rest we can discuss thoroughly after you talk with the girl. Sounds good to you?" />
+	<Line ID="15" Text="Is she in a rough shape at the moment? I don’t have much experience dealing with suicidal or otherwise mentally fragile people." />
+	<Line ID="16" Text="I was told the victim is feeling suicidal. Is this going to the problem?" />
+	<Line ID="17" Text="Oh, it should be fine. Ashley is a very bright and helpful girl – enough to be bright and helpful even in a state like that. Just be nice to the lady, and you’ll have nothing to worry about." />
+	<Line ID="18" Text="Nothing to prevent you from talking. Just please, be nice to the lady. She’s a sweet and bright girl, but she’s still in a bit of emotional turmoil, as you might imagine." />
+	<Line ID="19" Text="All right. I’ll go straight to our girl then." />
+	
+	<Line ID="25" Text="Hello again!" />
+	<Line ID="26" Text="Well, tell me about your potential culprits. Five of them, right?" />
+	<Line ID="27" Text="Yes, five marvelous personalities, provided to you for further scrutiny. They are… the usual suspects, if you catch my drift." />
+	<Line ID="28" Text="Oh, goodie. Catching Keyser Soze is a childhood’s dream of mine." />
+	<Line ID="29" Text="You have a penchant for old movies or something?" />
+	<Line ID="30" Text="You’re so funny I could die." />
+	<Line ID="31" Text="That makes two of us, my friend. So nice to work with a fellow enthusiast!" />
+	<Line ID="32" Text="I have a penchant for all movies, old and new alike. Culture, my friend. The greatest treasure we ever had." />
+	<Line ID="33" Text="You shouldn’t, my friend. We need you alive and healthy to solve this devious crime." />
+	<Line ID="34" Text="And they are suspected because…?" />
+	<Line ID="35" Text="Because they had the means to do this. What we are after is someone who could access her account and write a blog post under her name, right?" />
+	<Line ID="36" Text="Well, she did say her account was hacked." />
+	<Line ID="37" Text="That’s what she told you as well, did she? I, however, made a thorough examination and found no signs of hacking; no indication that the security was compromised at all.[pause] Which leaves us with a simpler explanation – the culprit had access to her account because she voluntarily gave it to them earlier.[clear]The five suspects I give you are the members of the same team. They all worked on the show with Ashley… and they all knew her account’s password." />
+	<Line ID="38" Text="What do you mean, “they knew her password”?" />
+	<Line ID="39" Text="Now wait just a minute. That’s not how it supposed to be, even if you do something together. You send e-mails, you upload files… you don’t share your entire freaking account. Who does that?" />
+	<Line ID="40" Text="Are you sure she wasn’t hacked?" />
+	<Line ID="41" Text="If your account is so important, shouldn’t there be other authentication steps? Like, voice recognition, or fingerprints, or whatever you guys use these days?" />
+	<Line ID="42" Text="If corporations take this so seriously, shouldn’t it be a cybersecurity case rather than a cyberbullying case? You know, with more manpower on the scene." />
+	<Line ID="43" Text="Maybe somebody just guessed her password?" />
+	<Line ID="44" Text="Knowing the password and taking advantage of it is not the same thing. Maybe it was someone else entirely." />
+	<Line ID="45" Text="Can’t you identify our target by their online activity? Like, see who was logged into Ashley’s account at that specific time?" />
+	<Line ID="46" Text="Aren’t they supposed to be friends?" />
+	<Line ID="47" Text="Did she share her password with the entire team?" />
+	<Line ID="48" Text="Are you telling me that the whole incident happened solely because of her password-sharing quirks?" />
+	<Line ID="49" Text="Should we even investigate this? She kinda brought it on herself." />
+	<Line ID="50" Text="Enough about this for now." />
+	<Line ID="51" Text="I mean she told her password to each of them at one point or another, so they could log in and use the stuff she created. To simplify the teamwork, you know." />
+	<Line ID="52" Text="Can the fact that she trusted them completely be of any excuse?" />
+	<Line ID="53" Text="Eh… maybe?" />
+	<Line ID="54" Text="Not after a mess like this happened, it can’t." />
+	<Line ID="55" Text="Of course not! It doesn’t matter how much you trust someone, you don’t tell them your password. You just don’t." />
+	<Line ID="56" Text="I mean… you’ve got a point, of course. From a perspective of someone like you and me, it sounds completely ludicrous. However, consider a couple of facts.[pause] First, she’s not the most savvy internet user around – she’s just good at using specific software that helps to make the show… and even savvy users can have weird security-compromising habits, for that matter.[clear]Second, her personality is not security-friendly either. She never even considered her friends could do such a terrible thing.[pause] Combine the two together, and – well, it doesn’t make this any less wrong, but at least it gets more believable." />
+	<Line ID="57" Text="You… you're right, of course. From a perspective of someone like you and me, it sounds completely ludicrous. However, consider a couple of facts.[pause] First, she’s not the most savvy internet user around – she’s just good at using specific software that helps to make the show… and even savvy users can have weird security-compromising habits, for that matter.[clear]Second, her personality is not security-friendly either. She never even considered her friends could do such a terrible thing.[pause] Combine the two together, and – well, it doesn’t make this any less wrong, but at least it gets more believable." />
+	<Line ID="58" Text="As sure as it gets. I’m no world-class code breaker, but I know a thing or two about cybersecurity myself. And it’s not just about my skills; the hacking itself is a rather unlikely event." />
+	<Line ID="59" Text="Why? Is it such a big deal to break into somebody else’s account?" />
+	<Line ID="60" Text="A very big deal. Your account is the gateway to everything you do online, from financial transactions to countless social interactions. It’s more of an electronic passport than an account.[pause] Correspondingly, big corporations spared no expense in improving general level of security. LIFE+ has made great contributions to the cause as well." />
+	<Line ID="61" Text="You’re right, there usually are. Sadly, you can switch them all off if you want to, and that’s exactly what our girl did. Another indication of her trusting personality." />
+	<Line ID="62" Text="Oh, it could’ve easily been; they’re usually ready to react at the slightest suspicion of hacking. Our operation is just a boring family party compared to what LIFE+ Security Department could've deployed around here.[pause] They’re also much better equipped to track hackers through the net. However, there is an important “but.”" />
+	<Line ID="63" Text="That “but” being…?" />
+	<Line ID="64" Text="Oh, spare me dramatic pauses." />
+	<Line ID="65" Text="They care only about security, not the aftermath. Not an intangible emotional aftermath like this, at least.[pause] No bank accounts data was stolen, no money lost. It doesn’t matter that the incident was the real reason she lost both of her jobs. Ashley would be left to her own means without any closure, explanation or proper mental help.[pause] I think Jackie understands that too; that’s why she and I were able to keep the security guys in the blind. This is a cyberbullying case. In a just world, it should be." />
+	<Line ID="66" Text="I guess we’d better get to the very bottom of this then. " />
+	<Line ID="67" Text="You’re completely right." />
+	<Line ID="68" Text="And how exactly solving this crime will help Ashley to get back her jobs?" />
+	<Line ID="69" Text="It won’t if we stop right after that, but we’re not planning to. Once we understand the whole situation, we’ll share our knowledge with the net, and give this story as much coverage as possible.[pause] Ashley’s fans and Ashley’s boss made their decisions based on incomplete data… if we fix that, they just might reconsider." />
+	<Line ID="70" Text="I don’t think I’ll be able to stick around for that. I’m on a… tight schedule." />
+	<Line ID="71" Text="Jackie told me as much. Do not worry, I’ll take it from there. Uncovering the truth is still the most important thing." />
+	<Line ID="72" Text="Thought about that, but after seeing the password, I think we can rule the possibility out. She may be completely security-blind, but it wasn’t something you can guess or crack brute-force.[pause] No, you either have to pull it right from the server’s database or know it to begin with." />
+	<Line ID="73" Text="Well, according to Ashley, these five people are the only ones who had the access. And because we ruled out hacking, it simply has to be one of them.[pause] That’s the best logical conclusion I can give you at the moment." />
+	<Line ID="74" Text="Unfortunately, no, that can’t be done reliably. I can only say that the target lives in the local area, but that’s true for all of our suspects.[pause] Security is usually so good and collaboration software so convenient, 99.9% of the time there’s a guarantee that accounts are used solely by their holders. When they’re not, however, identification process gets rudimentary, and we’re left in the dark." />
+	<Line ID="75" Text="Even friends can have skeletons in cupboards. And sometimes you end up hurting friends because the skeletons rattle their bones annoyingly and whisper things in your ear… eh, figuratively speaking." />
+	<Line ID="76" Text="Almost. The only exception is the show’s director. Ashley said she tried to give it to him as well, but he specifically refused." />
+	<Line ID="77" Text="He must have at least some concept of security, unlike others." />
+	<Line ID="78" Text="Is it enough to rule him out? Maybe he learned the password from others." />
+	<Line ID="79" Text="Yeah, maybe." />
+	<Line ID="80" Text="No, I don’t think he’s ever used Ashley’s account, and he was also away on a trip when this happened. His alibi is solid." />
+	<Line ID="81" Text="Basically, yes. Don’t take it the wrong way though. We all have our quirks. That doesn’t mean others are free to exploit them." />
+	<Line ID="82" Text="Of course we should! It’s a cyberbullying case, remember? It doesn’t matter how easy she made it for them, it’s still wrong. If nothing else, it’s worse – they took advantage of her generosity." />
+	<Line ID="83" Text="Sure. Is there anything else you need to know before starting?" />
+	<Line ID="84" Text="Yes?" />
+	<Line ID="85" Text="Enough about this for now." />
+	<Line ID="86" Text="Of course. I say many words, you say what about." />
+	
+	<Line ID="95" Text="Regarding the passwords and hacking and stuff…" />
+	<Line ID="96" Text="How can I talk with the suspects?" />
+	<Line ID="97" Text="Any other evidence to peruse?" />
+	<Line ID="98" Text="Do we have the main suspect?" />
+	<Line ID="99" Text="Any advice on how to approach the suspects?" />
+	<Line ID="100" Text="Did you know the girl didn’t really think about suicide? It was just her way of attracting attention." />
+	<Line ID="101" Text="And what is Mr. Kettley’s role here?" />
+	<Line ID="102" Text="Can you look through these notes? Kettley confiscated them from Anne." />
+	<Line ID="103" Text="I’d like to note that suspect E is refusing to cooperate with me in a very cheeky manner." />
+	<Line ID="104" Text="Care for some personal chatting?" />
+	<Line ID="105" Text="I will be back." />
+	<Line ID="106" Text="Any new clues, my friend?" />
+	
+	<Line ID="115" Text="You can make a video call to any of them from the terminal in Ashley’s room. They should be available and willing to cooperate… theoretically.[pause] We can’t bring them to you face-to-face – there’s not enough evidence for that – but we did our best to explain how unwise it can be to ignore us." />
+	<Line ID="116" Text="Sure, it’s all there on the terminal. You can read her fake resignation post, the team’s official response, people’s reaction – you know, see for yourself how it all happened.[pause] There are also recordings from their last meeting at the library." />
+	<Line ID="117" Text="Why would they meet at the library?" />
+	<Line ID="118" Text="It’s just a convenient place to get a free room and do some work face-to-face, as opposed to their usual remote interaction.[pause] It’s like you-know-where-to-find-me-today thing, from what I could gather; they’d plan a date in advance and then, throughout the day, people would come and do stuff with other people. They call it a “meet-up.”" />
+	<Line ID="119" Text="Well, suspect C would be the obvious choice. He and Ashley had a short but rather unpleasant argument during their team’s last meeting at the library, right before this incident happened." />
+	<Line ID="120" Text="What about?" />
+	<Line ID="121" Text="Meeting at the library?" />
+	<Line ID="122" Text="Do you think he did it then? Got mad because of the rejection and decided to punish her?" />
+	<Line ID="123" Text="That’s all I need to know." />
+	<Line ID="124" Text="He tried to ask her out. Got rejected. Tried again, got rejected more firmly. Stormed out.[pause] Returned later to apologize, to be fair… still, both parties were probably left with a bad aftertaste." />
+	<Line ID="125" Text="It’s just a convenient place to get a free room and do some work face-to-face, as opposed to their usual remote interaction.[pause] It’s like you-know-where-to-find-me-today thing, from what I could gather; they’d plan a date in advance and then, throughout the day, people would come and do stuff with other people. They call it a “meet-up”." />
+	<Line ID="126" Text="You want an obvious “cool investigator” response or a more down-to-earth response?[pause] The former would be: no way, it’s never that simple, he can’t be that clueless. The latter would be: yes, he can be that clueless, and ruling him out just because we think everyone is smart would be the worst kind of mistake.[pause] Also…" />
+	<Line ID="127" Text="Yes?" />
+	<Line ID="128" Text="There is a noticeable difference in character. His romantic attempts are hasty at best, stupid at worst; the fake resignation post is subtle, careful and full of well-chosen phrasing.[pause] But this, of course, can also work both ways. Maybe it’s yet another indication that he is not our culprit. Or maybe he can be subtle when he wants, and used this difference exactly to avert our obvious suspicions; that would mean he’s actually rather cunning." />
+	<Line ID="129" Text="Right… Keyser Soze style." />
+	<Line ID="130" Text="Gee, you're really making it sound complicated." />
+	<Line ID="131" Text="Precisely." />
+	<Line ID="132" Text="Everything is complicated. It’s just a matter of how deep we can dig before our heads start to hurt." />
+	<Line ID="133" Text="You’re the boss." />
+	
+	<Line ID="135" Text="Look for a motive. As you can see, there’s not much hard evidence to go by, so the psychological aspect comes first.[pause] Learn their personalities, probe them with questions, find out how they really feel about Ashley, and use it to connect the dots. You never know how bitter deep inside someone can be." />
+	<Line ID="136" Text="So it’s more of a mind game than a proper investigation, really." />
+	<Line ID="137" Text="And in the end, I’ll just have to guess?" />
+	<Line ID="138" Text="Well, insofar that we don’t have bits of evidence to piece together and can’t identify the culprit from fingerprints or DNA scans, yes.[pause] But we still have a victim, and we owe her to figure out the truth. That counts as investigation in my book." />
+	<Line ID="139" Text="You’ll need to go with your guts, yes. But it doesn’t have to end there. Once you decide on your primary suspect, you can try to trick them into confessing.[pause] Keep asking uncomfortable questions, make them feel guilty… or even give them the taste of their own medicine." />
+	<Line ID="140" Text="You mean, troll them?" />
+	<Line ID="141" Text="If you think it might help, then… yes, feel free to." />
+	<Line ID="142" Text="Well, I suppose that would kinda defeat the purpose of investigation…" />
+	<Line ID="143" Text="Hey, this job suddenly got fun!" />
+	<Line ID="144" Text="Yes, thank you for understanding that! Adopting the enemy’s tactics is a dangerous ground. There is nothing wrong in it per se, but you have to be very careful." />
+	<Line ID="145" Text="Agreed." />
+	<Line ID="146" Text="Just don’t overdo it, please. We’re here to investigate bullying, not to multiply it. And while trolling the guilty guy would be a kind of retribution, trolling all others would be, well… simply trolling." />
+	<Line ID="147" Text="Suggestion noted." />
+	<Line ID="148" Text="But even if you do none of these things, even if you just point at a person and say “grab this one” – well, you’re the boss. I’d rather we end up with something more substantial, but… yeah.[pause] The big brother explicitly said your decision should be trusted completely. I don’t know what kind of circumstances can give a man’s opinion so much weight, but I respect you guys and your work enough to play along." />
+	
+	<Line ID="150" Text="Was it? Oh, well, that doesn’t really matter." />
+	<Line ID="151" Text="It doesn’t? I thought it was kinda the whole point of the commotion." />
+	<Line ID="152" Text="Not the whole point. The cyberbullying still happened, right? That’s a good enough reason to start investigating.[pause] Besides, you can never really tell if a person is having suicidal thoughts until it’s too late. Too fragile of a substance." />
+	<Line ID="153" Text="I see your point." />
+	<Line ID="154" Text="But they said it’s a top priority case. Surely they could do more detailed evaluation before assigning a priority… involve a mental health counselor or something." />
+	<Line ID="155" Text="I mean, nobody can say for sure, so it really is a matter of trust, right? You either assume people are honest, pay attention and end up with some false alarms, or assume they are lying, wave your hand and end up with a body count.[pause] I don’t know about others, but I made this choice a long time ago, my friend." />
+	<Line ID="156" Text="Nobody can say for sure, even a counselor. It’s just a matter of trust. You either assume people are honest, pay attention and end up with some false alarms, or assume they are lying, wave your hand and end up with a body count.[pause] I don’t know about others, but I made the choice a long time ago, my friend." />
+	
+	<Line ID="160" Text="Mr. Kettley is the muscle of the operation, and our link to official law enforcing institutions. The latter entails some perks, the most relevant of which being the right to walk into somebody else’s house and search it.[pause] I imagine he would be happy to exercise it… happy somewhere deep inside, that is." />
+	<Line ID="161" Text="Would that even help? We probably won’t find any hard evidence; it’s not that kind of crime." />
+	<Line ID="162" Text="Shouldn’t we be searching their computers rather than their actual living places? Like, browsing history and stuff?" />
+	<Line ID="163" Text="Got it." />
+	<Line ID="164" Text="True, but we might stumble upon something helpful; something that may shed more light on their relationships with Ashley or even give away their motive.[pause] Our best bet is to learn more about these people, and a house can say a lot about its residents." />
+	<Line ID="165" Text="Or, we’re authorized to do that too. In fact, I already have, only it didn’t amount to anything worth mentioning. But a physical space might still tell something where digital could not." />
+	<Line ID="166" Text="That being said, I don’t want to encourage you to use the search warrants just because we can. If you feel it will help the investigation, then by all means, do so, but otherwise, let’s stick to, eh, less invasive procedures." />
+	
+	<Line ID="170" Text="Yeah, I’ve heard. Leave it to Kettley to suspect people just because they’re nice. Still, let’s check it out.[pause] Okay…[pause] timetables…[pause] reminders…[pause] oh, set sketches.[pause] More set sketches…[pause] even more set sketches…[pause] hey, wait. That’s interesting." />
+	<Line ID="171" Text="What?" />
+	<Line ID="172" Text="I’m looking at a table of names, and I recognize some of them. These are the names of other similar web shows. What’s more, each has their contacts written nearby." />
+	<Line ID="173" Text="You mean she was compiling a list of different teams doing the same thing?" />
+	<Line ID="174" Text="Along with the ways to get in touch with them. Perhaps she wanted to find an alternative for her dear friend Ashley. Perhaps she wanted her gone from the show after all." />
+	<Line ID="175" Text="Or maybe they just wanted to do a collaboration or something." />
+	<Line ID="176" Text="Shouldn’t this be apparent from her browsing history? I mean, she must’ve looked up those contacts online." />
+	<Line ID="177" Text="So not only she was compiling the list, she was pretty sneaky about it." />
+	<Line ID="178" Text="Thanks." />
+	<Line ID="179" Text="True. I think the best way is to ask directly and watch her reaction." />
+	<Line ID="180" Text="You right, it should. I wonder why I didn’t notice it. Just give a minute to look again…[pause] mm…[pause] oh, I see.[pause] It’s there, but the pattern of activity is unusual: just a little bit of searching every couple of days. Hard to notice unless you know what to look for." />
+	<Line ID="181" Text="You could say that. I think it definitely calls for some explaining." />
+	<Line ID="182" Text="Sure thing." />
+	
+	<Line ID="185" Text="Is she? Well, I… I’m not sure I can do anything about it. As the situation stands, they’re not legally obligated to cooperate with us.[pause] We could probably go all in and change this, but I don’t think that’s the kind of solution Jackie looks for." />
+	<Line ID="186" Text="And… why is she a penguin?" />
+	<Line ID="187" Text="No idea. But I don’t see any harm in her identifying as one." />
+	
+	<Line ID="200" Text="Sure thing! It’s important to develop mutual trust within a unit." />
+	<Line ID="201" Text="So, what’s your occupation?" />
+	<Line ID="202" Text="I’m from the past, you know." />
+	<Line ID="203" Text="Do you always talk so much?" />
+	<Line ID="204" Text="Let’s get back to business." />
+	<Line ID="205" Text="I consider myself an artist." />
+	<Line ID="206" Text="I thought you were more on a technical side of things." />
+	<Line ID="207" Text="That’s right. But I do it on the net. Everyone is an artist on the net." />
+	<Line ID="208" Text="I don’t follow." />
+	<Line ID="209" Text="It’s… a feeling, you know? We do what we do for a variety of reasons. Like, maybe you just need the money. Or maybe you have to do it because of some social, cultural, or family-related restrictions.[pause] But when you go online, you leave it all behind. Online, you do stuff because it matters. It’s like a purer form of existence." />
+	<Line ID="210" Text="That’s pretty romantic." />
+	<Line ID="211" Text="That’s rather pretentious." />
+	<Line ID="212" Text="It deserves to be. The internet is the place to go when you’re tired of stereotypes and assumptions.[pause] There are no borders, nationalities, or other superficial differences. There are only people of Earth – and the many wonderful things they can create together." />
+	<Line ID="213" Text="Maybe so, but that’s the general mood. The internet is the place to go when you’re tired of stereotypes and assumptions.[pause] There are no borders, nationalities, or other superficial differences. There are only people of Earth – and the many wonderful things they can create together." />
+	<Line ID="214" Text="But not so in real life?" />
+	<Line ID="215" Text="Unless there are incidents like Ashley’s." />
+	<Line ID="216" Text="Are you an independent artist, or a LIFE+ artist?" />
+	<Line ID="217" Text="I see. I myself don’t have a lot of experience with the online world. I pretty much skipped the last 30 years." />
+	<Line ID="218" Text="I’ve got another question." />
+	<Line ID="219" Text="Not yet, unfortunately. I mean, you LIFE+ guys do a lot to break the actual borders as well, and I immensely respect that. But it’s so much effort, it feels like you’re fighting with the natural order itself.[pause] Online, it’s the other way around: you need to work up a sweat if you want to impose borders, not to break them. Because of that, I think the net stays 20-30 years ahead of the meat world. Globalized society is just the natural state of things there." />
+	<Line ID="220" Text="Exactly. And that’s why I will do my damn best to uncover the truth and exact justice on the culprit.[pause] It’s not just Ashley who’s under attack – it’s the values of the world I love and live in. That makes it personal." />
+	<Line ID="221" Text="I’m an independent artist who’s been doing nothing but work for LIFE+ lately. Don’t want to complain, though – I support your cause and like your no-nonsense attitude.[pause] I probably would’ve agreed to become a full-time employee by now, but Jackie likes to keep a handful of trusted contractors for discreet cases, and I guess I’ve become one of them." />
+	<Line ID="222" Text="Yeah, Jackie did mention something like that. I don’t want to judge – I’m sure you have your hands full with meat-world problems, being a big guy at LIFE+ and all that.[pause] But just a little friendly observation… you’re missing out, man." />
+	<Line ID="223" Text="Fire away, my friend." />
+	<Line ID="224" Text="Awesome! What year did you choose?" />
+	<Line ID="225" Text="I didn’t “choose” a year. I was just living there." />
+	<Line ID="226" Text="Eh… 2018?" />
+	<Line ID="227" Text="That’s the attitude! Immersion, man, immersion!" />
+	<Line ID="228" Text="Oh, one of my favorites! The vibe of that time! You can feel this uncertainty and anxiety of young explorers but also see new great things already taking shape, know what I mean?" />
+	<Line ID="229" Text="Wait… you think I’m talking about simulation. Virtual reality." />
+	<Line ID="230" Text="Hey, nothing virtual about it. Real is what you feel, my friend!" />
+	<Line ID="231" Text="Oh, never mind." />
+	<Line ID="232" Text="You should check 2021 sometime. Now that was one hell of a year!" />
+	<Line ID="233" Text="Only when I play Mr. Exposition. But hey, somebody has to, right?[pause] And there are always so much fascinating details in everything, I get carried away. Sorry if it bothers you, though, or makes me hard to follow." />
+	<Line ID="234" Text="With pleasure." />
+	<Line ID="235" Text="It felt pretty ordinary for me, to be honest." />
+	<Line ID="236" Text="I think you’re confusing it with something else. 2018 I know was a total dumpster fire." />
+	<Line ID="237" Text="But that’s even better! It means the piece of art was subtle enough to provoke different reactions based on the viewer’s personal experience; a testament to masterful and realistic execution." />
+	
+	<Line ID="250" Text="Something’s not right here. I don’t think any of these people are responsible." />
+	<Line ID="251" Text="You sure? There’s probably a motive for each of them if you dig deep enough." />
+	<Line ID="252" Text="Maybe it’s not right to dig this deep. Everyone has their demons, but not everyone is controlled by them. Despite all insecurities, they’re still a friendly team. Dysfunctional, maybe. Weird, for sure. But friendly. It doesn’t feel like they could hurt Ashley in such a blatant way. There must be more to this story." />
+	<Line ID="253" Text="And that’s exactly the problem. None of them are more likely to be the culprit then the other. Sure, they all hide petty reasons to dislike Ashley inside… but that’s just how they are. A group of insecure people. And when your environment is like that, when this is your norm, you don’t suddenly snap and decide to destroy another’s life. There must something else." />
+	<Line ID="254" Text="But who else could it be? We have the entire team covered, save the director… but his alibi is solid.[pause] And even if it wasn’t, he’s part of the same group, so what you said goes for him as well." />
+	<Line ID="255" Text="Perhaps she told her password to somebody else and forgot about it?" />
+	<Line ID="256" Text="Are you positively sure that her account wasn’t hacked?" />
+	<Line ID="257" Text="Should there always be a trace?" />
+	<Line ID="258" Text="Even so, maybe double-check it? There could be some little thing you haven’t noticed." />
+	<Line ID="259" Text="That’s certainly possible considering her habits, but not very probable based on what I saw.[pause] I mean, I checked her online activity thoroughly, and she barely did anything other than working on the show and writing a blog. Security or not, there was just no reason to share her credentials with anybody else." />
+	<Line ID="260" Text="Well, yes. Like I said, I found to trace." />
+	<Line ID="261" Text="Theoretically? No, if you cover your tracks perfectly. But to hack an account at all these days is no small feat, and to do it so clean…[pause] that’s a whole different level. That’s not the kind of professional skills you use to bully a small-time web actress." />
+	<Line ID="262" Text="Certainly won’t hurt. Tell you what: I’ll send some additional data to your terminal. Things like profiles of people who left comments about the incident… circumstantial stuff, but a fresh pair of eyes might notice something I haven’t.[pause] Meanwhile, I’ll go through my records once again, paying very close attention." />
+	<Line ID="263" Text="Sounds like a plan." />
+	<Line ID="264" Text="Great. Boy, this is anything but your typical internet trolling… seems that ways to hurt people grow sophisticated just like ways to entertain them do." />
+	<Line ID="265" Text="Welcome to the future… though it’s really you who should be saying that." />
+	<Line ID="266" Text="Balance in all things, my friend. Balance in all things." />
+	
+	<Line ID="270" Text="And why do I feel like I’m missing something even though I’ve read it three times in a row…?[pause] Oh, hey, sorry. Did you find anything?" />
+	<Line ID="271" Text="There’s one thing… some of the people who commented on that blog post doesn’t seem to have any recent activity. Or, rather, it says that they have, but when I try to see, it gives me an error." />
+	<Line ID="272" Text="Not yet. I’ll let you know if I do." />
+	<Line ID="273" Text="Same kind of error? And how many people, exactly?" />
+	<Line ID="274" Text="At least a couple." />
+	<Line ID="275" Text="About the half of what I checked." />
+	<Line ID="276" Text="8 out of 20. I checked everyone I had access to." />
+	<Line ID="277" Text="That sounds… not impossible, but pretty unlikely. Just give me a little bit of time, I’m gonna check it." />
+	<Line ID="278" Text="Yeah, that’s pretty improbable… just give me a little bit of time, I’m gonna check it." />
+	<Line ID="279" Text="That is very strange… you might be onto something. Just give me a little bit of time, I’m gonna check it." />
+	<Line ID="280" Text="Sure, go ahead." />
+	<Line ID="281" Text="Make it snappy." />
+	<Line ID="282" Text="" />
+	<Line ID="283" Text="Well?" />
+	<Line ID="284" Text="Holy crap. These people do not exist." />
+	<Line ID="285" Text="What do you mean, they don’t exist?" />
+	<Line ID="286" Text="Do any of us, really?" />
+	<Line ID="287" Text="I mean they’re fake accounts. It’s not just activity; I’m trying to find a trace of these people anywhere on the net – electronic documents, bank accounts, credit history, social presence – but nothing comes up.[pause] So unless you believe that a whole group of users chose a certain comment section for their first-ever online experience… they don’t exist at all." />
+	<Line ID="288" Text="Forget the existential jokes. I’m telling you it’s all fake! Not just activity; I’m trying to find a trace of these people anywhere on the net – electronic documents, bank accounts, credit history, social presence – but nothing comes up.[pause] So unless you believe that a whole group of users chose a certain comment section for their first ever online experience… they don’t exist at all." />
+	<Line ID="289" Text="What about the profiles I looked at?" />
+	<Line ID="290" Text="Fake as well. Profiles and comments about Ashley are the only traces I see.[pause] Recent activity numbers are made up as part of every profile, but if you try to display the full list, the links lead to nowhere. That’s why it was giving you an error." />
+	<Line ID="291" Text="And let me guess – most of the negative comments were left by these non-existent people." />
+	<Line ID="292" Text="Exactly. The whole backlash that Ashley experienced, this weird “we don’t need you anymore” reaction…[pause] it’s fake. Orchestrated. Staged." />
+	<Line ID="293" Text="…by a certain someone. Who also wrote the fake resignation post. Who also hacked Ashley’s account – only you didn’t notice that. Or am I wrong?" />
+	<Line ID="294" Text="No, you’re right. I mean, I’ll need a bit more time to confirm that it’s coming from the same source… but somebody with this level of skills, someone who can create dozens of virtual people – well, they probably know to hack an account.[pause] Not to mention it all fits… a multi-layered psychological attack. This is crazy. And for me, embarrassing. Very embarrassing." />
+	<Line ID="295" Text="Don’t beat yourself up. Everyone makes mistakes." />
+	<Line ID="296" Text="Well, that’s why we work in teams. We did figure it out in the end as a team, right?" />
+	<Line ID="297" Text="Just be sure you make up for it." />
+	<Line ID="298" Text="But not everyone’s mistakes endanger other people’s lives… however, I fully intend to fix it. I’m going to track this hacker down right now, no matter how good they are at covering the tracks.[pause] Meanwhile, could you relay the news to Ashley? I’m sure this’ll mean a great deal to her." />
+	<Line ID="299" Text="That’s still not an excuse to make them… however, I fully intend to fix it. I’m going to track this hacker down right now, no matter how good they are at covering the tracks.[pause] Meanwhile, could you relay the news to Ashley? I’m sure this’ll mean a great deal to her." />
+	<Line ID="300" Text="That’s exactly what I’m planning to do. I’m going to track this hacker down right now, no matter how good they are at covering the tracks.[pause] Meanwhile, could you relay the news to Ashley? I’m sure this’ll mean a great deal to her." />
+	<Line ID="301" Text="Agreed." />
+	<Line ID="302" Text="Okay… need to do something while I wait anyway." />
+	
+	<Line ID="310" Text="Hello again!" />
+	<Line ID="311" Text="How come I’m the only who noticed that fake recent activity? It was right there, one press of a button away." />
+	<Line ID="312" Text="I told Ashley the good news. Any luck on your end?" />
+	<Line ID="313" Text="That's it for now." />
+	<Line ID="314" Text="I assume nobody even considered… I definitely didn’t. Flawless security comes with certain guarantees, and guarantees create habits.[pause] You see a name online, you know it belongs to a real person. It’s as simple as that." />
+	<Line ID="315" Text="Not in my experience." />
+	<Line ID="316" Text="Not where I’m from, it’s not." />
+	<Line ID="317" Text="Then we are lucky to have you here today. Though luck may have little to do with it… it’s not the first time I get lucky while working with someone handpicked by Jackie." />
+	<Line ID="318" Text="Well, I haven’t been able to locate the hacker yet, but I definitely see his presence now, both in the resignation post and in the negative comments.[pause] I’ve also stumbled upon an anonymous way to call him. I don’t know if it’s a channel he uses to interact with fellow hackers or something else, but I grabbed it, so you can contact him from your terminal, just like the rest of the suspects.[pause] You do want to talk to him, don’t you?" />
+	<Line ID="319" Text="Sure. I’m curious what he has to say." />
+	<Line ID="320" Text="Not really… but I suppose it won’t hurt either." />
+	<Line ID="321" Text="Meanwhile, I will try to finish my part so we can actually arrest him." />
+	<Line ID="322" Text="Since we can contact him, doesn't it mean we can trace the signal as well?" />
+	<Line ID="323" Text="Same tracks you didn’t notice at all at first, correct?" />
+	<Line ID="324" Text="But if we call him, we will see his face. Shouldn’t that help?" />
+	<Line ID="325" Text="Then I’ll be on my way." />
+	<Line ID="326" Text="Usually that would be the case, but he’s hiding the source of the signal pretty well. I might as well keep following him through the tracks he left on the crime scene." />
+	<Line ID="327" Text="Correct. Apologies again for that embarrassing mistake." />
+	<Line ID="328" Text="I assume you won’t see him, only hear him. Perhaps he’ll even alter the voice… though voice recognition won’t get us far anyway." />
+	
+	<Line ID="335" Text="So? How was he?" />
+	<Line ID="336" Text="Unpleasant, to say the least." />
+	<Line ID="337" Text="Hilarious, actually. Also, insane." />
+	<Line ID="338" Text="Certifiably crazy." />
+	<Line ID="339" Text="Did he tell you why he’d done it?" />
+	<Line ID="340" Text="“Because he could.”" />
+	<Line ID="341" Text="He insisted he didn’t need a reason. He also sounded like an incredibly bitter and insecure person." />
+	<Line ID="342" Text="I assume he was very upset that somebody in the world was actually enjoying their life. Typical internet troll." />
+	<Line ID="343" Text="That’s… rather disgusting." />
+	<Line ID="344" Text="He was also very certain we’ll never find him." />
+	<Line ID="345" Text="Well, he was wrong, because I just did. I know who he is and where he lives." />
+	<Line ID="346" Text="Really? So we can grab him and close the case?" />
+	<Line ID="347" Text="Exactly. Just tell our dear Kettley to do his part, and we can all call it a job well done." />
+	<Line ID="348" Text="Great work, thanks!" />
+	<Line ID="349" Text="Finally! Then I’ll waste no more time." />
+	<Line ID="350" Text="Hey, it’s the least I could do to make up for my mistake. Let Kettley give him the full treatment… he definitely deserves it." />
+	<Line ID="351" Text="Will do." />
+	
+	<Line ID="360" Text="Oh… hi again. Quite the case this turned out to be, don’t you think?" />
+	<Line ID="361" Text="Something’s still bothering you?" />
+	<Line ID="362" Text="So, are we done here?" />
+	<Line ID="363" Text="All right, let’s wrap this up." />
+	<Line ID="364" Text="I will be back." />
+	<Line ID="365" Text="I just can’t wrap my head around how disproportionate his skills were to his choices.[pause] With this kind of engineering knowledge, he could have robbed a bank dry, put a medium-size company on its knees, or land a high-paid job at a blue-chip corporation.[pause] And what did he use it for? To bully a young actress into unemployment, just because he didn’t like her. So wrong. So weird." />
+	<Line ID="366" Text="Perhaps he didn’t see any other way to use it. Maybe he didn’t want money and wasn’t bothered by companies. Maybe corporations are not hiring. Or maybe none of this is true. But he was bored… and you know how dangerous THAT can be." />
+	<Line ID="367" Text="I don’t think he wanted to use those skills, not really. He wanted something small and simple. That way, he could convince himself what a powerful guy he is, changing people’s lives while barely moving a finger. Fueling the illusion of grandeur was his only real goal." />
+	<Line ID="368" Text="You’re giving it too much thought. He is a crazy, delusional person. Actually, the whole case has been nothing but crazy people. This was its most consistent trait." />
+	<Line ID="369" Text="You know, I think you might be spot on. It is a dangerous time when a capable person left with no real problems to solve, no constructive way to scratch his intellectual itch. A wonderful but very dangerous time indeed." />
+	<Line ID="370" Text="That makes it even more sick… it’s sad to see online world being exploited by such a blatantly horrible person.[pause] You’d think we should have learned to make it less vulnerable than reality by now. But it’s still just around the corner." />
+	<Line ID="371" Text="I wouldn’t call the others crazy, but in his case… you might be right. Some men just want to watch the world burn.[pause] Or, which is less dramatic but closer to our situation, some are just bitter as hell about it." />
+	<Line ID="372" Text="Sure thing. Just give me the final go-ahead, and we’ll tidy the place up, call for your ride, let the old Kettley finally go home and leave Ashley with her newfound closure.[pause] Well, I myself intend to stick around for a week or so and ensure she’s getting the required help… but I’m sure you’ll have more pressing matters to attend." />
+	<Line ID="373" Text="Yep, this will be a goodbye for us. Nice working with you, Shawn." />
+	<Line ID="374" Text="I will. I’m not sure I want to attend them, but I definitely will." />
+	<Line ID="375" Text="Yeah, I’m on a tight schedule these days." />
+	<Line ID="376" Text="Yeah. Like I said, I’m on a tight schedule these days." />
+	<Line ID="377" Text="The pleasure is all mine, my friend. Thank you for your fantastic efforts today; I couldn’t have asked for a better investigator.[pause] And give my regards to Jackie – as always, she knows how to find just the right man for the job." />
+	<Line ID="378" Text="And I wish you the best of luck with it, my friend. Thank you for your fantastic efforts today; I couldn’t have asked for a better investigator.[pause] And give my regards to Jackie – as always, she knows how to find just the right man for the job." />
+	<Line ID="379" Text="Hello again." />
+			
+	<Line ID="390" Text="Oh… hi again. Heard you made the decision." />
+	<Line ID="391" Text="You don’t approve?" />
+	<Line ID="392" Text="Yep, and I’m ready to get out of here." />
+	<Line ID="393" Text="No, I have zero issues with your work. You did everything one could expect in this situation, and I thank you for that. It’s just…[pause] no matter how swiftly the justice is served, you can’t reverse the damage. You can only fix it. So I guess that’s what I’ll concentrate on…[pause] I’ll stick around and ensure that Ashley is getting the required help. I would’ve invited you to join, but I’m sure you’ll have more pressing matters to attend." />
+	<Line ID="394" Text="Sure, that can be arranged momentarily. I think you did everything one could expect in this situation. It’s just…[pause] no matter how swiftly the justice is served, you can’t reverse the damage. You can only fix it. So I guess that’s what I’ll concentrate on…[pause] I’ll stick around and ensure that Ashley is getting the required help. I’d invite you to join, but you probably have more pressing matters to attend." />
+	<Line ID="395" Text="Yep, this will be a goodbye for us. Take care, Shawn." />
+	<Line ID="396" Text="I have. I’m not sure I want to attend them, but I definitely have." />
+	<Line ID="397" Text="Yeah, I’m on a tight schedule these days." />
+	<Line ID="398" Text="Yeah. Like I said, I’m on a tight schedule these days." />
+	<Line ID="399" Text="And you, my friend. Just give me the final go-ahead, and I’ll call for your ride.[pause] Oh, and my regards to Jackie – it’s always a pleasure to work with her." />
+	<Line ID="400" Text="Good luck, my friend. Just give me the final go-ahead, and I’ll call for your ride.[pause] Oh, and my regards to Jackie – it’s always a pleasure to work with her." />
+	<Line ID="401" Text="That’s quite all right, my friend. Just give me the final go-ahead, and I’ll call for your ride.[pause] Oh, and my regards to Jackie – it’s always a pleasure to work with her." />
+	<Line ID="402" Text="Sure. Let’s wrap this up then." />
+	<Line ID="403" Text="Just a moment." />
+	<Line ID="404" Text="Hello again. Ready to leave?" />
+	<Line ID="405" Text="Yeah, let’s wrap this up." />
+	<Line ID="406" Text="Just a moment." />
+  </List>
+</Text>

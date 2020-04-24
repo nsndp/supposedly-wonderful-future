@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 5a02967b0968c724ea318acf88c950a4
+timeCreated: 1500225125
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ToMerge
+    100004: Frame
+    100006: ProjectorMini
+    100008: ProjectorMini_001
+    100010: Papers
+    100012: Glass
+    100014: Glasses
+    100016: Drinks
+    100018: Bottle1
+    100020: Bottle2
+    100022: Bottle2_001
+    100024: Lamp
+    100026: Projectors
+    100028: DrinksSolid
+    400000: //RootNode
+    400002: ToMerge
+    400004: Frame
+    400006: ProjectorMini
+    400008: ProjectorMini_001
+    400010: Papers
+    400012: Glass
+    400014: Glasses
+    400016: Drinks
+    400018: Bottle1
+    400020: Bottle2
+    400022: Bottle2_001
+    400024: Lamp
+    400026: Projectors
+    400028: DrinksSolid
+    2300000: //RootNode
+    2300002: ToMerge
+    2300004: Frame
+    2300006: ProjectorMini
+    2300008: ProjectorMini_001
+    2300010: Papers
+    2300012: Glass
+    2300014: Glasses
+    2300016: Drinks
+    2300018: Bottle1
+    2300020: Bottle2
+    2300022: Bottle2_001
+    2300024: Lamp
+    2300026: Projectors
+    2300028: DrinksSolid
+    3300000: //RootNode
+    3300002: ToMerge
+    3300004: Frame
+    3300006: ProjectorMini
+    3300008: ProjectorMini_001
+    3300010: Papers
+    3300012: Glass
+    3300014: Glasses
+    3300016: Drinks
+    3300018: Bottle1
+    3300020: Bottle2
+    3300022: Bottle2_001
+    3300024: Lamp
+    3300026: Projectors
+    3300028: DrinksSolid
+    4300000: DeskItems
+    4300002: ToMerge
+    4300004: Frame
+    4300006: ProjectorMini_001
+    4300008: ProjectorMini
+    4300010: Papers
+    4300012: Glass
+    4300014: Glasses
+    4300016: Drinks
+    4300018: Bottle1
+    4300020: Bottle2
+    4300022: Bottle2_001
+    4300024: Projectors
+    4300026: Lamp
+    4300028: DrinksSolid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

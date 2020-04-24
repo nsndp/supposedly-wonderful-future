@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Hello?" />
+  	<Line ID="1" Text="Is that Daniel?" />
+  	<Line ID="2" Text="I’m the one who says “Hello” here! I’m also the one who asks questions." />
+  	<Line ID="3" Text="Yes. Who am I talking to?" />
+  	<Line ID="4" Text="Eh… okay. Can I help you with something? Oh, that was a question… sorry." />
+	<Line ID="5" Text="Hello, Daniel. My name is Michael. I’m a representative of LIFE+, and I work to resolve the incident that's happened to Ashley." />
+	<Line ID="6" Text="I’m an investigator from LIFE+. I hope you know why we’re having this conversation." />
+	<Line ID="7" Text="Oh, crap. It wasn’t me, man! I haven’t done nothing!" />
+	<Line ID="8" Text="Denying things right from the start only confirms your suspicious behavior." />
+	<Line ID="9" Text="I will be the judge of that. For now, I need you to calm dawn and cooperate." />
+	<Line ID="10" Text="Relax, kid. I’m not your enemy. I’m here to figure out the truth, nothing more." />
+	<Line ID="11" Text="But… but… ugh, just do your worst. I’m a dead man anyway." />
+	<Line ID="12" Text="Okay. Uh… I’ll try to do that. Both to calm down and to cooperate, I mean… right. Uh… I’ll shut up now." />
+	<Line ID="13" Text="Really? That’s great. I worked myself up when I got that scary message, to be honest…[pause] didn’t even hope a big shot like you could actually be nice." />
+	<Line ID="14" Text="Not much faith in your friendly corporate overlords?" />
+	<Line ID="15" Text="Why not? Should working for a corporation make me less human?" />
+	<Line ID="16" Text="Ha-ha, no, I have faith in corporate overlords, just not in their friendliness. Actually, if you don’t mind me asking…[pause] what’s it like to work at a high position for such a huge company? I’ve always wanted to get a job at some big corp." />
+	<Line ID="17" Text="Oh, no, I didn’t mean it that way. If anything, it should make you more human. Actually, if you don’t mind me asking…[pause] what’s it like to work at a high position for such a huge company? I’ve always wanted to get a job at some big corp." />
+	<Line ID="18" Text="I think you have zero chances at that." />
+	<Line ID="19" Text="You mistake me for someone else, kid. I’m not even officially employed." />
+	<Line ID="20" Text="Eh…" />
+	<Line ID="21" Text="You don’t have to tell me, I’m not even aiming so high… but still, what’s it like?" />
+	<Line ID="22" Text="You’re still important enough to lead this investigation, so you must have a much better idea than me. So, what’s it like?" />
+	<Line ID="23" Text="Just curious, you know." />
+	<Line ID="24" Text="Not much different from anywhere else, I guess… just people trying to do their jobs. Some hate it, some marry it, some try to find balance as best as they can." />
+	<Line ID="25" Text="It’s horrible. In big companies, people are not people, they’re cogs. Bureaucracy dehumanizes everything, no matter how well-intentioned the higher-ups are. You do not want to pursue a career in the corporate sector, trust me." />
+	<Line ID="26" Text="It’s pretty awesome. You get to solve the most important problems of the world along with the most talented people in the world, and get paid handsomely for it. What’s not to like?" />
+	<Line ID="27" Text="Really? That’s quite different from how I imagined… but thanks for telling me. And hey, shoot me any questions you want." />
+	<Line ID="28" Text="Boy, do I want to get a piece of that one day… thanks for telling me. And hey, shoot me any questions you want." />
+	
+	<Line ID="29" Text="Hello? Oh, it’s you again…" />
+	<Line ID="30" Text="Do you know why you are under suspicion?" />
+	<Line ID="31" Text="Tell me about your relationship with Ashley." />
+	<Line ID="32" Text="What is your role in the team?" />
+	<Line ID="33" Text="What do you think about the incident?" />
+	<Line ID="34" Text="All right, lover boy, I think it’s time we both agree that you’re guilty." />
+	<Line ID="35" Text="Let’s take a break." />
+	
+	<Line ID="40" Text="Of course I do! It’s because I managed to screw up right before this thing happened. Asked her to be my girlfriend, got rejected, couldn’t deal with it properly…[pause] so now you think I hired hackers and wrote that post to get back at her. Or asked a hacker friend. Or even hacked it myself, as if I know how to do that…" />
+	<Line ID="41" Text="Hacked? Why would you need to hack it?" />
+	<Line ID="42" Text="Of course you don’t, hacking is way too complicated for someone like you. But you knew her password, so there was no need." />
+	<Line ID="43" Text="Uh… why wouldn’t I? How else can you write something under someone else’s name?" />
+	<Line ID="44" Text="Oh, I don’t know. Maybe knowing the account’s password helps?" />
+	<Line ID="45" Text="Password? Well, yeah, actually, she told me her password so I could quickly try out that library of scents… what does this have to do with anything?" />
+	<Line ID="46" Text="One’s password gives access to one’s account. One’s account is used to write posts in one’s blog. Pretty simple, isn’t it?" />
+	<Line ID="47" Text="Look, kid. Playing dumb is a cheap trick. Don’t make more troubles than you’re already in." />
+	<Line ID="48" Text="Do you feign ignorance on purpose, or are you just that much of an idiot?" />
+	<Line ID="49" Text="Sure, but how… wait. You mean I could’ve used the same password and went to her blog instead of the library? Oh." />
+	<Line ID="50" Text="But I really don’t understand… wait. You mean I could’ve used the same password and go to her blog instead of the library? Oh." />
+	<Line ID="51" Text="You are as clueless in cybersecurity matters as Ashley, are you?" />
+	<Line ID="52" Text="If playing for time is all you plan to do, you chose a very bad strategy." />
+	<Line ID="53" Text="Ugh… why am I even having this conversation? This is supposed to be the future. I feel like I’m in the 90s and work in customer support." />
+	<Line ID="54" Text="Ashley? Clueless? If you call Ash clueless, I wonder what that makes me…" />
+	<Line ID="55" Text="Yeah, I don’t think the right word has been invented yet." />
+	<Line ID="56" Text="Stupid?" />
+	<Line ID="57" Text="Thanks for saying that out loud, mister…" />
+	<Line ID="58" Text="Yeah, thanks for saying that out loud, mister. It’s not like I’m in denial or anything…" />
+	<Line ID="59" Text="I’m not playing for time! How would that even help me? Oh, this is a mess…" />
+	<Line ID="60" Text="Eh… what, sorry?" />
+	
+	<Line ID="65" Text="Do you really need to ask that? Your friends said that my screw-up was recorded and is now available for everyone to watch…[pause] and it’s not like they had to mention that. Pretty much everything is monitored by cameras these days." />
+	<Line ID="66" Text="Just tell me your version." />
+	<Line ID="67" Text="I don’t have a “version,” nor do I have any excuses. What you saw is what had happened. Ashley and I were friends… well, maybe that’s because she’s so nice to everyone that you just feel like being her friend… but then I pushed too far too fast.[pause] Boyd asked me to do the special effects for the rest of the season, and it’s a big pain in the ass, but it also meant I got to work closely with Ashley, so I grabbed the opportunity.[clear]She showed me the basics on that meet-up day; we were alone, shared some nice moments, had a good laugh… so I thought, this is it, now or never. I need to make a move." />
+	<Line ID="68" Text="Does this mean you had feelings for her?" />
+	<Line ID="69" Text="How long have you been romantically interested in Ashley?" />
+	<Line ID="70" Text="Of course! I fell for her right when I joined this team, and I’ve stayed this long only because of that. Which wasn’t very long, to be fair…[pause] but still enough time to get serious. Or at least not flat-out reject me the moment I opened my mouth. It’s just not fair." />
+	<Line ID="71" Text="Pretty much since we first met. I fell for her the moment I joined this team, and I’ve stayed this long only because of that. Which wasn’t very long, to be fair…[pause] but still enough time to get serious. Or at least not flat-out reject me the moment I opened my mouth. It’s just not fair." />
+	<Line ID="72" Text="So you admit that you hold a grudge against her." />
+	<Line ID="73" Text="So you decided to keep insisting until it turned into harassment." />
+	<Line ID="74" Text="Yes! Only I never thought about the harassment part. I’m an idiot, all right? Being an idiot is not a crime." />
+	<Line ID="75" Text="It’s not an excuse either." />
+	<Line ID="76" Text="I’d say it’s an offense." />
+	<Line ID="77" Text="But I tried to apologize! The very same evening, I returned and said that I’m sorry." />
+	<Line ID="78" Text="No! I… I tried to apologize! The very same evening, I returned and said that I’m sorry." />
+	<Line ID="79" Text="And how did that work out for you?" />
+	<Line ID="80" Text="Yes, to avert suspicion." />
+	<Line ID="81" Text="That doesn’t mean much. You still have the most obvious motive among the suspects." />
+	<Line ID="82" Text="It worked well. At least I thought it did, but then this weird incident happened, and we haven’t talked since, and…[pause] oh, I’m screwed. Even if you don’t arrest me, I’m never gonna see my beautiful Ashley again." />
+	<Line ID="83" Text="No! Why would I do this? How could I even plan something like this? I’m too dumb!" />
+	<Line ID="84" Text="Oh, you’d want me to believe that, wouldn’t you? Playing dumb is your best bet now. Your only bet." />
+	<Line ID="85" Text="Either way, it’s not something that can clear your suspect status." />
+	<Line ID="86" Text="No, I’m not playing at all! Shouldn’t you detective guys be able to tell between a real idiot and a fake one? You’ve got to believe me, please!" />
+	<Line ID="87" Text="I know, I know…" />
+	<Line ID="88" Text="I know, I know… man, how did I get into this mess…" />
+	
+	<Line ID="95" Text="Just little things here and there, really… this is more of a transitional phase for me. I want to find a real job." />
+	<Line ID="96" Text="And what qualifies as a “real job”?" />
+	<Line ID="97" Text="A boring job, then." />
+	<Line ID="98" Text="If you are so uncommitted, why stay on the team at all?" />
+	<Line ID="99" Text="So you weren’t taking things very seriously." />
+	<Line ID="100" Text="Did it ever cause friction between you and other team members?" />
+	<Line ID="101" Text="Did it ever cause friction between you and Ashley?" />
+	<Line ID="102" Text="Fine, another question." />
+	<Line ID="103" Text="Something more substantial. With salary, benefits, career opportunities…" />
+	<Line ID="104" Text="Real jobs aren’t supposed to be fun. But they’re supposed to bring you money so you can have fun when you’re not working." />
+	<Line ID="105" Text="Isn’t it obvious? Because I like Ashley, and this was the easiest way to get closer. Much good it did me in the end…" />
+	<Line ID="106" Text="No, I suppose I wasn’t." />
+	<Line ID="107" Text="Occasionally, yes. It’s not like I don’t understand them…[pause] it’s frustrating when others are ambivalent about something you treasure a lot. But I also can’t force myself to care." />
+	<Line ID="108" Text="Yes… though she was always very polite about it. Why?" />
+	<Line ID="109" Text="Nothing you should worry about. " />
+	<Line ID="110" Text="Just trying to understand your relationship better." />
+	<Line ID="111" Text="Just piling up the reasons why you’re guilty." />
+	<Line ID="112" Text="If you say so…" />
+	<Line ID="113" Text="Okay…" />
+	<Line ID="114" Text="Oh, great…" />
+	<Line ID="115" Text="Yes?" />
+	
+	<Line ID="120" Text="It’s weird. Why would anyone do this?" />
+	<Line ID="121" Text="You should try to be more informative if you really want to cooperate." />
+	<Line ID="122" Text="You tell me." />
+	<Line ID="123" Text="Perhaps they were rejected by a girl and got a bit frustrated?" />
+	<Line ID="124" Text="Sorry… but I honestly at a loss. It seems like a very convoluted way to bully someone." />
+	<Line ID="125" Text="Please, I don’t know about this any more than you do. Actually, I know much less." />
+	<Line ID="126" Text="Maybe. Oh, wait, you mean me… please stop doing this. It’s hard not to freak out as it is." />
+	<Line ID="127" Text="Aren’t you a little bit worried about Ashley?" />
+	<Line ID="128" Text="Of course I am! Did she… did she really consider suicide?" />
+	<Line ID="129" Text="Yes! Haven’t you read her blog?" />
+	<Line ID="130" Text="No… still, she was shaken to the core." />
+	<Line ID="131" Text="But why? Ashley is so skillful, I’m sure she can find another job in no time." />
+	<Line ID="132" Text="She doesn’t want “another job.” She’s already found her perfect job, that’s the point." />
+	<Line ID="133" Text="Is that all you think about? Jobs? She found more than a job here. She found people who care about her efforts." />
+	<Line ID="134" Text="I really think you should do the explaining here, not the other way around." />
+	<Line ID="135" Text="How could it be perfect if people wanted her gone in the end?[pause] See, that’s another thing I don’t understand: either viewers like you, or they don’t. How can a single mistake tip the scales so seriously and suddenly?" />
+	<Line ID="136" Text="But people wanted her gone in the end.[pause] See, that’s another thing I don’t understand: either viewers like you, or they don’t. How can a single mistake tip the scales so seriously and suddenly?" />
+	<Line ID="137" Text="Sorry, I just find it hard to understand her sometimes. Strangely enough, it makes me like her even more.[pause] Here’s something else I don’t understand, though: either viewers like you, or they don’t. How can a single mistake tip the scales so seriously and suddenly?" />
+	<Line ID="138" Text="Maybe it was the last straw. Still, it was the false last straw, so the impostor is responsible for the whole thing." />
+	<Line ID="139" Text="People are impulsive and easily manipulated; even the smallest things can give them the wrong idea." />
+	<Line ID="140" Text="Trying to understand how could your little prank go so terribly wrong?" />
+	<Line ID="141" Text="Man, it’s complicated… I hope she’ll be okay." />
+	<Line ID="142" Text="What? No, it wasn’t my prank! Why are you making this so hard?" />
+	
+	<Line ID="150" Text="What? No, wait!" />
+	<Line ID="151" Text="But it’s clear as day. You had a reason to be mad at Ashley, and an instant access to getting your little revenge. Such an easy way to vent the frustration, it was impossible to resist." />
+	<Line ID="152" Text="I’m serious. You and even others may want it to be more complicated, but it really isn’t. You tried to get the girl, failed, got bitter, and did the stupid thing. End of story." />
+	<Line ID="153" Text="Hold that thought, we’ll return to it shortly." />
+	<Line ID="154" Text="But I didn’t even consider that, I barely know how these accounts work… I… I tried to explain!" />
+	<Line ID="155" Text="But it’s wrong, just a stupid coincidence… I… I tried to explain!" />
+	<Line ID="156" Text="That thought pretty much haunts me by now…" />
+	<Line ID="157" Text="You think I can’t see through your “explanations”? You may be able to turn on “the good guy mode,” but you’re self-centered to the core – and dangerously clueless. You probably didn’t think fake posting would take things so far. You just did it on impulse." />
+	<Line ID="158" Text="Your answers do not convince me; all I see is an egotistic boy. No matter what you talk about, it’s all filled with “I’s.” “I have,” “I did,” “I want”… You don’t take other people’s feelings into consideration. You can hurt another person without even realizing… and that’s exactly what happened." />
+	<Line ID="159" Text="No, you did the opposite; you tried to confuse me. You feigned ignorance on every possible occasion. But I don’t buy it. I think you understand much more than you pretend to, and you knew exactly how to get away with it. But you’re not getting away with it. Not on my watch." />
+	<Line ID="160" Text="I should have seen it coming… it was stupid to think I can change anybody’s mind.[pause] Go on then, do your worst. If you want to arrest me, arrest me. Just don’t bother me with this conversation any longer, all right? It’s a waste of time anyway." />
+	<Line ID="161" Text="Don’t worry, I won’t." />
+	
+	<Line ID="165" Text="Hello? Oh, it’s you… decided to have a talk one last time before telling your friend to arrest me?" />
+	<Line ID="166" Text="Why would I arrest you?" />
+	<Line ID="167" Text="Depends on how good your explanation will be." />
+	<Line ID="168" Text="Pretty much." />
+	<Line ID="169" Text="Because you found out about the pictures and now think I’m a creep?" />
+	<Line ID="170" Text="There is nothing wrong with having pictures of the girl you like on the wall." />
+	<Line ID="171" Text="I wouldn’t arrest you just for that. However, it’d be nice to hear some explaining." />
+	<Line ID="172" Text="Don’t worry, I thought you were a creep from the very beginning." />
+	<Line ID="173" Text="When she’s your girlfriend, perhaps… but no, I admit it. I used to print out Ashley’s photos and hang them on my wall. Stared at them for hours on end… until the day she rejected me.[pause] That day, I came back home and began to tear them apart. But I regretted it almost immediately. I put the pieces back together, then ran back to the library and apologized to her." />
+	<Line ID="174" Text="Well, that’s reassuring… but I admit it. I used to print out Ashley’s photos and hang them on my wall. Stared at them for hours on end… until the day she rejected me.[pause] That day, I came back home and began to tear them apart. But I regretted it almost immediately. I put the pieces back together, then ran back to the library and apologized to her." />
+	<Line ID="175" Text="Oh, I can explain everything! I know you found out about the pictures and think I’m a creep, but I’m not, I promise!" />
+	<Line ID="176" Text="At least let me try to explain… I know you found out about the pictures and think I’m a creep, but I’m not, honestly." />
+	<Line ID="177" Text="Talk, then." />
+	<Line ID="178" Text="Nah, I’m pretty sure you are. But go on, say what you wanted to say." />
+	<Line ID="179" Text="Well, it’s embarrassing, but I used to print out Ashley’s photos and hang them on my wall. Stared at them for hours on end… until the day she rejected me.[pause] That day, I came back home and began to tear them apart. But I regretted it almost immediately. I put the pieces back together, then ran back to the library and apologized to her." />
+	<Line ID="180" Text="If you regretted it, why take them off the wall at all?" />
+	<Line ID="181" Text="And replacing Ashley with celebrities makes it better how?" />
+	<Line ID="182" Text="Or maybe you just tried to cover it up. An empty space on the wall would’ve been more suspicious, right?" />
+	<Line ID="183" Text="Yeah, I bet “staring” is not the only thing you did for hours on end." />
+	<Line ID="184" Text="Why bother fixing when you can just print it again?" />
+	<Line ID="185" Text="A likely story. I’m sure the only real part is you tearing up Ashley’s pictures in rage. The rest is just another bunch of excuses." />
+	<Line ID="186" Text="Enough about that." />
+	<Line ID="187" Text="Because I had to let it go. Because I wanted to change. Because, when she accepted my apology, I looked back and realized what a creepy stalker I’d become…[pause] if I still wanted to be friends with Ashley, or have a healthy relationship with any girl, that had to stop." />
+	<Line ID="188" Text="Well, because they’re celebrities. They want you to stare at them, right? They make money off it." />
+	<Line ID="189" Text="No! Do you really think I considered any of this? I never imagined my failed romantic attempts would become the center of such attention." />
+	<Line ID="190" Text="Oh, do you have to say it out loud? It’s already embarrassing as it is…" />
+	<Line ID="191" Text="Because I grew attached to them, and they were no longer mere print-outs? I know it’s stupid and sentimental, but that’s how it was for me." />
+	<Line ID="192" Text="They’re not excuses, it’s true. If only somebody could believe me for a change…" />
+	<Line ID="193" Text="More questions?" />
+  </List>
+</Text>

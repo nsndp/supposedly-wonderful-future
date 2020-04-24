@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Root Path="Credits">
+		<Phrase Type="0" Path="Title" Text="ПРЕДПОЛАГАЕМО&#xA;ЗАМЕЧАТЕЛЬНОЕ БУДУЩЕЕ" />
+		<Phrase Type="0" Path="Author1" Text="Разработка" />
+		<Phrase Type="0" Path="Author2" Text="ДМИТРИЙ ЗАГУМЕННОВ" />
+		<Phrase Type="0" Path="Music/mHeader" Text="МУЗЫКА" />
+		<Phrase Type="0" Path="Music/mLicense" Text="лицензия CC BY (Creative Commons с указанием авторства)" />
+		<Phrase Type="0" Path="Videos/vidHeader" Text="ВИДЕО" />
+		<Phrase Type="0" Path="Videos/vid1src" Text="youtube.com и vimeo.com (лицензия CC BY)" />
+		<Phrase Type="0" Path="Videos/vid2src" Text="pixabay.com (лицензия CC0)" />
+		<Phrase Type="0" Path="Images/imgHeader" Text="ИЗОБРАЖЕНИЯ" />
+		<Phrase Type="0" Path="Images/img1src" Text="pixabay.com (CC0)" />
+		<Phrase Type="0" Path="Images/img2src" Text="unsplash.com (CC0)" />
+		<Phrase Type="0" Path="Images/img3src" Text="flickr.com (CC BY/BY-SA/BY-ND)" />
+		<Phrase Type="0" Path="Images/img4R" Text="Jay Mantri&#xA;Leeroy&#xA;admin&#xA;FreeVector.com" />
+		<Phrase Type="0" Path="Models/modHeader" Text="МОДЕЛИ" />
+		<Phrase Type="0" Path="Models/mod1src" Text="assetstore.unity3d.com" />
+		<Phrase Type="0" Path="Models/mod2src" Text="turbosquid.com" />
+		<Phrase Type="0" Path="Textures/texHeader" Text="ТЕКСТУРЫ" />
+		<Phrase Type="0" Path="Textures/tex" Text="textures.com (бывший cgtextures)&#xA;plaintextures.com&#xA;render911.ru&#xA;subtlepatterns.com" />
+		<Phrase Type="0" Path="Sounds/sfxHeader" Text="ЗВУКИ" />
+		<Phrase Type="0" Path="Sounds/sfxSource" Text="freesound.com (CC0 / CC BY)" />
+		<Phrase Type="0" Path="Fonts/fntHeader" Text="ШРИФТЫ" />
+		<Phrase Type="0" Path="Fonts/fntL" Text="Clear Sans&#xA;Source Sans Pro&#xA;Exo&#xA;Exo 2&#xA;&#xA;Gunny Rewritten&#xA;Wolgast Two&#xA;Freebooter Script" />
+		<Phrase Type="0" Path="Fonts/fntR" Text="Daniel Ratighan (Intel)&#xA;Paul D. Hunt (Adobe)&#xA;Natanael Gama&#xA;Natanael Gama&#xA;&#xA;Vit Condak&#xA;Peter Wiegel&#xA;Apostrophic Labs" />
+		<Phrase Type="0" Path="End" Text="КОНЕЦ" />
+		<Phrase Type="0" Path="Skip/Panel/Text" Text="Пропустить титры?" />
+		<Phrase Type="0" Path="Skip/Panel/Yes" Text="Да" />
+		<Phrase Type="0" Path="Skip/Panel/No" Text="Нет" />
+	</Root>
+</Text>

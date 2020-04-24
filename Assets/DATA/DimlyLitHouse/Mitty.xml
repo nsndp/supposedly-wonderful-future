@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="(A small figure sitting on the bed looks at you with a curious expression) Hello!" />
+    <Line ID="1" Text="Hi there, little girl." />
+    <Line ID="2" Text="A girl? What are you doing here?" />
+    <Line ID="3" Text="I’m not little. I’m big and strong and smart!" />
+    <Line ID="4" Text="Sure thing, big lady." />
+    <Line ID="5" Text="You don’t look very big to me." />
+    <Line ID="6" Text="Maybe, but I’m gonna grow fast! You just wait and see!" />
+    <Line ID="7" Text="Deal." />
+    <Line ID="8" Text="What are you doing here?" />
+    <Line ID="9" Text="I live here. What are you doing here?" />
+    <Line ID="10" Text="Well, there was this woman who invited me to the future, so I went with her. But I guess she was just joking." />
+    <Line ID="11" Text="I have no idea, to be honest. I literally appeared here out of thin air." />
+    <Line ID="12" Text="Probably something stupid. I always end up doing something stupid." />
+    <Line ID="13" Text="I constantly ask myself the same question." />
+    <Line ID="14" Text="You’re funny! But… mommy tells me not to talk with strangers." />
+    <Line ID="15" Text="We don’t have to be strangers. What’s your name?" />
+    <Line ID="16" Text="I’m Mitty! What’s yours?" />
+    <Line ID="17" Text="Yeah, mommies tend to say that." />
+    <Line ID="18" Text="Not like there’s anybody else to talk with at the moment." />
+    <Line ID="19" Text="I know, we can just learn about each other! I’m Mitty! What’s your name?" />
+    <Line ID="20" Text="Pleased to meet you, Mitty. I’m Michael." />
+    <Line ID="21" Text="Hello, Michael!" />
+    <Line ID="22" Text="Candlejack. I mean, it seems appropriate." />
+    <Line ID="23" Text="Hello, Mister Candlejack!" />
+    <Line ID="24" Text="See, we’re not strangers anymore!" />
+    <Line ID="25" Text="Cool!" />
+    <Line ID="26" Text="Are you okay talking with me now?" />
+    <Line ID="27" Text="Sure! We’re not strangers anymore." />
+    
+    <Line ID="28" Text="So, eh… spooky house you’ve got here, Mitty. High electricity bills or something?" />
+    <Line ID="29" Text="Do you know if there’s an exit around? I need to be elsewhere." />
+    <Line ID="30" Text="Hey, do you know how to open the front door? I need to be elsewhere." />
+    <Line ID="31" Text="The woman sitting in the kitchen… is that your mother?" />
+    <Line ID="32" Text="Well, I’ll talk to you later." />
+    <Line ID="33" Text="Mommy just doesn’t like light anymore. That’s fine." />
+    <Line ID="34" Text="The front door is in the hall. But mommy has the keys, you’ll need to ask her to open it." />
+    <Line ID="35" Text="Mommy has the keys, just ask her." />
+    <Line ID="36" Text="Yep, it’s my mommy! I love her!" />
+    <Line ID="37" Text="Aw, that’s sweet." />
+    <Line ID="38" Text="Good for you." />
+    <Line ID="39" Text="Okay…" />
+    <Line ID="40" Text="Only…" />
+    <Line ID="41" Text="What?" />
+    <Line ID="42" Text="No, nothing, it’s all right." />
+    <Line ID="43" Text="If you say so." />
+    <Line ID="44" Text="You can tell me anything, you know. I can keep a secret." />
+    <Line ID="45" Text="…mommy wouldn’t play with me. Wouldn’t even talk with me.[pause] I tell her “Come on, mommy, please-please-please-please-please-pretty-please!”, but she just covers her face and starts crying." />
+    <Line ID="46" Text="Maybe your mommy is worried about something?" />
+    <Line ID="47" Text="That does sound strange." />
+    <Line ID="48" Text="I’d get emotional after so many pleases too." />
+    <Line ID="49" Text="I don’t know. But it’s boring here without her. I wish mommy would play with me." />
+    <Line ID="50" Text="Well, I'll talk to you later." />
+    <Line ID="51" Text="Hey, can I ask you something?" />
+    <Line ID="52" Text="Sure thing, Mitty." />
+    <Line ID="53" Text="You can certainly try." />
+    <Line ID="54" Text="I made this delicious cake for mommy. Can you give it to her? Maybe then she will play with me." />
+    <Line ID="55" Text="She’s not playing with you now?" />
+    <Line ID="56" Text="No, she wouldn’t even talk with me. I tell her “Come on, mommy, please-please-please-please-please-pretty-please!”, but she just covers her face and starts crying." />
+    <Line ID="57" Text="Of course, I’d be glad to." />
+    <Line ID="58" Text="I guess. Not far to go anyway." />
+    <Line ID="59" Text="Thank you, you are so nice![clear](The little girl suddenly starts to cough in a quite intense manner. You realize now there is something strange about the way she speaks. Maybe it’s because she’s caught a cold, or maybe she just has an unusual voice.)" />
+	
+    <Line ID="62" Text="Are you sick?" />
+    <Line ID="63" Text="A little. But the doctor said there’s nothing to worry about; it will be over before I know it." />
+    <Line ID="64" Text="Well, let’s see that cake you made." />
+    <Line ID="65" Text="Oh, right![clear](The girl gives you a circular box full of meticulously shredded paper colored with different crayons. It does look quite festive, though certainly inedible.)" />
+    <Line ID="66" Text="What a beautiful cake! I’m sure your mommy will be delighted to have it." />
+    <Line ID="67" Text="Don’t you worry, girl, I’ll feed this to your mommy in no time." />
+    <Line ID="68" Text="Splendid. Well, I’ll be on my way." />
+    <Line ID="69" Text="Thanks!" />
+    <Line ID="71" Text="Hello again!" />
+    <Line ID="72" Text="I'll talk to you later." />
+    <Line ID="73" Text="Don't worry." />
+    
+    <Line ID="74" Text="Hello again!" />
+    <Line ID="75" Text="Hey, Mitty, good news! I gave the cake to your mommy." />
+    <Line ID="76" Text="The package is successfully delivered to the recipient, ma’am." />
+    <Line ID="77" Text="I'll be back in a bit." />
+    <Line ID="78" Text="Really? She took it? That is awesome! Did she like it?" />
+    <Line ID="79" Text="I… don't know. She was reluctant, but then she got very emotional." />
+    <Line ID="80" Text="She was… impressed." />
+    <Line ID="81" Text="Will she come to play now?" />
+    <Line ID="82" Text="I don’t think so, Mitty. I’m sorry. Your mommy looks very preoccupied with something." />
+    <Line ID="83" Text="I doubt so. Sorry, kid, but she doesn’t seem very eager to get up from that magnificent stool of hers." />
+    <Line ID="84" Text="Well, I knew it wouldn’t be enough… so I made another gift!" />
+    <Line ID="85" Text="Wow, you are a very resourceful girl, you know that?" />
+    <Line ID="86" Text="Another gift? Let’s hope mommy takes it better than the last one." />
+    <Line ID="87" Text="Somehow I knew my delivery guy days weren't past me." />
+    <Line ID="88" Text="It’s a very special gift this time, something that can help mommy’s troubles. Here![clear](A girl excitedly passes you another round box. Inside you find cut-out drawings of what appear to be medical tools and supplies: bandages, thermometers, syringes, a stethoscope, and even a scalpel.[pause] There is also another load of shredded paper, this time colored to resemble pills of some kind. “Very special” is one way to put it.)" />
+    <Line ID="91" Text="Oh, are you playing a doctor now?" />
+    <Line ID="92" Text="What on earth is this, Mitty?" />
+    <Line ID="93" Text="I’m getting a bit worried about this whole enterprise, little girl." />
+    <Line ID="94" Text="Yep! Mommy looks like she’s in pain, so I made things that will help her. She can stitch her troubles with these tools, and if it won’t be enough, there are pills there, magical pills that can solve all your problems.[pause] I know pills like this exist, mommy once told me about them!" />
+    <Line ID="95" Text="Mommy looks like she’s in pain, so I made things that will help her. She can stitch her troubles with these tools, and if it won’t be enough, there are pills there, magical pills that can solve all your problems.[pause] I know pills like this exist, mommy once told me about them!" />
+    <Line ID="96" Text="Don't be! Mommy looks like she’s in pain, so I made things that will help her. She can stitch her troubles with these tools, and if it won’t be enough, there are pills there, magical pills that can solve all your problems.[pause] I know pills like this exist, mommy once told me about them!" />
+    <Line ID="97" Text="You are very thoughtful. So, eh… how is this going to work exactly?" />
+    <Line ID="98" Text="Like magic. Poof! And all the pain is gone." />
+    <Line ID="99" Text="Should I perform the surgery myself, doctor?" />
+    <Line ID="100" Text="No, silly, you don’t need any surgery. They’re magical, that’s the whole point!" />
+    <Line ID="101" Text="Ah, right. Poof… Well, I guess I’ll go give it to your mommy." />
+    <Line ID="102" Text="Ah, right. Silly me… Well, I guess I’ll go give it to your mommy." />
+    <Line ID="103" Text="You really thought this one through, did you? I’ll do it." />
+    <Line ID="104" Text="I have a bad feeling about this, but it doesn’t look like I have another choice." />
+    <Line ID="105" Text="Thanks! You’re a real friend!" />
+    
+    <Line ID="107" Text="(You strain your eyes as you approach Mitty, but the room is too damn dark to make out any details of her appearance.[pause] Annoyed by the constant lack of visibility, as well as a general lack of sense on the premises, you move toward the switch on the wall.)" />
+	<Line ID="108" Text="(Turn the lights on.)" />
+	<Line ID="109" Text="(Seconds later, an involuntary gasp escapes your mouth. Every bit of Mitty’s skin is covered with liver spots and deep wrinkles. She looks grotesque, like a genetic experiment gone wrong, or Benjamin Button making a cameo in a horror movie.[pause] A realization dawns on you: there was nothing wrong with her voice. It just wasn’t a little girl’s voice. It was a voice of an old and very sick woman.)" />
+    <Line ID="110" Text="Mitty, oh… what’s wrong with you?" />
+    <Line ID="111" Text="What on earth is this? What’s happened to you?" />
+    <Line ID="112" Text="Nothing. I’m all right. Why?" />
+    <Line ID="113" Text="Your body’s all wrinkled! You look like an old lady." />
+    <Line ID="114" Text="That’s because I’m ill at the moment. But it’s nothing to worry about, I heard the doctor saying so, I heard it myself!" />
+    <Line ID="115" Text="The woman says you are her mother, not her daughter. Is that right?" />
+    <Line ID="116" Text="My mommy says so? That's a funny thing to say. What does it mean?" />
+    <Line ID="117" Text="I have no idea… I need to leave you for a moment, okay?" />
+        
+    <Line ID="118" Text="(You approach Mitty again, but the initial shock wore off by now, and you notice that she may not be so unnaturally grotesque after all.[pause] She’s just a very short person burdened by age and illness. She could probably pass for a stereotypical old granny if it wasn’t for her cheerful girly behavior.)[clear]Hello again!" />
+    <Line ID="119" Text="Hello again!" />
+    <Line ID="120" Text="How are you holding up?" />
+    <Line ID="121" Text="Mitty… how old are you?" />
+    <Line ID="122" Text="Do you remember anything from before? Before you and mommy stopped talking, I mean." />
+	<Line ID="123" Text="I’ll talk to you later." />
+	<Line ID="124" Text="I’m bored! Nothing happens!" />
+	<Line ID="125" Text="I wish I had your problems right now." />
+	<Line ID="126" Text="Oh, I wouldn’t mind. It’s not so boring to be bored together!" />
+	<Line ID="127" Text="Oh, something is about to happen, all right. I’m not sure I want it though…" />
+	<Line ID="128" Text="I want it! Better than sitting here all day." />
+	<Line ID="129" Text="I’m eight. Why?" />
+	<Line ID="130" Text="You don’t feel… older? Like, it’s hard to move, and you're tired all the time, and…" />
+	<Line ID="131" Text="I do. But that’s just because I’m sick. You always feel tired when you sick, right?" />
+	<Line ID="132" Text="Of course I do. We used to talk and play a lot. I enjoyed it, mommy is always so nice.[pause] She never treated me like a kid. I hate it when people treat you like a little kid. I’m not little!" />
+	
+	<Line ID="133" Text="Look, darling… I want you to do something for me." />
+	<Line ID="134" Text="Hey, Mitty. Can I ask you a favor?" />
+	<Line ID="135" Text="Do you want to play? I want to play with you, you’re so nice! Mommy may not join us, but we can still have fun together, just you and me, right?" />
+	<Line ID="136" Text="No, that’s not what I meant, sweetie. I want you to travel somewhere." />
+	<Line ID="137" Text="No, but I have a… journey in mind." />
+	<Line ID="138" Text="Travel? Where?" />
+	<Line ID="139" Text="A journey? Where are we going?" />
+	<Line ID="140" Text="To a faraway place." />
+	<Line ID="141" Text="Is it a nice place?" />
+	<Line ID="142" Text="It is. It must be." />
+	<Line ID="143" Text="I don’t know. But I’m sure it will be nicer than here." />
+	<Line ID="144" Text="Will I return?" />
+	<Line ID="145" Text="You wouldn’t want to. It’s beautiful there." />
+	<Line ID="146" Text="Perhaps you will. When you’re older and different." />
+	<Line ID="147" Text="Probably not. But people go there all the time, so how bad could it be?" />
+	<Line ID="148" Text="Is it hard to get there?" />
+	<Line ID="149" Text="Not at all. Quicker and easier than falling asleep." />
+	<Line ID="150" Text="It is. But you’re a strong girl, right?" />
+	<Line ID="151" Text="Okay. What do you want me to do?" />
+	<Line ID="152" Text="I want you to take this pill for me." />
+	<Line ID="153" Text="Pill? Mommy doesn’t like pills. They make her confused. She once told me that she’s going to get a special pill for me and I should take it, but then started to cry and said to forget about it." />
+	<Line ID="154" Text="But it’s a magic pill. It will help you. And it will help mommy. Do you trust me?" />
+	<Line ID="155" Text="All right. I trust you, you’re my friend. Give it to me, I’ll take it." />
+	<Line ID="156" Text="Here you go, sweetie." />
+	<Line ID="157" Text="Yeah, it's right here." />
+  </List>
+</Text>

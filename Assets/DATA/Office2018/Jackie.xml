@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="(You open the door to find a woman standing on your doorstep. She seems agitated and a little out of breath, with tiny beads of sweat showing up on her forehead.[pause] She looks at you and immediately lets out a sign of relief.)[clear]Morning, Mister Morton… whew, I’m so glad I’ve finally found you!" />
+  	<Line ID="1" Text="Eh… sure." />
+  	<Line ID="2" Text="Was it that hard?" />
+	<Line ID="3" Text="It was pretty maddening for a moment… a labyrinth of back alleys and weird intersections. Our records must’ve been wrong; I had no idea where I was going." />
+	<Line ID="4" Text="I’m sorry, but do I know you?" />
+	<Line ID="5" Text="Well, cheap rent has its drawbacks." />
+	<Line ID="6" Text="Records can be unreliable like that." />
+	<Line ID="7" Text="Oh… well, this is awkward.[pause] That’s not how I should’ve started at all, is it?" />
+	<Line ID="8" Text="I know, but I thought we accounted for that, and… oh. This is awkward.[pause] That’s not how I should’ve started at all, is it?" />
+	<Line ID="9" Text="I know, but I thought we accounted for that, and… oh. Well, this is awkward.[pause] That’s not how I should’ve started at all, is it?" />
+	<Line ID="10" Text="How do I know?" />
+	<Line ID="11" Text="You can try to start again if you want to." />
+	<Line ID="12" Text="Start any way you like if you get to the point eventually." />
+	<Line ID="13" Text="I’m sorry about that, Mister Morton. You are Michael D. Morton, aren’t you?" />
+	<Line ID="14" Text="Yes." />
+	<Line ID="15" Text="You seemed pretty confident about that a few seconds ago." />
+	<Line ID="16" Text="The thing is, I have a proposition for you, and I believe you will find it most interesting. Can I have a moment of your time to discuss it?[pause] My name is Jackie, by the way." />
+	<Line ID="17" Text="I know, it’s just… The thing is, I have a proposition for you, and I believe you will find it most interesting. Can I have a moment of your time to discuss it?[pause] My name is Jackie, by the way." />
+	<Line ID="18" Text="Sure thing, Jackie. Here, have a seat." />
+	<Line ID="19" Text="Very well… come on in." />
+	<Line ID="20" Text="A brief moment, perhaps. But go on, come in. Can’t have you standing in the door frame, can we?" />
+  	
+	<Line ID="25" Text="(The woman takes a place on your couch as offered. Overall, it looks like she's managed to regain her composure.)" />
+  	<Line ID="26" Text="Can I get you something to drink?" />
+	<Line ID="27" Text="So, what can we do for you today?" />
+	<Line ID="28" Text="You’ve got 15 minutes." />
+	<Line ID="29" Text="No, that’s quite all right, thank you. I do apologize for the sudden visit.[pause] Simply showing up on your doorstep is not how proper business negotiations should start… but my circumstances are quite restricting." />
+	<Line ID="30" Text="Just hearing me out should be enough, thank you. I do apologize for the sudden visit.[pause] Simply showing up on your doorstep is not how proper business negotiations should start… but my circumstances are quite restricting." />
+	<Line ID="31" Text="I can work with that. And I do apologize for the sudden visit.[pause] Simply showing up on your doorstep is not how proper business negotiations should start… but my circumstances are quite restricting." />
+	<Line ID="32" Text="You don’t have to worry about corporate etiquette here, Jackie. We’re a small company. We’re flexible, and we concentrate on what matters." />
+	<Line ID="33" Text="If you say so." />
+	<Line ID="34" Text="Apology accepted." />
+	<Line ID="35" Text="Thanks, that’s very kind of you. Let’s get right to it then. I’d like to offer you a job." />
+	<Line ID="36" Text="I’d like to offer you a job." />
+	<Line ID="37" Text="Thank you. Let’s get right to it then. I’d like to offer you a job." />
+	<Line ID="38" Text="Ah… well, I appreciate you coming to us, but unfortunately we’re already at full capacity. Perhaps a couple of months down the road might suit you?" />
+	<Line ID="39" Text="We’re packed with projects at the moment, sorry." />
+	<Line ID="40" Text="Oh no, not a job for your company, Mister Morton. A job for you. As a person." />
+	<Line ID="41" Text="But I already have a job. That’s kinda the reason why I’m in this office to begin with." />
+	<Line ID="42" Text="You do realize that I work for myself full time, right?" />
+	<Line ID="43" Text="Do you plan on convincing me to shut down my business? Because that’s not happening, no matter what you say." />
+	<Line ID="44" Text="You can do both. The job’s specifics make it a very special case.[pause] Besides, it’s useful to have a fallback plan, even if the main plan is working flawlessly." />
+	<Line ID="45" Text="Absolutely, but you still can do both. The job’s specifics make it a very special case.[pause] Besides, it’s useful to have a fallback plan, even if the main plan is working flawlessly." />
+	<Line ID="46" Text="Not at all, you can do both. The job’s specifics make it a very special case.[pause] Besides, it’s useful to have a fallback plan, even if the main plan is working flawlessly." />
+	<Line ID="47" Text="I suppose it won’t hurt." />
+	<Line ID="48" Text="Yeah, yeah. You can proceed with the sales pitch." />
+	<Line ID="49" Text="All right, I’ll humor you. But be warned there’s very little chance of me getting interested." />
+	<Line ID="50" Text="Thank you. Now, Mister Morton, the offer I’m about to give involves talking about rather unusual things; things that might sound unbelievable at first. So here’s a general plan I’d like to propose.[pause] First, I’ll make a far-reaching claim. Then we’ll talk about it in more detail. You are free to ask any questions to determine whether the said claim is true or not; in fact, I’d like you to.[pause] Then you get to decide if it’s actually true. Does it sound like something you could spend a little bit of your time on?" />
+	<Line ID="51" Text="Sounds harmless. Sure, why not." />
+	<Line ID="52" Text="The claim being…?" />
+	<Line ID="53" Text="Just say what you need to." />
+	<Line ID="54" Text="Splendid! Mister Morton… I come from the future." />
+	<Line ID="55" Text="I come from the future." />
+	<Line ID="56" Text="Okaaaaay… keep going." />
+	<Line ID="57" Text="What? That is ridiculous." />
+	<Line ID="58" Text="Finally! Where have you been all this time?" />
+	<Line ID="59" Text="You mean you’ve been expecting me?" />
+	<Line ID="60" Text="Of course I was, you silly woman! Not like it’s my first time. I know exactly how this ends." />
+	<Line ID="61" Text="Well, who hasn’t? I’m sure any other long-term solution is pretty much ruled out by now." />
+	<Line ID="62" Text="You… do?" />
+	<Line ID="63" Text="Sure thing. I especially like the part where I sneeze at a random passerby and set off a sequence of events that erase me from existence." />
+	<Line ID="64" Text="Naturally. Didn’t you know I come from the future myself? From the more distant future than yours, I mean." />
+	<Line ID="65" Text="I know everything! Now let me make a mysterious face and drop a plot twist on you." />
+	<Line ID="66" Text="Solution to what?" />
+	<Line ID="67" Text="Evil computers, nuclear warfare, global pandemics, gamma ray bursts… the usual stuff." />
+	<Line ID="68" Text="Endangered species. That’s the topic I care about dearly." />
+	<Line ID="69" Text="Who knows? I’m sure the problem itself is just as mysterious and incomprehensible as the solution." />
+	<Line ID="70" Text="But I don’t understand… our calculations should have… oh, right. I didn’t see that coming. That’s a good one, Mister Morton." />
+	<Line ID="71" Text="Thank you. But please, do continue." />
+	<Line ID="72" Text="Anytime. Now, you were in the middle of making your own joke, right?" />
+	<Line ID="73" Text="Of course. I work for a company called LIFE+, one of the leading experts in all things technological.[pause] Barely an hour ago, I traveled 30 years back in time because our scientists recently – and quite unexpectedly to everyone but themselves, might I add – cracked the secret to time traveling.[pause] This is the first field test, and you are our first contact. The job I am offering involves coming back with me to year 2048 and working together on a special project." />
+	<Line ID="74" Text="My part wasn’t a joke. I work for a company called LIFE+, one of the leading experts in all things technological.[pause] Barely an hour ago, I traveled 30 years back in time because our scientists recently – and quite unexpectedly to everyone but themselves, might I add – cracked the secret to time traveling.[pause] This is the first field test, and you are our first contact. The job I am offering involves coming back with me to year 2048 and working together on a special project." />
+	<Line ID="75" Text="I know, that’s why I warned you in advance. But please, play along for a little while. Reserve your judgment until you hear more.[clear]I work for a company called LIFE+, one of the leading experts in all things technological.[pause] Barely an hour ago, I traveled 30 years back in time because our scientists recently – and quite unexpectedly to everyone but themselves, might I add – cracked the secret to time traveling.[pause] This is the first field test, and you are our first contact. The job I am offering involves coming back with me to year 2048 and working together on a special project." />
+	<Line ID="76" Text="I work for a company called LIFE+, one of the leading experts in all things technological.[pause] Barely an hour ago, I traveled 30 years back in time because our scientists recently – and quite unexpectedly to everyone but themselves, might I add – cracked the secret to time traveling.[pause] This is the first field test, and you are our first contact. The job I am offering involves coming back with me to year 2048 and working together on a special project." />
+	
+	<Line ID="84" Text="All right, Jackie, one thing at a time… tell me about your “future.”" />
+	<Line ID="85" Text="Tell me about your “future.”" />
+	<Line ID="86" Text="What kind of special project are we talking about?" />
+	<Line ID="87" Text="And why are you interested in me, exactly?" />
+	<Line ID="88" Text="I still have a few more questions." />
+	<Line ID="89" Text="All right, let me summarize this…" />
+		
+	<Line ID="92" Text="It’s pretty awesome." />
+	<Line ID="93" Text="No nuclear apocalypse? No ecological disasters? No machine uprising? No catastrophes at all?" />
+	<Line ID="94" Text="Eh, forgive my skepticism, but you’re clearly an interested party here." />
+	<Line ID="95" Text="Yeah, I shouldn’t have expected another answer from a salesperson." />
+	<Line ID="96" Text="No, it’s been pretty peaceful; much more peaceful, in fact, than your current time.[pause] Regional conflicts and global tensions are solved in peaceful ways. Economic inequality has been reduced greatly. High-school level education is available for everyone.[pause] Child mortality and poverty are exceedingly rare; the entire world has access to clean water, vaccination, and other necessities." />
+	<Line ID="97" Text="True, but I honestly speak my mind here. The world has become better where it counts.[pause] Regional conflicts and global tensions are solved in peaceful ways. Economic inequality has been reduced greatly. High-school level education is available for everyone.[pause] Child mortality and poverty are exceedingly rare; the entire world has access to clean water, vaccination, and other necessities." />
+	<Line ID="98" Text="Perhaps, but I honestly speak my mind here. The world has become better where it counts.[pause] Regional conflicts and global tensions are solved in peaceful ways. Economic inequality has been reduced greatly. High-school level education is available for everyone.[pause] Child mortality and poverty are exceedingly rare; the entire world has access to clean water, vaccination, and other necessities." />
+	<Line ID="99" Text="That’s actually some real achievements. I thought you’d try to lure me with technological gimmicks and stuff." />
+	<Line ID="100" Text="Oh, that’s cool. Any flying cars yet?" />
+	<Line ID="101" Text="Do I look like a starving African child? Tell me something that the overprivileged can use." />
+	<Line ID="102" Text="Oh, I think I can give you a couple of those too. For example, there is a matter of us… not aging anymore." />
+	<Line ID="103" Text="No, but we’ve had some amazing technological breakthroughs as well. For example, there is a matter of us… not aging anymore." />
+	<Line ID="104" Text="Oh, all right, let’s see. For example, there is a matter of us… not aging anymore." />
+	<Line ID="105" Text="What, sorry?" />
+	<Line ID="106" Text="Well, there is this medical procedure called “cells and tissue renewal process,” or just “the renewal,” or however you want to call it. If you go through it, you stop aging for 10 years.[pause] After that, you can do it again, so it’s possible to never get old. And if you don’t get old, your risk of age-related illnesses is reduced accordingly." />
+	<Line ID="107" Text="Was that a fancy way to say “live forever”? Are you telling me you are immortal?" />
+	<Line ID="108" Text="You can use that term if you like, yes. It’s definitely the closest we’ve ever been to immortality." />
+	<Line ID="109" Text="That is crazy awesome… provided it is actually true." />
+	<Line ID="110" Text="It’s getting really hard to believe you." />
+	<Line ID="111" Text="You’re joking. This part has got to be a joke." />
+	<Line ID="112" Text="It is true, even if it may sound like a wild fantasy. And there’s no need to go searching for examples – I myself am 61 years old.[pause] Though I suppose there is no way I can prove it to you right here and now…" />
+	<Line ID="113" Text="I understand how it may sound, but it’s true. And there’s no need to go searching for examples – I myself am 61 years old.[pause] Though I suppose there is no way I can prove it to you right here and now…" />
+	<Line ID="114" Text="How does that even work? Do you take a magic pill and stop aging?" />
+	<Line ID="115" Text="But that changes everything. Literally everything." />
+	<Line ID="116" Text="No, it’s a bit more complicated. You have to go through some injections, treatments, and diagnostics for a couple of days.[pause] I think it’s supposed to clear your body of accumulated waste, though I’m not the best person to explain the science behind it. But it works. The best minds on the planet made sure of that." />
+	<Line ID="117" Text="It will eventually. At the moment, however, most of the consequences are yet to come.[pause] It’s been 15 years since the first successful trial and much less since the renewal became commonly available, so people are still processing the idea. You don’t have to worry about our society being too different from yours." />
+	
+	<Line ID="125" Text="You will have to solve a series of problems with no possibility to turn back halfway through. It will be a mutually beneficial experience; you will learn about our society as you work on them." />
+	<Line ID="126" Text="That’s rather vague." />
+	<Line ID="127" Text="How many problems? How long will it take?" />
+	<Line ID="128" Text="When do you want me to start?" />
+	<Line ID="129" Text="Why would you need someone from the past to solve your problems?" />
+	<Line ID="130" Text="What kind of problems could your bright future possibly have?" />
+	<Line ID="131" Text="And how exactly do you expect me to solve them?" />
+	<Line ID="132" Text="No turning back? Isn’t it too big of a commitment for an abstract set of unknown challenges?" />
+	<Line ID="133" Text="And when it ends? What do I get out of it?" />
+	<Line ID="134" Text="That’s intentional, I’m afraid. The nature of the problems requires you to be uninformed beforehand." />
+	<Line ID="135" Text="Five, each taking a single day. The logistics are already planned, and everything is ready for you. Five days of your time is all we need." />
+	<Line ID="136" Text="Right after we finish this conversation. We can be in 2048 in less than an hour." />
+	<Line ID="137" Text="Why the hurry? You have all the time in the world if you can travel it." />
+	<Line ID="138" Text="It’s not that simple. Every altering of the past requires a lot of preparations and calculations.[pause] More time spent between our offer and your decision means more altering, and I’m afraid that’s not something we can afford. It’s just a limitation of our unique situation." />
+	<Line ID="139" Text="Two words: outsider’s perspective. You are not part of our society; therefore, you do not possess our dispositions and are completely free from bias.[pause] We believe this quality is important enough to justify the entire convoluted scheme." />
+	<Line ID="140" Text="A great deal of many, to be honest. Every miraculous technology has a downside.[pause] People are often struggling with downsides, and if not, they’re just coping with change. A lot of psychological adjustment needs to happen.[pause] Not to mention that improvement is endless, and there are two new problems hiding behind a solution to every old one. For all our achievements, humanity is still at the beginning of a very long road." />
+	<Line ID="141" Text="Mostly with your mind, Mister Morton. A human mind is an extremely valuable asset even 30 years down the road." />
+	<Line ID="142" Text="I can assure that every problem will be perfectly solvable by a man of your skills. But I also cannot describe them in more detail… that is something you will have to see with your own eyes." />
+	<Line ID="143" Text="Well, there are two options. One, you come back here and return to your daily life. Everything will remain the same… except yourself.[pause] We can’t offer you any financial incentive, but on every other account it will be a life-changing experience, as you might imagine." />
+	<Line ID="144" Text="And the other?" />
+	<Line ID="145" Text="You get to stay. You can join us in the future, where science is stronger, society is better, and you can live a much longer and happier life." />
+	
+	<Line ID="150" Text="Because we want you to join us. We want to share our bright future with people of the past who worked so hard to make it possible.[pause] This is our way to use time traveling for the greater good. We owe previous generations that much." />
+	<Line ID="151" Text="In this case, shouldn’t you go more than 30 years back? I’m 29. I think I stand a pretty good chance to join you conventionally." />
+	<Line ID="152" Text="Won’t it screw things up on your end? Pulling somebody out of their timeline is a serious change. And by messing with 2018, you’re messing with 2048 as well." />
+	<Line ID="153" Text="How can you even estimate such complex stuff? I thought it’s supposed to be hopelessly unpredictable." />
+	<Line ID="154" Text="Still, why me and not some other guy?" />
+	<Line ID="155" Text="How come I’m the first? You must have millions of people to choose from." />
+	<Line ID="156" Text="So I’m officially the chosen one." />
+	<Line ID="157" Text="Well then… " />
+	<Line ID="158" Text="You… you won’t." />
+	<Line ID="159" Text="Excuse me?" />
+	<Line ID="160" Text="You are no longer alive in 2048. Time traveling is the only way for you to reach it. I’m sorry." />
+	<Line ID="161" Text="You mean I died earlier? How? When?" />
+	<Line ID="162" Text="I can’t tell you any details. Giving information about your future life is unsafe." />
+	<Line ID="163" Text="Now wait a second, lady! You can’t drop a bomb like this and expect me to ignore it!" />
+	<Line ID="164" Text="“Unsafe”? If simply telling details is unsafe, what does it make inviting me to the future?" />
+	<Line ID="165" Text="How can you know that? The future isn’t written yet." />
+	<Line ID="166" Text="I’m… I’m not sure how to react to that." />
+	<Line ID="167" Text="I know, but…" />
+	<Line ID="168" Text="That’s kind of important part of the story, don’t you think? Were you even going to tell me?" />
+	<Line ID="169" Text="I was sure you were going to ask, precisely because it’s so important." />
+	<Line ID="170" Text="I’m sorry, that was a poor choice of words. What I meant to say is that everything’s unsafe unless you spend a lot of resources simulating possible outcomes; ensuring that cascading changes won’t spiral out of control.[pause] And while we did that for everything directly related to our proposition, we had to leave out a lot of extra things… so I’m quite limited in what I can say." />
+	<Line ID="171" Text="No, but some events are more persistent than others. Even if you remove the cause, something else will trigger them, as if the universe gravitates toward it. Your death appears to be one of those events." />
+	<Line ID="172" Text="You don’t have to react at all. Just take it into consideration when giving your final answer." />
+	<Line ID="173" Text="It will cause ripples, but not necessarily in a profound way. The degree of uncertainty depends on the person in question. Pulling you out won’t change too much; that’s why you are a suitable candidate." />
+	<Line ID="174" Text="Well, don’t I feel like an insignificant speck right now." />
+	<Line ID="175" Text="I'm sorry, I didn’t mean it that way. You do affect the world around you, of course; everyone does. I just wanted to say it’d be safe for you make a different turn." />
+	<Line ID="176" Text="We can, that’s the whole point. An advanced computer can build a mathematical model of an incredibly complex situation and then calculate all probabilities. Proper risk management is one the best perks of our time." />
+	<Line ID="177" Text="Oh, we will carry on to some other guy once your integration into our society is over, and then to yet another guy. It’s a long-term project.[pause] But it’s also a very resource-demanding project, so we need to do it carefully and one person at a time. You’re the first." />
+	<Line ID="178" Text="Consider it winning a lottery. A highly unlikely but statistically possible event." />
+	<Line ID="179" Text="You’re a chosen one, to be precise. One of the group." />
+	<Line ID="180" Text="Details." />
+	<Line ID="181" Text="Hey, it’s better than an hour before." />
+	<Line ID="182" Text="Certainly." />
+	<Line ID="183" Text="Yes?" />
+	
+	<Line ID="190" Text="Of course. I will answer to the best of my ability." />
+	<Line ID="191" Text="How exactly are you planning to travel back to the future? Do you have a time machine hidden around the corner?" />
+	<Line ID="192" Text="No, the piece of technology itself is actually small enough to be lying in my pocket. But we’ll have to be in a certain place. The closest suitable location is well within walking distance." />
+	<Line ID="193" Text="You have a time machine lying in your pocket?" />
+	<Line ID="194" Text="And the time machine is lying in your pocket?" />
+	<Line ID="195" Text="What kind of location?" />
+	<Line ID="196" Text="So where are we going?" />
+	<Line ID="197" Text="Yes." />
+	<Line ID="198" Text="That’s pretty cool." />
+	<Line ID="199" Text="Can I take a look?" />
+	<Line ID="200" Text="Shame. I was hoping for a DeLorean." />
+	<Line ID="201" Text="I’m not sure I can fit into such a small time machine." />
+	<Line ID="202" Text="How does this thing work, exactly?" />
+	<Line ID="203" Text="All right." />
+	<Line ID="204" Text="I'm glad you like it." />
+	<Line ID="205" Text="There’s really no point. It’s just an ordinary block with a touchscreen, not much different from a remote control or a mobile phone." />
+	<Line ID="206" Text="Possible to design, but a bit oversized… also too conspicuous." />
+	<Line ID="207" Text="That won’t be necessary. The only requirement for transportation is your physical presence near the device. You can leave all other technical details to me." />
+	<Line ID="208" Text="You're asking the wrong person. I know the user interface. Aware of potential hiccups and appropriate reactions, as well, no matter how unlikely these hiccups are – our meticulous scientists made sure of that. But the actual physics behind it is still a mystery to me." />
+	<Line ID="209" Text="Like I said, a little walk is all we need." />
+	<Line ID="210" Text="Just an alleyway, really. The location itself is not so important – the calculations we did beforehand are.[pause] By deciding on a certain place and a certain time, we can run a simulation and estimate our chances of being spotted or traced. That particular alleyway offered the best combination of proximity and absolute privacy." />
+	<Line ID="211" Text="Can’t we do it right here?" />
+	<Line ID="212" Text="You want me to follow you into a dark alley? Really?" />
+	<Line ID="213" Text="There are no technical limitations, but we might risk having witnesses. There’s only one entrance to the building and a CCTV camera placed above it; someone might notice that both of us walked in but never walked out." />
+	<Line ID="214" Text="Please, Mister Morton, it’s the middle of a bright and sunny day. Besides, if I was a common criminal, don’t you think I’d try to lure you out with something less wild and more believable?" />
+	<Line ID="215" Text="Maybe that’s part of your tactics – to make up a crazy tale and use my own rationality against me. Man, I am so getting mugged in that alley." />
+	<Line ID="216" Text="Yeah, you do make sense." />
+	<Line ID="217" Text="Thanks. I like to think it’s one of my strong points." />
+	<Line ID="218" Text="Oh boy, this is hard… Believe me, I am not trying to trick you, nor am I trying to hurt you, nor do I have any other hostility in mind – I am simply trying to explain this complex topic as best as I can." />
+	<Line ID="219" Text="Okay, calm down, let’s change the subject." />
+	<Line ID="220" Text="All right, I’ll lay off the dark alleys. For now." />
+	<Line ID="221" Text="Please, I think you can see that my story makes too much sense and has too much detail to be just a lie and distraction." />
+		
+	<Line ID="225" Text="Are you Illuminati?" />
+	<Line ID="226" Text="Why would I be Illuminati, Mister Morton?" />
+	<Line ID="227" Text="Why wouldn’t you? I bet it’s awesome to be Illuminati!" />
+	<Line ID="228" Text="Dunno. Played too much Deus Ex recently, I guess. Have you played Deus Ex? It’s pretty cool." />
+	<Line ID="229" Text="Just thought it would fit the tone of the conversation, you know." />
+	<Line ID="230" Text="No, I am not Illuminati, and I don’t know about Illuminati or their alleged schemes any more than you do. Conspiracy theories won’t gain any additional credibility over the next 30 years." />
+	<Line ID="231" Text="Hmm, I see. Are you a Templar?" />
+	<Line ID="232" Text="Clever bastards, hiding so well after all these years of pop culture exposure!" />
+	<Line ID="233" Text="Oh, an Illuminati member would want me to believe that, wouldn’t she?" />
+	<Line ID="234" Text="No, Mister Morton, I’m not with the Knights Templar, nor am I with Freemasons, Hashshashins, Majestic 12, or any other shadowy organization of questionable existence you might think of." />
+	<Line ID="235" Text="Well, that’s a relief." />
+	<Line ID="236" Text="You do seem to know their aliases quite well." />
+	<Line ID="237" Text="Can we change the subject, please?" />
+	
+	<Line ID="240" Text="That is all." />
+	<Line ID="241" Text="Then, perhaps, you are ready to decide?" />
+	<Line ID="242" Text="Don’t you have any proof on you? Something to support all these claims?" />
+	<Line ID="243" Text="I’m afraid nothing I can show here and now will convince you. After all, you won’t be able to tell whether my tangible evidence is real or fake.[pause] No, the only sure way to prove my story is to take you to 2048 with me." />
+		
+	<Line ID="260" Text="Yes?" />
+	<Line ID="261" Text="You come from the future, and it’s allegedly terrific. I’m supposed to die earlier, but you can change that by taking me to live in 2048, and all I have to do in return is to solve some kind of problems that you refuse to describe in more detail, because it’s supposed to be a surprise." />
+	<Line ID="262" Text="That’s a very good summary, yes." />
+	<Line ID="263" Text="And you’re not joking. This is not a prank. You’re not just messing with my head for the sake of it." />
+	<Line ID="264" Text="No." />
+	<Line ID="265" Text="And if I refuse now, you will leave, and I’ll never see you again." />	
+	<Line ID="266" Text="Yes, we won’t bother you anymore." />
+	<Line ID="267" Text="Eh… I’m sorry, it’s all nice and fun to chat about, but… do you seriously expect me to believe this story and follow you? Just after one little conversation?" />
+	<Line ID="268" Text="But to even consider the possibility of staying there… that would mean changing my life as I know it. I have plans, obligations. I have work to do!" />
+	<Line ID="269" Text="What about my family? My parents? Never mind the brightness of your future, I can’t just disappear on them!" />
+	<Line ID="270" Text="You know how mommies teach us not to talk to or follow strangers? Being a grown-up, I got over the talking part. The following part, not so much." />
+	<Line ID="271" Text="Look, we both know this kind of stuff doesn’t happen in real life. I am an ordinary man. There is no grand adventure in an unknown world waiting for me." />
+	<Line ID="272" Text="Well, in that case…" />
+	<Line ID="273" Text="You don’t have to believe anything, of course – you can see it all with your own eyes later. But yes, we would really like you to participate in this project.[pause] It will take less than a week; after that, the decision to stay or to leave will be yours. And if you still think this is just a wild story, consider it a short detour to prove me wrong. Just a ten-minute walk outside – is that unreasonable to ask?" />
+	<Line ID="274" Text="Nobody said it won’t require any sacrifices. Nobody said it’s not a crazy thing to do either. But we chose you for a reason. You know that sometimes crazy is just right.[clear]The ultimate question here, Mister Morton, is not whether you believe me or not – it’s whether you can afford not to.[pause] To turn away now and carry on with your daily life, never opening this door, never giving in to the risk, but always wondering – what was that really all about?[pause] Was that a joke or a real thing? Was that a gift or a calamity? And even if it was the latter, was it really much worse than choosing nothing at all?" />
+	<Line ID="275" Text="But it’s not a calamity." />
+	<Line ID="276" Text="If you are ready to take my word for it – it’s anything but." />
+	<Line ID="277" Text="You don’t have to. We are talking about jumping through time itself. If in the end you choose to leave, we’ll send you back to this very moment, and you won’t be absent for a minute.[pause] If you choose to stay, we can always try to think of a best way for you to leave this timeline. There will be restrictions, but it doesn’t have to be a tragic disappearance." />
+	<Line ID="278" Text="I understand your concerns. But I’m also sure you understand that seeing strangers as opportunities rather than risks is an essential part of growing up as well.[pause] We are inevitably forced to trust some people – it’s just a matter of choosing them." />
+	<Line ID="279" Text="Then don’t think of it as a grand adventure – think of it as a job opportunity or a side project. They happen in real life, right?[pause] You have the right skills, so we approached you, and we really hope you will accept our offer. It’s just a thirty-year difference that makes this project very unusual." />
+	<Line ID="280" Text="Yes?" />
+	<Line ID="281" Text="I don’t really have a choice. If I say no, I’ll be torturing myself with “what ifs” till the end of my days. So I guess I’m on board." />
+	<Line ID="282" Text="I don’t really have a choice. You're right… if I say no, I’ll be torturing myself with “what ifs” till the end of my days. So I guess I’m on board." />
+	<Line ID="283" Text="Fantastic! Shall we, then?" />
+	<Line ID="284" Text="Yeah, might as well… lead the way, Jackie." />
+	<Line ID="285" Text="Lead the way, Jackie." />
+	<Line ID="286" Text="Just give me a moment." />
+	<Line ID="287" Text="Shall we get going, Mister Morton?" />
+  </List>
+</Text>

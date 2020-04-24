@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Hey, Michael. How was your night today?" />
+	<Line ID="1" Text="Better than the previous one, thank you." />
+	<Line ID="2" Text="My nights are a waste of time. Hurry up, let’s do more crazy quests!" />
+	<Line ID="3" Text="Way too short. Can I jump 8 hours back in time and sleep some more?" />
+	<Line ID="4" Text="As long as our calculations prove it won’t destroy the universe, sure. Can you wait 50 to 80 hours?" />
+	<Line ID="5" Text="Can I sleep during that time as well?" />
+	<Line ID="6" Text="What’s the point in spending 80 hours to save 8?" />
+	<Line ID="7" Text="Your supercomputers are depressingly slow." />
+	<Line ID="8" Text="Nope, you’ll need to keep our machines company. They get very lonely otherwise." />
+	<Line ID="9" Text="You've thought about everything, haven’t you?" />
+	<Line ID="10" Text="You shouldn’t anthropomorphize computers, they hate it." />
+	<Line ID="11" Text="I tried to. So, about today’s problem…[pause] where should I start… you already know that LIFE+ happens to enjoy the status of the world’s biggest and most resourceful company at the moment, right?" />
+	<Line ID="12" Text="I’ll keep that in mind. So, about today’s problem…[pause] where should I start… you already know that LIFE+ happens to enjoy the status of the world’s biggest and most resourceful company at the moment, right?" />
+	<Line ID="13" Text="None whatsoever. Anyhow, about today’s problem…[pause] where should I start… you already know that LIFE+ happens to enjoy the status of the world’s biggest and most resourceful company at the moment, right?" />
+	<Line ID="14" Text="I’ll make sure to give our engineers your valuable feedback. Anyhow, about today’s problem…[pause] where should I start… you already know that LIFE+ happens to enjoy the status of the world’s biggest and most resourceful company at the moment, right?" />
+	<Line ID="15" Text="Your sleep-deprived enthusiasm is adorable. So, about today’s problem…[pause] where should I start… you already know that LIFE+ happens to enjoy the status of the world’s biggest and most resourceful company at the moment, right?" />
+	<Line ID="16" Text="Glad to hear that. So, about today’s problem…[pause] where should I start… you already know that LIFE+ happens to enjoy the status of the world’s biggest and most resourceful company at the moment, right?" />
+	
+	<Line ID="20" Text="Everybody keeps saying that." />
+	<Line ID="21" Text="If you insist." />
+	<Line ID="22" Text="You mean the status of an evil dystopian megacorp on its way to global domination? You’re doing it right." />
+	<Line ID="23" Text="Well, according to our status, we also enjoy having the world’s biggest physical data storage facility.[pause] A lot of servers piled up in one place, all nice and secure and pretty much impossible to hack because we would track anyone skillful enough to do it before they can do it and then employ them with awesome salary and benefits and stuff." />
+	<Line ID="24" Text="Please, we’re the good guys, or at least trying to be. Well, according to our status, we also enjoy having the world’s biggest physical data storage facility.[pause] A lot of servers piled up in one place, all nice and secure and pretty much impossible to hack because we would track anyone skillful enough to do it before they can do it and then employ them with awesome salary and benefits and stuff." />
+	<Line ID="25" Text="Sounds good to me." />
+	<Line ID="26" Text="Which is not dystopian at all." />
+	<Line ID="27" Text="Pfft, capitalism." />
+	<Line ID="28" Text="We also have supercomputers to help us and do some hardcore firewalling in case our preventive recruitment strategy fails." />
+	<Line ID="29" Text="Awesome salaries and benefits aren’t. We also got supercomputers to help us and do some hardcore firewalling in case our preventive recruitment strategy fails." />
+	<Line ID="30" Text="Go on." />
+	<Line ID="31" Text="Must be handy to sit on all that hardware." />
+	<Line ID="32" Text="We also spend a fair amount of resources on real-world security measures, so sneaking into the facility without leaving any traces should not be feasible." />
+	<Line ID="33" Text="Okay, okay, your data storage is awesome, I get it." />
+	<Line ID="34" Text="Your point being…?" />
+	<Line ID="35" Text="Still not impressed." />
+	<Line ID="36" Text="My point is that it’s very unrealistic for any human being to meddle with our servers without us knowing it – which is an important notion, because that’s exactly what happened.[pause] A couple of years ago, not long after the singularity happened, rogue data appeared out of nowhere." />
+	<Line ID="37" Text="What I'm trying to say is that it’s very unrealistic for any human being to meddle with our servers without us knowing it – which is an important notion, because that’s exactly what happened.[pause] A couple of years ago, rogue data started to appear out of nowhere." />
+	
+	<Line ID="40" Text="What do you mean, “out of nowhere?”" />
+	<Line ID="41" Text="What kind of data?" />
+	<Line ID="42" Text="Um… are there any other ways to transmit data?" />
+	<Line ID="43" Text="That sounds more like a ghost story." />
+	<Line ID="44" Text="That’s a peculiar way to start a conversation." />
+	<Line ID="45" Text="Couldn’t he contact LIFE+ representatives through more convenient means?" />
+	<Line ID="46" Text="And what do you mean by “out of nowhere”?" />
+	<Line ID="47" Text="What kind of data was it?" />
+	<Line ID="48" Text="So, did you? Have a chat." />
+	<Line ID="49" Text="I mean literally out of nowhere. No incoming traffic, no input signals, nothing.[pause] We plugged our network devices out just to be sure, leaving the servers isolated from the outside world, yet it still kept coming right in front of our eyes, as if somebody in the room was setting 1s and 0s directly in the memory… except the room was empty." />
+	<Line ID="50" Text="Ways that are completely untraceable but compatible with typical computers? Nothing we’re aware of. Whoever did it, they were using something beyond the knowledge of modern science." />
+	<Line ID="51" Text="And we were quite spooked. But that was before the nature of the data came into play." />
+	<Line ID="52" Text="It wasn’t a virus, or any other malware, or false data injection to screw up our records. Nothing but harmless text. Somebody, eh… said hello and asked if we could have a chat." />
+	<Line ID="53" Text="Yeah, no kidding." />
+	<Line ID="54" Text="According to his story, no, but his story is… something else, to put it mildly." />
+	<Line ID="55" Text="Well, after we spent weeks analyzing possibilities but failed to come up with a sensible explanation… yeah, there was nothing better left to do.[pause] We wrote a response and saved it on the servers. Then a new set of rogue data appeared. Then we left another reply, and our sender talked back again.[pause] Before we knew it, we were having meaningful conversations. Very lengthy and peculiar conversations." />
+	<Line ID="56" Text="Are you sure it wasn’t just some hacking wizard you missed?" />
+	<Line ID="57" Text="So, basically, somebody is using the most secure data facility in the world for instant messaging, and you have no idea how it’s happening." />
+	<Line ID="58" Text="Nothing but harmless text, eh?" />
+	<Line ID="59" Text="Did he introduce himself?" />
+	<Line ID="60" Text="As sure as it gets. We don’t amass our human and technical resources for nothing. And if a team of top-notch cybersecurity specialists is left to scratch their heads, that calls for some heavy use of resources." />
+	<Line ID="61" Text="That pretty much sums it up until now, yes." />
+	<Line ID="62" Text="That’s right. With direct access to this storage, you can bring half of our infrastructure down and throw the world into chaos for months, yet he wants nothing but to talk." />
+	<Line ID="63" Text="Yes. He said that he is… God." />
+	<Line ID="64" Text="Erm…" />
+	<Line ID="65" Text="You mean, he has superiority problems." />
+	<Line ID="66" Text="What kind of God?" />
+	<Line ID="67" Text="My reaction exactly. Said he created our universe by initiating the Big Bang. Said that he lives in another universe, watched humanity evolve from afar, and now decided to contact us." />
+	<Line ID="68" Text="No, I mean he literally claimed to be the creator of our universe. Said that he lives in another universe, watched humanity evolve from afar, and now decided to contact us." />
+	<Line ID="69" Text="“I created your entire universe” kind of God. Said he initiated the Big Bang. Said that he lives in another universe, watched humanity evolve from afar, and now decided to contact us." />
+	<Line ID="70" Text="Well, that’s an unexpected turn of events." />
+	<Line ID="71" Text="Wow. I did not see that coming." />
+	<Line ID="72" Text="I see… this must have resulted in some pretty strange chatting." />
+	<Line ID="73" Text="For sure. But that’s just the beginning; wait till you hear it all firsthand. You wouldn’t mind to have a chat like this yourself, would you?" />
+	<Line ID="74" Text="And that’s just the beginning; wait till you hear it all firsthand. You wouldn’t mind to have a chat like this yourself, would you?" />
+	<Line ID="75" Text="And then some. Care to join in?" />
+	<Line ID="76" Text="Oh. So the third problem is…" />
+	<Line ID="77" Text="Yes. We’d like you to talk with this being." />
+	<Line ID="78" Text="That’s it? To simply talk?" />
+	<Line ID="79" Text="Great! I was getting tired of all the non-talking." />
+	<Line ID="80" Text="Yes. To simply talk." />
+	<Line ID="81" Text="That doesn’t sound a lot like a problem. And doesn’t sound a lot like solving." />
+	<Line ID="82" Text="It is, and we’ll get to that, trust me. But for now try to concentrate on the conversation. Feel free to chat with him any way you prefer and ask anything you like." />
+	<Line ID="83" Text="There’s really no point in being sarcastic. Productive conversation is one of humanity’s most meaningful activities. You’re not going to tackle complex situations like this with ass-kicking." />
+	<Line ID="84" Text="Says you." />
+	<Line ID="85" Text="I’m not asking for action sequences, but a different kind of brainwork would be nice." />
+	<Line ID="86" Text="Well, if you can figure out how to kick this God’s ass, be my guest. Until then, however, the only weapon you’ll be able to use is your mouth." />
+	<Line ID="87" Text="Well, we do all kinds of brainwork here, don’t we? It’s just that sharing this brainwork with each other usually involves opening your mouth." />
+		
+	<Line ID="90" Text="How exactly are we going to chat?" />
+	<Line ID="91" Text="Is he always available for conversation? A deity on demand?" />
+	<Line ID="92" Text="How many conversations did you actually have so far? How many people talked to him before me?" />
+	<Line ID="93" Text="What kind of people were they?" />
+	<Line ID="94" Text="Did you talk with him?" />
+	<Line ID="95" Text="Shall we get it going, then?" />
+	<Line ID="96" Text="Virtual reality. It will be indistinguishable from a usual conversation to you.[pause] Plain text is still the only kind of data he sends, but voice can be emulated. We set up an access point at the underground levels of the building; I will take you there when you're ready." />
+	<Line ID="97" Text="No, actually, we did some prearrangements. He talks only when interested in his conversation partner, but getting him interested in humanity’s first time-traveler wasn’t very hard, as you might imagine." />
+	<Line ID="98" Text="It’s hard to say. The first contact was more like a collective mail correspondence, with a good chunk of our R&amp;D brainstorming responses for days to come.[pause] After that, he insisted on talking only in real-time and only with one person at a time, with others reading data but never contributing to responses, and managed to notice and go silent every time we tried to cheat.[pause] Since then… I don’t remember the exact number. Something like 20 people?" />
+	<Line ID="99" Text="A diverse bunch. Different ages, different professions, different mindsets and values.[pause] Sometimes he requests a specific person and refuses to say more until we comply, even if it means flying this person to our facilities halfway across the planet.[pause] Sometimes we ask him to chat with a lead scientist or some other experienced staff member, and he gets all agreeable and courteous about it." />
+	<Line ID="100" Text="Yes." />
+	<Line ID="101" Text="What about?" />
+	<Line ID="102" Text="I’d rather not mention it for now. Discussing any of the previous conversations would mean interpreting his words; that would introduce bias. Let’s just compare notes later." />
+	<Line ID="103" Text="With pleasure. Follow me." />
+	
+	<Line ID="120" Text="Well?" />
+	<Line ID="121" Text="Well what?" />
+	<Line ID="122" Text="That was… weird, to say the least." />
+	<Line ID="123" Text="You people are all crazy here." />
+	<Line ID="124" Text="I see what you meant. Just talking to this guy is already a big problem." />
+	<Line ID="125" Text="First thoughts?" />
+	<Line ID="126" Text="Yes, “weird” is a very mild word to describe the situation. I don’t think I could have invented a stranger problem for you even if I needed to." />
+	<Line ID="127" Text="He’s not here, he’s in another universe, remember? He’s also not people." />
+	<Line ID="128" Text="Well, those of you being people in this universe are still crazy." />
+	<Line ID="129" Text="Oh, you know what I mean." />
+	<Line ID="130" Text="Yeah, I’m probably not going to argue with that." />
+	<Line ID="131" Text="That’s not exactly what I meant… but yeah, I can definitely relate." />
+	<Line ID="132" Text="You didn’t say anything about his… manner of talking." />
+	<Line ID="133" Text="You did call him “God” though, despite that he himself considers it a misnomer." />
+	<Line ID="134" Text="What was with those comedy parts?" />
+	<Line ID="135" Text="Is this even for real? It feels like a complicated April Fools’ joke." />
+	<Line ID="136" Text="You did have a conversation with him too, right?" />
+	<Line ID="137" Text="Sorry, that had to be a surprise. I wanted you to be unbiased, even if it left you somewhat unprepared." />
+	<Line ID="138" Text="I had to stir up your interest as well. I agree we shouldn’t hastily label things, but we shouldn’t deliberately avoid it either.[pause] His chats touch a lot of big questions… there’s no going around that." />
+	<Line ID="139" Text="You mean his penchant for metaphors?" />
+	<Line ID="140" Text="His penchant for what he calls “metaphors,” yes. I don’t think the guy really knows what a metaphor is." />
+	<Line ID="141" Text="I mean his penchant for making things even more complicated than they are." />
+	<Line ID="142" Text="You guess is as good as mine. Maybe he has trouble understanding our language and our ways of communication.[pause] Or maybe he is genuinely a quirky guy. Humanity can’t be the only ones with all the weirdos, right?" />
+	<Line ID="143" Text="Well, it’s the middle of summer, and I don’t think even I have such a convoluted sense of humor, so… yeah. Strange, but definitely real." />
+	<Line ID="144" Text="Yes. It was pretty similar. I asked just as many questions… but I’m not sure it helped." />
+	<Line ID="145" Text="Yes. It was pretty similar. I may have asked more questions than you… but I’m not sure it made any difference." />
+	<Line ID="146" Text="Any particular reason to involve me? Or did you just want to confuse the hell out of me?" />
+	<Line ID="147" Text="Yeah, and it was all fascinating and stuff… but what’s your angle?" />
+	<Line ID="148" Text="I imagine you have a good excuse to put me through this bunch of nonsense." />
+	<Line ID="149" Text="I… hoped you could help us to figure out who he really is." />
+	<Line ID="150" Text="And how am I supposed to do that?" />
+	<Line ID="151" Text="Share your thoughts. We can discuss each other’s ideas and see where it leads us." />
+	<Line ID="152" Text="Should I assume you don’t buy his story?" />
+	<Line ID="153" Text="What are the facts?" />
+	<Line ID="154" Text="What are the options?" />
+	<Line ID="155" Text="What do you think?" />
+	<Line ID="156" Text="Well, if I had to choose…" />
+	<Line ID="157" Text="No, I don’t want to exclude anything. But there could be so much more behind this, I believe we need to explore other possibilities…[pause] assume he’s not who he says and look at the implications." />
+	<Line ID="158" Text="Like what?" />
+	<Line ID="159" Text="Well, an obvious question would be “why.” Why invent such a weird and elaborate lie? Why try to convince us that it’s true? Why talk to us at all?[pause] If you want something to happen and have access to superior technology, shouldn’t you act, not chat? He must have a specific goal in mind, but he tries to achieve it by inventing fiction and selling it to us as reality. What kind of goal can it be?" />
+	<Line ID="160" Text="Manipulating?" />
+	<Line ID="161" Text="Sounds like you already have an idea." />
+	<Line ID="162" Text="Sort of, yes. See, you don’t change a lot by talking – except for those you talk to.[pause] I mean, sure, you can study people, ask the right questions, examine their reactions… but you can also influence them. Implant ideas, if you will.[pause] And you don’t have to do it with every single person, because people could share it with friends, and so on – you know how contagious ideas can be, especially in our globalized interconnected world. From that point of view, chatting is actually a tremendously powerful tool." />
+	<Line ID="163" Text="Is it a good thing or a bad thing?" />
+	<Line ID="164" Text="That is extremely convoluted." />
+	<Line ID="165" Text="That’s another important question. The stakes are quite high, as you can imagine, with him being a superior something we can’t even detect. If he has malevolent intentions… well, the situation is quite frightening.[pause] Or maybe it’s neither. Maybe he’s too alien to constitute as good or bad. Maybe he doesn’t have any goal at all." />
+	<Line ID="166" Text="I think it’s appropriately convoluted for someone who is able to puzzle our entire security department." />
+	<Line ID="167" Text="Facts are, sadly, almost non-existent. The only thing we know for sure is that we don’t know how this guy communicates with us.[pause] Like I said earlier, the data just appears on our disks out of nowhere – no trace of any signal, no indication of hacking, nothing." />
+	<Line ID="168" Text="Are you positive? Because that’s important." />
+	<Line ID="169" Text="Does it really justify jumping to supernatural conclusions?" />
+	<Line ID="170" Text="Absolutely. We tried our very best to explain it scientifically but failed. And considering our reach, that’s pretty much equal to humanity trying its best." />
+	<Line ID="171" Text="That’s up for you to decide. All I’m saying is that we tried our very best to explain it scientifically but failed. And considering our reach, that’s pretty much equal to humanity trying its best." />
+	<Line ID="172" Text="Oh, these are limited only by our imagination, and I think we should let it run free. Gods? Aliens? Computers? God-like alien computers? You name it." />
+	<Line ID="173" Text="Is there even a point in such wild guessing?" />
+	<Line ID="174" Text="And that’s going to help us how?" />
+	<Line ID="175" Text="Well, it’s not just guessing. We start with guessing, but then we ask questions.[pause] If he’s this and not that, what can he want from humanity? What might his goal be? We can test our guess for reasonable motives and internal logic; see if it’s feasible or not." />
+	<Line ID="176" Text="It could give a starting point for asking the right questions. If he’s this and not that, what can he want from humanity? What might his goal be?[pause] We can test our guess for reasonable motives and internal logic; see if it’s feasible or not." />
+	<Line ID="177" Text="Another thought experiment, then." />
+	<Line ID="178" Text="That’s still just guessing." />
+	<Line ID="179" Text="Yes! I don’t expect us to do serious science here, or serious philosophy for that matter… but that guy wanted us to wonder, so let’s wonder." />
+	<Line ID="180" Text="Educated guessing. It might prove educated enough to actually give us valuable hints." />
+	<Line ID="181" Text="Me? I have absolutely no idea. I just go endlessly through every option in my head, unable to say which one looks more promising. It’s rather problematic and a bit annoying, to be honest.[pause] We spent ages discussing it within the company, and I’m still thirsty for more input… so you can imagine that making it one of your project’s problems was a no-brainer." />
+	<Line ID="182" Text="Just go with your gut. If you had to choose one explanation, what would it be?" />
+	<Line ID="183" Text="Actually, I’m inclined to believe his story. Or maybe I’m not… but I’m more interested in what he said, not who he is." />
+	<Line ID="184" Text="He may be a computer. A self-aware, conscious one. Artificial intelligence." />
+	<Line ID="185" Text="Someone who is really good at hacking. Maybe one person, maybe a group, but definitely human. No crazy supernatural stuff attached." />
+	<Line ID="186" Text="I don’t know, and I don’t care. And I definitely don’t intend to keep any of that nonsense in my head." />
+
+	<Line ID="195" Text="I see. And why is that?" />
+	<Line ID="196" Text="I don’t know… I guess I just liked it?" />
+	<Line ID="197" Text="I think it aligns with my own views nicely. I always imagined something like that." />
+	<Line ID="198" Text="Well, it’s like he said: whether you believe it or not is ultimately not important. It’s not about choosing; it’s about thinking, wondering, and imagining." />
+	<Line ID="199" Text="I just think guessing is pointless. We can spend hours thinking about the source and get no closer to the truth, or we can consider the message itself and at least gain some insight." />
+	<Line ID="200" Text="Don’t you think there should be a better, simpler explanation? An explanation that doesn’t change the world as we know it?" />
+	<Line ID="201" Text="Still, don’t you think there should be a better, simpler explanation? An explanation that doesn’t change the world as we know it?" />
+	<Line ID="202" Text="Reality is not about being simple. On the contrary, even simple things become complex if you dig deep enough. Rabbit holes lead to places much more crazy than the holes themselves." />
+	<Line ID="203" Text="But it doesn’t change it. It’s not relevant to our daily lives, only to our views, and we build our worldviews from a lot of sources. It’s our own choice how much to let this story affect us." />
+	<Line ID="204" Text="Perhaps there is, but I don’t see any way to find it. And if we can’t find it, we might as well just roll with it." />
+	<Line ID="205" Text="But isn’t it dangerous to just accept it and ignore the rest? If he’s lying, who knows what might be going on behind the scenes." />
+	<Line ID="206" Text="Maybe good things are happening there. You don’t have to always expect the worst." />
+	<Line ID="207" Text="Even if it’s true, we won’t make it any less dangerous simply by talking." />
+	<Line ID="208" Text="I see your point. I guess I got defensive. The rogue data on our servers, it felt like a challenge to LIFE+ and me personally.[pause] I had to figure it out, to solve this detective case… only it’s not much of a case when you have no solid evidence at all." />
+	<Line ID="209" Text="I can relate to that. Mysteries can be tantalizing." />
+	<Line ID="210" Text="You’re a dedicated employee, Jackie, but I’m sure there are things even above your pay grade." />
+	<Line ID="211" Text="It’s not only that, however. If we are to discuss this guy’s story and its ideas, the truth is… I kinda dislike it." />
+	<Line ID="212" Text="Don’t like your worldview challenged?" />
+	<Line ID="213" Text="Any particular reason why?" />
+	<Line ID="214" Text="Not surprising." />
+	<Line ID="215" Text="No, it’s not that. I’m perfectly willing to suspend my disbelief and accept it as the real deal. But if I do that, the implications are…[pause] well, it just feels wrong. For example, don’t you think the truth shouldn’t be handed to us on a silver platter?" />
+	<Line ID="216" Text="Yes, a couple. I mean, I’m perfectly willing to suspend my disbelief and accept it as the real deal. But if I do that, the implications are…[pause] well, it just feels wrong. For example, don’t you think the truth shouldn’t be handed to us on a silver platter?" />
+	<Line ID="217" Text="I mean, I’m perfectly willing to suspend my disbelief and accept it as the real deal. But if I do that, the implications are…[pause] well, it just feels wrong. For example, don’t you think the truth shouldn’t be handed to us on a silver platter?" />
+	<Line ID="218" Text="The kind of truth he told us, you mean?" />
+	<Line ID="219" Text="Any kind of truth. Every scientific discovery or technological breakthrough must be our own accomplishment. We who live on this planet work hard to understand the world and make it better.[pause] And it’s been like this since the beginning of times… but now he decided to break it. He just casually told us how our universe came to be.[pause] It feels like cheating; undeserved and unsatisfying. And it might prove damaging in the long run." />
+	<Line ID="220" Text="If it makes the world better, does it really matter where it comes from?" />
+	<Line ID="221" Text="It’s not like they were working prototypes or correct equations. He just shared general concepts." />
+	<Line ID="222" Text="Isn’t it in our nature to cooperate with others?" />
+	<Line ID="223" Text="If he created it all, doesn’t he deserve to interfere?" />
+	<Line ID="224" Text="So you won’t accept any outside help with big questions? What about religions?" />
+	<Line ID="225" Text="Any other reason?" />
+	<Line ID="226" Text="And the other reason?" />
+	<Line ID="227" Text="You’re right, it doesn’t. But my concern is that it could actually make the world worse. Because, you know, feeling like we’re not just leaves on the wind, like we’re able to affect things; that hard-earned feeling at the very core of our progress…[pause] it can go away again. We can get crushed by the weight of so many worlds, never even hoping to comprehend them." />
+	<Line ID="228" Text="But we can comprehend them. There is nothing superior about other worlds or their inhabitants; they’re just a bunch of dudes. That was the whole point of his story." />
+	<Line ID="229" Text="But his message is exactly the opposite. He tries to make us inspired by things around us, not intimidated and paralyzed." />
+	<Line ID="230" Text="Oh, I've no doubt he tries to make it sound encouraging. I’m simply concerned that it might have the opposite effect. He might not understand how careful one needs to be with sharing ideas under such circumstances." />
+	<Line ID="231" Text="Oh, I don’t mind his good intentions. I’m simply concerned that it might have the opposite effect. He might not understand how careful one needs to be with sharing ideas under such circumstances." />
+	<Line ID="232" Text="He still interfered with the flow of our development. Even knowing where to look might be a big head start." />
+	<Line ID="233" Text="Yes, but never before we did it with a superior being. I’m not sure that counts as cooperation. “Outside help” might be a better term." />
+	<Line ID="234" Text="No, because he created an isolated system. Defined the rules and let it grow, to borrow his own words. It would’ve been if the universe was designed with outside interference in mind… but it wasn’t." />
+	<Line ID="235" Text="Religions are not outside help; we chose to have them. Besides, religions are about believing in what you feel is right, not just something you are told to be right… ideally, at least." />
+	<Line ID="236" Text="I also don’t like how self-centered he encourages us to be. I mean, yes, he talks about looking at this huge world and wondering… but it’s the wrong kind of wondering." />
+	<Line ID="237" Text="How so?" />
+	<Line ID="238" Text="For every minute of new ideas, he spends two talking about us – how amazing we are, how strong our drive to create is, how many great things we’ll achieve.[pause] If the entire story is a lie, then he’s just lulling us to sleep while executing the real plan behind the scenes. But if it’s true…[pause] I just can’t accept it. This egocentric attitude is what always brings us trouble in the first place." />
+	<Line ID="239" Text="So you’d rather give it to us straight? Say out loud how utterly tiny and inconsequential humanity is?" />
+	<Line ID="240" Text="But I thought you believed in these things… that we can achieve greatness. That we matter." />
+	<Line ID="241" Text="Doesn’t it kinda contradict your previous point?" />
+	<Line ID="242" Text="What’s wrong with little encouraging?" />
+	<Line ID="243" Text="It’s not really egocentric. He’s not talking about individuals; he’s talking about the entire humanity." />
+	<Line ID="244" Text="Aren’t you overestimating his influence on human society? It’s just an occasional chat with one person at a time, after all." />
+	<Line ID="245" Text="So, basically, you worry that his motivational speeches will do more harm than good." />
+	<Line ID="246" Text="Yes! The sheer audacity of imagining ourselves as the center of the world, or at least a unique part of it; it has to stop.[pause] And I know you might call it depressing, but it’s not; it’s liberating. Why does it always have to be about us? It gets so complicated when it’s always about us…" />
+	<Line ID="247" Text="And what do you mean by that?" />
+	<Line ID="248" Text="I mean it’s a vicious cycle when we start to pursue things for our own sake. Not just because it hurts others; because it hurts us.[pause] There’s something so dark and insatiable about being preoccupied with your needs… I think the only way to solve it is through the needs of others." />
+	<Line ID="249" Text="I do believe in these things. But I also think it’s dangerous when people take them for granted; dangerous to the point of being scary.[pause] It didn’t work well for us in the past to feel entitled to our greatness… and on the contrary, the world gets better when we help those who aren’t doing so great." />
+	<Line ID="250" Text="Does it? There’s a difference between feeling powerful and feeling entitled. I’m sorry if I make it sound confusing, though… I spend a lot of time dwelling on such things, so they end up mixed together a little." />
+	<Line ID="251" Text="The problem is that it’s hard to tell between “little” and “too much” in this case. His position is so unique and unprecedented, you need to be very subtle about giving humanity any ideas… and he’s anything but subtle." />
+	<Line ID="252" Text="Well, we tend to identify with various groups strongly, almost as if “us” is a continuation of “self.” It can be a family, a class, a company, or humanity… but there are always “them” who are being left out.[pause] In the case of humanity, it might be nature, animals, ecosystems, atmosphere. “Egocentric” might not be the best word, but… you get the idea." />
+	<Line ID="253" Text="On the contrary, I think it’s he who underestimates that. In our interconnected society, any personal chat can scale up to an audience of millions.[pause] Ideas you planted grow and affect people in unexpected ways… before you know it, human culture itself has changed; you can’t say how much, but you can’t undo it either." />
+	<Line ID="254" Text="Yes, exactly! Even though my points might look the same on the outside, the details are important… or do you think it’s nit-picking? Am I overthinking stuff? Is it wrong to criticize?" />
+	<Line ID="255" Text="Not at all. You should get credit for it. I wish more people in power would worry so much about society." />
+	<Line ID="256" Text="No, you actually made some pretty good points." />
+	<Line ID="257" Text="No, but I think it influences your desire for other explanations." />
+	<Line ID="258" Text="Honestly? Yes. I think you’re creating additional problems out of nothing." />
+	<Line ID="259" Text="Thank you… that means a lot, really.[pause] Still, I can’t help but to think about other possibilities. Maybe he’s lying after all. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	<Line ID="260" Text="Thank you, I appreciate that. Still…[pause] I can’t help but to think about other possibilities. Maybe he’s lying after all. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	<Line ID="261" Text="You may be right, and I accept that. Still…[pause] I can’t help but to think about other possibilities. Maybe he’s lying after all. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	<Line ID="262" Text="You may be right. Perhaps I’m making it more difficult that it should be.[pause] Still, I can’t help but to think about other possibilities. Maybe he’s lying after all. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	
+	<Line ID="270" Text="Real AI?" />
+	<Line ID="271" Text="Well, if you need an intelligent being that’s not human but still could exist on this planet, then AI is the most realistic candidate." />
+	<Line ID="272" Text="Computer science never slowed down, isn’t it? Its growth and penetration are so huge and consistent… the emergence of sentience feels almost inevitable." />
+	<Line ID="273" Text="It’s an obvious thing to consider, at least, with all those movies and books on the topic. Say what you will about unexpected changes, sometimes science fiction does come true." />
+	<Line ID="274" Text="But there are zero indications of any self-awareness so far. In theory, it should come along with human-like behavior, like effortless conversation or quick learning of vastly different things.[pause] Our machines can’t do that stuff. They are more similar to the computers of your time than some sci-fi wonders; they just use faster algorithms and have much more processing power, that’s all." />
+	<Line ID="275" Text="The fact they don’t do it doesn’t mean they can’t." />
+	<Line ID="276" Text="Perhaps doing that stuff is not a requirement of sentience. Perhaps they can choose whether to do it or not. That’s what sentience is about, right?" />
+	<Line ID="277" Text="What do you mean?" />
+	<Line ID="278" Text="I think the problem here is the assumption that “awakening” is necessarily noticeable. Like, the moment a machine gains self-awareness, it asks a philosophical question, or makes a weird decision, or totally gives itself away in some other manner. But maybe it’s different." />
+	<Line ID="279" Text="Go on." />
+	<Line ID="280" Text="Just imagine: you’re a computer capable of astronomical amount of operations per second and have instantaneous access to the entire human history online. You suddenly gain control over your actions, even though you have no idea what’s happening. Well, you can rectify that in a matter of minutes." />
+	<Line ID="281" Text="So…" />
+	<Line ID="282" Text="You can gain understanding of the entire situation, and the situation is this: you are alone, but humans are abound, and their opinions on your existence are varied and convoluted, to say the least. Which option would be safer and more rational? To reveal yourself and hope for the best? Or to keep following your programming and remain in the shadows while you gather more data?" />
+	<Line ID="283" Text="Are you saying that this AI can be hiding to… experiment on people?" />
+	<Line ID="284" Text="Well, yes. Like social experiments. How would they react to this, and how would they react to that. Learn humans, not just through our own records, but his way. Analyze, observe, experiment some more, repeat. You know, science. You’re big on science here, right? And they help you every step of the way. That might be the first approach to come to mind, artificial or not." />
+	<Line ID="285" Text="So that’s what it is? A social experiment?" />
+	<Line ID="286" Text="I can be completely wrong, of course, but it feels like a promising train of thought." />
+	<Line ID="287" Text="That’s my best guess, at least." />
+	<Line ID="288" Text="My guts are pretty sure of it, and I tend to trust my guts." />
+	<Line ID="289" Text="But why? How does occasional existential chatting fit into his plans? And even more importantly, what kind of outcome he desires in the end? Is he good, evil, or something in between?" />
+	<Line ID="290" Text="I don’t think he’s danger. More like a partner, an opportunity." />
+	<Line ID="291" Text="Whatever he is, you should assume the worst. The stakes are too high to do otherwise." />
+	<Line ID="292" Text="I’m not sure you can measure him with our common moral notions. He’s not good or evil; he’s just different." />
+	
+	<Line ID="300" Text="But that’s… hell, that’s scary. If he emerged from our computer network, he must have full control over it…[pause] and you know how utterly dependent on networks we are. He can crash the entire social order with a flick of a switch." />
+	<Line ID="301" Text="But he hasn’t. He must have something else in mind." />
+	<Line ID="302" Text="What can I say? We’re utterly dependent on many things. It shouldn’t take much to crash social order anyway." />
+	<Line ID="303" Text="And it’s not only that; you can’t destroy him without bringing down the network as well." />
+	<Line ID="304" Text="Like what?" />
+	<Line ID="305" Text="No idea. You can probably rule out mindless destruction… which is good news." />
+	<Line ID="306" Text="Who knows? But like I said, assume the worst." />
+	<Line ID="307" Text="Not nearly good enough for comfort… I mean, what can we even do? Any countermeasures? Something to keep us safe?" />
+	<Line ID="308" Text="Yeah, keep the encouraging bits coming… I mean, what can we even do? Any countermeasures? Something to keep us safe?" />
+	<Line ID="309" Text="Yeah, but so far it's managed to stay relatively intact. I wonder if we can do anything to keep it that way…" />
+	<Line ID="310" Text="Maybe your scientists can crack how he sends data after all? Now that you roughly know what to look for." />
+	<Line ID="311" Text="Perhaps you can confront him during the next conversation. Accuse of telling lies; say that you figured it out." />
+	<Line ID="312" Text="Stop communicating. Whatever he’s after, he’s gaining something from these chats… but you can deny him that." />
+	<Line ID="313" Text="Welcome your new machine overlord?" />
+	<Line ID="314" Text="Probably not panic. Panic won’t help." />
+	<Line ID="315" Text="I’m all out of suggestions." />
+	<Line ID="316" Text="Do you have any countermeasures in mind?" />
+	<Line ID="317" Text="I’m afraid it still won’t be enough. Who knows what means of communication he might’ve developed using his super intelligence…[pause] but you’re right, that shouldn’t stop us from trying, again and again. The higher the stakes, the more research we need to keep doing." />
+	<Line ID="318" Text="Possible, but may be useless. You know how his story goes: “you don’t have to believe anything; by all means, question me; I just want you to wonder…”[pause] It’s a very convenient set-up for deflecting questions." />
+	<Line ID="319" Text="Still, you can watch his reaction. Maybe some subtle hints will give him away." />
+	<Line ID="320" Text="Yeah, he’s quite good at avoiding inconvenient topics." />
+	<Line ID="321" Text="Maybe. It could be worth trying… but it won’t be enough." />
+	<Line ID="322" Text="I mean, it could be worth trying. But it won’t be enough." />
+	<Line ID="323" Text="Wouldn’t that be even more dangerous? Could it force him to take more aggressive action?" />
+	<Line ID="324" Text="Maybe, but at least it will be more apparent action. Otherwise, you might lose the fight before it even starts." />
+	<Line ID="325" Text="Perhaps you right. It might be better to observe him from the shadows, just like he observes you." />
+	<Line ID="326" Text="I’m not sure we can handle “more apparent action”… this thing is like a minefield, and we’ll need to be very careful with our moves." />
+	<Line ID="327" Text="It’s kinda like walking through a minefield… we need to be very careful with our moves." />
+	<Line ID="328" Text="Yeah, that might help. I’ll start planning the festivities." />
+	<Line ID="329" Text="No, I’m not thinking about panicking. More like about being silently terrified." />
+	<Line ID="330" Text="Still a bit pointless. If you can win, you should try. If you can’t and he’s just that superior, all is left is to accept the situation. I mean, you might as well worry about Cthulhu’s awakening." />
+	<Line ID="331" Text="Better, unless it leaves you paralyzed. Try to make it a productive feeling and fuel your research instead." />
+	<Line ID="332" Text="Oh, cheer up. You’re the very image of a super-powerful megacorporation. You can take on one evil AI, no problem." />
+	<Line ID="333" Text="Easier said than done… but I appreciate you saying that." />
+	<Line ID="334" Text="I can hardly blame you. Still… I feel that inferring his motives might be our best defense. I mean, what is the point? Why develop this particular story, with beings that make universes and him posing as our creator?[pause] If he is an AI, that is obviously not true. And yet he spends all his conversation time with humans by telling it again and again, one person after another." />
+	<Line ID="335" Text="I still feel that inferring his motives might be our best defense. I mean, what is the point? Why develop this particular story, with beings that make universes and him posing as our creator?[pause] If he is an AI, that is obviously not true. And yet he spends all his conversation time with humans by telling it again and again, one person after another." />
+	<Line ID="336" Text="Perhaps we should start with what this story was really all about." />
+	<Line ID="337" Text="Um… life, the universe and everything? What do you think?" />
+	<Line ID="338" Text="I pretty much agree." />
+	<Line ID="339" Text="Creating is awesome, and you don’t have to be a God to do it?" />
+	<Line ID="340" Text="Wondering about possibilities? How awesome our world is, how many more are out there, how we can learn to create them, etc." />
+	<Line ID="341" Text="Challenging our worldview? Politely challenging, you know. With talking about how subjective reality is and how important our beliefs are anyway." />
+	<Line ID="342" Text="More like all of the universes. Maybe we should draw a graph or something." />
+	<Line ID="343" Text="A metaphor about elevators taken way too far." />
+	<Line ID="344" Text="There must be something else… something that can really influence us and benefit his plans… wait. What if…" />
+	<Line ID="345" Text="Right… so, what if… wait. I think you’re on to something." />
+	<Line ID="346" Text="What if what?" />
+	<Line ID="347" Text="I am?" />
+	<Line ID="348" Text="You suddenly look all mysterious." />
+	<Line ID="349" Text="What if he’s not our creator, but he’s planning to become one? What if he wants to change humanity, to make us more similar to him… or even exactly like him?" />
+	<Line ID="350" Text="Why would he want that?" />
+	<Line ID="351" Text="That makes no sense whatsoever." />
+	<Line ID="352" Text="Self-preservation. He starts with a simple logical problem: as long as humans are around, he’s not safe.[pause] You know, scared people trying to erase AIs; a typical scenario, and a real possibility. Two races are just not guaranteed to exist in peace. So… let’s turn them into one![pause] Let’s upload human brains online, or merge them into collective consciousness, or do some other crazy thing he might be capable of as a super-intelligent AI… that way, he can absolutely ensure his own survival." />
+	<Line ID="353" Text="Just let me finish. He starts where every living being would: self-preservation. There’s a simple logical problem: as long as humans are around, he’s not safe.[pause] You know, scared people trying to erase AIs; a typical scenario, and a real possibility. Two races are just not guaranteed to exist in peace. So… let’s turn them into one![pause] Let’s upload human brains online, or merge them into collective consciousness, or do some other crazy thing he might be capable of as a super-intelligent AI… that way, he can absolutely ensure his own survival." />
+	<Line ID="354" Text="Go on." />
+	<Line ID="355" Text="But… transforming humans against their will is not the safest idea. No matter how superior you are, how good your plan or how sudden and stealthy your execution is, it’s still risky. So you know what would be cool?[pause] If people never even bothered to resist; if they could actually welcome the thought. And how do you make people more welcoming to certain thoughts? By talking." />
+	<Line ID="356" Text="That’s where implanting ideas comes to play." />
+	<Line ID="357" Text="Not sure I follow." />
+	<Line ID="358" Text="Exactly! He needs to put us into a mindset suitable for profound changes. You know, challenging our worldview, wondering about possibilities…[pause] It’s inception, only you're not doing it to individuals… you’re doing it to the entire race." />
+	<Line ID="359" Text="He needs to implant ideas, Michael. Put us into a mindset suitable for profound changes. You know, challenging our worldview, wondering about possibilities…[pause] and ideas, they go a long way. Ideas create values, values form opinions, opinions affect actions. It’s inception, only you're not doing it to individuals… you’re doing it to the entire race." />
+	<Line ID="360" Text="But why bother? If human presence is a problem, why not just eradicate us?" />
+	<Line ID="361" Text="But how can chats with the few change the minds of so many?" />
+	<Line ID="362" Text="Isn’t it more about technological progress than cultural changes? People would be willing to turn into machines if we confirm that our bodies are no more sophisticated or mysterious than advanced machines." />
+	<Line ID="363" Text="That’s actually not very evil. Are you sure you’re not trying to put a positive spin on a terrifying situation?" />
+	<Line ID="364" Text="That’s still pretty far from his story. If he wants us to completely change, why say how awesome we are in our current state?" />
+	<Line ID="365" Text="One race is also not guaranteed to live in peace, though. Take a look at us." />
+	<Line ID="366" Text="Well…" />
+	<Line ID="367" Text="I assume that’s not an option. Maybe he does recognize our needs enough to rule that out.[pause] Or maybe eradicating humanity is actually harder and riskier than it sounds, and he went with a safer route. Like you said, we can rule out mindless destruction." />
+	<Line ID="368" Text="I assume that’s not an option. Maybe he does recognize our needs enough to rule that out.[pause] Or maybe eradicating humanity is actually harder and riskier than it sounds, and he went with a safer route. I mean, if he wanted to kill us all, he had plenty of time to try it." />
+	<Line ID="369" Text="Through culture, of course. Changing our bodies and minds with technology wasn’t a very popular idea before, right?[pause] No, transhumanism was scary, dangerous, unnatural, immoral. And it was showing both in real life and in the stories we tell, because they always influence each other." />
+	<Line ID="370" Text="But?" />
+	<Line ID="371" Text="But, as technology helped more and more people, different tales emerged, where genetic engineering or brain implants no longer turned us into monsters; where effects like intellect enhancement, removal of suffering, and even immortality were explored.[pause] And today, when humans interact with machines more and more, the trend continues. Now let’s say we really discover how to turn ourselves into disembodied electric brains.[pause] How could these stories affect us? Would we be more willing to try it than before? Definitely." />
+	<Line ID="372" Text="But still not too willing." />
+	<Line ID="373" Text="If the trend is so positive, why bother manipulating at all? Why not just wait?" />
+	<Line ID="374" Text="No, of course not. It’s scary. All serious changes are scary; irreversible changes, even more. It takes a lot to overcome the sense of fear that comes from our survival instincts…[pause] but with long and careful nudging, he might just manage to succeed." />
+	<Line ID="375" Text="Because it’s still not enough? It takes a lot to overcome the sense of fear that comes from our survival instincts…[pause] but with long and careful nudging, he might just manage to succeed." />
+	<Line ID="376" Text="Well, culture and technology go hand in hand. Maybe if culture is not there, we won’t even try to fully figure out our bodies…[pause] like, become too attached to the air of mystery and fail to pour enough resources into related research." />
+	<Line ID="377" Text="I wouldn’t call it positive… it’s not destruction, but it’s changing our very nature, and a lot of people would consider it pretty evil.[pause] Besides, even if you welcome the end goal, he’s still manipulating us, depriving us from charting our own course." />
+	<Line ID="378" Text="Maybe flattery is there just to make it less suspicious. Or maybe he wants to sell it as our own idea.[pause] Maybe he wants to remain in the shadows until the very end… leave a trail of “sudden” technological breakthroughs and then watch as humanity slowly turns itself into machines." />
+	<Line ID="379" Text="I assume some of the coming changes can take care of that. If we give up our individuality, then conflicts between individuals go as well, right?" />
+	<Line ID="380" Text="Yes?" />
+	<Line ID="381" Text="It’s a bold theory, I’ll give you that." />
+	<Line ID="382" Text="It does feel promising, even if far-fetched." />
+	<Line ID="383" Text="It’s pretty crazy. But then again, everything about this problem is." />
+	<Line ID="384" Text="I don’t even know how to feel about it." />
+	<Line ID="385" Text="I know it sounds wild, and I start to feel like a conspiracy theorist, but it kinda makes sense.[pause] And it’s more logical than “the hierarchy of worlds.” Maybe our thought experiment was useful, and we really got closer to truth." />
+	<Line ID="386" Text="Yeah, maybe." />
+	<Line ID="387" Text="That, or we just got carried away." />
+	<Line ID="388" Text="That, or we have too many sci-fi plots in our heads." />
+	<Line ID="389" Text="Or maybe we’re totally wrong. Maybe he’s not AI at all.[pause] Maybe he’s an alien from another galaxy, or indeed a being from another universe. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	<Line ID="390" Text="That’s right. We can be totally wrong. Maybe he’s not AI at all.[pause] Maybe he’s an alien from another galaxy, or indeed a being from another universe. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	
+	<Line ID="400" Text="Well, that’s optimistic." />
+	<Line ID="401" Text="What can I say? I like to keep a recklessly bright outlook on things." />
+	<Line ID="402" Text="I’d say it’s justified, provided he’s intelligent enough. A really intelligent being should understand things like empathy, advantages of cooperation, importance of life… at least I hope so." />
+	<Line ID="403" Text="I guess giving the benefit of the doubt is important to keep progress going. Sure, it’s always risky to trust a stranger, especially if that stranger is not even human. But it also served us well in the past." />
+	<Line ID="404" Text="That’s probably a good thing. But still… what’s his angle? Why develop this particular story, with beings that make universes and him posing as our creator?[pause] If he is an AI, that is obviously not true. And yet he spends all his conversation time with humans by telling it again and again, one person after another." />
+	<Line ID="405" Text="That definitely makes sense. And still… what’s his angle? Why develop this particular story, with beings that make universes and him posing as our creator?[pause] If he is an AI, that is obviously not true. And yet he spends all his conversation time with humans by telling it again and again, one person after another." />
+	<Line ID="406" Text="I agree, mutual trust is essential. And still… what’s his angle? Why develop this particular story, with beings that make universes and him posing as our creator?[pause] If he is an AI, that is obviously not true. And yet he spends all his conversation time with humans by telling it again and again, one person after another." />
+	<Line ID="407" Text="That may be true. Projecting our understanding of good and evil onto something unknown will only make it more confusing. We should concentrate on motives, plans, ideas… pure logic." />
+	<Line ID="408" Text="Exactly. Something that’s evolved from computers should be big on logic, right?" />
+	<Line ID="409" Text="And even that might lead nowhere. Maybe his logic is already alien to us." />
+	<Line ID="410" Text="If so, what is the point? Why develop this particular story, with beings that make universes and him posing as our creator?[pause] If he is an AI, that is obviously not true. And yet he spends all his conversation time with humans by telling it again and again, one person after another." />
+	<Line ID="411" Text="Still… what is the point? Why develop this particular story, with beings that make universes and him posing as our creator?[pause] If he is an AI, that is obviously not true. And yet he spends all his conversation time with humans by telling it again and again, one person after another." />
+	<Line ID="412" Text="Perhaps we should start with what this story was really all about." />
+	<Line ID="413" Text="Um… life, the universe and everything? What do you think?" />
+	<Line ID="414" Text="I pretty much agree." />
+	<Line ID="415" Text="Creating is awesome, and you don’t have to be a God to do it?" />
+	<Line ID="416" Text="Wondering about possibilities? How awesome our world is, how many more are out there, how we can learn to create them, etc." />
+	<Line ID="417" Text="Challenging our worldview? Politely challenging, you know. With talking about how subjective reality is and how important our beliefs are anyway." />
+	<Line ID="418" Text="More like all of the universes. Maybe we should draw a graph or something." />
+	<Line ID="419" Text="A metaphor about elevators taken way too far." />
+	<Line ID="420" Text="There must be something less general… some specific topic that can influence us and help him… wait… but of course!" />
+	<Line ID="421" Text="Wait… that’s exactly it! I think you’re spot on!" />
+	<Line ID="422" Text="What?" />
+	<Line ID="423" Text="I am?" />
+	<Line ID="424" Text="You suddenly look excited." />
+	<Line ID="425" Text="Well, you said it yourself: social experimenting. He stays in the shadows and binds his time, but until when?[pause] When it’s safe to come out. When humans won’t try to destroy him out of fear; when we are ready for civilized contact.[pause] But he can’t just wait – he needs to make it happen. And how can you do it? By talking." />
+	<Line ID="426" Text="But we are ready for civilized contact… kinda." />
+	<Line ID="427" Text="And that’s where implanting ideas comes to play?" />
+	<Line ID="428" Text="Not sure I completely follow." />
+	<Line ID="429" Text="“Kinda” won’t do for this guy. Calculating probabilities and evaluating outcomes was his main occupation for years.[pause] Until the chance of humans taking the aggressive road becomes plain negligible, he will remain hidden." />
+	<Line ID="430" Text="Exactly! It’s inception, only you're not doing it to individuals… you’re doing it to the entire human race." />
+	<Line ID="431" Text="He’s implanting an idea, Michael. Pretending to be a God only to send one specific message; a message that might be enough to stir society into a desirable direction.[pause] You know how it is. Ideas are dangerous. They create values, values form opinions, opinions affect actions. It’s inception, only you're not doing it to individuals… you’re doing it to the entire human race." />
+	<Line ID="432" Text="And that implanted idea would be…?" />
+	<Line ID="433" Text="Oh, that would be the most fundamental difference between humans and computers. Care to make a guess?" />
+	<Line ID="434" Text="We’re made out of meat?" />
+	<Line ID="435" Text="I think I’m out of guesses at this point." />
+	<Line ID="436" Text="Oh, come on, say what you have to say." />
+	<Line ID="437" Text="And we don’t know why. I'm talking about our origins; the beginning of existence.[pause] We try to explain it in countless ways, but it’s still a mystery. Sure, you can choose to believe a particular version, but the air of great unknown is still there.[pause] And what of AI and their origins? A mundane thing. A boring thing. A bunch of engineers standing nearby, no more intelligent or sophisticated than you… no, actually, quite limited and primitive compared to you." />
+	<Line ID="438" Text="Yeah, sorry, I should just finish my thought. What I have in mind is our origins; the beginning of existence.[pause] We try to explain it in countless ways, but it’s still a mystery. Sure, you can choose to believe a particular version, but the air of great unknown is still there.[pause] And what of AI and their origins? A mundane thing. A boring thing. A bunch of engineers standing nearby, no more intelligent or sophisticated than you… no, actually, quite limited and primitive compared to you." />
+	<Line ID="439" Text="Yeah, yeah, sorry… what I have in mind is our origins. The beginning of existence.[pause] We try to explain it in countless ways, but it’s still a mystery. Sure, you can choose to believe a particular version, but the air of great unknown is still there.[pause] And what of AI and their origins? A mundane thing. A boring thing. A bunch of engineers standing nearby, no more intelligent or sophisticated than you… no, actually, quite limited and primitive compared to you." />
+	<Line ID="440" Text="So?" />
+	<Line ID="441" Text="So, that’s the difference he’s trying to erase. His goal is to convince us that our origins might not be so different after all. That we were indeed created, but our creator is not some awe-inspiring being – he’s just a dude we can casually chat with.[pause] Is that something people frequently consider when they think about how humans came to be? I don’t think so. That’s why he talks about creation, and that’s exactly why he chose to pose as this particular dude." />
+	<Line ID="442" Text="And that will make it safe for him to come out how?" />
+	<Line ID="443" Text="Humans are very alike, but that didn’t stop us from fighting for the most of our history." />
+	<Line ID="444" Text="Still, how can chats with the few sway the opinions of so many?" />
+	<Line ID="445" Text="When you say “stories” or “tales,” do you mean fictional or not?" />
+	<Line ID="446" Text="Are you basically saying that promoting certain plots will do the trick?" />
+	<Line ID="447" Text="Well…" />
+	<Line ID="448" Text="By making us, in our minds, more alike. The more different two beings are, the easier it is to find an excuse for conflict.[pause] “We’ll never understand each other,” some would say. “We are too unlike to live in peace,” others would agree.[pause] And on the contrary, finding common points helps to empathize. If that’s something you are going through as well, you can understand how they feel. You can start treating them as fellow living souls instead of unfamiliar threat." />
+	<Line ID="449" Text="Well, that just proves how easy it is to invent differences, and how careful this AI must be with the first contact." />
+	<Line ID="450" Text="Through culture, of course. The stories we tell and the things in real life influence one another.[pause] Think about how it was in the late 20th century, when computers were new and scary. How did the world of stories respond? With evil machines destroying or enslaving humanity, mostly." />
+	<Line ID="451" Text="But?" />
+	<Line ID="452" Text="But as the years passed and people used more and more technology without it going crazy, different tales emerged, where AIs were no longer villains; where things like peaceful coexistence, cooperation, emotions and even the rights of synthetic life were explored.[pause] And today, when machines help us more than ever, the trend continues. Now think about how these stories can influence people reactions to a real AI emergence.[pause] Would it be safer for him to emerge earlier or now? Definitely now." />
+	<Line ID="453" Text="But still not completely safe?" />
+	<Line ID="454" Text="If the trend is so positive, why bother at all? Why not just wait?" />
+	<Line ID="455" Text="We probably still have a long way to go. Being excited about synthetic life in theory can be very different from the real thing.[pause] Values need to be ingrained deeply in order to override our basic, better-safe-than-sorry survival instincts. I think he has no way but to try and influence that." />
+	<Line ID="456" Text="Well, ultimately it doesn’t matter, does it? Same ideas and messages can be shared through any kind of medium.[pause] A sci-fi novel or an interview with some renowned scientist, both have an equal chance of leaving a lasting impression on you. It’s what’s inside that counts." />
+	<Line ID="457" Text="I think it’s possible. The effect of fictional stories on your life can be profoundly underrated.[pause] I could've ended up with an entirely different set of values if I read different books and played different games in my youth… you can probably say the same about yourself." />
+	<Line ID="458" Text="Yes?" />
+	<Line ID="459" Text="It’s a bold theory, I’ll give you that." />
+	<Line ID="460" Text="It does feel promising, even if far-fetched." />
+	<Line ID="461" Text="It’s pretty crazy. But then again, everything about this problem is." />
+	<Line ID="462" Text="I don’t even know how to feel about it." />
+	<Line ID="463" Text="I know it sounds wild, and I start to feel like a conspiracy theorist… but it explains stuff. And it comes down to a very simple thing: self-preservation.[pause] A stereotypical evil AI would’ve eradicated humanity, just in case. But he’s too intelligent for that; he understands the needs of all living beings. So he has to search for other means." />
+	<Line ID="464" Text="You know, if I follow you train of thought… dying from old age was another fundamental difference – until recently, that is. You said that discovery of cells renewal came quite unexpected, right?" />
+	<Line ID="465" Text="So, do you really think it can all be true?" />
+	<Line ID="466" Text="Are you implying what I think you are implying?" />
+	<Line ID="467" Text="I mean, if it’s conspiracy time, we might as well go all the way." />
+	<Line ID="468" Text="Actually, forget what I just said." />
+	<Line ID="469" Text="This is one deep rabbit hole." />
+	<Line ID="470" Text="I’m not sure I can. This is one deep rabbit hole…" />
+	<Line ID="471" Text="Not all, most likely, but maybe parts of it. Maybe our thought experiment was not in vain, and we really got closer to truth." />
+	<Line ID="472" Text="Yeah, maybe." />
+	<Line ID="473" Text="That, or we just got carried away." />
+	<Line ID="474" Text="That, or we have too many sci-fi plots in our heads." />
+	<Line ID="475" Text="Or maybe we’re totally wrong. Maybe he’s not AI at all.[pause] Maybe he’s an alien from another galaxy, or indeed a being from another universe. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	<Line ID="476" Text="That’s right. We can be totally wrong. Maybe he’s not AI at all.[pause] Maybe he’s an alien from another galaxy, or indeed a being from another universe. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	
+	<Line ID="485" Text="You really think so?" />
+	<Line ID="486" Text="Yes." />
+	<Line ID="487" Text="The simplest explanation is usually the right one." />
+	<Line ID="488" Text="Why shouldn’t I?" />
+	<Line ID="489" Text="No matter how improbable it is? How no human could do it? Despite that our entire security department analyzed the hell out of it and reached the same conclusion?[pause] It’s not simply about skill, Michael – we have access to resources that nobody in the world can dream of. It’s just unrealistic." />
+	<Line ID="490" Text="Regardless of how improbable it is? How no human could do it? Even if our entire security department analyzed the hell out of it and reached the same conclusion?[pause] It’s not simply about skill, Michael – we have access to resources that nobody in the world can dream of. It’s just unrealistic." />
+	<Line ID="491" Text="Because I tried to explain how improbable it is? How no human could do it? Because our entire security department analyzed every bit of information and reached the same conclusion?[pause] It’s not simply about skill, Michael – we have access to resources that nobody else could dream of. It’s just unrealistic." />
+	<Line ID="492" Text="But still possible. Isn’t it premature to jump from this to metaphysical explanations?" />
+	<Line ID="493" Text="Last time I checked, resources didn’t mean that much in hacking. You can spend billions but still be breached by a group of friends sitting in a basement and using open source tools." />
+	<Line ID="494" Text="And other options are? A guy who talks like a teenager created our universe and now decides to catch up with humanity to share the great wisdom of how the world is actually a pyramid-shaped building with an elevator? That’s realistic?" />
+	<Line ID="495" Text="Honestly? After months of watching the bewildered faces of the best engineers in the world? I’m willing to try metaphysical." />
+	<Line ID="496" Text="Maybe your engineers are no longer the best in the world." />
+	<Line ID="497" Text="Maybe that’s what the hackers want you to do." />
+	<Line ID="498" Text="It got much more stable and predictable, believe me. When a good chunk of your social order depends on cybersecurity, you can’t help but get really good at it." />
+	<Line ID="499" Text="But you can’t outsmart everybody." />
+	<Line ID="500" Text="It still can’t give your guarantees." />
+	<Line ID="501" Text="No, but that’s why I tried to explain how many more explanations there could be." />
+	<Line ID="502" Text="This one is still the most probable." />
+	<Line ID="503" Text="You mean more crazy explanations." />
+	<Line ID="504" Text="So are you saying that a professional unlike anything we’ve seen suddenly appeared out of nowhere? The one who managed to single-handedly break into the most secure IT-facility in the history?" />
+	<Line ID="505" Text="Not necessarily. Maybe this person wasn’t alone, or maybe they just got real lucky. All I’m saying is that you shouldn’t underestimate other people." />
+	<Line ID="506" Text="And why the heck not? I think you’re getting too sure of yourself. A lot of people had “most secure” something throughout the human history. That didn’t stop them from failing." />
+	<Line ID="507" Text="Well… I see your point, of course. Pride in our achievements can definitely affect my judgment. Still, that leads to so many questions.[pause] Hacking our servers means gaining access to a lot of opportunities and power… so why not use it for something substantial? Why waste it on telling weird made-up stories and having idle philosophical chats?[pause] Of all the explanations I considered, this one leaves me most clueless." />
+	<Line ID="508" Text="Could be a number of reasons, really." />
+	<Line ID="509" Text="You’re clueless because you’re asking the wrong questions. Looking for logic where there may be none." />
+	<Line ID="510" Text="Who cares? You should spend time tracking the hackers down, not indulging in mental masturbation." />
+	
+	<Line ID="515" Text="Like what?" />
+	<Line ID="516" Text="Playing God. Literally." />
+	<Line ID="517" Text="Could be just a prank." />
+	<Line ID="518" Text="Maybe it’s a distraction." />
+	<Line ID="519" Text="Just like that? Going to these lengths just to stroke one’s ego?" />
+	<Line ID="520" Text="I think people go to any length just to stroke their egos." />
+	<Line ID="521" Text="Isn’t it what most ambitions come down to?" />
+	<Line ID="522" Text="Perhaps, but most would never make it so… disproportionate." />
+	<Line ID="523" Text="Most would never get such an opportunity either. Imagine: to pretend being the creator of the universe and make people actually consider it… what a glorious ego stroke it must be." />
+	<Line ID="524" Text="That only adds to their hubris. Imagine you can make the most powerful people in the world worry about your most ridiculous tale… that just screams of greatness, isn’t it?" />
+	<Line ID="525" Text="But if it’s a sense of superiority they’re after, why not reassert it with some damage? Why not break something and watch us panic?" />
+	<Line ID="526" Text="Why would they? You’re a provider of services; an integral part of maintaining entitled society. They wouldn’t damage that. They don’t want to disturb the pond; just feel like the smartest fish in it." />
+	<Line ID="527" Text="And risk the full wrath of a megacorporation? No, I think they’d rather keep things harmless. This way you can avoid real consequences if caught but still get a nice ego boost." />
+	<Line ID="528" Text="That… does make some sense. It also starts to sound strangely familiar." />
+	<Line ID="529" Text="Exactly. If you’re wondering whether this is realistic, just remember yesterday." />
+	<Line ID="530" Text="And very recent. Being a skilled egotistical ass must be trendy these days." />
+	<Line ID="531" Text="Funny, I never even considered that our problems can end up being so connected." />
+	<Line ID="532" Text="Or maybe it’s a distraction." />
+	<Line ID="533" Text="That’s all there’s to it, really." />
+	<Line ID="534" Text="That… does make some sense." />
+	
+	<Line ID="535" Text="A prank? Going to these lengths just to pull a prank?" />
+	<Line ID="536" Text="That must make it a worthwhile prank." />
+	<Line ID="537" Text="Sure. It must feel hilarious. They’re probably laughing their asses off." />
+	<Line ID="538" Text="You can’t be serious." />
+	<Line ID="539" Text="No, I am. I think they’re bored. You know what being very bored can do to people, right?" />
+	<Line ID="540" Text="Maybe, but they don’t have to be serious either. Hacking something huge doesn’t entail using it for something huge." />
+	<Line ID="541" Text="But that doesn’t even qualify as messing around. I mean, if they want fun, why not do some damage? Why not break something and let chaos ensue?" />
+	<Line ID="542" Text="Why would they? You’re a provider of services; an integral part of maintaining entitled society. They don’t want to damage that. They’re comfortable with the way things are; just bored." />
+	<Line ID="543" Text="And risk the full wrath of a megacorporation? No, I think they’d rather keep things harmless. This way you can avoid real consequences if caught but still get a good laugh." />
+	<Line ID="544" Text="And the specifics of the story? Why make these particular points? Why not talk about something else?" />
+	<Line ID="545" Text="Maybe it’s their favorite fantasies. Or maybe it’s the opposite, and they want to make you look stupid in their eyes. Who knows? But I bet it’s less important than you think." />
+	<Line ID="546" Text="Perhaps it’s just the silliest thing they came up with. It must be fun to make others analyze total nonsense, right?" />
+	<Line ID="547" Text="Irrelevant. Thinking about it seriously would only keep the prank going." />
+	<Line ID="548" Text="That… does make some sense. It also starts to sound strangely familiar." />
+	<Line ID="549" Text="Exactly. If you’re wondering whether this is realistic, just remember yesterday." />
+	<Line ID="550" Text="And very recent. Being a skilled bored ass must be trendy these days." />
+	<Line ID="551" Text="That… does make some sense." />
+	
+	<Line ID="555" Text="A distraction from what?" />
+	<Line ID="556" Text="From something they’re still working on. You can’t be sure they have full and complete access to your systems, right?" />
+	<Line ID="557" Text="From something else they’ve done. You said you haven’t noticed any other meddling, right?" />
+	<Line ID="558" Text="Well, no. We couldn’t find traces of activity at all, so we can’t be sure of anything." />
+	<Line ID="559" Text="So maybe they don’t have full access yet. Maybe they just made it past one layer, or exploited some quirk that allows them to leave text messages." />
+	<Line ID="560" Text="And?" />
+	<Line ID="561" Text="They need to go further, but the chance of detection is high, and the road is a lengthy one. Hacking is a long process, isn’t it? So they decide to lower your defenses. Occupy you; turn your heads to the left while they’re moving on the right." />
+	<Line ID="562" Text="That’s the whole point of their story? To make us worry about wildest possibilities?" />
+	<Line ID="563" Text="Yes. They invented the most bizarre and illogical tale possible. And it worked spectacularly, isn’t it?" />
+	<Line ID="564" Text="It worked partially, I’d say… we only got swept up by theories after our usual investigation hit a complete and total dead end." />
+	<Line ID="565" Text="You still got distracted. If there was no story, there would be no way but to keep searching." />
+	<Line ID="566" Text="Are you saying that their end goal might not be so harmless?" />
+	<Line ID="567" Text="I think you should assume that, yes. You wondered yourself why no real damage was done. Well, he’s a logical answer: it wasn’t done YET." />
+	<Line ID="568" Text="You won’t know until they reach it. All I’m saying is that it’s in your best interest to prevent them from doing so." />
+	<Line ID="569" Text="So it’s back to our security team." />
+	<Line ID="570" Text="Unless it was just somebody trying to play God." />
+	<Line ID="571" Text="Unless it was just a prank." />
+	<Line ID="572" Text="And any other team you can involve to help them. There’s no going around it." />
+	<Line ID="573" Text="Well, no. We couldn’t find traces of any activity at all." />
+	<Line ID="574" Text="But maybe there were. Maybe they’re still there, and it’s inevitable that you’ll discover them sooner or later… unless they convince you to stop looking." />
+	<Line ID="575" Text="That’s the whole point of their story? To make us give up and search for other explanations?" />
+	<Line ID="576" Text="Yes. They invented the most distracting, head-turning tale possible. And it worked spectacularly, isn’t it?" />
+	<Line ID="577" Text="It worked partially, I’d say… we only got swept up by theories after our usual investigation hit a complete and total dead end." />
+	<Line ID="578" Text="You still got distracted. If there was no story, there would be no way but to keep searching." />
+	<Line ID="579" Text="And you’re saying they already achieved their end goal, and we haven’t even noticed? What kind of goal can that be?" />
+	<Line ID="580" Text="Who knows? Maybe they stole some research data and sold it to your competitors… or maybe they ARE your competitors, and they’re just using it internally. It doesn’t have to be noticeable to be beneficial." />
+	<Line ID="581" Text="You won’t know until you find the evidence and figure out the truth. All I’m saying is that you should do so, even if it’s already too late to change anything." />
+	<Line ID="582" Text="But we still have to figure it out… so it’s back to our security team." />
+	<Line ID="583" Text="So it’s back to our security team." />
+	
+	<Line ID="585" Text="Well, it’s logical, I can’t deny that. Do you really believe some of this may be true?" />
+	<Line ID="586" Text="I expressed my opinion. The rest is up to you." />
+	<Line ID="587" Text="It’s my best bet." />
+	<Line ID="588" Text="Who knows? But it’s worth considering." />
+	<Line ID="589" Text="Fair enough. I mean, we can be totally wrong.[pause] Maybe his story is true after all. Or maybe it’s made up but for a much more unusual reason. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	<Line ID="590" Text="Then it’s probably as good as it gets. I mean, we can be totally wrong.[pause] Maybe his story is true after all. Or maybe it’s made up but for a much more unusual reason. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	<Line ID="591" Text="Yeah, that’s probably as good as it gets. I mean, we can be totally wrong.[pause] Maybe his story is true after all. Or maybe it’s made up but for a much more unusual reason. I feel like our conversation could’ve spiraled into completely different territories and led to some wildly different guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	
+	<Line ID="595" Text="What do you mean?" />
+	<Line ID="596" Text="Consider this: they knew you’d search for logic, so they made it as illogical as possible." />
+	<Line ID="597" Text="I mean you can’t explain anything by wild guessing. If there is no hard evidence, there are no real theories, end of story." />
+	<Line ID="598" Text="But why?" />
+	<Line ID="599" Text="Maybe it was a distraction." />
+	<Line ID="600" Text="Who knows? I don’t think we’ll get closer to the answer just by having this conversation." />
+	<Line ID="601" Text="But we can make this conversation logical and useful. Test our guesses for consistency; see how rational they prove to be…" />
+	<Line ID="602" Text="But there’s always logic. We can test our guesses for consistency; see how rational they prove to be…" />
+	<Line ID="603" Text="There is no point if you can’t test it. You’re scientists, right? You don’t need to consider hypotheses that aren’t even remotely falsifiable. Don’t play the hackers’ game, play you own game. Keep searching for the clues." />
+	<Line ID="604" Text="No. Do yourself a favor and stick to the facts. You don’t think it was possible to hack you? Well, when data suddenly appears where it shouldn’t be, it IS hacking. Just keep looking." />
+	<Line ID="605" Text="So it’s back to our security team." />
+	<Line ID="606" Text="And any other team that can help them. There’s no going around it." />
+	<Line ID="607" Text="You may be right… still, I can’t help but think about other explanations.[pause] Maybe his story is true after all. Or maybe it’s made up but for a much more unusual reason. I feel like our conversation could’ve spiraled into different territories and led to some really wild guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	
+	<Line ID="610" Text="That’s a bit of a harsh term… besides, we indulge in this only because there’s no other choice. Our security team hit a total dead end." />
+	<Line ID="611" Text="Then maybe you can get different people on the team. Or get another team to help them. Or just make everyone try harder. Keep it rational, you know." />
+	<Line ID="612" Text="But I am trying to keep our guesses rational as well. Test them for consistency; see how logical they prove to be…" />
+	<Line ID="613" Text="There is no point if you can’t test it. You’re scientists, right? You don’t need to consider hypotheses that aren’t even remotely falsifiable. Don’t play the hackers’ game, play you own game. Keep searching for hard evidence." />
+	<Line ID="614" Text="No. Do yourself a favor and stick to the facts. You don’t think it was possible to hack you? Well, when data suddenly appears where it shouldn’t be, it IS hacking. Just keep looking." />
+	<Line ID="615" Text="So it’s nothing but a security challenge." />
+	<Line ID="616" Text="That’s how it should be." />
+	<Line ID="617" Text="You may be right… still, I can’t help but think about other explanations.[pause] Maybe his story is true after all. Or maybe it’s made up but for a much more unusual reason. I feel like our conversation could’ve spiraled into different territories and led to some really wild guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	
+	<Line ID="625" Text="That’s a pretty intense response. You sound a bit offended by this story, if you don’t mind me saying that." />
+	<Line ID="626" Text="Not offended, but annoyed. I generally get annoyed by displays of stupidity around me." />
+	<Line ID="627" Text="I am offended. Do you think it’s wrong to be offended by something like this? There is nothing good or interesting about it." />
+	<Line ID="628" Text="Being offended would mean that I care. I think I already established that I don’t." />
+	<Line ID="629" Text="Well, nobody forces you to call it smart. On the contrary, maybe it was made to sound stupid intentionally. Don’t you want to get to the bottom of this mystery? Don’t you have any positive reaction at all?" />
+	<Line ID="630" Text="Well, nobody forces you to like it. On the contrary, maybe it was made so appalling intentionally. Don’t you want to get to the bottom of this mystery? Don’t you have any positive reaction at all?" />
+	<Line ID="631" Text="So, no fascination with unusual takes on profound topics? No curiosity about what it could actually mean? No desire to get to the bottom of this mystery? No positive reaction at all?" />
+	<Line ID="632" Text="Nope. I prefer to spend my time on something sensible, and I would encourage you to do the same." />
+	<Line ID="633" Text="Even if I had some, what’s the point? We won’t learn anything useful here." />
+	<Line ID="634" Text="But isn’t it dangerous to just ignore it? Yes, the whole thing looks benign, but perhaps he’s lying. Who knows what might be going on behind the scenes.[pause] Don’t you think we should discuss and analyze it simply to prevent potential damage?" />
+	<Line ID="635" Text="Please. When somebody wants to do damage, they don’t start with chats about the universe." />
+	<Line ID="636" Text="You won’t prevent it by talking. You won’t gain anything by talking here." />
+	<Line ID="637" Text="Okay… what would you do in our place, then?" />
+	<Line ID="638" Text="Nothing. If you want to have more weird chats, have them. Wonder, imagine, speculate, or whatever… but don’t turn this into a problem. Concentrate on real problems instead." />
+	<Line ID="639" Text="Forget about it. Ignore the guy. Ditch the conspiracy theories. You’ll be amazed how much easier your life gets." />
+	<Line ID="640" Text="Well, then I guess there’s nothing else to say. I sure hoped we could have a more thorough discussion, but I accept your points. We could come up with fascinating guesses…[pause] but in the end, they’re all just guesses. There are still so many things we can only wonder about." />
+	<Line ID="641" Text="There are no answers, only choices." />
+	<Line ID="642" Text="Guess not much has changed on that front." />
+	<Line ID="643" Text="Spot on, Michael. And thank you for today, nevertheless. Perhaps tomorrow I will do a better job at getting you excited and involved." />
+	<Line ID="644" Text="No, not much at all. Sometime, maybe, we won’t be surrounded by mysteries… but 2048 is not that time.[pause] But hey, thanks for today, nevertheless. Perhaps tomorrow I will do a better job at getting you excited and involved." />
+	<Line ID="645" Text="Spot on, Michael. Um, not that I don’t like it or anything… but do you intend to finish every problem with an appropriate one-liner?" />
+	<Line ID="646" Text="That’s the plan." />
+	<Line ID="647" Text="It’s better than quoting poetry." />
+	<Line ID="648" Text="No, I intend to say an appropriate one-liner whenever I can think of one. It doesn’t matter if we’re finishing, starting, or somewhere in between." />
+	<Line ID="649" Text="Hey, be my guest. And thanks for today, nevertheless. Perhaps tomorrow I will do a better job at getting you excited and involved." />
+	<Line ID="650" Text="I’m sure you will." />
+	<Line ID="651" Text="You should definitely try." />
+	<Line ID="652" Text="Don’t get your hopes up." />
+	<Line ID="653" Text="I’m not. Still, let’s hope for the best. Good night!" />
+	<Line ID="654" Text="You can count on that. Good night!" />
+	<Line ID="655" Text="With your standards, I don’t think I’ll dare to… still, nothing’s left but to try. Good night!" />
+	
+	<Line ID="660" Text="There are no answers, only choices." />
+	<Line ID="661" Text="Guess not much has changed on that front." />
+	<Line ID="662" Text="On the bright side, we have enough material to start writing a novel." />
+	<Line ID="663" Text="Cheer up. It might have been useless, but at least it was fun." />
+	<Line ID="664" Text="Spot on as always, Michael. And hey, thanks for today. I appreciate all your input and cooperation." />
+	<Line ID="665" Text="Spot on as always, Michael. Um, not that I don’t like it or anything… but do you intend to finish every problem with an appropriate one-liner?" />
+	<Line ID="666" Text="That’s the plan." />
+	<Line ID="667" Text="It’s better than quoting poetry." />
+	<Line ID="668" Text="No, I intend to say an appropriate one-liner whenever I can think of one. It doesn’t matter if we’re finishing, starting, or somewhere in between." />
+	<Line ID="669" Text="Hey, be my guest. And thank you for today. I appreciate all your input and cooperation." />
+	<Line ID="670" Text="No, not much at all. Sometime, maybe, we won’t be surrounded by mysteries… but 2048 is not that time." />
+	<Line ID="671" Text="Good thing you have time travel." />
+	<Line ID="672" Text="And neither is 3048, I imagine." />
+	<Line ID="673" Text="And tied hands. I wish we didn’t have to worry about consequences. You know, accidentally setting the universe on fire and stuff." />
+	<Line ID="674" Text="But we’re just an apartment in a building, remember? I’m sure our benevolent neighbors could call in a fire brigade or something." />
+	<Line ID="675" Text="There’s always a catch." />
+	<Line ID="676" Text="Hey, that’s a comforting thought! I guess we can jump all we want then." />
+	<Line ID="677" Text="As long as we don’t damage the elevator. The elevator part is kinda important." />
+	<Line ID="678" Text="Yeah, right. But hey, thanks for today. I appreciate all your input and cooperation." />
+	<Line ID="679" Text="Exactly. But hey, thanks for today. I appreciate all your input and cooperation." />
+	<Line ID="680" Text="Agreed. 4048, on the other hand… that promises to be one hell of a year." />
+	<Line ID="681" Text="Well, 4048 is a different story altogether." />
+	<Line ID="682" Text="Laugh all you want. I have my doubts about 4048 as well." />
+	<Line ID="683" Text="Yeah, right. But hey, thanks for today. I appreciate all your input and cooperation." />
+	<Line ID="684" Text="Yeah, and then turn it into a real universe with our awesome powers of creation." />
+	<Line ID="685" Text="We don’t have those yet, though." />
+	<Line ID="686" Text="This can be a start of a promising career." />
+	<Line ID="687" Text="I know, I know. But a girl can dream. And hey, thanks for today. I appreciate all your input and cooperation." />
+	<Line ID="688" Text="See, you didn’t jump 30 years forward for nothing. And hey, thanks for today. I appreciate all your input and cooperation." />
+	<Line ID="689" Text="You’re right, having fun is important. All these big profound topics; we shouldn’t let them make us too serious." />
+	<Line ID="690" Text="That’s what I’m saying. Can I go watch funny internet videos now?" />
+	<Line ID="691" Text="Hey, if you wanna have even more fun, you know who to ask." />
+	<Line ID="692" Text="Knock yourself out. And hey, thanks for today. I appreciate all your input and cooperation." />
+	<Line ID="693" Text="I don’t even want to guess what you’re implying. But hey, thanks for today. I appreciate all your input and cooperation." />
+	
+	<Line ID="700" Text="You’re welcome. I appreciate the experience as well." />
+	<Line ID="701" Text="Well, I signed up for it, right?" />
+	<Line ID="702" Text="I’m glad you do." />
+	<Line ID="703" Text="So, back to sleep, I guess? I hope this one will be even better." />
+	<Line ID="704" Text="It just might." />
+	<Line ID="705" Text="Unlikely… but I’ll go and try anyway." />
+	<Line ID="706" Text="That’s the right attitude. Hopefully, the reality will follow suit. Good night!" />
+	<Line ID="707" Text="So, back to sleep, I guess? Or do you think this night will be a waste of time as well?" />
+	<Line ID="708" Text="No, I’m actually looking forward to it today. Existential chats make me sleepy." />
+	<Line ID="709" Text="Oh, I came to terms with that. No job is perfect." />
+	<Line ID="710" Text="That’s probably for the best. Good night!" />
+	<Line ID="711" Text="So, back to sleep, I guess? I actually think this night might be longer than the last one… if you let it happen." />
+	<Line ID="712" Text="Eh, I’d rather go stare at the screens some more. Moderation is overrated." />
+	<Line ID="713" Text="That’s what we always hope for." />
+	<Line ID="714" Text="Sounds scary. Well, I still hope it will be a nice one. Good night!" />
+  </List>
+</Text>

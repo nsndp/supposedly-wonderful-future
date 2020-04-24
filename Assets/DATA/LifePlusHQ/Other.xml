@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="(A little corridor leads to the exit from your room and the spacious hallways of LIFE+ headquarters, all but deserted at this hour. From there, you can go back up to the lobby where you were before the dinner.)" />
+  	<Line ID="1" Text="(Go back to the lobby)" />
+  	<Line ID="2" Text="(Stay here for the moment)" />
+  	
+	<Line ID="10" Text="(The bed looks simple yet comfortable and, like all inviting beds, seems to be silently asking you one question: is it time to sleep yet?)" />
+  	<Line ID="11" Text="(Is it time to sleep yet?)" />
+  	<Line ID="12" Text="Yeah, let’s wrap it up for the day." />
+  	<Line ID="13" Text="Nah, it’s early. The night is young." />
+  	<Line ID="14" Text="Probably, but when did it ever stop us?" />
+  	<Line ID="15" Text="Just one more video, mom!" />
+	
+	<Line ID="20" Text="The bed was mocking me, the same “you will regret it in the morning” I’d heard a hundred times before." />
+	<Line ID="21" Text="For once, I had to admit defeat and embrace its comfort." />
+	<Line ID="22" Text="But my references were spinning out of control, and I had to see this through." />
+	<Line ID="23" Text="I'd filled my head with so much information it was starting to feel cramped." />
+	<Line ID="24" Text="Better to consolidate it with sleep than keep piling things up." />
+	<Line ID="25" Text="One should never underestimate one’s own limits." />
+	<Line ID="26" Text="Guilt had ambushed me once again. I never saw her coming." />
+	<Line ID="27" Text="I had to work on my detection skills, and for that, I needed rest." />
+	<Line ID="28" Text="Then we browsed together for a while, and she saw the error of her ways." />
+	<Line ID="29" Text="Here I was again, using the internet that wasn’t mine for reasons I didn’t fully understand." />
+	<Line ID="30" Text="It was time to pull the plug." />
+	<Line ID="31" Text="But I’d come too far to close the session now." />
+	<Line ID="32" Text="I wasn't the man I used to be in the morning." />
+	<Line ID="33" Text="Hitting refresh was the only option." />
+	<Line ID="34" Text="Then again, nobody is in this ever-changing world." />
+	<Line ID="35" Text="This was my sentence. To keep looking at the bed until it was too late to get well-rested." />
+	<Line ID="36" Text="A few hours are still better than none." />
+	<Line ID="37" Text="But I was long past regretting it." />
+		
+	<Line ID="40" Text="Why do we sleep? Science still hasn’t found an answer to this question." />
+	<Line ID="41" Text="And so we end the day shrouded by yet another mystery." />
+	<Line ID="42" Text="Then let’s wait until it does!" />
+	<Line ID="43" Text="Did you know that human is the only mammal who willingly delays sleep? Apparently, none of our evolutionary relatives are into this whole “just a few more minutes and then I’m going to bed for sure” stuff." />
+	<Line ID="44" Text="What a nice way to feel closer to nature." />
+	<Line ID="45" Text="It’s their loss." />
+	<Line ID="46" Text="Drowsiness is no laughing matter. Can you imagine how many road accidents could’ve been prevented if only people weren’t falling asleep behind the wheel?" />
+	<Line ID="47" Text="I, for one, care about the safety of my fellow human beings." />
+	<Line ID="48" Text="That, or we can just invent self-driving cars. Boosh, problem solved!" />
+	<Line ID="49" Text="Our complex relationship with sleep is often reflected in our culture. In Japan, dozing off during corporate meetings is viewed as a sign of diligently working long hours and considered not only excusable but sometimes commendable." />
+	<Line ID="50" Text="I’m no competition for the old-school salarymen." />
+	<Line ID="51" Text="I’ll be one hell of a dedicated worker tomorrow." />
+	<Line ID="52" Text="Your dreaming may be affected by the type of entertainment you experienced as a child. It is said that the black-and-white TV generation used to have monochrome dreams, while today most people dream in color." />
+	<Line ID="53" Text="I wonder what my gaming-fueled brain will show me tonight." />
+	<Line ID="54" Text="Surely the most dream-affecting technology is yet to come." />
+	<Line ID="55" Text="What if our dreams are not just dreams but entire worlds that exist only until we wake up?" />
+	<Line ID="56" Text="Careful with that recursive train of thought, buddy; you’ll get stack overflow." />
+	<Line ID="57" Text="Yeah, I don’t feel like being a mass murderer today." />
+	
+	<Line ID="60" Text="Is it time to sleep yet?" />
+	<Line ID="61" Text="Yeah, might as well." />
+	<Line ID="62" Text="Not even close." />
+	<Line ID="63" Text="Is it time to sleep yet?" />
+	<Line ID="64" Text="Supposedly." />
+	<Line ID="65" Text="Impossible." />
+	<Line ID="66" Text="Is it time to sleep yet?" />
+	<Line ID="67" Text="Allegedly." />
+	<Line ID="68" Text="Unlikely." />
+	<Line ID="69" Text="Is it time to sleep yet?" />
+	<Line ID="70" Text="Certainly." />
+	<Line ID="71" Text="Not quite." />
+  </List>
+</Text>

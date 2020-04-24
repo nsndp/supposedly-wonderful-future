@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Yes? What do you want?" />
+  	<Line ID="1" Text="Am I interrupting?" />
+  	<Line ID="2" Text="Your confession." />
+  	<Line ID="3" Text="Of course you are. What, you think I just sit on my butt here, doing nothing? I’m in no habit to waste time. If you’re talking to me, you’re interrupting me." />
+	<Line ID="4" Text="Yeah? Well, you don’t look like a priest, so forgive me if I say “no.”" />
+  	<Line ID="5" Text="I just need to ask you a few questions." />
+	<Line ID="6" Text="Then I hope it will be a long interruption." />
+	<Line ID="7" Text="You should really check your tone, smart guy, or this case will be closed earlier than anyone expected." />
+	<Line ID="8" Text="Oh, I’m not your priest, but I can be your executioner if you don’t play nice." />
+	<Line ID="9" Text="Wait… you the corp guy I was warned about, looking into that thing happened with Ashley.[pause] Fine, I’ll spare you some time. If you want to know something, ask. I’ve got nothing to hide." />
+	
+	<Line ID="10" Text="You again? Can we make this quick?" />
+	<Line ID="11" Text="Suit yourself." />
+	<Line ID="12" Text="Do you know why you are under suspicion?" />
+	<Line ID="13" Text="Tell me about your relationship with Ashley." />
+	<Line ID="14" Text="What is your role in the team?" />
+	<Line ID="15" Text="What do you think about the incident?" />
+	<Line ID="16" Text="Why did you choose this line of work, anyway?" />
+	<Line ID="17" Text="I think you’re guilty, and I can tell you why." />
+	<Line ID="18" Text="That’s all for now." />
+	
+	<Line ID="20" Text="Because you have no idea where to start, so you’re just suspecting everyone Ashley knows?" />
+	<Line ID="21" Text="No. It’s because you had access to Ashley’s account and could post her fake resignation at your leisure." />
+	<Line ID="22" Text="You’re not making it easy, are you?" />
+	<Line ID="23" Text="Just because I could doesn’t mean I did. I had absolutely no reason to do this strange and useless thing.[pause] It’s easy, it’s final, there is nothing more to it, and I hope you stop right there and save us both a lot of time. I mean, you probably won’t, but I still hope." />
+	<Line ID="24" Text="Making easy what, your job? I’m afraid I couldn’t even if I wanted to. But here’s what’s easy: I had absolutely no reason to do this strange and useless thing.[pause] It’s final, there is nothing more to it, and I hope you stop right there and save us both a lot of time. I mean, you probably won’t, but I still hope." />
+	
+	<Line ID="25" Text="There isn’t much to tell. We work together. She’s competent, helpful, never creates unnecessary problems. And I respect that." />
+	<Line ID="26" Text="Would you call it competitive? Were you dissatisfied that she was a lead actor and you were not?" />
+	<Line ID="27" Text="Do you think that Ashley’s friendly personality made her opinion carry more weight? Was your precious advice ever ignored in favor of Ashley’s?" />
+	<Line ID="28" Text="All right, another question." />
+	<Line ID="29" Text="Oh, please… an actor doesn’t need to spend more time on screen than others in order to truly shine. I mean, Ash is a nice kid with believable portrayal of emotions, but she and I are still on different levels, and anyone with half a brain could see it.[pause] Our average viewer doesn’t satisfy that requirement, of course… but there is nothing I can do about it." />
+	<Line ID="30" Text="My advice, ignored? Nonsense. My recommendations are carried out to the letter. When we are talking about work, the team knows who to listen.[pause] As for the general chit-chat, Ashley can have all the attention she wants – I have no interest in mundane things, and I clearly separate between the two." />
+	
+	<Line ID="31" Text="Simple: I do all the good parts." />
+	<Line ID="32" Text="How nice of you." />
+	<Line ID="33" Text="You’re an asshole." />
+	<Line ID="34" Text="The good parts being…?" />
+	<Line ID="35" Text="And I assume the rest of the team is just along for the ride?" />
+	<Line ID="36" Text="All right, change of topic." />
+	<Line ID="37" Text="What can I say? I’m an artist." />
+	<Line ID="38" Text="Are we nearing the end of the conversation? Because if petty insults are all you have left, I’ll just take my leave." />
+	<Line ID="39" Text="Acting, writing, giving precious advice. Whenever you see things turning from good to special, that’s where I was involved.[pause] It’s a time-consuming process, and sometimes I have no choice but to leave entire episodes to others, but I work hard to ensure that the series as a whole remain just special enough." />
+	<Line ID="40" Text="Hey, even a genius needs others to help with the routine. They’re good folks: hard-working, with their hearts in the right place.[pause] You can’t blame them for not having the spark. That’s the kind of thing you need to be born with." />
+		
+	<Line ID="45" Text="I think this entire “incident” would be non-existent if Ash could only listen to me for a change. I mean, yeah, that fake “I’m leaving” thing wasn’t particularly pleasant, even if it was easy to fix.[pause] But the rest of it? So what if some whiny fans chose this particular time to be dissatisfied? If only she could accept viewers for what they really are, the problem would go away instantly." />
+	<Line ID="46" Text="And what are viewers really?" />
+	<Line ID="47" Text="Morons." />
+	<Line ID="48" Text="You don’t say." />
+	<Line ID="49" Text="Yeah, I think I saw that coming. Like, from a mile away." />
+	<Line ID="50" Text="But I do say that, over and over again, to everyone who appears to have ears. Yet they all stubbornly ignore this simple fact." />
+	<Line ID="51" Text="Congratulations, that means you have eyes. A lot of people don’t, apparently. How else would you explain them stubbornly ignoring this simple fact?" />
+	<Line ID="52" Text="So you think people can’t understand your show anyway." />
+	<Line ID="53" Text="But viewers are the whole reason to do it for Ashley." />
+	<Line ID="54" Text="If people will never appreciate your work, why bother?" />
+	<Line ID="55" Text="Ahead of your time? Really?" />
+	<Line ID="56" Text="All right, change of topic." />
+	<Line ID="57" Text="Most people can’t understand anything sufficiently complex. That’s just something you have to accept when you’re in the business of making real art." />
+	<Line ID="58" Text="I know she draws motivation from it, and that’s fine; nobody says she should disregard them completely.[pause] But to create something like this and expect the masses to truly appreciate it? That’s just unrealistic." />
+	<Line ID="59" Text="I said they don’t appreciate it now; I didn’t say they never will. True artists think ahead of their time, so it takes some generations to catch up.[pause] But one day, people of the future will understand our masterpiece in all its glory." />
+	<Line ID="60" Text="Naturally. Was Franz Kafka appreciated during his lifetime? Vincent van Gogh? What about Melville’s Moby-Dick, or Bulgakov’s Master and Margarita?[pause] True art just never attracts armies of admirers right upon release." />
+		
+	<Line ID="61" Text="It’s the only thing worth doing. The only way to truly leave your mark on the world." />
+	<Line ID="62" Text="And I assume any other profession is not worth doing and has no way to leave a mark." />
+	<Line ID="63" Text="Oh, don’t take it the wrong way. I have nothing against people who choose different paths. If nothing else, I pity them.[pause] One day they all will disappear, their existence erased and forgotten. Me? My legacy will live in eternity." />
+	<Line ID="64" Text="Eternity? Isn’t that a bit of a stretch?" />
+	<Line ID="65" Text="You’re delusional. There will be time when the entire humanity is gone and forgotten, let alone specific individuals." />
+	<Line ID="66" Text="And how exactly are you planning to do that, oh the transcendent one?" />
+	<Line ID="67" Text="Is that your way to become immortal, then? Because I think the world of science has already solved that problem conventionally." />
+	<Line ID="68" Text="Enough about that." />
+	<Line ID="69" Text="It’s not. It is, in fact, the whole point." />
+	<Line ID="70" Text="Not if we transcend the time first." />
+	<Line ID="71" Text="Have some faith, my little fatalistic friend. Better yet, just wait and see." />
+	<Line ID="72" Text="True immortality is not about extra years – it’s about how you spend them.[pause] If people can waste dozens of years on nothing, they can waste hundreds just as easily. Most will continue to do so. This little discovery changed nothing." />
+	
+	<Line ID="75" Text="What the hell are you talking about?" />
+	<Line ID="76" Text="Oh, just accept it already. All this funny babble about true art and morons only proves how desperately you want to be recognized… and how upset you are that recognition was taken by somebody else." />
+	<Line ID="77" Text="You think I can’t see through your high and mighty talk? You are the one who deserves pity; a small and sorry man who is frightened by oblivion so much that pretending to be special is his only way to cope." />
+	<Line ID="78" Text="You’re an arrogant prick. You couldn’t deal with your fleeting existence, so you invented an illusion of grandeur, but the facade started to crack, and the only way to fix it was at someone else’s expense." />
+	<Line ID="79" Text="Hold that thought, I’ll be back." />
+	<Line ID="80" Text="What exactly are you implying?" />
+	<Line ID="81" Text="You little… how’s this even relevant?" />
+	<Line ID="82" Text="How dare you to even…" />
+	<Line ID="83" Text="I hope this conversation ends soon." />
+	<Line ID="84" Text="Come on, it’s obvious you hold a grudge on Ashley. She received acclaim where you could not. She’s a constant reminder that your “essential contributions” are nothing more than fantasies. Maybe you didn’t want her to become so depressed… but you couldn’t allow her to be happy either." />
+	<Line ID="85" Text="Deep down, you envy every fan Ashley has, every connection with another person she established. Eventually, she became so good that even your coping tricks didn’t help, so you gave her the taste of your misery. But it stops now. This is as far as your insecurity takes you, mister artist." />
+	<Line ID="86" Text="You know what? Screw you. Just… screw you![pause] Who the hell do you think you are, distracting me from work just to do your fancy psychoanalysis? I may have problems, but they sure as hell are none of your business! [pause]If you want to arrest me, then call your cavalry and get it over with. But I’m not going to spend another moment being scrutinized and ridiculed. Adios!" />
+	<Line ID="87" Text="You know what? Screw you. Just… screw you![pause] Who the hell do you think you are, distracting me from work just to test my patience and insult me on every possible occasion?[pause] If you want to arrest me, then call your cavalry and get it over with. But I’m not going to spend another moment being harassed and ridiculed. Adios!" />
+	<Line ID="88" Text="Adios indeed." />
+	
+	<Line ID="95" Text="You again? Can we make this quick?" />
+	<Line ID="96" Text="Why, reluctant to spend any time on Ashley’s well-being?" />
+	<Line ID="97" Text="Come on, nobody can be busy 24/7." />
+	<Line ID="98" Text="Just answer the questions." />
+	<Line ID="99" Text="This idle chatting can do nothing to improve Ashley’s well-being. But you wouldn’t know that, or else you’d be doing something more useful." />
+	<Line ID="100" Text="I can, if you must know. There is no clear line between resting and working. Every little thing I do contributes to my inspiration. Reading classics, watching my precursors’ works…" />
+	<Line ID="101" Text="Lying in bed?" />
+	<Line ID="102" Text="Yes. But I wouldn’t expect you to understand it." />
+	<Line ID="103" Text="So ask them." />
+	<Line ID="104" Text="You again? These unexpected interruptions are not helping. Can you at least log your interrogation sessions in advance with my assistant?" />
+	<Line ID="105" Text="You have somebody working as your personal assistant?" />
+	<Line ID="106" Text="It’s the software, you bumpkin. What time are you from, anyway?" />
+	<Line ID="107" Text="2018, believe it or not." />
+	<Line ID="108" Text="A more civilized age, apparently." />
+	<Line ID="109" Text="The better one. The one without you, that is." />
+	<Line ID="110" Text="That’s way too advanced. 1918 sounds more like it." />
+	<Line ID="111" Text="Is this going somewhere? I have things to do." />
+	<Line ID="112" Text="Just answer the questions." />
+	
+	<Line ID="115" Text="You again? I hope you at least have enough sense to apologize for unleashing that thug upon my house." />
+	<Line ID="116" Text="Just doing our jobs, mister suspect. Your cooperation is appreciated." />
+	<Line ID="117" Text="Yeah, sorry… he may get a bit overzealous in his searches." />
+	<Line ID="118" Text="Apologize? To you? This is the most ridiculous suggestion I’ve heard today." />
+	<Line ID="119" Text="Unbelievable… and I assume you still need something from me?" />
+	<Line ID="120" Text="Oh well… I assume you still need something from me?" />
+	<Line ID="121" Text="Unbelievable… I’ll be sure to contact your superiors once this is over. Now, is there something else?" />
+  </List>
+</Text>

@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+	<Line ID="0" Text="" />
+  	<Line ID="1" Text="Hello? Anyone?" />
+	<Line ID="2" Text="Okay, Jackie. Is this another one of your no-briefing, come-and-punch-you-in-the-face problems?" />
+	<Line ID="3" Text="The element of surprise is lost, you know. It’s clear that I’ll have to wander around the area until I accidentally do whatever it is you want me to do, after which you will appear and start talking, and talking, and talking, and talking until I’m completely convinced that you had my best interests at heart – or until my ears fall off, whichever is sooner." />
+	<Line ID="4" Text="(Say nothing)" />
+	<Line ID="5" Text="(There is no answer.)" />
+	
+	<Line ID="10" Text="Hello? Is somebody else here?" />
+	<Line ID="11" Text="Who’s that?" />
+	<Line ID="12" Text="Oh, good. A fellow lost soul." />
+	<Line ID="13" Text="Who indeed… I don’t seem to remember. What about you?" />
+	<Line ID="14" Text="Eh… what, sorry?" />
+	<Line ID="15" Text="Who are you?" />
+	<Line ID="16" Text="I said “a fellow lost soul.” Or are you not lost?" />
+	<Line ID="17" Text="Oh, no, I feel very much lost. In fact, I don’t even remember who I am. What about you, mister?" />
+	<Line ID="18" Text="Name’s Michael. Pleased to meet you." />
+	<Line ID="19" Text="You mean, do I remember who I am? Yes, thankfully." />
+	<Line ID="20" Text="Oh, never mind me. Chances are you’re going to hate me by the end of the day." />
+	<Line ID="21" Text="Likewise. Eh, I’m sorry, but… where are you?[pause] I hear your voice, but there’s nobody around. All I see is some table with photo frames on it." />
+	<Line ID="22" Text="Then I guess you have me at a disadvantage here… eh… where are you, by the way?[pause] I hear your voice, but there’s nobody around. All I see is some table with photo frames on it." />
+	<Line ID="23" Text="Hate you? No, I’m not the kind to… eh… where are you, by the way?[pause] I hear your voice, but there’s nobody around. All I see is some table with photo frames on it." />
+	<Line ID="24" Text="That’s what I see as well." />
+	<Line ID="25" Text="You mean we can’t see each other? Great, the voice in my head is really getting out of control." />
+	<Line ID="26" Text="So we’re looking at the same thing? Well, that’s reassuring." />
+	<Line ID="27" Text="Don’t worry, I’m pretty sure I’m a separate person… only I can’t recall anything about him." />
+	<Line ID="28" Text="Where are we, exactly?" />
+	<Line ID="29" Text="No idea. It’s kinda hazy. What do you think?" />
+	<Line ID="30" Text="Well, I have a number of explanations… all them are equally improbable." />
+	<Line ID="31" Text="I’m pretty tired of thinking, to be honest." />
+	<Line ID="32" Text="Yeah… hey, do you mind if I keep quiet for a bit? It just feels like I’m forgetting something, something very important… something besides my identity, I mean…" />
+	<Line ID="33" Text="All right." />
+	
+	<Line ID="35" Text="" />
+	<Line ID="36" Text="There is a name here: Harvey Martin. Is it yours?" />
+	<Line ID="37" Text="Harvey Martin? Not sure I like how it sounds. But whatever, it’s just a name. You can call me as such if you want." />
+	
+	<Line ID="40" Text="" />
+	<Line ID="41" Text="Hey, look, the images are moving. Sort of." />
+	<Line ID="42" Text="They must be digital photo frames, or some similar devices." />
+	<Line ID="43" Text="…what? Oh, that’s nice. Are these yours?" />
+	<Line ID="44" Text="Mine? Why would they be mine?" />
+	<Line ID="45" Text="No. I thought they might be yours, actually." />
+	<Line ID="46" Text="Well, they’re not mine, and there are only two of us here, so…" />
+	<Line ID="47" Text="But I’m not the one with the memory problems, remember?" />
+	<Line ID="48" Text="No, they’re not mine either. I don’t remember them." />
+	<Line ID="49" Text="But you can’t remember much of anything, right? Not even your name." />
+	<Line ID="50" Text="But you can’t remember much of anything, right? A moment ago, we didn’t even know your name." />
+	<Line ID="51" Text="That’s true. Still, none of these views ring any bells." />
+	<Line ID="52" Text="Are you sure? A closer look won’t hurt." />
+	<Line ID="53" Text="I guess you’re right. Just give me a moment, okay?" />
+	
+	<Line ID="60" Text="So, eh… it’s a street." />
+	<Line ID="61" Text="So, eh… it’s a woman." />
+	<Line ID="62" Text="So, eh… it’s an alleyway." />
+	<Line ID="63" Text="Thanks, captain." />
+	<Line ID="64" Text="I see that, but not much else." />
+	<Line ID="65" Text="I see that, but not much else." />
+	<Line ID="66" Text="I see that, but not much else." />
+	<Line ID="67" Text="Really? It’s so photoshopped, I can barely tell." />
+	<Line ID="68" Text="Really? It’s so photoshopped, I can barely tell." />
+	<Line ID="69" Text="Really? It’s so photoshopped, I can barely tell." />
+	<Line ID="70" Text="Hey, I’m just following your own suggestion. Maybe saying it aloud will bring my memories closer to the surface.[pause] I mean, it’s kinda starting to feel familiar, but… ugh, I probably just need a bit more time." />
+	<Line ID="71" Text="Well, yeah, there isn’t much to look at. The buildings are standing, the cars are moving… there’s also a person crossing the street in the back, but it’s a bit hard to discern.[pause] It’s starting to feel familiar, but… ugh, I probably just need a bit more time." />
+	<Line ID="72" Text="Well, yeah, there isn’t much to look at. The woman runs forward, then stops to watch the view. Grabs the railings, looks excited…[pause] it’s starting to feel familiar, but… ugh, I probably just need a bit more time." />
+	<Line ID="73" Text="Well, yeah, there isn’t much to look at. Children running, laundry drying on the lines, a woman doing some kind of chore. And then it changes to another view with a lot of roofs.[pause] It’s starting to feel familiar, but… ugh, I probably just need a bit more time." />
+	<Line ID="74" Text="There’s a street going from left to right, see? Cars are moving. There’s also a person crossing the street in the back, but it’s a bit hard to discern." />
+	<Line ID="75" Text="There’s a girl on the right, see? She’s running somewhere, then stopping, probably to watch the view. She looks… excited?" />
+	<Line ID="76" Text="There are people moving around, see? The kid to the left is running, while the woman in the center is doing some kind of chore. There is also laundry drying on the lines. Then it changes to another view with a lot of roofs." />
+	<Line ID="77" Text="Oh, yeah, I get it now." />
+	<Line ID="78" Text="I’ll take your word for it." />
+	<Line ID="79" Text="It’s starting to feel familiar, but… ugh, I probably just need a bit more time." />
+	<Line ID="80" Text="That’s fine. Take as long as necessary." />
+	<Line ID="81" Text="Time, we seem to have. For now." />
+	
+	<Line ID="83" Text="" />
+	<Line ID="84" Text="How about this one?" />
+	<Line ID="85" Text="No, nothing yet. It feels so close, but I can’t grasp it, sorry." />
+	<Line ID="86" Text="" />
+	<Line ID="87" Text="How about this one?" />
+	<Line ID="88" Text="No, nothing yet. It feels so close, but I can’t grasp it, sorry." />
+	
+	<Line ID="90" Text="" />
+	<Line ID="91" Text="Hey, look. Two more frames have activated." />
+	<Line ID="92" Text="It’s as if they are programmed to react to our conversation." />
+	<Line ID="93" Text="(Say nothing)" />
+	<Line ID="94" Text="Yeah, I noticed. They seem familiar as well." />
+	<Line ID="95" Text="I think I might be the one who programmed them, yes. I don’t know why, though. Did I want certain things to activate only after I say certain words?" />
+	
+	<Line ID="100" Text="Wait… I think I remember this street. It’s the one I see every morning on my way to work… or used to see, anyway." />
+	<Line ID="101" Text="So these are your photos after all." />
+	<Line ID="102" Text="I think so, yes. I take this road when I go to the office. Walking, I mean.[pause] I live close by; it only takes 17 minutes to get there from my apartment. It’s convenient to live near your work." />
+	<Line ID="103" Text="Go on." />
+	<Line ID="104" Text="It may not look much, but it’s a pretty crowded place, this street; a lot of people are using it.[pause] Occasionally I look at their faces. Some faces, I recognize. They walk down the street all the time, just like me.[pause] A bald guy uses the same zebra crossing every morning; we look each other in the eyes, put on a smile, and nod.[pause] We never talk, though. There is nothing to talk about.[clear]Sometimes I look around. There’s a pleasant smell coming from a nearby bakery, but I’ve never been there; I’m never hungry when I see it.[pause] There is a bike in front of the entrance – it always stands there, without fail.[pause] There is a farmer’s market to the right, but it’s open only on Fridays. I don’t have time to visit it." />
+	<Line ID="105" Text="Keep it coming." />
+	<Line ID="106" Text="You remembered all this just by looking at one frame?" />
+	<Line ID="107" Text="Wait, why are you telling me this all of a sudden?" />
+	<Line ID="108" Text="Yes, surprisingly enough. I guess these images are really important to me in some way." />
+	<Line ID="109" Text="Well, keep it coming." />
+	<Line ID="110" Text="Eh… I mean, why not? It feels important to me… and maybe it can be important to you, in some way." />
+	<Line ID="111" Text="Go on, then." />
+	<Line ID="112" Text="Once in a while, I look at the sky. It goes through a nice variety of colors, but I’ve already seen them all.[pause] If there are clouds, I try to find funny shapes. One day, I was watching a cloud and bumped into an old lady, but she just smiled.[pause] People are polite here; they never scold you for not paying attention.[clear]Mostly, though, I just look at my feet. At the shoes and shadows, at the fallen leaves, at the patterns in the pavement.[pause] I try not to step on the cracks or seams. I feel uncomfortable when I do that.[clear]When I get to the office, I chat with my colleagues. Some of them live pretty far away; they need to drive for a full hour.[pause] They tell me how their car kept slowing down for no reason. They tell me about a traffic jam at the corner of such-and-such. I’m very lucky to live so close to work." />
+	<Line ID="113" Text="You don’t sound lucky." />
+	<Line ID="114" Text="If you say so." />
+	<Line ID="115" Text="1440 minutes." />
+	<Line ID="116" Text="What?" />
+	<Line ID="117" Text="1440 minutes in a day. 420 minutes to sleep. 5 minutes to get up. 6 minutes to brush teeth. 15 minutes to take a shower.[pause] 30 minutes to have breakfast. 10 minutes to get dressed. 17 minutes to walk down the street. 5 minutes to check in at the office.[pause] 300 minutes to work. 40 minutes to have lunch. 300 minutes to work again. 5 minutes to check out." />
+	<Line ID="118" Text="You are one precise dude." />
+	<Line ID="119" Text="Is this going somewhere?" />
+	<Line ID="120" Text="It’s numbers. Algorithm. Quantifying.[pause] They help to occupy the mind, but they don’t add meaning. No, meaning is found elsewhere.[pause] 17 minutes to walk back. 30 minutes to shop. 60 minutes for dinner. 60 minutes to sit lost in thought.[pause] 120 minutes to use VR. Yes, those are nice 120 minutes. The rest of them, not so much." />
+	<Line ID="121" Text="I suppose I can relate to that." />
+	<Line ID="122" Text="A little variety can be good for you, you know." />
+	<Line ID="123" Text="Do you at least spend time with your family on weekends or something?" />
+	<Line ID="124" Text="Thanks. Do you want to look at the other frames? I think it’s starting to come back to me. The rest of the memories should be much better." />
+	<Line ID="125" Text="Yeah, I guess so. Do you want to look at the other frames? I think it’s starting to come back to me. The rest of the memories should be much better." />
+	<Line ID="126" Text="Yeah, I guess I do. Do you want to look at the other frames? I think it’s starting to come back to me. The rest of the memories should be much better." />
+	
+	<Line ID="130" Text="Yes, of course, I know who she is now… that was pretty embarrassing, not to recognize your own wife." />
+	<Line ID="131" Text="Tell me about her." />
+	<Line ID="132" Text="Oh dear, is there a love story coming up?" />
+	<Line ID="133" Text="We were both students at the time. I met her in a lecture hall – surface integrals, an introductory calculus course…[pause] man, she was jotting down those notes like nobody’s business. I asked to explain a few formulas, so she did. She always understood things better than me – in class and in life alike." />
+	<Line ID="134" Text="Yeah, I probably won’t say anything you haven’t heard before… but it’s my love story, I’m certain of that now, so it’s dear to me. I hope you understand.[clear]We were both students at the time. I met her in a lecture hall – surface integrals, an introductory calculus course…[pause] man, she was jotting down those notes like nobody’s business. I asked to explain a few formulas, so she did. She always understood things better than me – in class and in life alike." />
+	<Line ID="135" Text="So she’s smart." />
+	<Line ID="136" Text="Was?" />
+	<Line ID="137" Text="Go on." />
+	<Line ID="138" Text="Oh, she was so much more than just smart. Kind, compassionate, confident, honest, funny, witty, wise…[pause] she cherished life like I thought wasn’t even possible. She was my favorite person in the whole wide world." />
+	<Line ID="139" Text="Still is. At least I think so… I can’t put any of this into a wider context yet, sorry." />
+	<Line ID="140" Text="We talked for a bit after that, and the next time, and the time after that as well. I was so transfixed, I even forgot to be shy, and asked her out almost immediately. She said yes![pause] Apparently, I was the first guy at the university to approach her. Guess she was a bit intimidating, always furiously writing down everything teachers said, he-he.[pause] We started dating. Six months later, I proposed. Two months after, we were married." />
+	<Line ID="141" Text="Pretty snappy." />
+	<Line ID="142" Text="Did you even bother to keep studying?" />
+	<Line ID="143" Text="There was a wonderful certainty about it all. A nagging feeling that stuff might fall apart at any moment – the one I’d lived with for years – was gone now.[pause] I was so certain the events were unfolding as they were supposed to, it felt almost spiritual. Must be a side effect of that thing they call Love.[pause] We still waited a bit with our honeymoon, though… didn’t go until after graduation." />
+	<Line ID="144" Text="Sure. If nothing else, we got better at it, probably because we were always helping each other. High energy physics stood no chance against our teamwork.[pause] We waited until after graduation with our honeymoon, though." />
+	<Line ID="145" Text="And this frame depicts a part of that honeymoon, I take it?" />
+	<Line ID="146" Text="Yep, one of the many beautiful views we saw during it. She was always the best part of any view, as you can imagine.[pause] Man, we had the craziest honeymoon our money could buy… traveled all around the world. It was our act of rebellion against looming adult responsibilities.[pause] I mean, we could get a house with this sum – well, not an entire house, but pay a deposit and have enough left for furniture and home improvements.[pause] But a house is just stuff. Stuff breaks and falls apart, even before you do. Memories, however? Good memories are for life.[clear]We roamed around Europe, Asia, and both Americas.[pause] We put love locks on as many bridges as we could find, took every ride in every amusement park we could get in.[pause] We looked down at the world from Burj Khalifa, Eiffel Tower, and St. Peter’s Dome.[pause] We saw northern lights and floating lanterns, went diving and skydiving.[pause] We fooled around in a swimming pool that was 55 floors above the ground.[pause] We shouted the names of our favorite ice cream flavors from the mountaintops.[pause] It was glorious, silly, and absolutely unforgettable." />
+	<Line ID="147" Text="I think I’m getting jealous." />
+	<Line ID="148" Text="That must have taken a long time." />
+	<Line ID="149" Text="I’m an extremely lucky guy, aren’t I? In fact, I felt so lucky I couldn’t believe my own happiness, and kept nagging her with questions throughout the trip. She always had the best answers, of course.[pause] I’d say, “You are my teacher. Why did you decide to teach me everything about life?” and she’d say, “A teacher always learns as much as her students.”[pause] I’d say, “You are my perfection. There is no way I look as perfect to you as you look to me,” and she’d say, “You have no idea.”[clear]And here, as we leaned on the balcony’s railing, I said another thing. “You are my angel. What did I actually do to deserve you?”[pause] It didn’t even sound like a question this time, really, more like a thought said out loud; an idle musing on God’s mysterious ways. But she responded anyway." />
+	<Line ID="150" Text="Yeah, you’re probably right. But we felt so blessed, the passage of time just didn’t matter anymore.[pause] In fact, I could barely believe my own happiness, and kept nagging her with questions throughout the trip. She always had the best answers, of course.[pause] I’d say, “You are my teacher. Why did you decide to teach me everything about life?” and she’d say, “A teacher always learns as much as her students.”[pause] I’d say, “You are my perfection. There is no way I look as perfect to you as you look to me,” and she’d say, “You have no idea.”[clear]And here, as we leaned on the balcony’s railing, I said another thing. “You are my angel. What did I actually do to deserve you?”[pause] It didn’t even sound like a question this time, really, more like a thought said out loud; an idle musing on God’s mysterious ways. But she responded anyway." />
+	<Line ID="151" Text="What did she say?" />
+	<Line ID="152" Text="“You exist. That’s enough.”" />
+	
+	<Line ID="160" Text="My, how could I forget this little neighborhood? My entire childhood happened here. It was my home." />
+	<Line ID="161" Text="Seems like a nice enough place." />
+	<Line ID="162" Text="Must’ve been one of the cheaper districts." />
+	<Line ID="163" Text="What, these decrepit shacks?" />
+	<Line ID="164" Text="Nope, still nothing. How can you recognize anything from these outlines is a mystery to me." />
+	<Line ID="165" Text="You think so? I guess it does look surprisingly decent in this state, with the black-and-white filter hiding all the dirt. Then again, it can’t hide anything from me… not when the full version is already ingrained in my mind.[pause] I was a slum kid; the kind who doesn’t always get enough food and water, let alone computers or toys. Born into absolute poverty – and faced with a good chance to remain in it for life." />
+	<Line ID="166" Text="Yeah, that’s a polite way to put it. I was a slum kid… the kind who doesn’t always get enough food and water, let alone computers or toys.[pause] Born into absolute poverty – and faced with a good chance to remain in it for life." />
+	<Line ID="167" Text="It does look pretty shabby, doesn’t it? You can see it even through all these image filters.[pause] Then again, it’s not surprising. I was a slum kid… the kind who doesn’t always get enough food and water, let alone computers or toys.[pause] Born into absolute poverty – and faced with a good chance to remain in it for life." />
+	<Line ID="168" Text="Well, when the images are already ingrained in your mind, all you need is a little trigger.[pause] Then again, there isn’t anything grand here to see. I was a slum kid… the kind who doesn’t always get enough food and water, let alone computers or toys.[pause] Born into absolute poverty – and faced with a good chance to remain in it for life." />
+	<Line ID="169" Text="I’m sorry to hear that." />
+	<Line ID="170" Text="That’s unexpected." />
+	<Line ID="171" Text="Well, looks like you turned out all right in the end." />
+	<Line ID="172" Text="Don’t be. Even if it wasn’t pleasant, it’s still part of my life. Besides, I didn’t remain, or we wouldn’t be having this conversation, right?" />
+	<Line ID="173" Text="Statistically speaking, it’s nothing out of the ordinary. There was a time when almost 20% of the world’s population lived in such conditions. That’s roughly one in a five chance to spend your infancy in the slums.[pause] Sadly, the chance to spend the rest of your life elsewhere was somewhat lower." />
+	<Line ID="174" Text="Yeah… in the end." />
+	<Line ID="175" Text="Was it as bad as they say?" />
+	<Line ID="176" Text="What was it like?" />
+	<Line ID="177" Text="But I assume you’re going to tell me all about it." />
+	<Line ID="178" Text="Depends on what you mean by “they.” Was it a place of endless despair and misery, a ghetto for the poor where all hope is lost and nothing left to do except slowly fade away while cursing the unjust world?[pause] No. But it was damn hard nonetheless.[clear]The conditions were horrible, that’s for sure. Contaminated water, open drains, lack of basic sanitation and utilities… perfect breeding ground for life-threatening diseases.[pause] Little kids were in the biggest danger. Human body needs a lot of care before it can properly face Mother Nature’s challenges… some never made it to that point." />
+	<Line ID="179" Text="It was… a lot of different things. Hard, yes, but not as miserable and hopeless as some outsiders made it out to be.[pause] Bear in mind, though, that my memories are now influenced by time and distance. As years pass, bad parts fade away quicker than good parts. A coping mechanism, I suppose.[clear]The conditions were horrible, that’s for sure. Contaminated water, open drains, lack of basic sanitation and utilities… perfect breeding ground for life-threatening diseases.[pause] Little kids were in the biggest danger. Human body needs a lot of care before it can properly face Mother Nature’s challenges… some never made it to that point." />
+	<Line ID="180" Text="If you’re interested, sure. I mean, you don’t sound very interested, but we seem to be stuck here anyway; might as well kill some time with my life stories.[clear]Like, I could tell you all about this hell on Earth. How the slum was a place of endless despair and misery, a ghetto for the poor where all hope is lost and nothing left to do except slowly fade away while cursing the unjust world.[pause] That’s what some people imagine when you mention old third-world slums, right?" />
+	<Line ID="181" Text="It’s never that simple." />
+	<Line ID="182" Text="Those people are idiots." />
+	<Line ID="183" Text="Why, yes. Or do you plan to tell me it’s all wrong?" />
+	<Line ID="184" Text="Exactly. Having said that, it was damn hard nonetheless.[clear]The conditions were horrible. Contaminated water, open drains, lack of basic sanitation and utilities… perfect breeding ground for life-threatening diseases.[pause] Little kids were in the biggest danger. Human body needs a lot of care before it can properly face Mother Nature’s challenges… some never made it to that point." />
+	<Line ID="185" Text="I wouldn’t go that far, but… yes, their views are far from reality. Having said that, it was damn hard nonetheless.[clear]The conditions were horrible. Contaminated water, open drains, lack of basic sanitation and utilities… perfect breeding ground for life-threatening diseases.[pause] Little kids were in the biggest danger. Human body needs a lot of care before it can properly face Mother Nature’s challenges… some never made it to that point." />
+	<Line ID="186" Text="Oh, don’t get the wrong idea. I was simply implying that suffering can’t be the only state of your existence. Rest assured, though, it was a damn hard existence nonetheless.[clear]The conditions were horrible. Contaminated water, open drains, lack of basic sanitation and utilities… perfect breeding ground for life-threatening diseases.[pause] Little kids were in the biggest danger. Human body needs a lot of care before it can properly face Mother Nature’s challenges… some never made it to that point." />
+	<Line ID="187" Text="How sad." />
+	<Line ID="188" Text="I don’t envy their parents." />
+	<Line ID="189" Text="It was sad, there’s no going around it… but in the end, people coped the best they could. As we grew older, the chances of survival increased, yet the challenges were only starting.[pause] The exhausting thing about poverty is the sheer amount of planning and thinking you need even for the most trivial activities. Bathing, washing, cooking all felt like hard, stressful work – and not everyone is prepared to do hard work.[clear]Crime was frequent; suicides, not unusual. When you are packed so tight you’re bumping into people in your sleep, the actions of others have more obvious, more immediate impact.[pause] If family and neighbors support you, life is worth living. If they’re just waiting for a chance to backstab you… it’s hard to stay optimistic." />
+	<Line ID="190" Text="As we grew older, the chances of survival increased, yet the challenges were only starting.[pause] The exhausting thing about poverty is the sheer amount of planning and thinking you need even for the most trivial activities. Bathing, washing, cooking all felt like hard, stressful work – and not everyone is prepared to do hard work.[clear]Crime was frequent; suicides, not unusual. When you are packed so tight you’re bumping into people in your sleep, the actions of others have more obvious, more immediate impact.[pause] If family and neighbors support you, life is worth living. If they’re just waiting for a chance to backstab you… it’s hard to stay optimistic." />
+	<Line ID="191" Text="So what was more frequent, supporting or backstabbing?" />
+	<Line ID="192" Text="So it was a decent community, all things considered." />
+	<Line ID="193" Text="What about police?" />
+	<Line ID="194" Text="Protection money? How could you afford to pay it if you barely had enough for food?" />
+	<Line ID="195" Text="Go on." />
+	<Line ID="196" Text="Both. It was a place of extremes; home to the lowest wickedness and the grandest acts of kindness alike. Cruelty may be easier than compassion, yet when people cared, they cared big time.[pause] I saw nurses and doctors routinely working 15-hour shifts for free. I knew beggars who’d travel to tourist spots, then return and spend all money on food for others. I watched one half of the slum building houses for the other half after it was leveled in a flood." />
+	<Line ID="197" Text="It was a great community, as long as desperation didn’t get in the way, and it was the community we had to thank for our daily moments of happiness.[pause] Gathering in dozens every evening to dance, sing, play sports… such pure shared joy is not something you can easily find in modern cities." />
+	<Line ID="198" Text="Police worked only when they had to, and only when tipped off by local gangs, who had a much bigger presence in our neighborhood.[pause] I’m sure even the gangs tried to maintain at least some semblance of order, but they never hesitated to ask for protection money either. Corruption was a way of life." />
+	<Line ID="199" Text="Oh, their rates were reasonable enough, and they also accepted gifts instead of cash. Besides, local prices weren’t exactly sorted in order of necessity; weird stuff would often cost less than important stuff.[pause] Sometimes, it was cheaper to buy alcohol than vegetables, so grown-ups would get drunk to forget about hunger instead of actually eating. Didn’t really help with occasional child abuse problems, as you might imagine." />
+	<Line ID="200" Text="Ironically enough, one of the hardest parts were steady reminders about those who had it better.[pause] It might’ve been easier if we were a sealed-off ghetto, oblivious to the possibilities that lie outside; if this was the only life we knew. But the world was already too interconnected, too fluid for that.[clear]Every once in a while, a different kind of people would appear: clean, well-dressed, with gadgets in their pockets. They’d bring books; they’d tell us about homes with private toilets and big bathrooms. They created ripples in the little boy’s smooth thoughts.[clear]Some charity funded a local education project, and for the first time in the slum’s history children could go to a proper school for free. Classes quickly became the time when I felt most alive.[pause] History, science, English, math – I devoured them all. Local drug dealers lost a potential client forever… I already had all the high I needed." />
+	<Line ID="201" Text="Ironically enough, one of the hardest parts were steady reminders about those who had it better.[pause] It might’ve been easier if we were indeed a sealed-off ghetto, oblivious to the possibilities that lie outside; if this was the only life we knew. But the world was already too interconnected, too fluid for that.[clear]Every once in a while, a different kind of people would appear: clean, well-dressed, with gadgets in their pockets. They’d bring books; they’d tell us about homes with private toilets and big bathrooms. They created ripples in the little boy’s smooth thoughts.[clear]Some charity funded a local education project, and for the first time in the slum’s history children could go to a proper school for free. Classes quickly became the time when I felt most alive.[pause] History, science, English, math – I devoured them all. Local drug dealers lost a potential client forever… I already had all the high I needed." />
+	<Line ID="202" Text="Yeah, learning is awesome." />
+	<Line ID="203" Text="If only kids from richer countries had your appetite." />
+	<Line ID="204" Text="You sure have a knack for dramatic comparisons." />
+	<Line ID="205" Text="One day, a large group of volunteers arrived – well-fed educated twentysomethings, eager to fight the injustice. I talked to them and found more common than I ever hoped for.[pause] I saw it in their eyes: the same hunger. The yearning for perspective, knowledge, and experience.[pause] Somewhere there, a goal was born. I couldn’t live like this anymore. I had to escape." />
+	<Line ID="206" Text="And you did." />
+	<Line ID="207" Text="Yes. Not everyone felt the same, mind you; many were happy to use their freshly gained skills on the spot.[pause] My sister, she wanted to open a sewing business – make cheaper clothes, help the local families. She was always the more social one… the less anxious one.[clear]As for me, the slums were no longer enough. Education was the only ticket out, so I kept studying.[pause] I graduated top of the class, took every test and entrance exam I knew about, and managed to snatch a place in a tuition-free university abroad. I packed my bag – there wasn’t much to take anyway – and left." />
+	<Line ID="208" Text="Yet you still think about the place." />
+	<Line ID="209" Text="…yes. I thought I’d never look back, and for many years that was the case; I was too busy working. But now, as I sit alone in the comfort of my apartment, I sometimes do.[pause] I recall my childhood memories – good parts more than bad parts. I feel a strange sense of affection… get nostalgic, even.[clear]Then I go to the bathroom, turn on the shower and watch in awe as clean water pours out of every little hole.[pause] And I wonder – do you need to have my background to do this sort of things? Did I really have to spend my childhood playing near raw sewage to appreciate the full beauty of clear running water?[pause] I don’t know, probably not. But it helped. It sure helped." />
+	
+	<Line ID="220" Text="Have you ever been to the sea when you were a kid?" />
+	<Line ID="221" Text="Yeah. A number of times, actually." />
+	<Line ID="222" Text="Maybe once or twice. Don’t remember it too well." />
+	<Line ID="223" Text="No, never." />
+	<Line ID="224" Text="I’ve never lived anywhere near the sea or the ocean, myself, except for that one time when my parents and I went for a holiday to a seaside hotel.[pause] Even then, we never actually went to the beach. They were more interested to hang out near the bar, where you could always get a free refill for your beer." />
+	<Line ID="225" Text="That’s kinda sad." />
+	<Line ID="226" Text="And who could blame them?" />
+	<Line ID="227" Text="Sounds like my type of vacation." />
+	<Line ID="228" Text="I suppose endless booze is hard to resist." />
+	<Line ID="229" Text="I thought you were living in the slums." />
+	<Line ID="230" Text="Yeah, I still have no idea where we got the money. Maybe we won the lottery and spent everything on one trip in a haze of sudden excitement.[pause] Poor people aren’t very good at big financial decisions; they think too much about tomorrow to look further ahead." />
+	<Line ID="231" Text="Well, I didn’t know any better. They would drop me at the hotel’s children club, and I’d spend most of my time playing with other kids and local entertainers." />
+	<Line ID="232" Text="Certainly not me – I just didn’t know any better. They would drop me at the hotel’s children club, and I’d spend most of my time playing with other kids and local entertainers." />
+	<Line ID="233" Text="It’s even better when a hotel has a children’s club where you can drop your kid off. I was spending most of my time there, playing with other kids and local entertainers." />
+	<Line ID="234" Text="Typical." />
+	<Line ID="235" Text="Smart move." />
+	<Line ID="236" Text="One day, however, the club decided to go the beach. We left the hotel’s grounds, walked 20 minutes down the road, and then I saw something I’d never seen before.[pause] Water – clean, beautiful water, as far as the eye could see. Waves, gently brushing the sand. The sound, the smell, the feeling…[pause] I remember standing there, ankle-deep in the water, and saying “Oh my God, this is so cool!”" />
+	<Line ID="237" Text="You remember the exact words?" />
+	<Line ID="238" Text="Sounds like a nice memory." />
+	<Line ID="239" Text="Yeah, kids are easily impressed." />
+	<Line ID="240" Text="Yes, it is all very clear. Or it was until recently…[pause] but anyway, I then sat down and noticed that the sand wasn’t actually sand but countless tiny pebbles, all different in shape and size. There were pebbles like this under the water too; probably under the entire sea.[pause] To think that something can stretch out so far and still remain so unique and diverse, it was mind-blowing." />
+	<Line ID="241" Text="Then I sat down and noticed that the sand wasn’t actually sand but countless tiny pebbles, all different in shape and size. There were pebbles like this under water too; probably under the entire sea.[pause] To think that something can stretch out so far and still remain so unique and diverse, it was mind-blowing." />
+	<Line ID="242" Text="That’s pretty insightful." />
+	<Line ID="243" Text="Are you sure all this went through your mind?" />
+	<Line ID="244" Text="Yeah, maybe. I’m not sure how long I sat there, mesmerized by the sea. Probably not long; children aren’t exactly known for their impressive attention span.[pause] But to this day, I look back and think how full, how complete this experience was.[clear]I mean, my parents were there at the bar, drinking beer, and I didn’t even know what “beer” was. I just knew it was something complicated; something that people created specifically for their enjoyment yet always wanted to refill.[pause] Here, I didn’t have such problems. I could sit forever, watching the waves, twiddling the stones, and be content. I didn’t need anything else… just this feeling." />
+	<Line ID="245" Text="Yeah, maybe I’m just overanalyzing it retroactively. I’m not sure how long I sat there, mesmerized by the sea. Probably not long; children aren’t exactly known for their impressive attention span.[pause] But to this day, I look back and think how full, how complete this experience was.[clear]I mean, my parents were there at the bar, drinking beer, and I didn’t even know what “beer” was. I just knew it was something complicated; something that people created specifically for their enjoyment yet always wanted to refill.[pause] Here, I didn’t have such problems. I could sit forever, watching the waves, twiddling the stones, and be content. I didn’t need anything else… just this feeling." />
+	
+	<Line ID="250" Text="Ah, yes… the weekend. From some other time. When we were already a family of four." />
+	<Line ID="251" Text="Hey, congratulations!" />
+	<Line ID="252" Text="Good for you." />
+	<Line ID="253" Text="Thanks. It took some time to get there. Planning things, moving things, buying things. Marriage paperwork, mortgage paperwork, adoption paperwork…[pause] both of our children were adopted, you see." />
+	<Line ID="254" Text="It took some time to get there. Planning things, moving things, buying things. Marriage paperwork, mortgage paperwork, adoption paperwork…[pause] both of our children were adopted, you see." />
+	<Line ID="255" Text="Did your wife have trouble getting pregnant?" />
+	<Line ID="256" Text="Why not get your own kids?" />
+	<Line ID="257" Text="No, as far as I know, we were both fertile and healthy. It was simply our choice.[pause] There are thousands of perfectly normal kids without families, and thousands of young families with a stable home to offer. Seems only logical to bring them together." />
+	<Line ID="258" Text="It was our choice. There are thousands of perfectly normal kids without families, and thousands of young families with a stable home to offer.[pause] Seems only logical to bring them together." />
+	<Line ID="259" Text="That’s a noble thing to do." />
+	<Line ID="260" Text="Not a very popular opinion, I imagine." />
+	<Line ID="261" Text="This is pretty hard to understand." />
+	<Line ID="262" Text="Yeah, maybe. But you don’t get any concessions from the universe for it; in the end, the challenges and troubles are the same.[pause] For a while, it wasn’t going well. My wife was busy teaching and writing. I was at work all the time." />
+	<Line ID="263" Text="I wouldn’t know – I don’t have the statistics. But I’m sure that, in the end, the challenges and troubles are the same.[pause] For a while, it wasn’t going well. My wife was busy teaching and writing. I was at work all the time." />
+	<Line ID="264" Text="It’s not that different from having biological children; in the end, the challenges and troubles are the same.[pause] For a while, it wasn’t going well. My wife was busy teaching and writing. I was at work all the time." />
+	<Line ID="265" Text="Yes, I remember your strict schedule." />
+	<Line ID="266" Text="Even when I was at home, we barely talked. I thought we were good at conversations… that she was the only person who could understand my every word.[pause] But the silence poisoned us, and the distance was growing. It was obvious we were less and less comfortable being around each other. I even started to wonder why we’d married in the first place." />
+	<Line ID="267" Text="Love’s boat has smashed against the daily grind, huh?" />
+	<Line ID="268" Text="And after such a dreamy beginning. Pity." />
+	<Line ID="269" Text="Something like that. Thankfully, none of this applied to our children. No, our children were too busy exploring the world, finding excitement in everything like only children can.[pause] After all, it was a perfect day to do it. The rain had just stopped. The puddles were waiting. Simple and contagious fun was about to unfold, and we were both invited, whether we wanted it or not." />
+	<Line ID="270" Text="Thankfully, none of this applied to our children. No, our children were too busy exploring the world, finding excitement in everything like only children can.[pause] After all, it was a perfect day to do it. The rain had just stopped. The puddles were waiting. Simple and contagious fun was about to unfold, and we were both invited, whether we wanted it or not." />
+	<Line ID="271" Text="That is adorable." />
+	<Line ID="272" Text="Pfft, kids." />
+	<Line ID="273" Text="It’s such an interesting invention, family. You choose a person among millions of total strangers, and you make a vow to become something more.[pause] I thought it was an illusion; a white lie we tell ourselves to distract from the fact that we all die alone. I thought I was just going through the motions, doing what society expected.[pause] But here, as we watched them play, I locked eyes with my wife, and something clicked.[clear]We made this happen. This little scene, it was the most natural thing in the universe, yet it would’ve been impossible without us.[pause] We created this family, and with it brought a little more joy to this world. It was out mutual achievement." />
+	<Line ID="274" Text="See, I knew your inner romantic wasn’t dead yet." />
+	<Line ID="275" Text="That’s one way to look at things." />
+	<Line ID="276" Text="I smiled. She smiled back. We spent a long time in our living room that evening, just sitting in each other’s embrace. The silence remained, but the poison was gone; it was no longer a silence of strangers.[pause] I thought she was the only one who understood my every word, but that’s not entirely true. She was the only one who understood me without them." />
+	
+	<Line ID="280" Text="How about your parents? Are they still around? Do you get along?" />
+	<Line ID="281" Text="Sure, my folks are the best." />
+	<Line ID="282" Text="Yeah, we get along well enough." />
+	<Line ID="283" Text="I’d rather not talk about it." />
+	<Line ID="284" Text="I thought this was about your life, not mine." />
+	<Line ID="285" Text="That’s awesome. Sadly, mine weren’t near as good.[pause] Even when I was little, they were doing a pretty poor job. During my teen years, screaming and fighting became commonplace. Once I moved out, we just stopped interacting altogether, and it stayed like this for ages.[pause] Hell, they didn’t even know that I got married. When they first heard about my wife, our children were already going to school." />
+	<Line ID="286" Text="That’s great. Sadly, I couldn’t say the same about mine.[pause] Even when I was little, they were doing a pretty poor job. During my teen years, screaming and fighting became commonplace. Once I moved out, we just stopped interacting altogether, and it stayed like this for ages.[pause] Hell, they didn’t even know that I got married. When they first heard about my wife, our children were already going to school." />
+	<Line ID="287" Text="I understand. We might have this in common… my relationship with parents was not something I enjoyed to mention, that’s for sure.[pause] Even when I was little, they were doing a pretty poor job. During my teen years, screaming and fighting became commonplace. Once I moved out, we just stopped interacting altogether, and it stayed like this for ages.[pause] Hell, they didn’t even know that I got married. When they first heard about my wife, our children were already going to school." />
+	<Line ID="288" Text="Well, clearly it’s just a way to start talking about my own relationship with parents… which wasn’t the greatest, as you might have guessed.[pause] Even when I was little, they were doing a pretty poor job. During my teen years, screaming and fighting became commonplace. Once I moved out, we stopped interacting altogether, and it stayed like this for ages.[pause] Hell, they didn’t even know that I got married. When they first heard about my wife, our children were already going to school." />
+	<Line ID="289" Text="Any particular reason for that?" />
+	<Line ID="290" Text="Yeah, what else is new?" />
+	<Line ID="291" Text="Mostly stupid, petty things, piling up with time. They weren’t abusive addicts or anything, just bad at parenting, and I was your average angsty adolescent, slowly evolving into an average angsty adult.[clear]As the years went by, however, we started to get in touch more frequently. Age had mellowed us all, I suppose… made more willing to compromise and value existing relationships, even if they were far from perfect.[pause] They moved to a nearby neighborhood. Our children welcomed the increase of people who were always willing to play with them. Soon enough, we were visiting each other every weekend." />
+	<Line ID="292" Text="As the years went by, however, we started to get in touch more frequently. Age had mellowed us all, I suppose… made more willing to compromise and value existing relationships, even if they were far from perfect.[pause] They moved to a nearby neighborhood. Our children welcomed the increase of people who were always willing to play with them. Soon enough, we were visiting each other every weekend." />
+	<Line ID="293" Text="Wise choice. Family is important." />
+	<Line ID="294" Text="Did you manage to patch things up, then?" />
+	<Line ID="295" Text="Sounds like a deliberate effort." />
+	<Line ID="296" Text="It’s not like we magically turned into exemplary relatives. It felt forced and strained in the beginning. There was still a lot of arguing, though we always tried to do it out of the kids’ earshot.[pause] But gradually, the tension subsided. We got used to each other’s idiosyncrasies; learned when to stop pushing and when to let go. It became more natural, even peaceful. Before we realized, we were genuinely enjoying our time together.[clear]I remember one day in particular… a golden moment, if you will. It was late November, but my parents were already set for Christmas, determined to give their grandchildren a full month of holiday cheer.[pause] The four of them were so busy and happy together, they barely needed us. Like, literally, my wife and I went out for 30 minutes to get food, and nobody even noticed." />
+	<Line ID="297" Text="Yes, eventually. It felt forced and strained in the beginning. There was still a lot of arguing, though we always tried to do it out of the kids’ earshot.[pause] But gradually, the tension subsided. We got used to each other’s idiosyncrasies; learned when to stop pushing and when to let go. It became more natural, even peaceful. Before we realized, we were genuinely enjoying our time together.[clear]I remember one day in particular… a golden moment, if you will. It was late November, but my parents were already set for Christmas, determined to give their grandchildren a full month of holiday cheer.[pause] The four of them were so busy and happy together, they barely needed us. Like, literally, my wife and I went out for 30 minutes to get food, and nobody even noticed." />
+	<Line ID="298" Text="It was very much deliberate in the beginning. There was still a lot of arguing, though we always tried to do it out of the kids’ earshot.[pause] But gradually, the tension subsided. We got used to each other’s idiosyncrasies; learned when to stop pushing and when to let go. It became more natural, even peaceful. Before we realized, we were genuinely enjoying our time together.[clear]I remember one day in particular… a golden moment, if you will. It was late November, but my parents were already set for Christmas, determined to give their grandchildren a full month of holiday cheer.[pause] The four of them were so busy and happy together, they barely needed us. Like, literally, my wife and I went out for 30 minutes to get food, and nobody even noticed." />
+	<Line ID="299" Text="Good stuff." />
+	<Line ID="300" Text="Don’t worry, they would’ve asked you about the food sooner or later." />
+	<Line ID="301" Text="Hey, that’s what grandparents are for." />
+	<Line ID="302" Text="And the best part? It wasn’t your typical “kind but clueless old folks” stuff. My daughter was talking about this new videogame, and my dad knew all about it, because he actually played it.[pause] She mentioned it the week before, so he did his homework – he, a grey-haired grandpa. The gap between generations just didn’t exist there.[pause] And I thought to myself: you know what? I’m glad we gave each other another chance. They really did good this time.[clear]And besides, damn, they were both pushing 80. That’s pretty cool, right?[pause] You can’t possibly be mad at someone who’s 80. You just feel this sheer respect for all the experience they had, and for all the hard times they’ve been through but still refused to bite the dust." />
+	<Line ID="303" Text="Considering the circumstances, I’d say 80 is amazing." />
+	<Line ID="304" Text="80 is great. A lot of people never make it to 80." />
+	<Line ID="305" Text="Eh, it’s not necessarily their merit." />
+	<Line ID="306" Text="Well, as fate would have it, they both died within a year of that day. He went first, a little while after having a stroke.[pause] Funny how these things can remove a person even before they actually pass away… half of the body paralyzed, speech disorder settles in, and off he goes, into some unknown state of mind I have no access to." />
+	<Line ID="307" Text="I’m really sorry." />
+	<Line ID="308" Text="Damn… I didn’t see that coming." />
+	<Line ID="309" Text="I was afraid it’d end with something like this." />
+	<Line ID="310" Text="She, however, had a more… smooth transition. Dementia was catching up, but there were good days, just as there were bad ones.[pause] One day stood out above all, a day of almost perfect clarity; a day when a senile old woman was free to rediscover everything in her surroundings – including her grandchildren who were visiting again.[pause] She looked positively excited. She leaned to my son, smiled, and said, “You have your mother’s eyes.”" />
+	<Line ID="311" Text="A golden moment after a golden moment, eh?" />
+	<Line ID="312" Text="Didn’t you say your kids were adopted?" />
+	<Line ID="313" Text="A golden moment after a golden moment. There were no regrets.[pause] I mean, I don’t know about them, but I think they were two good lives, and I wouldn’t have changed a thing. I wouldn’t have changed a single damn thing." />
+	<Line ID="314" Text="You… you’re right, I did. Guess her clarity wasn’t as perfect as I imagined." />
+	
+	<Line ID="320" Text="" />
+	<Line ID="321" Text="Eh… what the hell is this?" />
+	<Line ID="322" Text="A forgotten tragedy. In April 2036, an asteroid called Apophis hit Earth. Ten million people died." />
+	<Line ID="323" Text="Ten million? That’s insane." />
+	<Line ID="324" Text="2036? There was no tragedy in 2036. At least I think so…" />
+	<Line ID="325" Text="Apophis? I recall reading something like this. It was supposed to miss." />
+	<Line ID="326" Text="It’s just a statistic now; a price we had to pay. There must have been an error in the calculations… but they only realized it later on. Back then, nobody saw it coming.[pause] Or, more precisely, a lot of people did, but for a very different reason. It should have been a flyby, close enough to be seen with a naked eye; a curious celestial event for the enthusiasts to gaze at.[pause] When the truth became clear, Apophis was already entering the atmosphere.[clear]And even then, what were the chances? Three quarters of the planet’s surface is water, not all land is inhabited, and only a fraction of it is urban areas.[pause] Yet here it was, falling on a densely-populated city filled with skyscrapers… and hours later, the skyscrapers were no more.[clear]I don’t know who had it worse – those who were burned to death within seconds, those who slowly died under the rubble, or those who were farther away.[pause] Yes, the latter could still live, but it felt like they forgot how to. They were just walking around in a daze at the border of the impact crater, looking at the new face of their home. So hard to build… so easy to shatter." />
+	<Line ID="327" Text="That’s sure how it feels now. There must have been an error in the calculations… but they only realized it later on. Back then, nobody saw it coming.[pause] Or, more precisely, a lot of people did, but for a very different reason. It should have been a flyby, close enough to be seen with a naked eye; a curious celestial event for the enthusiasts to gaze at.[pause] When the truth became clear, Apophis was already entering the atmosphere.[clear]And even then, what were the chances? Three quarters of the planet’s surface is water, not all land is inhabited, and only a fraction of it is urban areas.[pause] Yet here it was, falling on a densely-populated city filled with skyscrapers… and hours later, the skyscrapers were no more.[clear]I don’t know who had it worse – those who were burned to death within seconds, those who slowly died under the rubble, or those who were farther away.[pause] Yes, the latter could still live, but it felt like they forgot how to. They were just walking around in a daze at the border of the impact crater, looking at the new face of their home. So hard to build… so easy to shatter." />
+	<Line ID="328" Text="Yeah… supposed to. There must have been an error in the calculations, but they only realized it later on. Back then, nobody saw it coming.[pause] Or, more precisely, a lot of people did, but for a very different reason. It should have been a flyby, close enough to be seen with a naked eye; a curious celestial event for the enthusiasts to gaze at.[pause] When the truth became clear, Apophis was already entering the atmosphere.[clear]And even then, what were the chances? Three quarters of the planet’s surface is water, not all land is inhabited, and only a fraction of it is urban areas.[pause] Yet here it was, falling on a densely-populated city filled with skyscrapers… and hours later, the skyscrapers were no more.[clear]I don’t know who had it worse – those who were burned to death within seconds, those who slowly died under the rubble, or those who were farther away.[pause] Yes, the latter could still live, but it felt like they forgot how to. They were just walking around in a daze at the border of the impact crater, looking at the new face of their home. So hard to build… so easy to shatter." />
+	<Line ID="329" Text="Where did it happen? Which city?" />
+	<Line ID="330" Text="Was somebody you know among the victims?" />
+	<Line ID="331" Text="That sounds crazy. How could the entire humanity make such a horrible mistake?" />
+	<Line ID="332" Text="I wonder why nobody’s mentioned it to me before." />
+	<Line ID="333" Text="It doesn’t have a name anymore. The details were lost in a decade of different events.[pause] In the end, the world keeps going. The sun still shines. The rain still falls. TV reporters give us updates on the evening news, but that’s all they are – news.[pause] How do you deal with deaths on the news? “Thank God it wasn’t me.” And then you carry on with your day." />
+	<Line ID="334" Text="No. In fact, for the rest of us in other corners of the globe, it barely affected life at all.[pause] In the end, the world keeps going. The sun still shines. The rain still falls. TV reporters give us updates on the evening news, but that’s all they are – news.[pause] How do you deal with deaths on the news? “Thank God it wasn’t me.” And then you carry on with your day." />
+	<Line ID="335" Text="I’m sure many were asking the same question. But not for too long.[pause] In the end, the world keeps going. The sun still shines. The rain still falls. TV reporters give us updates on the evening news, but that’s all they are – news.[pause] How do you deal with deaths on the news? “Thank God it wasn’t me.” And then you carry on with your day." />
+	<Line ID="336" Text="I’m sure they had more recent, more immediate events to worry about.[pause] In the end, the world keeps going. The sun still shines. The rain still falls. TV reporters give us updates on the evening news, but that’s all they are – news.[pause] How do you deal with deaths on the news? “Thank God it wasn’t me.” And then you carry on with your day." />
+	<Line ID="337" Text="No… that’s not right. Others care. There are folks who’d drop everything and volunteer to help. Compassion isn’t dead." />
+	<Line ID="338" Text="Surely there are still those who remember." />
+	<Line ID="339" Text="That’s the only way forward. That’s how it’s always been." />
+	<Line ID="340" Text="I’d really like to believe it as well. And I, for once, won’t forget. I refuse to forget. I’m tired of this detachment.[pause] These 10 million, they were people, every single one of them. So many goals, never achieved, so many feelings, never felt, so many hopes, lost… so many dreams… so many dreams…" />
+	<Line ID="341" Text="But I don’t want to forget! I refuse to forget. I’m tired of this detachment.[pause] These 10 million, they were people, every single one of them. So many goals, never achieved, so many feelings, never felt, so many hopes, lost… so many dreams… so many dreams…" />
+	<Line ID="342" Text="It’s not your fault. You don’t have to torture yourself." />
+	<Line ID="343" Text="Yeah… there is no easy answer to something like that." />
+	<Line ID="344" Text="It won’t bring them back, you know." />
+	<Line ID="345" Text="It’s not a torture… and maybe, just maybe, it’s a little help.[pause] Maybe we truly die only when we are forgotten. In that case, I’ll just have to keep thinking about them.[pause] That is something I can do. That is in my power." />
+	<Line ID="346" Text="No… but maybe there is a part of it that’s easy, or doable, at least.[pause] Maybe we truly die only when we are forgotten. In that case, I’ll just have to keep thinking about them.[pause] That is something I can do. That is in my power." />
+	<Line ID="347" Text="I know. But maybe – just maybe – it will keep them around for a little longer. If we truly die only when we are forgotten, then I’ll just have to keep thinking about it.[pause] That is something I can do. That is in my power." />
+	
+	<Line ID="355" Text="Oh, yeah, this one is gonna be good!" />
+	<Line ID="356" Text="How so?" />
+	<Line ID="357" Text="You don’t say." />
+	<Line ID="358" Text="I’m getting weary of your life lessons." />
+	<Line ID="359" Text="Well, let’s just say there is time to get all contemplative about life, and then there’s time to simply enjoy it. And as much as I lean towards the former, this is the latter.[pause] This, dear friend, is my university graduation party.[clear]I mean, sure, they start with a fancy-pants ceremony where old geezers give you priceless advice about goals and plans and dreams and blah-blah-blah, but that’s a snoozefest.[pause] Everyone’s waiting for the real deal that happens after – and boy, does the real deal deliver.[clear]First order of business: a lap of honor around the dorms in our rocket refrigerator." />
+	<Line ID="360" Text="Fine, be skeptical, but don’t mistake me for a guy who can’t have fun. There is time to get all contemplative about life, and then there’s time to simply enjoy it. This is the latter.[pause] This, dear friend, is my university graduation party.[clear]I mean, sure, they start with a fancy-pants ceremony where old geezers give you priceless advice about goals and plans and dreams and blah-blah-blah, but that’s a snoozefest.[pause] Everyone’s waiting for the real deal that happens after – and boy, does the real deal deliver.[clear]First order of business: a lap of honor around the dorms in our rocket refrigerator." />
+	<Line ID="361" Text="Ah, but you see, the lessons are over, and so are the classes. This is the time to stop thinking and start having fun.[pause] This, dear friend, is my university graduation party.[clear]I mean, sure, they start with a fancy-pants ceremony where old geezers give you priceless advice about goals and plans and dreams and blah-blah-blah, but that’s a snoozefest.[pause] Everyone’s waiting for the real deal that happens after – and boy, does the real deal deliver.[clear]First order of business: a lap of honor around the dorms in our rocket refrigerator." />
+	<Line ID="362" Text="Eh…" />
+	<Line ID="363" Text="Rocket refrigerator?" />
+	<Line ID="364" Text="Sounds dangerous." />
+	<Line ID="365" Text="Or a rocket bathtub, if you prefer. It’s actually a car that gives them a tow, but we attach flares at the back, so they look just like moving rockets.[pause] Gotta start using that engineering degree in real life, am I right?[clear]Part two: a pub crawl! Twelve places, twelve pints – one for each term we spent studying." />
+	<Line ID="366" Text="Don’t worry, there are hard hats for protection, and the speed is within safety limits, since it’s actually a car that gives them a tow. But we attach flares at the back, so they look just like moving rockets.[pause] Gotta start using that engineering degree in real life, am I right?[clear]Part two: a pub crawl! Twelve places, twelve pints – one for each term we spent studying." />
+	<Line ID="367" Text="That’s fun… I guess." />
+	<Line ID="368" Text="That’s a tall order." />
+	<Line ID="369" Text="Twelve pints? Were you graduating from university or from life?" />
+	<Line ID="370" Text="Yeah, it was a bit more fun than we could handle; even the toughest of us decided to stop after ten. Seemed fair, as even the nerdiest of us had a couple of terms when they were slacking off.[clear]Part three: games! And by “games,” I mean rigorous contests that test your agility, stamina, and reaction time with absolutely no regard to the amount of alcohol in your body.[pause] This leads to some interesting situations, as you might imagine. Limbo will be my favorite forever.[clear]Part four: dance club! Because at this point even the most self-conscious folks are ready to let it go and wave it like they just don’t care.[pause] Besides, there’s always a bar, offering a great selection of drinks and drinking games for those who already miss parts two and three." />
+	<Line ID="371" Text="Yeah, even the toughest of us decided to stop after ten. Seemed fair, as even the nerdiest of us had a couple of terms when they were slacking off.[clear]Part three: games! And by “games,” I mean rigorous contests that test your agility, stamina, and reaction time with absolutely no regard to the amount of alcohol in your body.[pause] This leads to some interesting situations, as you might imagine. Limbo will be my favorite forever.[clear]Part four: dance club! Because at this point even the most self-conscious folks are ready to let it go and wave it like they just don’t care.[pause] Besides, there’s always a bar, offering a great selection of drinks and drinking games for those who already miss parts two and three." />
+	<Line ID="372" Text="That is a good question. Thankfully, even the toughest of us decided to stop after ten. Seemed fair, as even the nerdiest of us had a couple of terms when they were slacking off.[clear]Part three: games! And by “games,” I mean rigorous contests that test your agility, stamina, and reaction time with absolutely no regard to the amount of alcohol in your body.[pause] This leads to some interesting situations, as you might imagine. Limbo will be my favorite forever.[clear]Part four: dance club! Because at this point even the most self-conscious folks are ready to let it go and wave it like they just don’t care.[pause] Besides, there’s always a bar, offering a great selection of drinks and drinking games for those who already miss parts two and three." />
+	<Line ID="373" Text="Sounds like one hell of a party." />
+	<Line ID="374" Text="Not really my type of entertainment." />
+	<Line ID="375" Text="So it’s mostly like a regular night out, only you try to cram in as much as possible." />
+	<Line ID="376" Text="It sure was. Then again, it wasn’t about the activities; it’s the day itself that was magical.[pause] That last, sweetest stop in the life of comfortable certainty; that elusive carefree state when only great things lie ahead. That single day when the world feels ripe for conquering, and all your problems are so far away…" />
+	<Line ID="377" Text="I can understand that. Then again, it’s not about the activities; it’s the day itself that’s magical.[pause] That last, sweetest stop in the life of comfortable certainty; that elusive carefree state when only great things lie ahead. That single day when the world feels ripe for conquering, and all your problems are so far away…" />
+	<Line ID="378" Text="It’s a little less exciting when you put it that way. But this is not about the activities, is it? It’s the day itself that’s magical.[pause] That last, sweetest stop in the life of comfortable certainty; that elusive carefree state when only great things lie ahead. That single day when the world feels ripe for conquering, and all your problems are so far away…" />
+	<Line ID="379" Text="Try not to lose that feeling." />
+	<Line ID="380" Text="And then reality comes crashing in." />
+	<Line ID="381" Text="I thought this wasn’t the time to get all contemplative." />
+	<Line ID="382" Text="Didn’t you say the lessons were over?" />
+	<Line ID="383" Text="I do my best, believe me… I do my very best.[pause] Anyway, I think there are supposed to be parts five and six, but nobody ever made it this far, and neither did we, so we took it easy instead and hit the streets, waiting for the sun to rise. Just chilling out, chatting, telling old jokes…[pause] hey, wanna hear some? What’s the difference between a recent graduate and a large pizza? A large pizza can feed a family of four." />
+	<Line ID="384" Text="And then reality comes crashing in.[pause] Anyway, I think there are supposed to be parts five and six, but nobody ever made it this far, and neither did we, so we took it easy instead and hit the streets, waiting for the sun to rise. Just chilling out, chatting, telling old jokes…[pause] hey, wanna hear some? What’s the difference between a recent graduate and a large pizza? A large pizza can feed a family of four." />
+	<Line ID="385" Text="Well, just a little bit is fine, right?[pause] Anyway, I think there are supposed to be parts five and six, but nobody ever made it this far, and neither did we, so we took it easy instead and hit the streets, waiting for the sun to rise. Just chilling out, chatting, telling old jokes…[pause] hey, wanna hear some? What’s the difference between a recent graduate and a large pizza? A large pizza can feed a family of four." />
+	<Line ID="386" Text="Oh please…" />
+	<Line ID="387" Text="I think I’ve heard a different variation of it." />
+	<Line ID="388" Text="Job market is still struggling, I take it." />
+	<Line ID="389" Text="I know this joke. It’s older than life." />
+	<Line ID="390" Text="Not to worry, I have more. Why did the student throw a watch out of the window? He wanted to see time fly.[pause] Oh, and this one is good too: why did the skeleton miss the dance party? He didn’t have anybody to take!" />
+	<Line ID="391" Text="Gotta respect the classics! Here’s another one: why did the student throw a watch out of the window? He wanted to see time fly.[pause] Oh, and this one is good too: why did the skeleton miss the dance party? He didn’t have anybody to take!" />
+	<Line ID="392" Text="Eh, it depends. Mostly it’s just a stupid joke. Here’s another one for you: why did the student throw a watch out of the window? He wanted to see time fly.[pause] Oh, and this one is good too: why did the skeleton miss the dance party? He didn’t have anybody to take!" />
+	<Line ID="393" Text="This is silly." />
+	<Line ID="394" Text="It’s nice to unwind like this every once in a while." />
+	<Line ID="395" Text="I can see how it starts to sound funny after ten pints." />
+	<Line ID="396" Text="Look, I’m not really into this whole “emotional rollercoaster” thing. I’m still thinking about your parents’ deaths." />
+	<Line ID="397" Text="Look, I’m not really into this whole “emotional rollercoaster” thing. I’m still thinking about your asteroid tragedy." />
+	<Line ID="398" Text="That’s the idea. I have to admit, though, that last joke irked me a bit back at the time.[pause] I mean, the guy who told it clearly didn’t have such problems – he was preparing to marry the hottest sweetheart on campus, and the two of them were killing it on the dance floor throughout the night.[pause] But an unpopular single guy like me, with no girlfriend in sight? For a moment, I really felt it for the poor skeleton." />
+	<Line ID="399" Text="My thoughts exactly. I have to admit, though, that last joke irked me a bit back at the time.[pause] I mean, the guy who told it clearly didn’t have such problems – he was preparing to marry the hottest sweetheart on campus, and the two of them were killing it on the dance floor throughout the night.[pause] But an unpopular single guy like me, with no girlfriend in sight? For a moment, I really felt it for the poor skeleton." />
+	<Line ID="400" Text="After ten pints, my friend, it sounds hilarious! I have to admit, though, that last joke irked me a bit back at the time.[pause] I mean, the guy who told it clearly didn’t have such problems – he was preparing to marry the hottest sweetheart on campus, and the two of them were killing it on the dance floor throughout the night.[pause] But an unpopular single guy like me, with no girlfriend in sight? For a moment, I really felt it for the poor skeleton." />
+	<Line ID="401" Text="Come on, rollercoasters are fun! I have to admit, though, that last joke irked me a bit back at the time.[pause] I mean, the guy who told it clearly didn’t have such problems – he was preparing to marry the hottest sweetheart on campus, and the two of them were killing it on the dance floor throughout the night.[pause] But an unpopular single guy like me, with no girlfriend in sight? For a moment, I really felt it for the poor skeleton." />
+	<Line ID="402" Text="Wait a second… single?" />
+	<Line ID="403" Text="Well, yeah, I wasn’t married at the time. Did you assume I was?" />
+	<Line ID="404" Text="At the time? You mean this part happens before the one with your wife?" />
+	<Line ID="405" Text="Assume? Dude, you spent most of our time today telling me all about your important and dramatic family life." />
+	<Line ID="406" Text="Well, sure. I mean, that must be the case, because… eh…" />
+	<Line ID="407" Text="Well, sure, but this party happens before all that. I mean, that must be the case, because… eh…" />
+	<Line ID="408" Text="So you don’t really know." />
+	<Line ID="409" Text="How could it happen before if you and your wife met when you were students?" />
+	<Line ID="410" Text="Of course I know! Every frame we looked at, I told you everything, and this is the last one. I remembered all there was to remember, right? Right?" />
+	<Line ID="411" Text="When we were students? Did I really say that?" />
+	<Line ID="412" Text="So you don’t even remember now." />
+	<Line ID="413" Text="Yes, you did. You also said you waited with your honeymoon until after graduation. That means you were already married at this point." />
+	<Line ID="414" Text="Of course I do! Every frame we looked at, I told you everything, and this is the last one. I remembered all there was to remember, right? Right?" />
+	<Line ID="415" Text="You know, I’m not so sure about it anymore." />
+	<Line ID="416" Text="Don’t ask me. This is your life." />
+	<Line ID="417" Text="Eh… um… wait, I know! This must be a different university altogether. This is where I got my bachelor’s degree. I met my wife while I was getting my master’s. See, problem solved." />
+	<Line ID="418" Text="Wait, I know! This must be a different university altogether. This is where I got my bachelor’s degree. I met my wife while I was getting my master’s. See, problem solved." />
+	<Line ID="419" Text="Yeah, I wonder…" />
+	<Line ID="420" Text="Fine, I won’t push you. Let’s just keep looking around." />
+	<Line ID="421" Text="No, hold on. This is not the first time your tale feels weird." />
+	<Line ID="422" Text="There is nothing to worry about, I promise!" />
+	<Line ID="423" Text="Good idea. We shouldn’t worry about little details so much." />
+	<Line ID="424" Text="Weird? Come on, there is nothing weird here, it’s simply…" />
+	<Line ID="425" Text="Oh, there’s plenty of weird, and to be frank, it’s been bothering me from the very beginning. One of your childhood memories is about absolute poverty, and the other one is about a beach resort? You tell me your kids are adopted, but your own mother doesn’t remember that? And then you top it off with a massive and highly improbable tragedy I’ve never heard about? You manage to explain it if I ask, but just barely." />
+	<Line ID="426" Text="Well, life can be hard to believe sometimes. What do you want from me?" />
+	<Line ID="427" Text="I want clarity. Your stories look disjoint, and you’re clearly struggling to tie them together. You’re not struggling with the stories themselves; just the connections. Something is not right here. Are these really your memories?" />
+	<Line ID="428" Text="Of course! I think so. I… don’t know…" />
+	
+	<Line ID="440" Text="" />
+	<Line ID="441" Text="What’s this, a bonus memory?" />
+	<Line ID="442" Text="Well, this is a bit different." />
+	<Line ID="443" Text="I have a bad feeling about this." />
+	<Line ID="444" Text="No idea. I don’t think it should be here. Let’s ignore it." />
+	<Line ID="445" Text="I don’t like it. Let’s ignore it." />
+	<Line ID="446" Text="Me too. Let’s not watch it." />
+	<Line ID="447" Text="Sorry, buddy, it’s too late to turn back now." />
+	<Line ID="448" Text="Don’t you want to remember the whole story?" />
+	<Line ID="449" Text="All the more reason to watch, then." />
+	<Line ID="450" Text="All the more reason to do so, then." />
+	<Line ID="451" Text="But…" />
+	<Line ID="452" Text="There’s even a sound this time, hear? These people are having a conversation." />
+	
+	<Line ID="455" Text="Oh my God… I remember now… I remember everything." />
+	<Line ID="456" Text="Harvey…?" />
+	<Line ID="457" Text="Wait, what?" />
+	<Line ID="458" Text="Eh… I guess this explains the contradictions." />
+	<Line ID="459" Text="But I don’t want to… why? Why did I have to remember?" />
+	<Line ID="460" Text="Look, I…" />
+	<Line ID="461" Text="No, no, no, no, no!" />
+	
+	<Line ID="470" Text="Go away." />
+	<Line ID="471" Text="I want to help." />
+	<Line ID="472" Text="Not unless you tell me what the hell is this all about." />
+	<Line ID="473" Text="I would if I could, trust me. But I’m stuck here just as you are." />
+	<Line ID="474" Text="I don’t want to hear it. You people will say anything to get your way.[pause] I’m just a part of your to-do list, am I not? A small item to cross so you can improve your public image and feel good about it." />
+	<Line ID="475" Text="Tell you? Why should I tell anything to you? You people disgust me.[pause] I’m just a part of your to-do list, am I not? A small item to cross so you can improve your public image and feel good about it." />
+	<Line ID="476" Text="I’m not who you think I am." />
+	<Line ID="477" Text="Well, who else can you be? You’re the “specialist.” The man who’s here to “fix” me, whether I want it or not." />
+	<Line ID="478" Text="No, I’m here to guide you. The decision will be yours." />
+	<Line ID="479" Text="I didn’t even know what’s wrong with you until a minute ago." />
+	<Line ID="480" Text="Maybe, but that doesn’t make us enemies. I’m on the company’s to-do list as well." />
+	<Line ID="481" Text="Lies." />
+	<Line ID="482" Text="I’m not lying. I’m not even part of LIFE+. We will get to the bottom of this, and then I’ll leave, promise." />
+	<Line ID="483" Text="Lies." />
+	<Line ID="484" Text="No, seriously. LIFE+ has kept me in the dark. I know less than you do." />
+	<Line ID="485" Text="Yeah, right." />
+	<Line ID="486" Text="I’m serious. If you want to blame someone, blame LIFE+. I’m just forced to play along." />
+	<Line ID="487" Text="I don’t believe you. I won’t believe a word you say." />
+	<Line ID="488" Text="Look… I know we can’t see each other, but don’t you hear my voice? Don’t you notice any genuine emotions in it? Why would I put such an elaborate act? Is it not possible that I’m simply trying to help you?" />
+	<Line ID="489" Text="If they want me to deceive you, why include the last conversation? Why help you remember in the first place? Just think about it rationally." />
+	<Line ID="490" Text="Then we’re stuck together, because they sure won’t do anything until I solve your problem. Is that what you want?" />
+	<Line ID="491" Text="Genuine emotions? Don’t make me laugh. You’re not even really here, are you? You’re just staring at a screen. You can’t take a dive; can’t exist in virtual reality like I do." />
+	<Line ID="492" Text="Rationally? I don’t want to talk rationally with you. You’re not even really here, are you? You’re just staring at a screen. You can’t take a dive; can’t exist in virtual reality like I do." />
+	<Line ID="493" Text="Stuck? Don’t make me laugh. You’re not even really here, are you? You’re just staring at a screen. You can’t take a dive; can’t exist in virtual reality like I do." />
+	<Line ID="494" Text="Actually, I think I can. I didn’t realize that we are inside a simulation. I don’t remember putting on a headset or anything. All I remember is going to bed the night before." />
+	<Line ID="495" Text="But I can, that’s the point. That’s why they sent me, I guess." />
+	<Line ID="496" Text="Are you… saying that you are like me? You use VR so much, your mind can’t tell the difference?" />
+	<Line ID="497" Text="No, the opposite. Save for a simple conversation yesterday, I’ve never tried VR in my life." />
+	<Line ID="498" Text="That… might make you susceptible. We’re both extremes, albeit from different ends of the spectrum. But this changes nothing. I made my choice, and it’s not up for debate. Please leave." />
+	
+	<Line ID="505" Text="Please go away. I want to be left alone with my memories." />
+	<Line ID="506" Text="I’m just trying to understand." />
+	<Line ID="507" Text="I think it’s already clear they are not your memories." />
+	<Line ID="508" Text="I don’t recommend it. I’ve been trying to understand today too, and look where it got me." />
+	<Line ID="509" Text="So none of this has happened to you in real life?" />
+	<Line ID="510" Text="No… nothing happens to me in real life." />
+	<Line ID="511" Text="Your childhood in the slums, your crazy honeymoon… none of this is real?" />
+	<Line ID="512" Text="Your childhood in the slums, your crazy honeymoon, your moments with parents… none of this is real?" />
+	<Line ID="513" Text="Your childhood in the slums, your crazy honeymoon, your moments with kids… none of this is real?" />
+	<Line ID="514" Text="Your childhood in the slums, your crazy honeymoon, your moments with parents and kids… none of this is real?" />
+	<Line ID="515" Text="You’re wrong. I lived through them, experienced them. I made them mine." />
+	<Line ID="516" Text="But none of this has happened to you in real life." />
+	<Line ID="517" Text="No… nothing happens to me in real life." />
+	<Line ID="518" Text="Your childhood in the slums, your crazy honeymoon… are fiction. They’re not real." />
+	<Line ID="519" Text="Your childhood in the slums, your crazy honeymoon, your moments with parents… are fiction. They’re not real." />
+	<Line ID="520" Text="Your childhood in the slums, your crazy honeymoon, your moments with kids… are fiction. They’re not real." />
+	<Line ID="521" Text="Your childhood in the slums, your crazy honeymoon, your moments with parents and kids… are fiction. They’re not real." />
+	<Line ID="522" Text="The street is real. The street is all there is. I walk down the street every morning; it takes 17 minutes to cover the distance." />
+	<Line ID="523" Text="Yes, you mentioned that before." />
+	<Line ID="524" Text="After 17 minutes I reach the office, but the office is no better. Same faces. Same conversations. Same tasks, same desks, same screens. Same blasted things over and over again for so long.[pause] I couldn’t take it anymore… I had to escape." />
+	<Line ID="525" Text="That’s a pretty extreme form of escaping. Couldn’t you do it in moderation?" />
+	<Line ID="526" Text="I know real life can be a chore, but is this place really worth it?" />
+	<Line ID="527" Text="But why these memories? Some of them are just sad." />
+	<Line ID="528" Text="Are you sure that remembering the same scenes over and over again is better?" />
+	<Line ID="529" Text="But this is not healthy. You can’t run away from your problems into imaginary lands." />
+	<Line ID="530" Text="And so you did escape. Completely." />
+	<Line ID="531" Text="No… even a few waking hours were too much of a reminder. I wanted to dissolve in virtuality. And once I did, there was no regret." />
+	<Line ID="532" Text="We watched the memories together, and you still have to ask? Didn’t they make you feel anything? Didn’t you see how beautiful, how emotional, how fulfilling they are?" />
+	<Line ID="533" Text="Definitely, but…" />
+	<Line ID="534" Text="I felt they were all over the place, really." />
+	<Line ID="535" Text="Not particularly, no." />
+	<Line ID="536" Text="That’s what people always say… they’re afraid of the “but” part. Only I stepped over this fear. I went further, took the plunge, and never looked back." />
+	<Line ID="537" Text="You still felt something. Me, I stopped feeling anything in real life. The brain adapts, you know… if you keep feeding it same things for 1000 times, it will stop reacting." />
+	<Line ID="538" Text="Then you’re blind to their beauty. But I tasted it… embraced it. There’s no going back for me." />
+	<Line ID="539" Text="I don’t mind sad. I like tragic, heartbreaking stories; they remind me of impermanence and urge to value little things while I still can.[pause] What I can’t stand is emptiness. I will not return to emptiness." />
+	<Line ID="540" Text="But that’s the point: it’s just a small sample. Do you realize how many more wonderful memories I’ve made? How bigger and wider they are than anything real life can offer?[pause] I’ve seen things you people wouldn’t believe. Hundreds of worlds. Thousands of journeys. I wish others could see it like I do… I wish humanity could appreciate this wonder they’ve created." />
+	<Line ID="541" Text="And why the heck not? Isn’t that what everybody’s doing? What everybody’s been encouraged to do? Your corporate-funded entertainment is screaming at my face.[pause] Epic journeys! Awesome quests! Breathtaking action! Go on, have a seat. Unwind, relax, forget about it all. Purchase this special pass for 24-hour access.[pause] And when I do, you tell me to stop? A bunch of hypocrites, that’s who you are." />
+	<Line ID="542" Text="1440 minutes in a day. 120 minutes to use VR. Only 120 minutes are meaningful. I changed it. I made it 1440. What’s wrong with that?" />
+	<Line ID="543" Text="I wish nothing would be wrong. But we both heard the last recording. We know about your situation." />
+	<Line ID="544" Text="You know what. Your mind can’t take it anymore." />
+	<Line ID="545" Text="Schizophrenia, coma, death, to name a few." />
+	<Line ID="546" Text="That’s what LIFE+ says. LIFE+ are liars. Maybe not you, but others. We can’t trust what they say." />
+	<Line ID="547" Text="Says LIFE+. LIFE+ are liars. Maybe not you, but others. We can’t trust what they say." />
+	<Line ID="548" Text="We can’t disregard it either." />
+	<Line ID="549" Text="It’s better than to trust your wishful thinking." />
+	<Line ID="550" Text="They could’ve made everything up, for all I know. There is no problem here, don’t you understand?" />
+	<Line ID="551" Text="How can there be no problem? Can’t you recognize your own symptoms? Just remember how lost and confused you were before." />
+	<Line ID="552" Text="I think you know that’s not the case. You just refuse to acknowledge it." />
+	<Line ID="553" Text="Are you sure? Because you seem to be in denial." />
+	<Line ID="554" Text="I feel much better now. I’ll be alright." />
+	<Line ID="555" Text="Look… even if it’s true, what other choice do I have?" />
+	<Line ID="556" Text="To search for balance, of course. You can probably have your 120 minutes back… just give real life another chance." />
+	<Line ID="557" Text="None. You either enjoy your last couple of months or drop VR for good. You never wanted to compromise anyway." />
+	<Line ID="558" Text="If you believe LIFE+, you know that’s not true. I may have an exit now, but if I return here – even months down the road – my brain will relapse, and there will be no leaving, emotionally or physically.[pause] And between the two alternatives… I thought it over, and I made my decision. Please accept it. Please let me be." />
+	<Line ID="559" Text="If you believe LIFE+, you know that’s not true… and if you want me to trust my symptoms, that’s not true either. I may have an exit now, but if I return here – even months down the road – my brain will relapse, and there will be no leaving, emotionally or physically.[pause] And between the two alternatives… I thought it over, and I made my decision. Please accept it. Please let me be." />
+	<Line ID="560" Text="Exactly. There will be no golden ending here. And between the two alternatives… I thought it over, and I made my decision. Please accept it. Please let me be." />
+	
+	<Line ID="565" Text="Have you considered my points? Will you leave now?" />
+	<Line ID="566" Text="No. Sorry, but I won’t." />
+	<Line ID="567" Text="Yes. I don’t think I have the right to convince you anymore." />
+	<Line ID="568" Text="I will think some more." />
+	<Line ID="569" Text="Yes… please do." />
+	<Line ID="570" Text="…really?" />
+	<Line ID="571" Text="Really. LIFE+ trust me completely. They’re okay with anything I decide as long as I believe in it. So I’m going to exercise this right. I will let you stay." />
+	<Line ID="572" Text="I mean, they probably want me to drag you back into real life using my incredible persuasion powers or whatever… but I won’t do it. There’s been enough meddling already." />
+	<Line ID="573" Text="I didn’t really dare to hope for it… I thought you will force me back into real life. Guess my hate for LIFE+ was misplaced after all." />
+	<Line ID="574" Text="They’re not bad people. They may appear overbearing, but they’re trying to listen as well as they can." />
+	<Line ID="575" Text="Don’t worry about LIFE+. I don’t think they will bother you anymore." />
+	<Line ID="576" Text="Nothing to do with LIFE+. But I make my own choices, and I respect people who do the same." />
+	<Line ID="577" Text="Thank you… I don’t have much time left, as you understand… but I will cherish it, I promise." />
+	<Line ID="578" Text="Time is not everything. None of us know the exact remaining time anyway. Just live your life the way you want." />
+	<Line ID="579" Text="Yeah, you do that." />
+	<Line ID="580" Text="I’m grateful… goodbye." />
+	<Line ID="581" Text="Farewell, my friend. Have a blast." />
+	<Line ID="582" Text="Goodbye." />
+	
+	<Line ID="585" Text="Do you not respect my choice?" />
+	<Line ID="586" Text="I do. But I respect your life even more. And I won’t let you kill yourself." />
+	<Line ID="587" Text="No, and I don’t respect you." />
+	<Line ID="588" Text="What?" />
+	<Line ID="589" Text="I don’t think anyone respects you. You think your real life is meaningless? Well, I’m sure you are 100% right." />
+	<Line ID="590" Text="…what kind of convincing is that?" />
+	<Line ID="591" Text="You see, stuff like respect and meaning have to be earned. It’s not lying on the street, even if you walk on it every day for 17 minutes. You have to work hard, figure stuff out, solve your problems. But you can’t solve problems, can you? All you do is run away." />
+	<Line ID="592" Text="I solve the problems that I want, and I walk away from the rest. I make my own choices." />
+	<Line ID="593" Text="No, you don’t. Your fear is the one making the choices. You are nothing but a coward." />
+	<Line ID="594" Text="Do you think being rude will help to prove your case?" />
+	<Line ID="595" Text="I’m just giving you a wake-up call. Get your shit together, man. Toughen up before your brain turns into jelly for good." />
+	<Line ID="596" Text="You should be grateful we even bother with this conversation, boy. Others would have yanked that stupid thing off your head and committed you to a mental institution." />
+	<Line ID="597" Text="Yeah… LIFE+ must have lost it completely." />
+	<Line ID="598" Text="Forget about LIFE+. You’re talking to me now." />
+	<Line ID="599" Text="No, the best one at loosing here is you." />
+	<Line ID="600" Text="You’re just proving my point. I mean, this is not my main reason to stay away from reality, but it’s definitely in the top ten.[pause] This ignorance… you’re not even listening to me, are you? You don’t bother to understand, just judge.[pause] Go on then, do your worst. Unplug me, drug me, lobotomize me. Just don’t expect me to waste any more words." />
+	<Line ID="601" Text="You’re pathetic… but that is not surprising. At least I can leave now." />
+	<Line ID="602" Text="Yes, I will offer LIFE+ to do exactly that. Goodbye." />
+	
+	<Line ID="605" Text="I’m not killing myself… I’m refusing to sacrifice everything in order to save myself. It’s just a side effect of my choice." />
+	<Line ID="606" Text="Then there’s no choice to be made at all – only a realization to have." />
+	<Line ID="607" Text="What realization?" />
+	<Line ID="608" Text="That you have a responsibility to live." />
+	<Line ID="609" Text="Responsibility to whom?" />
+	<Line ID="610" Text="To your real family and relatives. To your friends, colleagues, neighbors. To passersby and strangers. To the bald guy who uses the same zebra crossing every morning. To everyone you have or will affect. To the world." />
+	<Line ID="611" Text="That’s nonsense. Nobody needs me." />
+	<Line ID="612" Text="That’s not nonsense, that’s life. It’s not easy, and it’s not clear, but it’s meaningful. Boy, there is more meaning than we can handle. There are processes we are yet to begin to understand. Processes you can still be part of." />
+	<Line ID="613" Text="There are no processes… just same stupid things." />
+	<Line ID="614" Text="They’re never the same. They might appear the same, but if you look close enough, they’re not. That’s the power of our minds: to see the real complexity." />
+	<Line ID="615" Text="I… I don’t want to look close enough. I’m fine with the complexity I have here." />
+	<Line ID="616" Text="But your time here is so short. Don’t you want to see a longer story? Don’t you want to explore more?" />
+	<Line ID="617" Text="Then you will die soon and lose your chance to experience it all forever." />
+	<Line ID="618" Text="No, please stop… I can’t…[pause] I don’t want to die! But I can’t go back either…" />
+	<Line ID="619" Text="No, that’s not… I can’t…[pause] I don’t want to die! But I can’t go back either…" />
+	<Line ID="620" Text="Yes, you can." />
+	<Line ID="621" Text="It’s scary… I forgot how to walk…[pause] I forgot how to live!" />
+	<Line ID="622" Text="You’ll figure it out. The brain adapts, remember?" />
+	<Line ID="623" Text="I don’t want to take the same street again!" />
+	<Line ID="624" Text="Then don’t just take it – play it. Observe it, imagine it, wonder about it. Your fictional memories are not weakness, they’re strength. So go out and use that strength in real world. Take all this meaning and color your life with it." />
+	<Line ID="625" Text="Then walk a different road. Or take a bus. Or ride a bike. Your life can be as fresh and exciting as you want. That is something you can do. That is in your power." />
+	<Line ID="626" Text="I…[pause] God…[pause] plug me out, now.[pause] Whatever you need to give me – medicine, drugs, brain surgery – just do it. Quickly, before I change my mind." />
+	
+	<Line ID="630" Text="" />
+	<Line ID="631" Text="Harvey?" />
+	<Line ID="632" Text="(There is no answer.)" />
+	<Line ID="633" Text="I guess they responded to his request. I should probably signal for extraction too." />
+	<Line ID="634" Text="" />
+	<Line ID="635" Text="All right, Jackie, take me out of here." />
+	<Line ID="636" Text="Beam me up, Scotty!" />
+	<Line ID="637" Text="(Remain here for a little longer)" />
+  </List>
+</Text>

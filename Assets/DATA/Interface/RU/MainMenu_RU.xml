@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Root Path="Interface/Menu">
+		<Phrase Type="0" Path="Main/GameTitle" Text="предполагаемо ЗАМЕЧАТЕЛЬНОЕ БУДУЩЕЕ" Scale="0.9" />
+		<Phrase Type="0" Path="Main/Options/Continue" Text="Продолжить" Scale="0.95" />
+		<Phrase Type="0" Path="Main/Options/New" Text="Новая игра" Scale="0.95" />
+		<Phrase Type="0" Path="Main/Options/Load" Text="Загрузить игру" Scale="0.95" />
+		<Phrase Type="0" Path="Main/Options/HowTo" Text="Как играть" Scale="0.95" />
+		<Phrase Type="0" Path="Main/Options/Options" Text="Настройки" Scale="0.95" />
+		<Phrase Type="0" Path="Main/Options/Cred" Text="Титры" Scale="0.95" />
+		<Phrase Type="0" Path="Main/Options/Exit" Text="Выход" Scale="0.95" />
+		<Phrase Type="0" Path="Main/ExitConfirm/Text" Text="Закрыть приложение?" />
+		<Phrase Type="0" Path="Main/ExitConfirm/Yes" Text="Да" />
+		<Phrase Type="0" Path="Main/ExitConfirm/No" Text="Нет" />
+	</Root>
+	<Root Path="Logos">
+		<Phrase Type="0" Path="LifePlus/Slogan" Text="открой новые пути" />
+	</Root>
+	<Root Path="HowToPlay">
+		<Phrase Type="0" Path="Panel/Next" Text="Далее" />
+		<Phrase Type="0" Path="Panel/Close" Text="Закрыть" />
+		<Phrase Type="2" Path="Panel/1/ImgArrow" Shift="28" />
+		<Phrase Type="0" Path="Panel/1/Text1" Text="Предполагаемо замечательное будущее - тексто-ориентированная игра. Увидев символ     , нажмите &lt;b>левую кнопку мыши&lt;/b&gt;, &lt;b&gt;Пробел&lt;/b&gt; или &lt;b&gt;Enter&lt;/b&gt; для продолжения." />
+		<Phrase Type="0" Path="Panel/1/Text21" Text="Вы сможете управлять репликами главного героя. Увидев &lt;i&gt;пронумерованный список&lt;/i&gt; фраз, &lt;b&gt;кликните&lt;/b&gt; по одной из них для выбора соответствующего варианта." />
+		<Phrase Type="0" Path="Panel/1/Text22" Text="Если все фразы не умещаются на экране, кликайте по &lt;i&gt;стрелкам&lt;/i&gt; или используйте &lt;b&gt;колесо мыши&lt;/b&gt;, чтобы промотать их. Кроме того, нажмите" />
+		<Phrase Type="0" Path="Panel/1/Text23" Text="&lt;b&gt;Вверх / вниз&lt;/b&gt; или &lt;b&gt;W / D&lt;/b&gt;&#09;&#09;для подсветки след./пред. реплики,&#xA;&lt;b&gt;Space&lt;/b&gt; или &lt;b&gt;Enter&lt;/b&gt;&#09;&#09;&#09;&#09;&#09;для выбора подсвеченной реплики,&#xA;&lt;b&gt;1-9&lt;/b&gt;&#09;&#09;&#09;&#09;&#09;&#09;&#09;&#09;&#09;&#09;для немедленного выбора реплики с соотв. номером." />
+		<Phrase Type="0" Path="Panel/2/Text31" Text="Используйте мышь для взаимодействия с объектами вне диалогов. Кликабельные объекты подсвечиваются &lt;color=#58B8FF&gt;синим&lt;/color&gt; при наведении и обновляются по мере развития действий. Кроме того, зажмите" />
+		<Phrase Type="0" Path="Panel/2/Text32" Text="&lt;b&gt;H&lt;/b&gt;&#09;&#09;&#09;чтобы подсветить все интерактивные объекты сразу,&#xA;&lt;b&gt;N&lt;/b&gt;&#09;&#09;&#09;чтобы подсветить &lt;color=#FF5F59&gt;красным&lt;/color&gt; нужный для продвижения по сюжету объект." />
+		<Phrase Type="2" Path="Panel/2/Img21" Shift="40" />
+		<Phrase Type="2" Path="Panel/2/Img22" Shift="-12" />
+		<Phrase Type="2" Path="Panel/2/Img23" Shift="5" />
+		<Phrase Type="0" Path="Panel/2/Text41" Text="Если в углу экрана есть кнопка&#09;&#09;&#09;, &lt;b&gt;кликните&lt;/b&gt; по ней или нажмите &lt;b&gt;Esc&lt;/b&gt;, чтобы поставить игру на паузу и открыть меню. Для быстрого сохранения и загрузки вне паузы используйте кнопки &lt;b&gt;F5&lt;/b&gt; и &lt;b&gt;F8&lt;/b&gt; соответственно." />
+		<Phrase Type="0" Path="Panel/2/Text42" Text="Если &#09;&#09;изменилась на&#09;&#09;&#09;(режим приближения), используйте &lt;b&gt;правый клик&lt;/b&gt; или &lt;b&gt;Esc&lt;/b&gt;, чтобы отодвинуть камеру и снова сделать меню доступным." />
+	</Root>
+	<Root Path="Credits">
+		<Phrase Type="0" Path="Area/Author1" Text="Разработка" />
+		<Phrase Type="0" Path="Area/Author2" Text="ДМИТРИЙ ЗАГУМЕННОВ" />
+		<Phrase Type="0" Path="Area/mHeader" Text="МУЗЫКА" />
+		<Phrase Type="0" Path="Area/mHeader/mLicense" Text="лицензия CC BY (Creative Commons с указанием авторства)" />
+		<Phrase Type="0" Path="Area/vidHeader" Text="ВИДЕО" />
+		<Phrase Type="0" Path="Area/vidHeader/vid1src" Text="youtube.com и vimeo.com (лицензия CC BY)" />
+		<Phrase Type="0" Path="Area/vidHeader/vid2src" Text="pixabay.com (лицензия CC0)" />
+		<Phrase Type="0" Path="Area/imgHeader" Text="ИЗОБРАЖЕНИЯ" />
+		<Phrase Type="0" Path="Area/imgHeader/img1src" Text="pixabay.com (CC0)" />
+		<Phrase Type="0" Path="Area/imgHeader/img2src" Text="unsplash.com (CC0)" />
+		<Phrase Type="0" Path="Area/imgHeader/img3src" Text="flickr.com (CC BY/BY-SA/BY-ND)" />
+		<Phrase Type="0" Path="Area/imgHeader/img4R" Text="Jay Mantri&#xA;Leeroy&#xA;admin&#xA;FreeVector.com" />
+		<Phrase Type="0" Path="Area/modHeader" Text="МОДЕЛИ" />
+		<Phrase Type="0" Path="Area/modHeader/mod1src" Text="assetstore.unity3d.com" />
+		<Phrase Type="0" Path="Area/modHeader/mod2src" Text="turbosquid.com" />
+		<Phrase Type="0" Path="Area/texHeader" Text="ТЕКСТУРЫ" />
+		<Phrase Type="0" Path="Area/texHeader/tex" Text="textures.com (бывший cgtextures)&#xA;plaintextures.com&#xA;render911.ru&#xA;subtlepatterns.com" />
+		<Phrase Type="0" Path="Area/sfxHeader" Text="ЗВУКИ" />
+		<Phrase Type="0" Path="Area/sfxHeader/sfxSource" Text="freesound.com (CC0 / CC BY)" />
+		<Phrase Type="0" Path="Area/fntHeader" Text="ШРИФТЫ" />
+		<Phrase Type="0" Path="Area/fntHeader/fntL" Text="Clear Sans&#xA;Source Sans Pro&#xA;Exo&#xA;Exo 2&#xA;&#xA;Gunny Rewritten&#xA;Wolgast Two&#xA;Freebooter Script" />
+		<Phrase Type="0" Path="Area/fntHeader/fntR" Text="Daniel Ratighan (Intel)&#xA;Paul D. Hunt (Adobe)&#xA;Natanael Gama&#xA;Natanael Gama&#xA;&#xA;Vit Condak&#xA;Peter Wiegel&#xA;Apostrophic Labs" />
+		<Phrase Type="0" Path="Area/AttributionNotice" Text="Полный список со ссылками доступен по адресу&#xA;&lt;i&gt;supposedlywonderfulfuture.com/credits&lt;/i&gt;" />
+	</Root>
+</Text>

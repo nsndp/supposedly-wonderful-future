@@ -1,0 +1,13 @@
+Office2016		1, 1, 0.04, 0.12
+OfficeCEO		1, 1, 0, 0.12
+DlH LivingR		1, 1, 0.09, 0.22
+DlH Entryway	1, 1.1, 0.1, 0.25
+DlH Kitchen		1, 1.1, 0.12, 0.25
+DlH Bedroom		1, 1, 0.08, 0.2
+DlH BedroomLit	1, 1, 0.08, 0.25
+CbIU LivingR	1, 1, 0, 0.08
+CbIU Bedroom	1, 1, 0, 0.1
+L+HQ Room		1, 1, 0, 0.1
+L+HQ LobbyDay	1, 1.05, 0, 0.1
+L+HQ LobbyNight	1, 1, 0, 0.12
+Memories		1, 1.1, 0, 0.1

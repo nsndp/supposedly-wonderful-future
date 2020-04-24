@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="(And here’s the front door – at least you think it is, considering that it looks bigger and more sturdy than other doors around the apartment.[pause] It has some kind of electronic lock with a shiny red circle on it, which might be an indication that the door is locked. Still, leaving this place sounds like a sensible course of action, so it shouldn’t really stop you from trying.)" />
+  	<Line ID="1" Text="(Step away)" />
+  	<Line ID="2" Text="(Try to open the door)" />
+  	<Line ID="3" Text="(Examine the lock more closely)" />
+  	<Line ID="4" Text="(Knock)" />
+  	<Line ID="5" Text="(Try to force the door open)" />
+  	<Line ID="6" Text="(Step away)" />
+  	<Line ID="7" Text="(No, it’s really locked. You give the handle a good push, then a good pull, but whichever way it opens, right now it’s firmly secured in place.)" />
+  	<Line ID="8" Text="(The lock appears to be little more than a plain surface that probably acts as a sensor for a keycard or some other electronic key, but you see nothing of the sort lying around.[pause] You place your thumb on the surface, just in case it works with fingerprints, but the lock doesn’t grace you with any kind of reaction.)" />
+  	<Line ID="9" Text="(Despite that knocking usually happens the other way around, you try your best to produce an audible sound, yet no reaction follows.)" />
+  	<Line ID="10" Text="(You push will all your might, but the thing looks sturdy enough to stump a professional door kicker, let alone an inexperienced door kicker like yourself.)" />
+	<Line ID="11" Text="(The front door is locked. Why would anyone even have a door that can’t be opened from the inside without a key?)" />
+	<Line ID="12" Text="(Step away)" />
+	<Line ID="13" Text="(The front door is locked.)" />
+	<Line ID="14" Text="(Step away)" />
+	<Line ID="15" Text="(The front door is locked. You try one more time, then sweep the surroundings with another careful look in case you’ve missed something, because the woman was so sure it’s open. Still nothing.)" />
+	<Line ID="16" Text="(Step away)" />
+	<Line ID="17" Text="(The front door is locked. That woman is definitely not up-to-date with things.)" />
+	<Line ID="18" Text="(Step away)" />
+	<Line ID="19" Text="(The front door is closed, and you’re completely out of ideas how to open it.)" />
+	<Line ID="20" Text="(Step away)" />
+	<Line ID="21" Text="(The front door is open. You are free to leave this place.)" />
+	<Line ID="22" Text="(Step out)" />
+	<Line ID="23" Text="(Stay here for a little longer)" />
+  </List>
+</Text>

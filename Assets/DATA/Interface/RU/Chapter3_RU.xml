@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Root Path="VR">
+		<Phrase Type="0" Path="Startup/1" Text="ВР-оборудование подключено к сети." />
+		<Phrase Type="0" Path="Startup/2" Text="Стартовый набор инструкций загружен." />
+		<Phrase Type="0" Path="Startup/3" Text="Выполнение команды: звонок пользователю ИД 20341987." />
+		<Phrase Type="0" Path="Startup/4" Text="Устанавливается соединение." />
+		<Phrase Type="0" Path="Startup/5" Text="Примечание: ваш собеседник не предоставил визуальный сигнал. Для улучшения&#xA;ощущений от виртуального пространства и создания уместного для продуктивной&#xA;дискуссии эмоционального состояния будет отображаться набор эстетически&#xA;приятных абстрактных изображений." />
+	</Root>
+</Text>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Root Path="Data">
+		<Phrase Type="1" Path="DataControlChapter2.pageText.0" Text="Страница" />
+		<Phrase Type="1" Path="DataControlChapter2.pageText.1" Text="из" />
+	</Root>
+</Text>

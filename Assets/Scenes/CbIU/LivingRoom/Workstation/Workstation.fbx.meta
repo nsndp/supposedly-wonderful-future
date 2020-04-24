@@ -1,0 +1,85 @@
+fileFormatVersion: 2
+guid: 4daa9ca842512ce4797f3f17131acf48
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Keyboard
+    100002: Projector
+    100004: Screens
+    100006: Trace
+    100008: //RootNode
+    400000: Keyboard
+    400002: Projector
+    400004: Screens
+    400006: Trace
+    400008: //RootNode
+    2300000: Keyboard
+    2300002: Projector
+    2300004: Screens
+    2300006: Trace
+    3300000: Keyboard
+    3300002: Projector
+    3300004: Screens
+    3300006: Trace
+    4300000: Trace
+    4300002: Screens
+    4300004: Projector
+    4300006: Keyboard
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Screens
+    13700002: Trace
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

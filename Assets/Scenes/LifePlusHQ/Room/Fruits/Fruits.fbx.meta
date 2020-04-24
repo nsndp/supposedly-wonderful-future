@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: a4e7cf6b9b945a345b141a499adf9873
+timeCreated: 1498835696
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Banana
+    100002: //RootNode
+    100004: Apple
+    100006: Cherry
+    100008: Orange
+    100010: Apple_001
+    100012: Banana_001
+    100014: Banana_002
+    100016: Cherry_001
+    100018: Orange_001
+    100020: Orange_002
+    100022: Orange_003
+    100024: Apple_002
+    100026: Apple_003
+    100028: Banana_003
+    100030: Cherry_000
+    100032: Static
+    100034: Highlight
+    400000: Banana
+    400002: //RootNode
+    400004: Apple
+    400006: Cherry
+    400008: Orange
+    400010: Apple_001
+    400012: Banana_001
+    400014: Banana_002
+    400016: Cherry_001
+    400018: Orange_001
+    400020: Orange_002
+    400022: Orange_003
+    400024: Apple_002
+    400026: Apple_003
+    400028: Banana_003
+    400030: Cherry_000
+    400032: Static
+    400034: Highlight
+    2300000: Banana
+    2300002: //RootNode
+    2300004: Apple
+    2300006: Cherry
+    2300008: Orange
+    2300010: Apple_001
+    2300012: Banana_001
+    2300014: Banana_002
+    2300016: Cherry_001
+    2300018: Orange_001
+    2300020: Orange_002
+    2300022: Orange_003
+    2300024: Apple_002
+    2300026: Apple_003
+    2300028: Banana_003
+    2300030: Cherry_000
+    2300032: Static
+    2300034: Highlight
+    3300000: Banana
+    3300002: //RootNode
+    3300004: Apple
+    3300006: Cherry
+    3300008: Orange
+    3300010: Apple_001
+    3300012: Banana_001
+    3300014: Banana_002
+    3300016: Cherry_001
+    3300018: Orange_001
+    3300020: Orange_002
+    3300022: Orange_003
+    3300024: Apple_002
+    3300026: Apple_003
+    3300028: Banana_003
+    3300030: Cherry_000
+    3300032: Static
+    3300034: Highlight
+    4300000: Fruits
+    4300002: Banana
+    4300004: Apple
+    4300006: Cherry
+    4300008: Orange
+    4300010: Orange_001
+    4300012: Apple_001
+    4300014: Cherry_001
+    4300016: Banana_002
+    4300018: Banana_001
+    4300020: Orange_003
+    4300022: Orange_002
+    4300024: Apple_002
+    4300026: Apple_003
+    4300028: Banana_003
+    4300030: Cherry_000
+    4300032: Static
+    4300034: Highlight
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

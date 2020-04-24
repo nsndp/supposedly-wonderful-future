@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="(The terminal greets you with a short list of options.)" />
+  	<Line ID="1" Text="Personal profiles" />
+  	<Line ID="2" Text="Incident logs" />
+  	<Line ID="3" Text="Meet-up recordings" />
+  	<Line ID="4" Text="Contact suspects" />
+	<Line ID="5" Text="Exit" />
+	<Line ID="6" Text="(It appears that Shawn has compiled a short description of everyone related to the incident to give you a rough idea what to expect. There are seven entries available.)" />
+	<Line ID="7" Text="Karl" />
+	<Line ID="8" Text="Vivienne" />
+	<Line ID="9" Text="Daniel" />
+	<Line ID="10" Text="Anne" />
+	<Line ID="11" Text="Cloe" />
+	<Line ID="12" Text="Ashley" />
+	<Line ID="13" Text="Boyd" />
+	<Line ID="14" Text="Return to the root directory" />
+	<Line ID="15" Text="(These text blocks have been extracted from different online sources; they should contain the original posts and conversations that started the whole problem. There are four entries available.)" />
+	<Line ID="16" Text="The show’s news feed, July 11, 10:40" />
+	<Line ID="17" Text="The show’s news feed, July 13, 20:15" />
+	<Line ID="18" Text="The show’s news feed, July 13, 20:15 (comment section)" />
+	<Line ID="19" Text="Ashley’s personal blog, July 17, 11:18" />
+	<Line ID="20" Text="Return to the root directory" />
+	<Line ID="21" Text="" TextAlt="(The show’s news feed, July 11, 10:40)" />
+	<Line ID="22" Text="" TextAlt="(The show’s news feed, July 13, 20:15)" />
+	<Line ID="23" Text="" TextAlt="(The show’s news feed, July 13, 20:15, comment section)" />
+	<Line ID="24" Text="" TextAlt="(Ashley’s personal blog, July 17, 11:18)" />
+	<Line ID="25" Text="Page down" />
+	<Line ID="26" Text="Page up" />
+	<Line ID="27" Text="" />
+	<Line ID="28" Text="" />
+	<Line ID="29" Text="" />
+		
+	<Line ID="30" Text="Return" />
+	<Line ID="31" Text="View commenters’ profiles" />
+	<Line ID="32" Text="(You look through the list of everyone who participated in the discussion. Gary Jackson, Barbara Brooks, Tsuya Matsumoto… ordinary people with ordinary names.[clear]Oh well, even this investigation must have parts where all you do is sift through information. There are twenty entries available.)" />
+	<Line ID="33" Text="" />
+	<Line ID="34" Text="A-E" />
+	<Line ID="35" Text="F-J" />
+	<Line ID="36" Text="K-R" />
+	<Line ID="37" Text="S-Z" />
+	<Line ID="38" Text="Back to the comment section" />
+	<Line ID="39" Text="Back" />
+	<Line ID="40" Text="" />
+	<Line ID="41" Text="Abigail Romero" />
+	<Line ID="42" Text="Barbara Brooks" />
+	<Line ID="43" Text="Bellona Lechner" />
+	<Line ID="44" Text="Carol Dunn" />
+	<Line ID="45" Text="Deborah Sullivan" />
+	<Line ID="46" Text="" />
+	<Line ID="47" Text="Gary Jackson" />
+	<Line ID="48" Text="Gong Huangfu" />
+	<Line ID="49" Text="Grigory Borisov" />
+	<Line ID="50" Text="Jamie Logan" />
+	<Line ID="51" Text="Jim Christinsen" />
+	<Line ID="52" Text="" />
+	<Line ID="53" Text="Kao Wei" />
+	<Line ID="54" Text="Kim Phan" />
+	<Line ID="55" Text="Leonidas Paterakis" />
+	<Line ID="56" Text="Ngo Thu Huyen" />
+	<Line ID="57" Text="Nishi Mishra" />
+	<Line ID="58" Text="" />
+	<Line ID="59" Text="Stephanie Taylor" />
+	<Line ID="60" Text="Sung Xiu" />
+	<Line ID="61" Text="Tsuya Matsumoto" />
+	<Line ID="62" Text="Walter Clark" />
+	<Line ID="63" Text="Yewande Awe" />
+	<Line ID="64" Text="" />
+	<Line ID="65" Text="Show recent activity" />
+	<Line ID="66" Text="Hide recent activity" />
+	<Line ID="67" Text="Go to the previous profile" />
+	<Line ID="68" Text="Go to the next profile" />
+	<Line ID="69" Text="Return to the list" />
+	<Line ID="70" Text="View commenters’ profiles" />
+	<Line ID="71" Text="" />
+	
+	<Line ID="74" Text="" />
+	<Line ID="75" Text="(This is the security footage from the local library where Ashley and her team held their latest meet-up on July 10. A lone camera mounted on the ceiling documented everything that’s happened; a useful insight into your suspects’ personalities and their relationships with the victim and each other.[pause] Watching the entire day of records would be a serious time investment, but a list of timestamps displayed nearby suggests you don’t have to – Shawn left you a shortcut to the most important bits.)" />
+	<Line ID="76" Text="Timestamp 1 – 9:17 AM" />
+	<Line ID="77" Text="Timestamp 2 – 11:25 AM" />
+	<Line ID="78" Text="Timestamp 3 – 3:08 PM" />
+	<Line ID="79" Text="Timestamp 4 – 3:30 PM" />
+	<Line ID="80" Text="Timestamp 5 – 4:13 PM" />
+	<Line ID="81" Text="Timestamp 6 – 6:55 PM" />
+	<Line ID="82" Text="(The place reminds you of a classroom, probably because of lined-up desks; each one is fitted with a terminal.[pause] The only person present is Ashley, occupying one of the desks, waving her hands at the screen.[pause] Soon after the video starts, a man walks into the room. A caption appears over his head for a moment, reading “Daniel, suspect C.”[pause] On your own terminal, you see a full transcript of the video displayed nearby.)" />
+	<Line ID="84" Text="(The room is significantly more crowded this time. Ashley is sitting behind the same desk, while the desk nearby is occupied by another woman who looks slightly older.[pause] Daniel is not around, but there’s a different man, leaning against the wall to the left; he’s tall, blond and has a slightly bored expression on his face.[pause] There is an image of another man’s bearded face projected right onto the wall in front; he must be on a video call, participating in the meeting only remotely.)[clear](The wall to the right, however, contains the most peculiar sight of all: a girl is standing there, her arms crossed, her face a wide grin, a long and very realistic-looking sword beside her.[pause] To call her appearance flashy would be an understatement – it is in stark contrast with the regular daily clothing of others.[pause] She wears long brown pants, a strapless top, a red cape with an incredibly high neck and a pair of curiously-shaped sunglasses. The exposed part of her upper body is covered in tattoos, and her light blue hair is short and unruly.)[clear](Perhaps she mistook this meeting for an anime convention, but the others look completely unfazed by her sight.[pause] The captions conveniently allow you to identify all of the new faces: the blonde guy is “Karl, suspect A”; the woman next to Ashley is “Anne, suspect D”; the cosplayer is “Vivienne, suspect B”; and the man on the screen is “Boyd the Director.”)" />
+	<Line ID="90" Text="(The setting is back to what it was like in the morning. Ashley is concentrated on her work.[pause] Daniel is sitting nearby, wearing Ashley’s red headset. Most of his face is covered by the device, but judging by the smile on his lips, the guy is having fun.)" />
+	<Line ID="92" Text="(Despite the recent turn of events, Ashley is at her usual place, still purposefully looking at the screen.[pause] Daniel is nowhere to be found, but Anne joins her soon enough.)" />
+	<Line ID="94" Text="(This time, Ashley is not present, but Karl is. There’s also a new girl sitting on top of the desk nearby; she is incredibly short and has short hair dyed in icy-blue (the caption identifies her as “Cloe, suspect E”).[pause] The girl is gesticulating and looks positively excited. The two must be in the middle of a conversation.)" />
+	<Line ID="96" Text="(The evening sun colors the room in pleasant shades of orange as Ashley continues her editing marathon.[pause] To the left, Cloe and Vivienne are engaged in a conversation, the latter still being dressed in her over-the-top costume. The two blue-haired girls seem to be enjoying each other’s company.)" />
+	<Line ID="98" Text="" TextAlt="(Timestamp 1 – 9:17 AM)" />
+	<Line ID="99" Text="" TextAlt="(Timestamp 2 – 11:25 AM)" />
+	<Line ID="100" Text="" TextAlt="(Timestamp 3 – 3:08 PM)" />
+	<Line ID="101" Text="" TextAlt="(Timestamp 4 – 3:30 PM)" />
+	<Line ID="102" Text="" TextAlt="(Timestamp 5 – 4:13 PM)" />
+	<Line ID="103" Text="" TextAlt="(Timestamp 6 – 6:55 PM)" />
+	<Line ID="104" Text="Return" />
+	<Line ID="105" Text="Return to the root directory" />
+	
+	<Line ID="109" Text="" />
+	<Line ID="110" Text="(Here, you can initiate a video conversation with those who could be responsible for the incident.)" />
+	<Line ID="111" Text="Call suspect A" />
+	<Line ID="112" Text="Call suspect B" />
+	<Line ID="113" Text="Call suspect C" />
+	<Line ID="114" Text="Call suspect D" />
+	<Line ID="115" Text="Call suspect E" />
+	<Line ID="116" Text="Call suspect F" />
+	<Line ID="120" Text="Establishing connection...[pause] success.[clear](The call is answered by a tall man wearing pajamas and holding an open book in his hand. He is visibly irritated.)" />
+	<Line ID="121" Text="Establishing connection...[pause] success.[clear](The call takes probably a full minute to connect – whoever is on the other side, they sure took their sweet time.[pause] When the feed from camera finally kicks in, you see that someone turned their living room into a middle school science fair: tubes, wooden contraptions and interactive models of every kind are filling the place.[clear]In front, a young woman is standing and looking at you, most of her features obscured by her weird appearance.[pause] She wears an old discolored lab coat, a shirt unbuttoned at the top, and a pair of massive opaque goggles. Her hair is unruly and dyed grey.[pause] The ridiculous outfit feels tantalizingly familiar… but then the woman opens her mouth, and everything falls into place.)" />
+	<Line ID="122" Text="Establishing connection...[pause] success.[clear](You see a man standing in the middle of a bedroom. He looks a bit confused.)" />
+	<Line ID="123" Text="Establishing connection...[pause] success.[clear](You see a woman sitting behind a desk in a bright living room. She looks tired, but puts on a smile and speaks in a polite voice.)" />
+	<Line ID="124" Text="Establishing connection...[pause] success.[clear](There is no video signal, but you can hear a voice responding.)" />
+	<Line ID="125" Text="Establishing connection...[pause] success.[clear](There is no video signal, but you can hear a voice responding.)" />
+	<Line ID="126" Text="Return to the root directory" />
+	<Line ID="127" Text="(You wait for quite a while, but there is no answer.)" />
+	<Line ID="128" Text="Return" />
+	<Line ID="129" Text="(Here, you can initiate a video conversation with any of the suspects. Right now, however, you are interested in one particular person.)" />
+	<Line ID="130" Text="(Here, you can initiate a video conversation with any of the suspects, but there is not much point in doing it now.)" />
+	<Line ID="131" Text="(Here, you can initiate a video conversation with those who could be responsible for the incident. However, it might be better to hold off the questioning until you learn more about the suspects from Shawn.)" />
+  </List>
+</Text>

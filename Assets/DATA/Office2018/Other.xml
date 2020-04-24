@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="You have three new messages." />
+  	<Line ID="1" Text="You have two new messages." />
+	<Line ID="2" Text="You have one new message." />
+	<Line ID="3" Text="Play the message from today, 09:54 AM" />
+  	<Line ID="4" Text="Play the message from today, 10:05 AM" />
+	<Line ID="5" Text="Play the message from today, 10:47 AM" />
+	<Line ID="6" Text="Leave" />
+	<Line ID="7" Text="Hi, Mike, this is Andy from GenT.[pause] I checked things with the higher-ups yesterday – unfortunately, IE 7 support is a must.[pause] And yes, I’m going to say it out loud so you don’t have to: we are the dinosaurs. Our OS is hopelessly outdated, and we can’t even install applications without triggering a bureaucratic nightmare.[clear]I was hoping until the very end that our case might warrant an exception – it’s a visualization system, for heaven’s sake – but they said no, and there is nothing I can do about it.[pause] Hopefully, this will change as our cooperation bears fruit, but for now I am sorry to drop more work on you so close to launch. Let me know how it goes in a couple of days, okay?" />
+	<Line ID="8" Text="Michael, this is Mitch.[pause] I think we need to make some design changes to the customer feedback form… the fields are a bit too wide, and the font just doesn’t feel right.[pause] Also, would it be possible to change how calculation results are displayed? Specifically, I’d like all extra chunks to appear on the same page rather than in pop-ups.[pause] I know there's not enough space, but maybe restructure it a bit. Please let me know ASAP." />
+	<Line ID="9" Text="Hey dude. So I spent last night talking with the XPRT guys, and it looks quite promising.[pause] They don’t have any deadlines in mind yet, and definitely worry more about quality than speed – which is just the way you like it.[pause] I’ve e-mailed you the details. Might be hard to juggle both this and GenT, but hey, too much work is better than no work at all.[clear]Don’t worry about my part – I’m gonna code till I drop. Speaking of parts, can you give me a raise?[pause] Yeah, I know, we manage our own raises. Just trying to give you a proper boss experience in preparation for our inevitable world-conquering expansion.[pause] Okay, I’m gonna shut up now. Sam out." />
+  </List>
+</Text>

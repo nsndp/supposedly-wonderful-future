@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <List>
+  	<Line ID="0" Text="Have you ever imagined… a day like this would come?" />
+  	<Line ID="1" Text="You know, I probably have. I tend to wonder about all kinds of crazy stuff." />
+	<Line ID="2" Text="The power of imagination, eh? Too bad I can’t feel these things anymore… I’m just a sad and tired old man. A lonely failure at the top of the world." />
+	<Line ID="3" Text="Is there anything I can do to make you reconsider?" />
+  	<Line ID="4" Text="No. Let’s finish this." />
+  </List>
+</Text>
