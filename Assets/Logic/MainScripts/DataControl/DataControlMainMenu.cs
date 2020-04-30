@@ -23,7 +23,8 @@ public class DataControlMainMenu : DataControl {
 	};
 
 	void Start() {
-		COMMON.LoadUserSettings();
+		var isNew = COMMON.LoadUserSettings();
+		if (isNew && SteamManager.Initialized && Steamworks.SteamApps.GetCurrentGameLanguage() == "russian") COMMON.U.languageID = 1; //for first launch on russian Steam set language to Russian
 
 		MC = GameObject.Find("Interface").transform.Find("Menu").GetComponent<MenuControl>();
 		UIC = GameObject.Find("Interface").transform.Find("UI").GetComponent<UIControl>();

@@ -50,18 +50,20 @@ public static class COMMON { //common data
 	public static bool demoVersion = false;
 	public static int trailerRecordMode = -1;
 
-	public static void LoadUserSettings() {
+	public static bool LoadUserSettings() {
 		string pth = saveFolder + "UserSettings.bin";
 		if (!File.Exists(pth)) {
 			U = new UserSettings(); U.Save(pth);
 			Debug.Log("NO USER SETTINGS FOUND: default file is generated."); //this should only happen in MainMenu
-		} else {
-			U = UserSettings.Load(pth);
-			if (U == null) {
-				U = new UserSettings(); U.Save(pth);
-				Debug.Log("PROBLEM LOADING USER SETTINGS: default file is generated.");
-			}
+			return true;
 		}
+		U = UserSettings.Load(pth);
+		if (U == null) {
+			U = new UserSettings(); U.Save(pth);
+			Debug.Log("PROBLEM LOADING USER SETTINGS: default file is generated.");
+			return true;
+		}
+		return false;
 	}
 }
 
