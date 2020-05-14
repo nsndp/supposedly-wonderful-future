@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 //using Facepunch.Steamworks;
 using Steamworks;
 
@@ -19,14 +20,22 @@ public class SteamControl : MonoBehaviour {
 	int a = 0;
 
 	void Update() {
-		if (Input.GetKeyDown(KeyCode.LeftShift)) a = 0;
+		//achievement reset tests - one with less keys + notification, one with more keys + silent
+		/*if (Input.GetKeyDown(KeyCode.R) && Input.GetKeyDown(KeyCode.T)) {
+			var qs = GameObject.Find("Interface").transform.Find("UI/Quicksave").GetComponent<Image>();
+			var tt = qs.transform.Find("Text").GetComponent<Text>();
+			qs.gameObject.SetActive(true); var c = qs.color; c.a = 1; qs.color = c;
+			tt.text = "ACH RESET"; c = tt.color; c.a = 1; tt.color = c;
+			ResetAchievements();
+		}*/
+		/*if (Input.GetKeyDown(KeyCode.LeftShift)) a = 0;
 		if (Input.GetKey(KeyCode.LeftShift)) {
 			if (Input.GetKeyDown(KeyCode.R) && a == 0) a = 1;
 			else if (Input.GetKeyDown(KeyCode.E) && a == 1) a = 2;
 			else if (Input.GetKeyDown(KeyCode.S) && a == 2) a = 3;
 			else if (Input.GetKeyDown(KeyCode.E) && a == 3) a = 4;
 			else if (Input.GetKeyDown(KeyCode.T) && a == 4) { ResetAchievements(); a = 0; }
-		}
+		}*/
 	}
 
 	private void ResetAchievements() {
