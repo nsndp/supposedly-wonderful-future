@@ -48,7 +48,7 @@
 		<Phrase Type="1" Path="SaveLoad.chapterSTR.0" Text="Пролог" />
 		<Phrase Type="1" Path="SaveLoad.chapterSTR.1" Text="Глава [X]" />
 		<Phrase Type="1" Path="SaveLoad.locationSTR.0" Text="Офис 2018" />
-		<Phrase Type="1" Path="SaveLoad.locationSTR.1" Text="Слабо освещённый дом" />
+		<Phrase Type="1" Path="SaveLoad.locationSTR.1" Text="Слабо освещенный дом" />
 		<Phrase Type="1" Path="SaveLoad.locationSTR.2" Text="Квартира Эшли" />
 		<Phrase Type="1" Path="SaveLoad.locationSTR.3" Text="Подземные лаборатории" />
 		<Phrase Type="1" Path="SaveLoad.locationSTR.4" Text="Уголок воспоминаний" />
@@ -120,7 +120,7 @@
 		<Phrase Type="1" Path="UIControl.TitleSTR1.4" Text="ГЛАВА 4" />
 		<Phrase Type="1" Path="UIControl.TitleSTR1.5" Text="ГЛАВА 5" />
 		<Phrase Type="1" Path="UIControl.TitleSTR2.0" Text="Маловероятный посетитель" />
-		<Phrase Type="1" Path="UIControl.TitleSTR2.1" Text="Слабо освещённый дом" />
+		<Phrase Type="1" Path="UIControl.TitleSTR2.1" Text="Слабо освещенный дом" />
 		<Phrase Type="1" Path="UIControl.TitleSTR2.2" Text="ПпРК" />
 		<Phrase Type="1" Path="UIControl.TitleSTR2.3" Text="Эксперимент в лифте" />
 		<Phrase Type="1" Path="UIControl.TitleSTR2.4" Text="1440 минут" />

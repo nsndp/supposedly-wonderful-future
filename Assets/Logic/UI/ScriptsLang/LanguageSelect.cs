@@ -7,7 +7,6 @@ using UnityEngine.EventSystems;
 public class LanguageSelect : MonoBehaviour {
 
 	Text EN, RU; MenuControl MC;
-	int langActivator = 0;
 
 	void Init() {
 		MC = transform.parent.parent.GetComponent<MenuControl>();
@@ -64,6 +63,7 @@ public class LanguageSelect : MonoBehaviour {
 		}
 	}
 
+	//int langActivator = 0;
 	void Update() {
 		//language switch testing
 		/*if (Input.GetKey(KeyCode.LeftShift)) {

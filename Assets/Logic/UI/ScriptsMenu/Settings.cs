@@ -343,7 +343,8 @@ public class Settings : MonoBehaviour {
 	}
 	public void OnResetConfirm(BaseEventData d) {
 		MC.PlaySFX(uisounds.delete);
-		COMMON.U = new UserSettings(); UpdateShownValues(); COMMON.U.Save(pth);
+		var lang = COMMON.U.languageID; COMMON.U = new UserSettings(); COMMON.U.languageID = lang;
+		UpdateShownValues(); COMMON.U.Save(pth);
 		DC.MC.changedUI = !isMM;
 		MC.SFX.volume = volS;
 		if (DC.BGM != null) DC.BGM.volume = volM;

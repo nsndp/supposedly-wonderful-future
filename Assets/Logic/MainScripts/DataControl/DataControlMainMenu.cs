@@ -24,7 +24,7 @@ public class DataControlMainMenu : DataControl {
 
 	void Start() {
 		var isNew = COMMON.LoadUserSettings();
-		if (isNew && SteamManager.Initialized && Steamworks.SteamApps.GetCurrentGameLanguage() == "russian") COMMON.U.languageID = 1; //for first launch on russian Steam set language to Russian
+		if (isNew && SteamManager.Initialized && Steamworks.SteamUtils.GetSteamUILanguage() == "russian") COMMON.U.languageID = 1; //for first launch on russian Steam set language to Russian
 
 		MC = GameObject.Find("Interface").transform.Find("Menu").GetComponent<MenuControl>();
 		UIC = GameObject.Find("Interface").transform.Find("UI").GetComponent<UIControl>();
@@ -83,7 +83,7 @@ public class DataControlMainMenu : DataControl {
 		var fl = System.IO.Directory.GetFiles(COMMON.dataFolder, "*.xml", System.IO.SearchOption.AllDirectories);
 		var ss = new string[fl.Length];
 		for (int k = 0; k < fl.Length; k++) {
-			ss[k] = fl[k]; TXT F; try { F = TXT.Load(fl[k]); } catch (System.Exception e) { continue; } if (F.Lines == null) continue;
+			ss[k] = fl[k]; TXT F; try { F = TXT.Load(fl[k]); } catch { continue; } if (F.Lines == null) continue;
 			int m1 = 0, m2 = 0, i1 = 0, i2 = 0; int? j1 = null, j2 = null;
 			for (int i = 0; i < F.Lines.Length; i++) {
 				var s = F.Lines[i].Text.Replace("[pause]", "").Split(new string[] {"[clear]"}, System.StringSplitOptions.None);

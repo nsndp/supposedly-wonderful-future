@@ -61,7 +61,7 @@ public class DataControlHub : DataControl {
 		dataFolder = COMMON.dataFolder + "LifePlusHQ/";
 
 		if (COMMON.saveToLoad == null) { //TEST
-			Debug.Log("TEST MODE"); var o = new GameObject("Steam", typeof(SteamControl)); S = new SaveGame();
+			//Debug.Log("TEST MODE"); var o = new GameObject("Steam", typeof(SteamControl)); S = new SaveGame();
 			S.levelID = 11; S.SC1 = new SaveChapter1(); S.SC1.chosePretense = true; S.SP = new SavePrologue();
 			//S.levelID = 12; S.SC2 = new SaveChapter2(); S.SC2.realCulpritArrested = true; S.SC2.prisonsTalkKettley = true;
 			//S.levelID = 13; S.SC3 = new SaveChapter3(); S.SC2 = new SaveChapter2(); S.SC2.realCulpritArrested = true;

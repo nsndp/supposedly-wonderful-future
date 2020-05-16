@@ -17,7 +17,7 @@ public class SteamControl : MonoBehaviour {
 		catch (Exception e) { Debug.Log(e.Message); }
 	}
 
-	int a = 0;
+	//int a = 0;
 
 	void Update() {
 		//achievement reset tests - one with less keys + notification, one with more keys + silent
